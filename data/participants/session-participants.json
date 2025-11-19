@@ -1,0 +1,451 @@
+{
+  "session-1-opening": [
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "gorm-vold",
+      "role": "attendee",
+      "status": "confirmed",
+      "presence": "hybrid",
+      "timeSlot": "09:30"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "eva-j-rgensen",
+      "role": "attendee",
+      "status": "confirmed",
+      "presence": "hybrid",
+      "timeSlot": "09:30"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "einar-kleppe-holthe",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "09:22"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "marthe-haugland",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "09:40"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "peter-munch-madsen",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "09:40"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "alisa-mick",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "09:43"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "frederik-thrane",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "09:43"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "michel-bajuk",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "09:43"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "keira-dignan",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "09:43"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "cathrine-barth",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "09:43"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "karin-pedersen-thorsen",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "09:43"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "einar-kleppe-holthe",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "10:11"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "agita-baltb-rde",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "10:11"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "einar-kleppe-holthe",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "10:10"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "cathrine-barth",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "10:20"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "eva-j-rgensen",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "10:20"
+    },
+    {
+      "sessionId": "session-1-opening",
+      "participantId": "einar-kleppe-holthe",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "10:19"
+    }
+  ],
+  "session-2-ocean": [
+    {
+      "sessionId": "session-2-ocean",
+      "participantId": "cathrine-barth",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "10:45"
+    },
+    {
+      "sessionId": "session-2-ocean",
+      "participantId": "alexandre-leeper",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "digital",
+      "timeSlot": "10:50"
+    },
+    {
+      "sessionId": "session-2-ocean",
+      "participantId": "cathrine-barth",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "10:55"
+    },
+    {
+      "sessionId": "session-2-ocean",
+      "participantId": "kristian-ottesen",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "10:56"
+    },
+    {
+      "sessionId": "session-2-ocean",
+      "participantId": "cathrine-barth",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "11:10"
+    },
+    {
+      "sessionId": "session-2-ocean",
+      "participantId": "michaela-lindstr-m",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "11:11"
+    },
+    {
+      "sessionId": "session-2-ocean",
+      "participantId": "cathrine-barth",
+      "role": "attendee",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "11:18"
+    },
+    {
+      "sessionId": "session-2-ocean",
+      "participantId": "linn-indrestrand",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "11:19"
+    },
+    {
+      "sessionId": "session-2-ocean",
+      "participantId": "monica-paulsen",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "11:19"
+    },
+    {
+      "sessionId": "session-2-ocean",
+      "participantId": "kristian-ottesen",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "11:19"
+    },
+    {
+      "sessionId": "session-2-ocean",
+      "participantId": "cathrine-barth",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "11:40"
+    },
+    {
+      "sessionId": "session-2-ocean",
+      "participantId": "alexandra-leeper",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "11:40"
+    }
+  ],
+  "session-3-locally-rooted": [
+    {
+      "sessionId": "session-3-locally-rooted",
+      "participantId": "bjartur-nols-e",
+      "role": "attendee",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": null
+    },
+    {
+      "sessionId": "session-3-locally-rooted",
+      "participantId": "anne-nivika-gr-dem",
+      "role": "attendee",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": null
+    },
+    {
+      "sessionId": "session-3-locally-rooted",
+      "participantId": "alisa-mick",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "12:45"
+    },
+    {
+      "sessionId": "session-3-locally-rooted",
+      "participantId": "keira-dignan",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "12:45"
+    },
+    {
+      "sessionId": "session-3-locally-rooted",
+      "participantId": "mika-sulkinoja",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "digital",
+      "timeSlot": "12:49"
+    },
+    {
+      "sessionId": "session-3-locally-rooted",
+      "participantId": "alisa-mick",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "12:56"
+    },
+    {
+      "sessionId": "session-3-locally-rooted",
+      "participantId": "anders-ladefoged",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "12:58"
+    },
+    {
+      "sessionId": "session-3-locally-rooted",
+      "participantId": "patrick-schr-der",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "12:58"
+    },
+    {
+      "sessionId": "session-3-locally-rooted",
+      "participantId": "luca-de-lorenzo",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "12:58"
+    },
+    {
+      "sessionId": "session-3-locally-rooted",
+      "participantId": "cathrine-barth",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "13:22"
+    }
+  ],
+  "session-4-arctic": [
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "frederik-thrane",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "14:40"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "lise-lotte-terp",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "14:40"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "kerli-kant",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "14:40"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "lise-lotte-terp",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "13:45"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "frederik-thrane",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "13:45"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "mia-chemnitz",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "13:50"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "kristian-ottesen",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "13:50"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "gisle-mariani-madal",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "14:17"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "tilda-larsson",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "14:17"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "ludvig-svensson",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "14:17"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "mia-chemnitz",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "14:17"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "kristian-ottesen",
+      "role": "speaker",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "14:17"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "frederik-thrane",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "14:15"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "lise-lotte-terp",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "14:15"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "frederik-thrane",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "14:35"
+    },
+    {
+      "sessionId": "session-4-arctic",
+      "participantId": "lise-lotte-terp",
+      "role": "moderator",
+      "status": "confirmed",
+      "presence": "nuuk",
+      "timeSlot": "14:35"
+    }
+  ],
+  "session-5-regions": []
+}

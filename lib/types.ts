@@ -156,3 +156,71 @@ export interface Highlight {
   timestamp: string;
   topics: string[];
 }
+
+// Extended data model for network enrichment
+
+export interface ParticipationRecord {
+  year: number;
+  role?: string;
+  organization: string;
+  sessions?: string[]; // session IDs
+  title?: string;
+}
+
+export interface SessionRole {
+  sessionId: string;
+  role: 'speaker' | 'moderator' | 'panelist' | 'attendee';
+  status: 'confirmed' | 'declined' | 'pending' | 'in_contact';
+  presence: 'nuuk' | 'digital' | 'hybrid';
+  timeSlot?: string;
+  presentationDelivered?: boolean;
+  segment?: string; // e.g., "Arctic & Greenlandic Perspectives"
+}
+
+export interface Participant {
+  id: string;
+  name: string;
+  title: string;
+  organization: string;
+  country: string;
+  email?: string;
+  phone?: string;
+  linkedin?: string;
+  bio?: string;
+  photo?: string;
+  logo?: string;
+  gender?: 'Male' | 'Female' | 'Other';
+  segment?: string; // government, corporate, academic, etc.
+  participationHistory: ParticipationRecord[];
+  sessionRoles: SessionRole[];
+  bioDelivered?: boolean;
+  photoDelivered?: boolean;
+  logoDelivered?: boolean;
+  // Additional fields from historical data
+  twitter?: string;
+  website?: string;
+}
+
+export interface NetworkContact {
+  id: string;
+  name: string;
+  organization: string;
+  title?: string;
+  email?: string;
+  phone?: string;
+  linkedin?: string;
+  country?: string;
+  segment?: string;
+  yearsParticipated: number[]; // e.g., [2020, 2021, 2023]
+  notes?: string;
+}
+
+export interface SessionParticipant {
+  sessionId: string;
+  participantId: string;
+  role: 'speaker' | 'moderator' | 'panelist' | 'attendee';
+  status: 'confirmed' | 'declined' | 'pending' | 'in_contact';
+  presence: 'nuuk' | 'digital' | 'hybrid';
+  timeSlot?: string;
+  presentationDelivered?: boolean;
+}

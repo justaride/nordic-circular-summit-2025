@@ -1,0 +1,6192 @@
+[
+  {
+    "id": "a-alhei-ur-jacobsen",
+    "name": "Aðalheiður Jacobsen",
+    "title": "CEO",
+    "organization": "Netpartar",
+    "country": "",
+    "email": "avj@netpartar.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Netpartar",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "adelina-laura-burlacu",
+    "name": "Adelina Laura Burlacu",
+    "title": "Circulent team member",
+    "organization": "ReGeneration 2030",
+    "country": "",
+    "email": "burlacuadelina98@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "ReGeneration 2030",
+        "title": "Circulent team member"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "agnieszka-hunka",
+    "name": "Agnieszka Hunka",
+    "title": "Senior Researcher",
+    "organization": "RISE Research Institutes of Sweden",
+    "country": "",
+    "email": "agnieszka.hunka@ri.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "RISE Research Institutes of Sweden",
+        "title": "Senior Researcher"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "agnieszka-szyk",
+    "name": "Agnieszka Szyk",
+    "title": "Founder/CEO INNOWO",
+    "organization": "Poland Circular Hotspot",
+    "country": "",
+    "email": "a.sznyk@innowo.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Poland Circular Hotspot",
+        "title": "Founder/CEO INNOWO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "alan-young",
+    "name": "Alan Young",
+    "title": "N/A",
+    "organization": "Materials Efficiency Research Group - MERG",
+    "country": "",
+    "email": "alanyoung@merg.ca",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Materials Efficiency Research Group - MERG",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "alexander-haneng",
+    "name": "Alexander Haneng",
+    "title": "Director of Innovation and Sustainability / N/A",
+    "organization": "NHO / Posten Bring",
+    "country": "",
+    "email": "aha@nhosh.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "NHO / Posten Bring",
+        "title": "Director of Innovation and Sustainability / N/A"
+      },
+      {
+        "year": 2023,
+        "organization": "NHO / Posten Bring",
+        "title": "Director of Innovation and Sustainability / N/A"
+      },
+      {
+        "year": 2024,
+        "organization": "NHO / Posten Bring",
+        "title": "Director of Innovation and Sustainability / N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "alexandra-davidsson",
+    "name": "Alexandra Davidsson",
+    "title": "Secretary General",
+    "organization": "The Swedish Association for Responsible Consumption",
+    "country": "",
+    "email": "alexandra.davidsson@medvetenkonsumtion.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "The Swedish Association for Responsible Consumption",
+        "title": "Secretary General"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "alisa-mick",
+    "name": "Alisa Mick",
+    "title": "Co Founder",
+    "organization": "Mixi / NCH",
+    "country": "",
+    "email": "alisa@mixicenter.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Mixi / NCH",
+        "title": "Co Founder"
+      },
+      {
+        "year": 2024,
+        "organization": "Mixi / NCH",
+        "title": "Co Founder"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-1-opening",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "09:43",
+        "segment": "Nordic Arctic Panel – Circular Innovation Across Borders"
+      },
+      {
+        "sessionId": "session-3-locally-rooted",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "12:45",
+        "segment": "INTRODUCTION"
+      },
+      {
+        "sessionId": "session-3-locally-rooted",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "12:56",
+        "segment": "INTRODUCTION"
+      }
+    ],
+    "segment": null
+  },
+  {
+    "id": "amanda-cawood",
+    "name": "Amanda Cawood",
+    "title": "N/A",
+    "organization": "Accus",
+    "country": "",
+    "email": "amanda@accus.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Accus",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "amir-rashid",
+    "name": "Amir Rashid",
+    "title": "Coordinator of Circular Economy Initiative",
+    "organization": "KTH",
+    "country": "",
+    "email": "amirr@kth.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "KTH",
+        "title": "Coordinator of Circular Economy Initiative"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "amit-paul",
+    "name": "Amit Paul",
+    "title": "N/A",
+    "organization": "N/A",
+    "country": "",
+    "email": "hello@amitpaul.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "N/A",
+        "title": "N/A"
+      },
+      {
+        "year": 2024,
+        "organization": "N/A",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anders-braarud-hanssen",
+    "name": "Anders Braarud Hanssen",
+    "title": "N/A",
+    "organization": "OsloMet",
+    "country": "",
+    "email": "anbh@oslomet.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "OsloMet",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anders-breitholtz",
+    "name": "Anders Breitholtz",
+    "title": "CEO & Co-Founder",
+    "organization": "Papershell",
+    "country": "",
+    "email": "anders@papershell.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Papershell",
+        "title": "CEO & Co-Founder"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anders-fylling",
+    "name": "Anders Fylling",
+    "title": "direktør faglig ressurssenter",
+    "organization": "Statsbygg",
+    "country": "",
+    "email": "Anders.Fylling@statsbygg.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Statsbygg",
+        "title": "direktør faglig ressurssenter"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anders-waage-nilsen",
+    "name": "Anders Waage Nilsen",
+    "title": "The Expert",
+    "organization": "Waste IQ",
+    "country": "",
+    "email": "waagenilsen@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Waste IQ",
+        "title": "The Expert"
+      },
+      {
+        "year": 2024,
+        "organization": "Waste IQ",
+        "title": "The Expert"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "andr-k-svek",
+    "name": "André Küüsvek",
+    "title": "President",
+    "organization": "Nordic Investment Bank",
+    "country": "",
+    "email": "andre.kuusvek@nib.int",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Nordic Investment Bank",
+        "title": "President"
+      },
+      {
+        "year": 2024,
+        "organization": "Nordic Investment Bank",
+        "title": "President"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "andrea-liverani",
+    "name": "Andrea Liverani",
+    "title": "N/A",
+    "organization": "World Bank",
+    "country": "",
+    "email": "aliverani@worldbank.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "World Bank",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anke-obender",
+    "name": "Anke Obender",
+    "title": "Project Manager",
+    "organization": "InnoBYG",
+    "country": "",
+    "email": "aob@teknologisk.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "InnoBYG",
+        "title": "Project Manager"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anna-de-matos",
+    "name": "Anna de Matos",
+    "title": "CEO and Founder at Circular Library Network",
+    "organization": "Circular Library",
+    "country": "",
+    "email": "anna@munasafn.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Circular Library",
+        "title": "CEO and Founder at Circular Library Network"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anna-forsberg",
+    "name": "Anna Forsberg",
+    "title": "VD",
+    "organization": "Loopfront",
+    "country": "",
+    "email": "name@thecircularcompany.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Loopfront",
+        "title": "VD"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anna-sundell",
+    "name": "Anna Sundell",
+    "title": "N/A",
+    "organization": "Stena Metall",
+    "country": "",
+    "email": "Anna.Sundell@stenametall.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Stena Metall",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anna-tenhunen-lunkka",
+    "name": "Anna tenhunen-Lunkka",
+    "title": "Head of Circular Economy @CLIC",
+    "organization": "CLIC Innovation",
+    "country": "",
+    "email": "anna.tenhunen-lunkka@clicinnovation.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "CLIC Innovation",
+        "title": "Head of Circular Economy @CLIC"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anna-t-ndevold",
+    "name": "Anna Töndevold",
+    "title": "N/A",
+    "organization": "Accenture",
+    "country": "",
+    "email": "anna.b.tondevold@accenture.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Accenture",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anna-leena-asikainen",
+    "name": "Anna-Leena Asikainen",
+    "title": "Economist",
+    "organization": "European Investment Bank",
+    "country": "",
+    "email": "a.asikainen@eib.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "European Investment Bank",
+        "title": "Economist"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anne-mieke-van-der-werf",
+    "name": "Anne Mieke van der Werf",
+    "title": "Directeur Business Development",
+    "organization": "Invest-NL",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Invest-NL",
+        "title": "Directeur Business Development"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anne-raudaskoski",
+    "name": "Anne Raudaskoski",
+    "title": "N/A",
+    "organization": "Ethica / Nordic Circular Hotspot",
+    "country": "",
+    "email": "anne.raudaskoski@ethica.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Ethica / Nordic Circular Hotspot",
+        "title": "N/A"
+      },
+      {
+        "year": 2023,
+        "organization": "Ethica / Nordic Circular Hotspot",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "anne-grethe-henriksen",
+    "name": "Anne-Grethe Henriksen",
+    "title": "Head of Marketing and Communication",
+    "organization": "Nordic Swan Ecolabel",
+    "country": "",
+    "email": "agh@svanemerket.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Nordic Swan Ecolabel",
+        "title": "Head of Marketing and Communication"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "annerieke-douma",
+    "name": "Annerieke Douma",
+    "title": "Director Programme Development",
+    "organization": "Circle Economy /DEAL",
+    "country": "",
+    "email": "annerieke@circle-economy.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Circle Economy /DEAL",
+        "title": "Director Programme Development"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "antonio-biason",
+    "name": "Antonio Biason",
+    "title": "Legal and Policy Officer",
+    "organization": "European Commission, EU",
+    "country": "",
+    "email": "Antonio.BIASON@ec.europa.eu",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "European Commission, EU",
+        "title": "Legal and Policy Officer"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "antony-beckmand",
+    "name": "Antony Beckmand",
+    "title": "N/A",
+    "organization": "Kuniko Norway",
+    "country": "",
+    "email": "abe@kuniko.eu",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Kuniko Norway",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "arnt-otnes",
+    "name": "Arnt Otnes",
+    "title": "General Manager",
+    "organization": "Sifa",
+    "country": "",
+    "email": "arnt.otnes@sifa.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Sifa",
+        "title": "General Manager"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "sa-lindhagen",
+    "name": "Åsa Lindhagen",
+    "title": "Vice mayor for Climate and environment of Stockholm",
+    "organization": "Stockholm City",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Stockholm City",
+        "title": "Vice mayor for Climate and environment of Stockholm"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "slaug-arna-sigurbj-rnsd-ttir",
+    "name": "Áslaug Arna Sigurbjörnsdóttir",
+    "title": "Iceland Minister of Higher educuation, Science and Innovation",
+    "organization": "Minister - government",
+    "country": "",
+    "email": "aslaug.h.jonsdottir@hvin.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Minister - government",
+        "title": "Iceland Minister of Higher educuation, Science and Innovation"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "asta-sollilja-gudmundsdottir",
+    "name": "Asta Sollilja Gudmundsdottir",
+    "title": "CEO",
+    "organization": "KLAK - Icelandic Startups",
+    "country": "",
+    "email": "asta@klak.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "KLAK - Icelandic Startups",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "bert-ola-bergstr-m",
+    "name": "Bert Ola Bergstrøm",
+    "title": "N/A",
+    "organization": "N/A",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "N/A",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "bertrand-camus",
+    "name": "Bertrand Camus",
+    "title": "Partner at Summa Equity",
+    "organization": "Summa Equity",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Summa Equity",
+        "title": "Partner at Summa Equity"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "betina-simonsen",
+    "name": "Betina Simonsen",
+    "title": "CEO",
+    "organization": "Lifestyle & Design Cluster",
+    "country": "",
+    "email": "betina@ldcluster.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Lifestyle & Design Cluster",
+        "title": "CEO"
+      },
+      {
+        "year": 2023,
+        "organization": "Lifestyle & Design Cluster",
+        "title": "CEO"
+      },
+      {
+        "year": 2024,
+        "organization": "Lifestyle & Design Cluster",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "bettina-schwalm",
+    "name": "Bettina Schwalm",
+    "title": "Partner & Director for Future Thinking and Foresight",
+    "organization": "Next Agents",
+    "country": "",
+    "email": "bettina.schwalm@nextagents.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Next Agents",
+        "title": "Partner & Director for Future Thinking and Foresight"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "birgit-liodden",
+    "name": "Birgit Liodden",
+    "title": "CEO/Founder",
+    "organization": "TOOL",
+    "country": "",
+    "email": "mail@theoceanopportunitylab.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "TOOL",
+        "title": "CEO/Founder"
+      },
+      {
+        "year": 2021,
+        "organization": "TOOL",
+        "title": "CEO/Founder"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "bjarney-har-ard-ttir",
+    "name": "Bjarney Harðardóttir",
+    "title": "CEO",
+    "organization": "66° North",
+    "country": "",
+    "email": "kristin@66north.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "66° North",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "bjarni-herrera",
+    "name": "Bjarni Herrera",
+    "title": "Head of Sustainability KPMG / COO",
+    "organization": "KPMG / Cicero Shades of Green",
+    "country": "",
+    "email": "bjarniherrera@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "KPMG / Cicero Shades of Green",
+        "title": "Head of Sustainability KPMG / COO"
+      },
+      {
+        "year": 2022,
+        "organization": "KPMG / Cicero Shades of Green",
+        "title": "Head of Sustainability KPMG / COO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "bj-rn-bauer",
+    "name": "Bjørn Bauer",
+    "title": "Director",
+    "organization": "NORION",
+    "country": "",
+    "email": "bb@planmiljoe.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "NORION",
+        "title": "Director"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "bj-rn-spak",
+    "name": "Björn Spak",
+    "title": "N/A",
+    "organization": "Naturvardsverket",
+    "country": "",
+    "email": "Bjorn.Spak@naturvardsverket.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Naturvardsverket",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "b-rge-brende",
+    "name": "Børge Brende",
+    "title": "President",
+    "organization": "World Economic Forum",
+    "country": "",
+    "email": "forum.studio5@weforum.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "World Economic Forum",
+        "title": "President"
+      },
+      {
+        "year": 2024,
+        "organization": "World Economic Forum",
+        "title": "President"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "b-rkur-s-kristinsson",
+    "name": "Börkur S. Kristinsson",
+    "title": "Chief Technology Officer",
+    "organization": "Pure North Recycling",
+    "country": "",
+    "email": "borkur@purenorth.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Pure North Recycling",
+        "title": "Chief Technology Officer"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "brendan-edgerton",
+    "name": "Brendan Edgerton",
+    "title": "Director, Circular Economy",
+    "organization": "World Business Council of Sustainable Development (WBCSD)",
+    "country": "",
+    "email": "Edgerton@wbcsd.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "World Business Council of Sustainable Development (WBCSD)",
+        "title": "Director, Circular Economy"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "camilla-v-limaa",
+    "name": "Camilla Välimaa",
+    "title": "Manager Corporate Partnerships",
+    "organization": "WWF Sweden",
+    "country": "",
+    "email": "Camilla.Valimaa@wwf.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "WWF Sweden",
+        "title": "Manager Corporate Partnerships"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "carl-nesset",
+    "name": "Carl Nesset",
+    "title": "COO",
+    "organization": "Empower",
+    "country": "",
+    "email": "carl@empower.eco",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Empower",
+        "title": "COO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "carol-anne-hilton",
+    "name": "Carol Anne Hilton",
+    "title": "CEO",
+    "organization": "Indigenomics Institute",
+    "country": "",
+    "email": "cawaaknis@me.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Indigenomics Institute",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "cathrine-barth",
+    "name": "Cathrine Barth",
+    "title": "Managing Partner",
+    "organization": "Nordic Circular Hotspot / Natural State",
+    "country": "",
+    "email": "cathrine@naturalstate.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Nordic Circular Hotspot / Natural State",
+        "title": "Managing Partner"
+      },
+      {
+        "year": 2021,
+        "organization": "Nordic Circular Hotspot / Natural State",
+        "title": "Managing Partner"
+      },
+      {
+        "year": 2022,
+        "organization": "Nordic Circular Hotspot / Natural State",
+        "title": "Managing Partner"
+      },
+      {
+        "year": 2023,
+        "organization": "Nordic Circular Hotspot / Natural State",
+        "title": "Managing Partner"
+      },
+      {
+        "year": 2024,
+        "organization": "Nordic Circular Hotspot / Natural State",
+        "title": "Managing Partner"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-1-opening",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "09:43",
+        "segment": "Nordic Arctic Panel – Circular Innovation Across Borders"
+      },
+      {
+        "sessionId": "session-1-opening",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "10:20",
+        "segment": "Presenting the programme & Reflect"
+      },
+      {
+        "sessionId": "session-2-ocean",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "10:45",
+        "segment": "INTRODUCTION"
+      },
+      {
+        "sessionId": "session-2-ocean",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "10:55",
+        "segment": "INTRODUCTION"
+      },
+      {
+        "sessionId": "session-2-ocean",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "11:10",
+        "segment": "INTRODUCTION"
+      },
+      {
+        "sessionId": "session-2-ocean",
+        "role": "attendee",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "11:18",
+        "segment": "INTRODUCTION"
+      },
+      {
+        "sessionId": "session-2-ocean",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "11:40",
+        "segment": "Reflection / Closing"
+      },
+      {
+        "sessionId": "session-3-locally-rooted",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "13:22",
+        "segment": "Reflections, summary & closing remarks"
+      }
+    ],
+    "segment": null
+  },
+  {
+    "id": "chris-whyte",
+    "name": "Chris Whyte",
+    "title": "Africa Circular Economy Network",
+    "organization": "ACEN (Africa Circular Economy Network)",
+    "country": "",
+    "email": "chris.whyte@acen.africa",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "ACEN (Africa Circular Economy Network)",
+        "title": "Africa Circular Economy Network"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "christian-bason",
+    "name": "Christian Bason",
+    "title": "CEO, Ph.D.",
+    "organization": "New European Bauhaus, Danish Design Centre",
+    "country": "",
+    "email": "chb@ddc.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "New European Bauhaus, Danish Design Centre",
+        "title": "CEO, Ph.D."
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "christian-holmsted",
+    "name": "Christian Holmsted",
+    "title": "Head of Exhibitions & Collections",
+    "organization": "Designmuseum Danmark",
+    "country": "",
+    "email": "cho@designmuseum.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Designmuseum Danmark",
+        "title": "Head of Exhibitions & Collections"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "christian-pagh",
+    "name": "Christian Pagh",
+    "title": "Director OAT",
+    "organization": "Oslo Architecture Triennale",
+    "country": "",
+    "email": "christian@oslotriennale.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Oslo Architecture Triennale",
+        "title": "Director OAT"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "christopher-lyrhem",
+    "name": "Christopher Lyrhem",
+    "title": "Chief Future Officer",
+    "organization": "Sircular",
+    "country": "",
+    "email": "christopher@sircular.io",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Sircular",
+        "title": "Chief Future Officer"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "claus-henriksen",
+    "name": "Claus Henriksen",
+    "title": "Head Chef & Partner",
+    "organization": "MOTA",
+    "country": "",
+    "email": "claus@restaurant-mota.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "MOTA",
+        "title": "Head Chef & Partner"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "dagur-b-eggertsson",
+    "name": "Dagur B. Eggertsson",
+    "title": "Mayor of Reykjavík",
+    "organization": "City of Reykjavik",
+    "country": "",
+    "email": "Rebekka.Sigurdardottir@reykjavik.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "City of Reykjavik",
+        "title": "Mayor of Reykjavík"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "david-b-mcginty",
+    "name": "David B. McGinty",
+    "title": "Global Director / PACE",
+    "organization": "PACE",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "PACE",
+        "title": "Global Director / PACE"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "deniz-koca",
+    "name": "Deniz Koca",
+    "title": "N/A",
+    "organization": "Lund University",
+    "country": "",
+    "email": "deniz.koca@cec.lu.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Lund University",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "destana-herring",
+    "name": "Destana Herring",
+    "title": "Senior Associate",
+    "organization": "Regeneration.VC",
+    "country": "",
+    "email": "destana@regeneration.vc",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Regeneration.VC",
+        "title": "Senior Associate"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ditte-lysgaard-vind",
+    "name": "Ditte Lysgaard Vind",
+    "title": "Managing Partner",
+    "organization": "Lendager; The Circular Way",
+    "country": "",
+    "email": "dlv@lendager.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Lendager; The Circular Way",
+        "title": "Managing Partner"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "douglas-malm-rath",
+    "name": "Douglas Malm Rath",
+    "title": "Board member",
+    "organization": "Re:Generation 2030, aurora case",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Re:Generation 2030, aurora case",
+        "title": "Board member"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "dr-julia-wolny",
+    "name": "Dr Julia Wolny",
+    "title": "professor in Digital Innovation and Responsible Experience Design",
+    "organization": "EADA Business School Barcelona",
+    "country": "",
+    "email": "jwolny@eada.edu",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "EADA Business School Barcelona",
+        "title": "professor in Digital Innovation and Responsible Experience Design"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "dr-stephen-hill",
+    "name": "Dr Stephen Hill",
+    "title": "Editor The Post Covid Kyoto Manifesto for Global Economics",
+    "organization": "University of Wollongong",
+    "country": "",
+    "email": "sthill@uow.edu.au",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "University of Wollongong",
+        "title": "Editor The Post Covid Kyoto Manifesto for Global Economics"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "dr-ewelina-szczech-pietkiewicz",
+    "name": "Dr. Ewelina Szczech-Pietkiewicz",
+    "title": "N/A",
+    "organization": "Warsaw School of Economics",
+    "country": "",
+    "email": "eszcze@sgh.waw.pl",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Warsaw School of Economics",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "dr-hafd-s-hanna-gisd-ttir",
+    "name": "Dr. Hafdís Hanna Ægisdóttir",
+    "title": "Director",
+    "organization": "The Institute for Sustainability Studies - University of Iceland",
+    "country": "",
+    "email": "hafdishanna@hi.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "The Institute for Sustainability Studies - University of Iceland",
+        "title": "Director"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "dr-katherine-whalen",
+    "name": "Dr. Katherine Whalen",
+    "title": "N/A",
+    "organization": "Rise",
+    "country": "",
+    "email": "katherine.whalen@ri.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Rise",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "einar-kleppe-holthe",
+    "name": "Einar Kleppe Holthe",
+    "title": "CEO, Natural State and managing partner NCH",
+    "organization": "Nordic Circular Hotspot / Natural State",
+    "country": "",
+    "email": "einar@naturalstate.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Nordic Circular Hotspot / Natural State",
+        "title": "CEO, Natural State and managing partner NCH"
+      },
+      {
+        "year": 2021,
+        "organization": "Nordic Circular Hotspot / Natural State",
+        "title": "CEO, Natural State and managing partner NCH"
+      },
+      {
+        "year": 2022,
+        "organization": "Nordic Circular Hotspot / Natural State",
+        "title": "CEO, Natural State and managing partner NCH"
+      },
+      {
+        "year": 2023,
+        "organization": "Nordic Circular Hotspot / Natural State",
+        "title": "CEO, Natural State and managing partner NCH"
+      },
+      {
+        "year": 2024,
+        "organization": "Nordic Circular Hotspot / Natural State",
+        "title": "CEO, Natural State and managing partner NCH"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-1-opening",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "09:22",
+        "segment": "WELCOME AND OPENING REMARKS"
+      },
+      {
+        "sessionId": "session-1-opening",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "10:11",
+        "segment": "Reflection: The New Nordics"
+      },
+      {
+        "sessionId": "session-1-opening",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "10:10",
+        "segment": "INTRODUCTION"
+      },
+      {
+        "sessionId": "session-1-opening",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "10:19",
+        "segment": "INTRODUCTION"
+      }
+    ],
+    "segment": null
+  },
+  {
+    "id": "elin-bergman",
+    "name": "Elin Bergman",
+    "title": "Managing Partner / COO",
+    "organization": "Cradlenet/NCH",
+    "country": "",
+    "email": "elin@cradlenet.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Cradlenet/NCH",
+        "title": "Managing Partner / COO"
+      },
+      {
+        "year": 2021,
+        "organization": "Cradlenet/NCH",
+        "title": "Managing Partner / COO"
+      },
+      {
+        "year": 2022,
+        "organization": "Cradlenet/NCH",
+        "title": "Managing Partner / COO"
+      },
+      {
+        "year": 2023,
+        "organization": "Cradlenet/NCH",
+        "title": "Managing Partner / COO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "elis-benedictsson",
+    "name": "Elis Benedictsson",
+    "title": "N/A",
+    "organization": "Nordic Innovation",
+    "country": "",
+    "email": "E.Benediktsson@nordicinnovation.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Nordic Innovation",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "elisabeth-t-rk",
+    "name": "Elisabeth Türk",
+    "title": "Director, Economic Cooperation and Trade Division",
+    "organization": "United Nations Economic Commison",
+    "country": "",
+    "email": "elisabeth.tuerk@un.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "United Nations Economic Commison",
+        "title": "Director, Economic Cooperation and Trade Division"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ella-marie-h-tta-isaksen",
+    "name": "Ella Marie Hætta Isaksen",
+    "title": "N/A",
+    "organization": "N/A",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "N/A",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ella-turta",
+    "name": "Ella Turta",
+    "title": "Secretary General",
+    "organization": "ReGeneration 2030",
+    "country": "",
+    "email": "ella@regeneration2030.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "ReGeneration 2030",
+        "title": "Secretary General"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ellen-fokuhl",
+    "name": "Ellen Fokuhl",
+    "title": "Vice Chair",
+    "organization": "ReGeneration 2030",
+    "country": "",
+    "email": "ellen.fokuhl@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "ReGeneration 2030",
+        "title": "Vice Chair"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "elva-rakel-j-nsd-ttir",
+    "name": "Elva Rakel Jónsdóttir",
+    "title": "Managing Director",
+    "organization": "Festa",
+    "country": "",
+    "email": "elva@sjalfbaer.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Festa",
+        "title": "Managing Director"
+      },
+      {
+        "year": 2024,
+        "organization": "Festa",
+        "title": "Managing Director"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "emanuela-vanacore",
+    "name": "Emanuela Vanacore",
+    "title": "N/A",
+    "organization": "RISE",
+    "country": "",
+    "email": "emanuela.vanacore@ri.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "RISE",
+        "title": "N/A"
+      },
+      {
+        "year": 2023,
+        "organization": "RISE",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "emeline-pluchon",
+    "name": "Emeline Pluchon",
+    "title": "N/A",
+    "organization": "WWF Norway",
+    "country": "",
+    "email": "epluchon@wwf.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "WWF Norway",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "emilia-bjanes",
+    "name": "Emilia Bjanes",
+    "title": "Project Manager",
+    "organization": "HAV Eiendom",
+    "country": "",
+    "email": "marie@haveiendom.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "HAV Eiendom",
+        "title": "Project Manager"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "emilia-nygard",
+    "name": "Emilia Nygard",
+    "title": "N/A",
+    "organization": "Regeneration2030",
+    "country": "",
+    "email": "nygard.emilia@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Regeneration2030",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "emma-johnson",
+    "name": "Emma Johnson",
+    "title": "PhD researcher / Youth Advisor to Sweden",
+    "organization": "Lund University / Cataly(c)st",
+    "country": "",
+    "email": "emma.johnson@iiiee.lu.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Lund University / Cataly(c)st",
+        "title": "PhD researcher / Youth Advisor to Sweden"
+      },
+      {
+        "year": 2022,
+        "organization": "Lund University / Cataly(c)st",
+        "title": "PhD researcher / Youth Advisor to Sweden"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "espen-ramsbacher",
+    "name": "Espen Ramsbacher",
+    "title": "CEO",
+    "organization": "CircMar",
+    "country": "",
+    "email": "espen@circmar.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "CircMar",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "flemming-besenbacher",
+    "name": "Flemming Besenbacher",
+    "title": "Chairman Carlsberg Group",
+    "organization": "Carlsberg Group / Carlsberg Foundation",
+    "country": "",
+    "email": "f.besenbacher@carlsbergfoundation.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Carlsberg Group / Carlsberg Foundation",
+        "title": "Chairman Carlsberg Group"
+      },
+      {
+        "year": 2021,
+        "organization": "Carlsberg Group / Carlsberg Foundation",
+        "title": "Chairman Carlsberg Group"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "floris-van-der-marel",
+    "name": "Floris van der Marel",
+    "title": "PhD / Researcher and Facilitator",
+    "organization": "Aalto Design Factory / CATALY(C)ST",
+    "country": "",
+    "email": "floris.vandermarel@aalto.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Aalto Design Factory / CATALY(C)ST",
+        "title": "PhD / Researcher and Facilitator"
+      },
+      {
+        "year": 2022,
+        "organization": "Aalto Design Factory / CATALY(C)ST",
+        "title": "PhD / Researcher and Facilitator"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "franciska-rosenkilde",
+    "name": "Franciska Rosenkilde",
+    "title": "Mayor",
+    "organization": "City of Copenhagen",
+    "country": "",
+    "email": "borgmesterenkff@kk.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "City of Copenhagen",
+        "title": "Mayor"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "frank-jaegtnes",
+    "name": "Frank Jaegtnes",
+    "title": "N/A",
+    "organization": "SHIFT / EFO",
+    "country": "",
+    "email": "frank.jaegtnes@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "SHIFT / EFO",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "fredrik-barth",
+    "name": "Fredrik Barth",
+    "title": "CEO",
+    "organization": "Nordic Circles & Vill",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Nordic Circles & Vill",
+        "title": "CEO"
+      },
+      {
+        "year": 2024,
+        "organization": "Nordic Circles & Vill",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "freek-van-eijk",
+    "name": "Freek van Eijk",
+    "title": "CEO",
+    "organization": "Holland Circular Hotspot",
+    "country": "",
+    "email": "freek.vaneijk@hollandcircularhotspot.nl",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Holland Circular Hotspot",
+        "title": "CEO"
+      },
+      {
+        "year": 2024,
+        "organization": "Holland Circular Hotspot",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "frida-gustafsson",
+    "name": "Frida Gustafsson",
+    "title": "N/A",
+    "organization": "ReGeneration 2030",
+    "country": "",
+    "email": "frida.h.gustafsson@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "ReGeneration 2030",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "gu-r-n-a-alsteinsd-ttir",
+    "name": "Guðrún Aðalsteinsdóttir",
+    "title": "CEO of Krónan",
+    "organization": "Krónan",
+    "country": "",
+    "email": "gudruna@kronan.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Krónan",
+        "title": "CEO of Krónan"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "gu-r-n-r-gvad-ttir",
+    "name": "Guðrún Rógvadóttir",
+    "title": "CEO",
+    "organization": "Guðrún og Guðrún",
+    "country": "",
+    "email": "gr@gudrungudrun.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Guðrún og Guðrún",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "h-kan-lind",
+    "name": "Håkan Lind",
+    "title": "Senior Innovation Advisor",
+    "organization": "Nordic Innovation",
+    "country": "",
+    "email": "h.lind@nordicinnovation.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Nordic Innovation",
+        "title": "Senior Innovation Advisor"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "hanna-skoog",
+    "name": "Hanna Skoog",
+    "title": "Program Director Circular Economy",
+    "organization": "Axfoundation",
+    "country": "",
+    "email": "hanna.skoog@axfoundation.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Axfoundation",
+        "title": "Program Director Circular Economy"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "hanna-t-rm-nen",
+    "name": "Hanna Törmänen",
+    "title": "Innovation Advisor",
+    "organization": "Nordic Innovation",
+    "country": "",
+    "email": "H.Tormanen@nordicinnovation.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Nordic Innovation",
+        "title": "Innovation Advisor"
+      },
+      {
+        "year": 2021,
+        "organization": "Nordic Innovation",
+        "title": "Innovation Advisor"
+      },
+      {
+        "year": 2022,
+        "organization": "Nordic Innovation",
+        "title": "Innovation Advisor"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "hans-christian-ellefsen",
+    "name": "Hans Christian Ellefsen",
+    "title": "Head of Technology and Innovation",
+    "organization": "Accounting Norway",
+    "country": "",
+    "email": "Hans.Ellefsen@regnskapnorge.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Accounting Norway",
+        "title": "Head of Technology and Innovation"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "harpa-j-l-usd-ttir",
+    "name": "Harpa Júlíusdóttir",
+    "title": "Project manager",
+    "organization": "Festa Center for Sustainability",
+    "country": "",
+    "email": "harpa@samfelagsabyrgd.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Festa Center for Sustainability",
+        "title": "Project manager"
+      },
+      {
+        "year": 2022,
+        "organization": "Festa Center for Sustainability",
+        "title": "Project manager"
+      },
+      {
+        "year": 2023,
+        "organization": "Festa Center for Sustainability",
+        "title": "Project manager"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "harri-auvinen",
+    "name": "Harri Auvinen",
+    "title": "N/A",
+    "organization": "N/A",
+    "country": "",
+    "email": "marie@haveiendom.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "N/A",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "heidi-svane",
+    "name": "Heidi Svane",
+    "title": "Head of Digital",
+    "organization": "Lifestyle & Design Cluster",
+    "country": "",
+    "email": "heidi@ldcluster.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Lifestyle & Design Cluster",
+        "title": "Head of Digital"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "heli-wirkki",
+    "name": "Heli Wirkki",
+    "title": "N/A",
+    "organization": "Fortum",
+    "country": "",
+    "email": "Heli.virkki@fortum.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Fortum",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "henrik-petersen",
+    "name": "Henrik Petersen",
+    "title": "CEO Stena Recycling DK",
+    "organization": "Stena Recycling",
+    "country": "",
+    "email": "Henrik.G.Petersen@stenarecycling.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Stena Recycling",
+        "title": "CEO Stena Recycling DK"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "hl-dis-sigur-ard-ttir",
+    "name": "Hlédis Sigurðardóttir",
+    "title": "Sustainability Officer",
+    "organization": "Arion Bank",
+    "country": "",
+    "email": "hledis.sigurdardottir@arionbanki.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Arion Bank",
+        "title": "Sustainability Officer"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "h-lmfr-ur-rnad-ttir",
+    "name": "Hólmfríður Árnadóttir",
+    "title": "Sustainability specialist",
+    "organization": "VAXA",
+    "country": "",
+    "email": "holmfridur@vaxa.co",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "VAXA",
+        "title": "Sustainability specialist"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "hrund-gunnsteinsd-ttir",
+    "name": "Hrund Gunnsteinsdóttir",
+    "title": "Sustainability Leader and Author",
+    "organization": "N/A",
+    "country": "",
+    "email": "hrund.gunnsteinsdottir@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "N/A",
+        "title": "Sustainability Leader and Author"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "idar-krautszer",
+    "name": "Idar Krautszer",
+    "title": "International director",
+    "organization": "Næringslivets Hovedorganisasjon - NHO",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Næringslivets Hovedorganisasjon - NHO",
+        "title": "International director"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ilektra-kouloumpia",
+    "name": "Ilektra Kouloumpia",
+    "title": "Thriving Cities Lead",
+    "organization": "Circle Economy",
+    "country": "",
+    "email": "ilektra@circle-economy.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Circle Economy",
+        "title": "Thriving Cities Lead"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "inger-johanne-wiese",
+    "name": "Inger Johanne Wiese",
+    "title": "moderator / chair of NCE",
+    "organization": "NCE / Nordic Council of Ministers",
+    "country": "",
+    "email": "Inger-Johanne.Wiese@kld.dep.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "NCE / Nordic Council of Ministers",
+        "title": "moderator / chair of NCE"
+      },
+      {
+        "year": 2022,
+        "organization": "NCE / Nordic Council of Ministers",
+        "title": "moderator / chair of NCE"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "inka-orko",
+    "name": "Inka Orko",
+    "title": "Lead, Circular Economy",
+    "organization": "Technical Research Centre of Finland (VTT)",
+    "country": "",
+    "email": "inka.orko@vtt.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Technical Research Centre of Finland (VTT)",
+        "title": "Lead, Circular Economy"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "isabella-holmgaard",
+    "name": "Isabella Holmgaard",
+    "title": "Project Manager Circular Economy",
+    "organization": "LIFESTYLE & DESIGN CLUSTER / Message",
+    "country": "",
+    "email": "isabella@ldcluster.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "LIFESTYLE & DESIGN CLUSTER / Message",
+        "title": "Project Manager Circular Economy"
+      },
+      {
+        "year": 2022,
+        "organization": "LIFESTYLE & DESIGN CLUSTER / Message",
+        "title": "Project Manager Circular Economy"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ivar-horneland-kristensen",
+    "name": "Ivar Horneland Kristensen",
+    "title": "N/A",
+    "organization": "Virke",
+    "country": "",
+    "email": "ihk@virke.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Virke",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jacob-michaelsen",
+    "name": "Jacob Michaelsen",
+    "title": "Head of Sustainable Finance Advisory",
+    "organization": "Nordea",
+    "country": "",
+    "email": "jacob.michaelsen@nordea.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Nordea",
+        "title": "Head of Sustainable Finance Advisory"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jakob-aaen",
+    "name": "Jakob Aaen",
+    "title": "CEO",
+    "organization": "Målbar",
+    "country": "",
+    "email": "jakob@maalbar.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Målbar",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jakob-lagander",
+    "name": "Jakob Lagander",
+    "title": "Country Manager Sweden",
+    "organization": "3StepIT",
+    "country": "",
+    "email": "Jakob.Lagander@3stepit.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "3StepIT",
+        "title": "Country Manager Sweden"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "janez-poto-nik",
+    "name": "Janez Potočnik",
+    "title": "N/A",
+    "organization": "UNEP International Resource Panel",
+    "country": "",
+    "email": "janez.potocnik22@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "UNEP International Resource Panel",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "janne-korpela",
+    "name": "Janne Korpela",
+    "title": "VP of Markets",
+    "organization": "Swappie",
+    "country": "",
+    "email": "osama.shaukat@swappie.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Swappie",
+        "title": "VP of Markets"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jenny-randstr-m",
+    "name": "Jenny Randström",
+    "title": "N/A",
+    "organization": "Eco 3",
+    "country": "",
+    "email": "jenny@eco3-r.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Eco 3",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jesper-koll",
+    "name": "Jesper Koll",
+    "title": "Board Director",
+    "organization": "Okinawa Institute for Science and Technology",
+    "country": "",
+    "email": "jesperkoll@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Okinawa Institute for Science and Technology",
+        "title": "Board Director"
+      },
+      {
+        "year": 2024,
+        "organization": "Okinawa Institute for Science and Technology",
+        "title": "Board Director"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jessica-cao",
+    "name": "Jessica Cao",
+    "title": "Legal Counsel",
+    "organization": "Empower",
+    "country": "",
+    "email": "jessica@empower.eco",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Empower",
+        "title": "Legal Counsel"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jessika-roswall",
+    "name": "Jessika Roswall",
+    "title": "EU Commissioner for Environment, Water Resilience...",
+    "organization": "European Commission, EU",
+    "country": "",
+    "email": "Liliia.DIMITROVA@ec.europa.eu",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "European Commission, EU",
+        "title": "EU Commissioner for Environment, Water Resilience..."
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jia-johannes-chen",
+    "name": "Jia Johannes Chen",
+    "title": "Consultant / CATALY(C)ST Youth Advisor",
+    "organization": "Jia Johannes Chen Studio / Cataly(c)st",
+    "country": "",
+    "email": "jiajohannesthechen@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Jia Johannes Chen Studio / Cataly(c)st",
+        "title": "Consultant / CATALY(C)ST Youth Advisor"
+      },
+      {
+        "year": 2022,
+        "organization": "Jia Johannes Chen Studio / Cataly(c)st",
+        "title": "Consultant / CATALY(C)ST Youth Advisor"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jinali-mody",
+    "name": "Jinali Mody",
+    "title": "N/A",
+    "organization": "Banofi Leather",
+    "country": "",
+    "email": "jinali.mody@yale.edu",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Banofi Leather",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "joachim-hjerl",
+    "name": "Joachim Hjerl",
+    "title": "N/A",
+    "organization": "Havhøst",
+    "country": "",
+    "email": "joachim@havhoest.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Havhøst",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "johanna-johansson",
+    "name": "Johanna Johansson",
+    "title": "N/A",
+    "organization": "Ogoori",
+    "country": "",
+    "email": "johanna@ogoori.eco",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Ogoori",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "johanne-stenstrup",
+    "name": "Johanne Stenstrup",
+    "title": "N/A",
+    "organization": "Lifestyle & Design Cluster",
+    "country": "",
+    "email": "johanne@ldcluster.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Lifestyle & Design Cluster",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "j-n-sgeirsson",
+    "name": "Jón Ásgeirsson",
+    "title": "Head of Strategy",
+    "organization": "HS Orka",
+    "country": "",
+    "email": "jon@hsorka.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "HS Orka",
+        "title": "Head of Strategy"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jonas-bystr-m",
+    "name": "Jonas Byström",
+    "title": "N/A",
+    "organization": "European Investment Bank",
+    "country": "",
+    "email": "j.bystroem@eib.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "European Investment Bank",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jonas-kjellberg",
+    "name": "Jonas Kjellberg",
+    "title": "Co-founder & Chairman of the Board",
+    "organization": "Business Core & Company Vision, Nornorm",
+    "country": "",
+    "email": "jonas.kjellberg@nornorm.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Business Core & Company Vision, Nornorm",
+        "title": "Co-founder & Chairman of the Board"
+      },
+      {
+        "year": 2024,
+        "organization": "Business Core & Company Vision, Nornorm",
+        "title": "Co-founder & Chairman of the Board"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jonathan-foster-pedley",
+    "name": "Jonathan Foster-Pedley",
+    "title": "Director",
+    "organization": "Henley Business School Africa",
+    "country": "",
+    "email": "jonathanf@henleysa.ac.za",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Henley Business School Africa",
+        "title": "Director"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "joonas-sirvi",
+    "name": "Joonas Sirviö",
+    "title": "CEO",
+    "organization": "Granulous",
+    "country": "",
+    "email": "joonas@granalous.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Granulous",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jorunn-tysse",
+    "name": "Jorunn Tysse",
+    "title": "The Startup",
+    "organization": "Høine",
+    "country": "",
+    "email": "jorunn@hoine.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Høine",
+        "title": "The Startup"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "josefina-sall-n",
+    "name": "Josefina Sallén",
+    "title": "N/A",
+    "organization": "RISE",
+    "country": "",
+    "email": "josefina.sallen@ri.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "RISE",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jukka-pesola",
+    "name": "Jukka Pesola",
+    "title": "N/A",
+    "organization": "Pure Waste Textiles",
+    "country": "",
+    "email": "jukka@purewaste.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Pure Waste Textiles",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "julian-kirchherr",
+    "name": "Julian Kirchherr",
+    "title": "Partner / R&D from Roskilde University",
+    "organization": "McKinsey",
+    "country": "",
+    "email": "julian_kirchherr@mckinsey.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "McKinsey",
+        "title": "Partner / R&D from Roskilde University"
+      },
+      {
+        "year": 2024,
+        "organization": "McKinsey",
+        "title": "Partner / R&D from Roskilde University"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "justina-ramonaityt",
+    "name": "Justina Ramonaitytė",
+    "title": "Board member and Communications Coordinator",
+    "organization": "Regeneration 2030",
+    "country": "",
+    "email": "justina.ramonaityte@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Regeneration 2030",
+        "title": "Board member and Communications Coordinator"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jyri-arponen",
+    "name": "Jyri Arponen",
+    "title": "Project Director",
+    "organization": "Sitra",
+    "country": "",
+    "email": "Jyri.Arponen@sitra.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Sitra",
+        "title": "Project Director"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "jyri-sepp-l",
+    "name": "Jyri Seppälä",
+    "title": "N/A",
+    "organization": "Finnish Environment Institute",
+    "country": "",
+    "email": "jyri.seppala@syke.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Finnish Environment Institute",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "karen-elleman",
+    "name": "Karen Elleman",
+    "title": "N/A",
+    "organization": "N/A",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "N/A",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "kari-aina-eik",
+    "name": "Kari Aina Eik",
+    "title": "N/A",
+    "organization": "U4SSE - UN Cities",
+    "country": "",
+    "email": "kari.eik@unitedsmartcities.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "U4SSE - UN Cities",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "kari-herlevi",
+    "name": "Kari Herlevi",
+    "title": "Project Director CE at Sitra",
+    "organization": "Sitra",
+    "country": "",
+    "email": "Kari.Herlevi@sitra.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Sitra",
+        "title": "Project Director CE at Sitra"
+      },
+      {
+        "year": 2021,
+        "organization": "Sitra",
+        "title": "Project Director CE at Sitra"
+      },
+      {
+        "year": 2022,
+        "organization": "Sitra",
+        "title": "Project Director CE at Sitra"
+      },
+      {
+        "year": 2023,
+        "organization": "Sitra",
+        "title": "Project Director CE at Sitra"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "karin-beukel",
+    "name": "Karin Beukel",
+    "title": "Co-Founder, Agrain (Denmark)",
+    "organization": "Agrain",
+    "country": "",
+    "email": "kb@circularfoodtech.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Agrain",
+        "title": "Co-Founder, Agrain (Denmark)"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "karolina-olofsson",
+    "name": "Karolina Olofsson",
+    "title": "Executive Director",
+    "organization": "The Oslo Centre",
+    "country": "",
+    "email": "karolina.olofsson@oslocenter.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "The Oslo Centre",
+        "title": "Executive Director"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "karoline-andaur",
+    "name": "Karoline Andaur",
+    "title": "N/A",
+    "organization": "WWF",
+    "country": "",
+    "email": "kandaur@wwf.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "WWF",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "kasper-holst-pedersen",
+    "name": "Kasper Holst Pedersen",
+    "title": "MASTER OF CRAFTSMEN AND CEO",
+    "organization": "PP Møbler",
+    "country": "",
+    "email": "khp@pp.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "PP Møbler",
+        "title": "MASTER OF CRAFTSMEN AND CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "kati-iham-ki",
+    "name": "Kati Ihamäki",
+    "title": "VP, Sustaianblilty and Public Affairs",
+    "organization": "Fiskars group",
+    "country": "",
+    "email": "kati.ihamaki@fiskars.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Fiskars group",
+        "title": "VP, Sustaianblilty and Public Affairs"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "kati-uusi-rauva",
+    "name": "Kati Uusi-Rauva",
+    "title": "Interim Director Business Creation Director...",
+    "organization": "EIT",
+    "country": "",
+    "email": "kati.uusirauva@eit-culture-creativity.eu",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "EIT",
+        "title": "Interim Director Business Creation Director..."
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "katja-hansen",
+    "name": "Katja Hansen",
+    "title": "N/A",
+    "organization": "EPEA GmbH - Part of Drees & Sommer",
+    "country": "",
+    "email": "katja.hansen.ext@epea.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "EPEA GmbH - Part of Drees & Sommer",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "katja-samara",
+    "name": "Katja Samara",
+    "title": "N/A",
+    "organization": "Loopfront",
+    "country": "",
+    "email": "katja@loopfront.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Loopfront",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "keira-dignan",
+    "name": "Keira Dignan",
+    "title": "N/A",
+    "organization": "Regeneration2030",
+    "country": "",
+    "email": "keira@regeneration2030.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Regeneration2030",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-1-opening",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "09:43",
+        "segment": "Nordic Arctic Panel – Circular Innovation Across Borders"
+      },
+      {
+        "sessionId": "session-3-locally-rooted",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "12:45",
+        "segment": "INTRODUCTION"
+      }
+    ],
+    "segment": null
+  },
+  {
+    "id": "ken-webster",
+    "name": "Ken Webster",
+    "title": "N/A",
+    "organization": "Cranfield University",
+    "country": "",
+    "email": "ken_webster@mac.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Cranfield University",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "kim-gabrielli",
+    "name": "Kim Gabrielli",
+    "title": "N/A",
+    "organization": "UN Global Compact",
+    "country": "",
+    "email": "Kim.gabrielli@globalcompact.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "UN Global Compact",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "kim-hjerrild",
+    "name": "Kim Hjerrild",
+    "title": "Managing Partner / Head of Circular Economy",
+    "organization": "Nordic Circular Hotspot / Lifestyle & Design Cluster",
+    "country": "",
+    "email": "kim@ldcluster.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Nordic Circular Hotspot / Lifestyle & Design Cluster",
+        "title": "Managing Partner / Head of Circular Economy"
+      },
+      {
+        "year": 2021,
+        "organization": "Nordic Circular Hotspot / Lifestyle & Design Cluster",
+        "title": "Managing Partner / Head of Circular Economy"
+      },
+      {
+        "year": 2022,
+        "organization": "Nordic Circular Hotspot / Lifestyle & Design Cluster",
+        "title": "Managing Partner / Head of Circular Economy"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "kristian-mj-en",
+    "name": "Kristian Mjøen",
+    "title": "Leader Trondheim Sustainability Centre",
+    "organization": "UN Cities / Trondheim Kommune",
+    "country": "",
+    "email": "kristian.mjoen@trondheim.kommune.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "UN Cities / Trondheim Kommune",
+        "title": "Leader Trondheim Sustainability Centre"
+      },
+      {
+        "year": 2021,
+        "organization": "UN Cities / Trondheim Kommune",
+        "title": "Leader Trondheim Sustainability Centre"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "kristian-n-harnes",
+    "name": "Kristian N. Harnes",
+    "title": "Co-founder and CEO",
+    "organization": "Minus furniture",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Minus furniture",
+        "title": "Co-founder and CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "kristin-aamodt",
+    "name": "Kristin Aamodt",
+    "title": "The Venture",
+    "organization": "ArcTern Venture",
+    "country": "",
+    "email": "kristin@arcternventures.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "ArcTern Venture",
+        "title": "The Venture"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "kristin-skofteland",
+    "name": "Kristin Skofteland",
+    "title": "N/A",
+    "organization": "Beyonder",
+    "country": "",
+    "email": "kristin@beyonder.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Beyonder",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "kristoffer-lundholm",
+    "name": "Kristoffer Lundholm",
+    "title": "Head of Sustainability",
+    "organization": "SALLY with EY Doberman",
+    "country": "",
+    "email": "Kristoffer.Lundholm@doberman.ey.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "SALLY with EY Doberman",
+        "title": "Head of Sustainability"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ladeja-godina-ko-ir",
+    "name": "Ladeja Godina Košir",
+    "title": "Executive Director / Founder/CEO",
+    "organization": "Circular Change / EUSNCE",
+    "country": "",
+    "email": "ladeja@circularchange.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Circular Change / EUSNCE",
+        "title": "Executive Director / Founder/CEO"
+      },
+      {
+        "year": 2021,
+        "organization": "Circular Change / EUSNCE",
+        "title": "Executive Director / Founder/CEO"
+      },
+      {
+        "year": 2023,
+        "organization": "Circular Change / EUSNCE",
+        "title": "Executive Director / Founder/CEO"
+      },
+      {
+        "year": 2024,
+        "organization": "Circular Change / EUSNCE",
+        "title": "Executive Director / Founder/CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "l-ra-krist-n-orvaldsd-ttir",
+    "name": "Lára Kristín Þorvaldsdóttir",
+    "title": "Youth Advisor Cataly(c)st, Environmental Engineer",
+    "organization": "EFLA Consulting Engineers",
+    "country": "",
+    "email": "lara.kristin.thorvaldsdottir@efla.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "EFLA Consulting Engineers",
+        "title": "Youth Advisor Cataly(c)st, Environmental Engineer"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "larissa-slottet",
+    "name": "Larissa Slottet",
+    "title": "N/A",
+    "organization": "Ogoori",
+    "country": "",
+    "email": "larissa@ogoori.eco",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Ogoori",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "leyla-acaroglu",
+    "name": "Leyla Acaroglu",
+    "title": "Founder",
+    "organization": "UNEP / Disrupt Design",
+    "country": "",
+    "email": "leyla@disruptdesign.co",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "UNEP / Disrupt Design",
+        "title": "Founder"
+      },
+      {
+        "year": 2023,
+        "organization": "UNEP / Disrupt Design",
+        "title": "Founder"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "lillian-ayla-ersoy",
+    "name": "Lillian Ayla Ersoy",
+    "title": "N/A",
+    "organization": "Novooi",
+    "country": "",
+    "email": "lillian@novooi.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Novooi",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "linda-weiss",
+    "name": "Linda Weiss",
+    "title": "Project Manager / Project Coordinator",
+    "organization": "CATALY(C)ST",
+    "country": "",
+    "email": "linwei@dtu.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "CATALY(C)ST",
+        "title": "Project Manager / Project Coordinator"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "linn-lindfred",
+    "name": "Linn Lindfred",
+    "title": "Circular Economy Expert",
+    "organization": "TrusTrace - Circularista",
+    "country": "",
+    "email": "Linn@circularista.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "TrusTrace - Circularista",
+        "title": "Circular Economy Expert"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "liselotte-h-gertz-engstam",
+    "name": "Liselotte Hägertz Engstam",
+    "title": "Chair of Board",
+    "organization": "Board Impact Forum",
+    "country": "",
+    "email": "liselotte.engstam@boardsimpactforum.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Board Impact Forum",
+        "title": "Chair of Board"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "louise-koch",
+    "name": "Louise Koch",
+    "title": "Director, Global Social Impact Sales Strategy & Customer Engagement",
+    "organization": "Dell Technologies",
+    "country": "",
+    "email": "louise.koch@dell.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Dell Technologies",
+        "title": "Director, Global Social Impact Sales Strategy & Customer Engagement"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "mads-kogsgaard-hansen",
+    "name": "Mads Kogsgaard Hansen",
+    "title": "Senior Global Product Manager, Classics & Product Circularity",
+    "organization": "Bang & Olufsen",
+    "country": "",
+    "email": "makh@bang-olufsen.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Bang & Olufsen",
+        "title": "Senior Global Product Manager, Classics & Product Circularity"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "malva-karlsson",
+    "name": "Malva Karlsson",
+    "title": "N/A",
+    "organization": "Houdini",
+    "country": "",
+    "email": "malva.carlsson@houdinisportswear.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Houdini",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "malvina-roci",
+    "name": "Malvina Roci",
+    "title": "PHD candidate, Circular Manufacturing Systems",
+    "organization": "KTH",
+    "country": "",
+    "email": "roci@kth.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "KTH",
+        "title": "PHD candidate, Circular Manufacturing Systems"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "marcelo-pino-guerrero",
+    "name": "Marcelo Pino Guerrero",
+    "title": "Project leader",
+    "organization": "Miljöbron",
+    "country": "",
+    "email": "marcelo@miljobron.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Miljöbron",
+        "title": "Project leader"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "marcus-linder",
+    "name": "Marcus Linder",
+    "title": "Director of Sustainable Business",
+    "organization": "RISE",
+    "country": "",
+    "email": "marcus.linder@ri.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "RISE",
+        "title": "Director of Sustainable Business"
+      },
+      {
+        "year": 2024,
+        "organization": "RISE",
+        "title": "Director of Sustainable Business"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "margareth-whalstr-m",
+    "name": "Margareth Whalstrøm",
+    "title": "N/A",
+    "organization": "N/A",
+    "country": "",
+    "email": "Margareta.Wahlstrom@vtt.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "N/A",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "maria-fryd",
+    "name": "Maria Fryd",
+    "title": "Co-founder",
+    "organization": "Wehlers",
+    "country": "",
+    "email": "mariafryd@wehlers.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Wehlers",
+        "title": "Co-founder"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "maria-grabowska",
+    "name": "Maria Grabowska",
+    "title": "Manager, +Impact Accelerator",
+    "organization": "Danske Bank",
+    "country": "",
+    "email": "margr@danskebank.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Danske Bank",
+        "title": "Manager, +Impact Accelerator"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "marie-busck",
+    "name": "Marie Busck",
+    "title": "CSR and Sustainability Manager",
+    "organization": "DM&T Danish Fashion & Textile",
+    "country": "",
+    "email": "mb@dmogt.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "DM&T Danish Fashion & Textile",
+        "title": "CSR and Sustainability Manager"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "marie-storli",
+    "name": "Marie Storli",
+    "title": "leader",
+    "organization": "Rethink Economics Norway",
+    "country": "",
+    "email": "marie.storli@rethinkeconomics.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Rethink Economics Norway",
+        "title": "leader"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "marja-liisa-niinikoski",
+    "name": "Marja-Liisa Niinikoski",
+    "title": "CEO",
+    "organization": "Suomen Tekstiili & Muoti",
+    "country": "",
+    "email": "marja-liisa.niinikoski@stjm.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Suomen Tekstiili & Muoti",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "markus-bjerre",
+    "name": "Markus Bjerre",
+    "title": "Special Advisor",
+    "organization": "Danish Business Authority",
+    "country": "",
+    "email": "marbje@erst.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Danish Business Authority",
+        "title": "Special Advisor"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "marthe-haugland",
+    "name": "Marthe Haugland",
+    "title": "Senior innovation adviser",
+    "organization": "Nordic Innovation",
+    "country": "",
+    "email": "M.Haugland@nordicinnovation.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Nordic Innovation",
+        "title": "Senior innovation adviser"
+      },
+      {
+        "year": 2021,
+        "organization": "Nordic Innovation",
+        "title": "Senior innovation adviser"
+      },
+      {
+        "year": 2022,
+        "organization": "Nordic Innovation",
+        "title": "Senior innovation adviser"
+      },
+      {
+        "year": 2023,
+        "organization": "Nordic Innovation",
+        "title": "Senior innovation adviser"
+      },
+      {
+        "year": 2024,
+        "organization": "Nordic Innovation",
+        "title": "Senior innovation adviser"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-1-opening",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "09:40",
+        "segment": "INTRODUCTION"
+      }
+    ],
+    "segment": null
+  },
+  {
+    "id": "martijn-lopes-cardozo",
+    "name": "Martijn Lopes Cardozo",
+    "title": "CEO",
+    "organization": "Circle Economy",
+    "country": "",
+    "email": "martijn@circle-economy.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Circle Economy",
+        "title": "CEO"
+      },
+      {
+        "year": 2022,
+        "organization": "Circle Economy",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "mathis-grimstad",
+    "name": "Mathis Grimstad",
+    "title": "CEO (i 2020)",
+    "organization": "Stor-Oslo Eiendom",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Stor-Oslo Eiendom",
+        "title": "CEO (i 2020)"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "matthias-boeing",
+    "name": "Matthias Boeing",
+    "title": "N/A",
+    "organization": "BlueCs",
+    "country": "",
+    "email": "matth.boeing@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "BlueCs",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "matthias-steybe",
+    "name": "Matthias Steybe",
+    "title": "Group Sustainability Officer",
+    "organization": "CHG-Meridian",
+    "country": "",
+    "email": "matthias.steybe@chg-meridian.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "CHG-Meridian",
+        "title": "Group Sustainability Officer"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "mette-rode-sundstr-m",
+    "name": "Mette Rode Sundstrøm",
+    "title": "CEO & Co-owner",
+    "organization": "Lauritz.com",
+    "country": "",
+    "email": "mette@lauritz.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Lauritz.com",
+        "title": "CEO & Co-owner"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "michel-bajuk",
+    "name": "Michel Bajuk",
+    "title": "N/A",
+    "organization": "Cradlenet",
+    "country": "",
+    "email": "michel@cradlenet.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Cradlenet",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-1-opening",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "09:43",
+        "segment": "Nordic Arctic Panel – Circular Innovation Across Borders"
+      }
+    ],
+    "segment": null
+  },
+  {
+    "id": "mika-lintil",
+    "name": "Mika Lintilä",
+    "title": "Minister of Economic Affairs, Finland",
+    "organization": "Finnish Government",
+    "country": "",
+    "email": "taru.loyttymaki@gov.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Finnish Government",
+        "title": "Minister of Economic Affairs, Finland"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "mikael-roman",
+    "name": "Mikael Roman",
+    "title": "N/A",
+    "organization": "UNECE",
+    "country": "",
+    "email": "mikael.roman@un.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "UNECE",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "mikkel-stenb-k-hansen",
+    "name": "Mikkel Stenbæk Hansen",
+    "title": "Director - Circular Economy...",
+    "organization": "Novo Nordisk A/S",
+    "country": "",
+    "email": "GMKH@novonordisk.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Novo Nordisk A/S",
+        "title": "Director - Circular Economy..."
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "minna-halme",
+    "name": "Minna Halme",
+    "title": "Professor of Sustainability Management",
+    "organization": "Aalto University School of Business",
+    "country": "",
+    "email": "minna.halme@aalto.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Aalto University School of Business",
+        "title": "Professor of Sustainability Management"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "nancy-bocken",
+    "name": "Nancy Bocken",
+    "title": "N/A",
+    "organization": "Maastricht University & Homie",
+    "country": "",
+    "email": "Nancy.Bocken@maastrichtuniversity.nl",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Maastricht University & Homie",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "nauja-bianco",
+    "name": "Nauja Bianco",
+    "title": "N/A",
+    "organization": "Isuma Consulting",
+    "country": "",
+    "email": "naujab@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Isuma Consulting",
+        "title": "N/A"
+      },
+      {
+        "year": 2024,
+        "organization": "Isuma Consulting",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "niina-aagaard",
+    "name": "Niina Aagaard",
+    "title": "COO",
+    "organization": "Nordic Innovation",
+    "country": "",
+    "email": "n.aagaard@nordicinnovation.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Nordic Innovation",
+        "title": "COO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "nikolaj-reffstrup",
+    "name": "Nikolaj Reffstrup",
+    "title": "Founder / CEO",
+    "organization": "GANNI",
+    "country": "",
+    "email": "nicolaj@ganni.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "GANNI",
+        "title": "Founder / CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "nina-ekelund",
+    "name": "Nina Ekelund",
+    "title": "N/A",
+    "organization": "Haga Initiativ / Hagainitiativet",
+    "country": "",
+    "email": "Nina.Ekelund@hagainitiativet.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Haga Initiativ / Hagainitiativet",
+        "title": "N/A"
+      },
+      {
+        "year": 2022,
+        "organization": "Haga Initiativ / Hagainitiativet",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "nina-wolf",
+    "name": "Nina Wolf",
+    "title": "N/A",
+    "organization": "Göteborgs stad",
+    "country": "",
+    "email": "nina.wolf@gsl.goteborg.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Göteborgs stad",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "noah-schaul",
+    "name": "Noah Schaul",
+    "title": "Business Development Manager",
+    "organization": "Inchainge",
+    "country": "",
+    "email": "n.schaul@inchainge.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Inchainge",
+        "title": "Business Development Manager"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "lafur-ragnar-gr-msson",
+    "name": "Ólafur Ragnar Grímsson",
+    "title": "Chairman of Arctic Circle and former President of Iceland",
+    "organization": "Arctic Circle",
+    "country": "",
+    "email": "matthildur@arcticcircle.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Arctic Circle",
+        "title": "Chairman of Arctic Circle and former President of Iceland"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "olli-kilpel-inen",
+    "name": "Olli Kilpeläinen",
+    "title": "VP Data",
+    "organization": "Betolar",
+    "country": "",
+    "email": "olli.Kilpelainen@betolar.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Betolar",
+        "title": "VP Data"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "olli-kuismanen",
+    "name": "Olli Kuismanen",
+    "title": "COO",
+    "organization": "Tamturbo",
+    "country": "",
+    "email": "olli.kuismanen@tuni.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Tamturbo",
+        "title": "COO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "rjan-s-lensminde",
+    "name": "Ørjan Sælensminde",
+    "title": "N/A",
+    "organization": "Aquarium in Bergen",
+    "country": "",
+    "email": "orjan@akvariet.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Aquarium in Bergen",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "outi-suomi",
+    "name": "Outi Suomi",
+    "title": "Managing Partner NCH / Mission Lead, Circular Transition to Zero Waste",
+    "organization": "Business Finland",
+    "country": "",
+    "email": "outi.suomi@businessfinland.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Business Finland",
+        "title": "Managing Partner NCH / Mission Lead, Circular Transition to Zero Waste"
+      },
+      {
+        "year": 2024,
+        "organization": "Business Finland",
+        "title": "Managing Partner NCH / Mission Lead, Circular Transition to Zero Waste"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ove-lidstr-m",
+    "name": "Ove Lidström",
+    "title": "N/A",
+    "organization": "Foxway",
+    "country": "",
+    "email": "ove.lidstrom@foxway.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Foxway",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "yvind-bj-rnstad",
+    "name": "Øyvind Bjørnstad",
+    "title": "Head of Strategy x Sustainability / Head of Sustainability",
+    "organization": "Vestre",
+    "country": "",
+    "email": "ob@vestre.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Vestre",
+        "title": "Head of Strategy x Sustainability / Head of Sustainability"
+      },
+      {
+        "year": 2023,
+        "organization": "Vestre",
+        "title": "Head of Strategy x Sustainability / Head of Sustainability"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "pablo-van-den-bosch",
+    "name": "Pablo van den Bosch",
+    "title": "Co-founder / Board Member",
+    "organization": "Madaster",
+    "country": "",
+    "email": "Pablo.vandenbosch@madaster.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Madaster",
+        "title": "Co-founder / Board Member"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "p-l-frisvold",
+    "name": "Pål Frisvold",
+    "title": "EU Specialist",
+    "organization": "EU advisor",
+    "country": "",
+    "email": "Paal@frisvold.eu",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "EU advisor",
+        "title": "EU Specialist"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "patrick-schroeder",
+    "name": "Patrick Schroeder",
+    "title": "Senior Research Fellow",
+    "organization": "Chatam House",
+    "country": "",
+    "email": "PSchroeder@chathamhouse.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Chatam House",
+        "title": "Senior Research Fellow"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "paula-fontell",
+    "name": "Paula Fontell",
+    "title": "CEO & Co-founder",
+    "organization": "Ethica",
+    "country": "",
+    "email": "paula.fontell@ethica.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Ethica",
+        "title": "CEO & Co-founder"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "paula-lehtom-ki",
+    "name": "Paula Lehtomäki",
+    "title": "Secretary General",
+    "organization": "Nordic Council of Ministers",
+    "country": "",
+    "email": "pl@norden.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Nordic Council of Ministers",
+        "title": "Secretary General"
+      },
+      {
+        "year": 2021,
+        "organization": "Nordic Council of Ministers",
+        "title": "Secretary General"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "peter-michel-heilmann",
+    "name": "Peter Michel Heilmann",
+    "title": "Managing Partner, NCH (i 2020)",
+    "organization": "WholstiQ Holding",
+    "country": "",
+    "email": "pm@wholistiq.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "WholstiQ Holding",
+        "title": "Managing Partner, NCH (i 2020)"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "peter-munch-madsen",
+    "name": "Peter Munch-Madsen",
+    "title": "Senior Advisor",
+    "organization": "Nordic Innovation",
+    "country": "",
+    "email": "peter.munch-madsen@nordicinnovation.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Nordic Innovation",
+        "title": "Senior Advisor"
+      },
+      {
+        "year": 2023,
+        "organization": "Nordic Innovation",
+        "title": "Senior Advisor"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-1-opening",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "09:40",
+        "segment": "INTRODUCTION"
+      }
+    ],
+    "segment": null
+  },
+  {
+    "id": "philip-mossop",
+    "name": "Philip Mossop",
+    "title": "Chief Product Officer at Pentatonic",
+    "organization": "Pentatonic",
+    "country": "",
+    "email": "philip.mossop@pentatonic.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Pentatonic",
+        "title": "Chief Product Officer at Pentatonic"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "philip-n-slund",
+    "name": "Philip Näslund",
+    "title": "Strategic Development Officer",
+    "organization": "UMEÅ Kommune & OECD",
+    "country": "",
+    "email": "philip.naslund@umea.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "UMEÅ Kommune & OECD",
+        "title": "Strategic Development Officer"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "pontus-str-hlman",
+    "name": "Pontus Stråhlman",
+    "title": "Partner",
+    "organization": "Voima Ventures",
+    "country": "",
+    "email": "pontus.strahlman@voimaventures.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Voima Ventures",
+        "title": "Partner"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "poul-lindkvist",
+    "name": "Poul Lindkvist",
+    "title": "CEO & Co-founder",
+    "organization": "Environmental Impacts Academy",
+    "country": "",
+    "email": "poul@environmentalacademy.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Environmental Impacts Academy",
+        "title": "CEO & Co-founder"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "prof-dr-jacqueline-cramer",
+    "name": "Prof. Dr. Jacqueline Cramer",
+    "title": "Chair, Supervisory Board",
+    "organization": "Holland Circular Hotspot",
+    "country": "",
+    "email": "J.M.Cramer@uu.nl",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Holland Circular Hotspot",
+        "title": "Chair, Supervisory Board"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ragna-sara-j-nsd-ttir",
+    "name": "Ragna Sara Jónsdóttir",
+    "title": "owner and CEO",
+    "organization": "FOLK Iceland",
+    "country": "",
+    "email": "sara@folkreykjavik.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "FOLK Iceland",
+        "title": "owner and CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ragnheidur-h-magnusdottir",
+    "name": "Ragnheidur H. Magnusdottir",
+    "title": "Co-founder and Investor",
+    "organization": "Nordic Ignite",
+    "country": "",
+    "email": "Ragga@nordicignite.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Nordic Ignite",
+        "title": "Co-founder and Investor"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ragnvald-n-r",
+    "name": "Ragnvald Nærø",
+    "title": "Founder & CEO",
+    "organization": "Smart Energy Network",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Smart Energy Network",
+        "title": "Founder & CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ramona-liberoff",
+    "name": "Ramona Liberoff",
+    "title": "Executive Director",
+    "organization": "Platform for Accelerating the Circular Economy",
+    "country": "",
+    "email": "Ramona.Liberoff@pacecircular.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Platform for Accelerating the Circular Economy",
+        "title": "Executive Director"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "raymond-johansen",
+    "name": "Raymond Johansen",
+    "title": "Governing Mayor City of Oslo ( 2020 )",
+    "organization": "City of Oslo",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "City of Oslo",
+        "title": "Governing Mayor City of Oslo ( 2020 )"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "robert-boyer",
+    "name": "Robert Boyer",
+    "title": "Senior Researcher",
+    "organization": "RISE",
+    "country": "",
+    "email": "robert.boyer@ri.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "RISE",
+        "title": "Senior Researcher"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "robert-nyquist",
+    "name": "Robert Nyquist",
+    "title": "Head of Procurement",
+    "organization": "Implenia Norge AS",
+    "country": "",
+    "email": "robert.nyquist@implenia.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Implenia Norge AS",
+        "title": "Head of Procurement"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "robert-westerdahl",
+    "name": "Robert Westerdahl",
+    "title": "Partner Material Economics",
+    "organization": "Material Economics",
+    "country": "",
+    "email": "robert.westerdahl@materialeconomics.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Material Economics",
+        "title": "Partner Material Economics"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ross-findon",
+    "name": "Ross Findon",
+    "title": "COO",
+    "organization": "Ellen Mac Arthur + TeeMill",
+    "country": "",
+    "email": "ross@teemill.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Ellen Mac Arthur + TeeMill",
+        "title": "COO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "salla-roni-poranen",
+    "name": "Salla Roni-Poranen",
+    "title": "CEO",
+    "organization": "Borealis Polymers Oy",
+    "country": "",
+    "email": "salla.roni-poranen@borealisgroup.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Borealis Polymers Oy",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "sara-andersson",
+    "name": "Sara Andersson",
+    "title": "N/A",
+    "organization": "IVL",
+    "country": "",
+    "email": "sara.anderson@ivl.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "IVL",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "sari-tasa",
+    "name": "Sari Tasa",
+    "title": "N/A",
+    "organization": "Ministry of Emplyment",
+    "country": "",
+    "email": "sari.Tasa@gov.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Ministry of Emplyment",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "sebastian-holmstr-m",
+    "name": "Sebastian Holmström",
+    "title": "N/A",
+    "organization": "Inrego",
+    "country": "",
+    "email": "sebastian.holmstrom@inrego.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Inrego",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "shahriare-mahmood",
+    "name": "Shahriare Mahmood",
+    "title": "Chief Product & Sustainability Officer",
+    "organization": "Spinnova",
+    "country": "",
+    "email": "shahriare.mahmood@spinnova.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Spinnova",
+        "title": "Chief Product & Sustainability Officer"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "sigr-ur-gu-j-nsd-ttir",
+    "name": "Sigríður Guðjónsdóttir",
+    "title": "User researcher",
+    "organization": "Municipality of Reykjavík",
+    "country": "",
+    "email": "siggagudjons@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Municipality of Reykjavík",
+        "title": "User researcher"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "sigr-ur-sk-bjarnad-ttir",
+    "name": "Sigríður Ósk Bjarnadóttir",
+    "title": "Director of Sustainability and Quality",
+    "organization": "Hornsteinn",
+    "country": "",
+    "email": "sirry@hornsteinn.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Hornsteinn",
+        "title": "Director of Sustainability and Quality"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "simo-karetie",
+    "name": "Simo Karetie",
+    "title": "Programme leader",
+    "organization": "Circular Valley",
+    "country": "",
+    "email": "simo.karetie@uudenmaanliitto.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Circular Valley",
+        "title": "Programme leader"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "simon-hjelte",
+    "name": "Simon Hjelte",
+    "title": "Chief Executive Officer",
+    "organization": "NOMS",
+    "country": "",
+    "email": "simon@nomsglobal.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "NOMS",
+        "title": "Chief Executive Officer"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "sofie-pindsle",
+    "name": "Sofie Pindsle",
+    "title": "Prosjektleder (Project Manager)",
+    "organization": "Circular Norway",
+    "country": "",
+    "email": "sp@circularnorway.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Circular Norway",
+        "title": "Prosjektleder (Project Manager)"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "sonia-braska",
+    "name": "Sonia Braska",
+    "title": "N/A",
+    "organization": "Miljöbron",
+    "country": "",
+    "email": "sonia@miljobron.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Miljöbron",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "s-ren-ejlersen",
+    "name": "Søren Ejlersen",
+    "title": "Co-Founder",
+    "organization": "Aarstiderne",
+    "country": "",
+    "email": "se@aarstiderne.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Aarstiderne",
+        "title": "Co-Founder"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "s-ren-hermansen",
+    "name": "Søren Hermansen",
+    "title": "N/A",
+    "organization": "The Island of Samsøe",
+    "country": "",
+    "email": "sh@energiakademiet.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "The Island of Samsøe",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "sraboni-barua",
+    "name": "Sraboni Barua",
+    "title": "Product Sustainability Specialist",
+    "organization": "Danfoss",
+    "country": "",
+    "email": "sraboni.barua@danfoss.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Danfoss",
+        "title": "Product Sustainability Specialist"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "stientje-van-veldoven",
+    "name": "Stientje Van Veldoven",
+    "title": "Leader of world resource institute",
+    "organization": "World Resource Institute",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "World Resource Institute",
+        "title": "Leader of world resource institute"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "susanna-sepponen",
+    "name": "SUSANNA SEPPONEN",
+    "title": "N/A",
+    "organization": "NCE (Gaia)",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "NCE (Gaia)",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "svein-berg",
+    "name": "Svein Berg",
+    "title": "Managing Director",
+    "organization": "Nordic Innovation",
+    "country": "",
+    "email": "svein.berg@nordicinnovation.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Nordic Innovation",
+        "title": "Managing Director"
+      },
+      {
+        "year": 2022,
+        "organization": "Nordic Innovation",
+        "title": "Managing Director"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "sveinung-rotevatn",
+    "name": "Sveinung Rotevatn",
+    "title": "Klima- og miljøminister",
+    "organization": "Norges regjering (i 2020)",
+    "country": "",
+    "email": "N/A",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Norges regjering (i 2020)",
+        "title": "Klima- og miljøminister"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "terhi-koipij-rvi",
+    "name": "Terhi Koipijärvi",
+    "title": "N/A",
+    "organization": "Metsahallitus",
+    "country": "",
+    "email": "Terhi.Koipijarvi@metsa.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Metsahallitus",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "the-d-ra-orsteinsd-ttir",
+    "name": "Theódóra Þorsteinsdóttir",
+    "title": "Project manager aiport management and development",
+    "organization": "Isavia",
+    "country": "",
+    "email": "Theodora.Thorsteinsdottir@isavia.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Isavia",
+        "title": "Project manager aiport management and development"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "thina-margrethe-saltvedt",
+    "name": "Thina Margrethe Saltvedt",
+    "title": "Chief Analyst",
+    "organization": "Nordea",
+    "country": "",
+    "email": "thina.margrethe.saltvedt@nordea.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Nordea",
+        "title": "Chief Analyst"
+      },
+      {
+        "year": 2024,
+        "organization": "Nordea",
+        "title": "Chief Analyst"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "thomas-stergaard-geisler",
+    "name": "Thomas Østergaard-Geisler",
+    "title": "co-founder",
+    "organization": "create2STAY",
+    "country": "",
+    "email": "thomas@create2stay.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "create2STAY",
+        "title": "co-founder"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "thomas-vangsgaard",
+    "name": "Thomas Vangsgaard",
+    "title": "CEO",
+    "organization": "Spejder Sport",
+    "country": "",
+    "email": "tva@spejdersport.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Spejder Sport",
+        "title": "CEO"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "thor-sigf-sson",
+    "name": "Thor Sigfússon",
+    "title": "Founder and chairman Iceland Ocean Cluster",
+    "organization": "Iceland Ocean Cluster",
+    "country": "",
+    "email": "thor@oceancluster.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Iceland Ocean Cluster",
+        "title": "Founder and chairman Iceland Ocean Cluster"
+      },
+      {
+        "year": 2023,
+        "organization": "Iceland Ocean Cluster",
+        "title": "Founder and chairman Iceland Ocean Cluster"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "thor-sverre-minnesjord",
+    "name": "Thor Sverre Minnesjord",
+    "title": "N/A",
+    "organization": "Cycle Technologies",
+    "country": "",
+    "email": "thor@cycled.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Cycle Technologies",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "thordur-reynisson",
+    "name": "Thordur Reynisson",
+    "title": "Head of Program",
+    "organization": "Nordic Innovation",
+    "country": "",
+    "email": "tr@nordicinnovation.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Nordic Innovation",
+        "title": "Head of Program"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "tim-forslund",
+    "name": "Tim Forslund",
+    "title": "Circular Economy Specialist at Sitra",
+    "organization": "SITRA",
+    "country": "",
+    "email": "tim.forslund@sitra.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "SITRA",
+        "title": "Circular Economy Specialist at Sitra"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "timo-huhtam-ki",
+    "name": "Timo Huhtamäki",
+    "title": "CEO, EU Climate Ambassador...",
+    "organization": "Emmy",
+    "country": "",
+    "email": "timo@emmy.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Emmy",
+        "title": "CEO, EU Climate Ambassador..."
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "t-mas-n-m-ller",
+    "name": "Tómas N Möller",
+    "title": "Chief Legal Officer",
+    "organization": "Pension fund of commerce",
+    "country": "",
+    "email": "tomas@live.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Pension fund of commerce",
+        "title": "Chief Legal Officer"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "tomas-zimmerman",
+    "name": "Tomas Zimmerman",
+    "title": "Head of Sustainable Finance, Large Corporates & Institutions",
+    "organization": "Swedbank",
+    "country": "",
+    "email": "tomas.zimmermann@swedbank.se",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Swedbank",
+        "title": "Head of Sustainable Finance, Large Corporates & Institutions"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "trond-moe",
+    "name": "Trond Moe",
+    "title": "Managing Director",
+    "organization": "Nefco",
+    "country": "",
+    "email": "Trond.Moe@nefco.int",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2023,
+        "organization": "Nefco",
+        "title": "Managing Director"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "tuula-jyske",
+    "name": "Tuula Jyske",
+    "title": "Associate Professor",
+    "organization": "University of Helsinki",
+    "country": "",
+    "email": "tuula.jyske@helsinki.fi",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "University of Helsinki",
+        "title": "Associate Professor"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ugn-budri-nait",
+    "name": "Ugnė Budriūnaitė",
+    "title": "Circulent team member / Chairperson / Acting Secretary-General",
+    "organization": "ReGeneration 2030",
+    "country": "",
+    "email": "ugne@regeneration2030.org",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "ReGeneration 2030",
+        "title": "Circulent team member / Chairperson / Acting Secretary-General"
+      },
+      {
+        "year": 2022,
+        "organization": "ReGeneration 2030",
+        "title": "Circulent team member / Chairperson / Acting Secretary-General"
+      },
+      {
+        "year": 2023,
+        "organization": "ReGeneration 2030",
+        "title": "Circulent team member / Chairperson / Acting Secretary-General"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "ulrikke-lien",
+    "name": "Ulrikke Lien",
+    "title": "CEO & Co-founder at Sensorita",
+    "organization": "Sensorita",
+    "country": "",
+    "email": "ulrikke@sensorita.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Sensorita",
+        "title": "CEO & Co-founder at Sensorita"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "veroncia-mike-solheim",
+    "name": "Veroncia Mike Solheim",
+    "title": "N/A / Creative Director",
+    "organization": "Natural State",
+    "country": "",
+    "email": "veronicamike@naturalstate.no",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Natural State",
+        "title": "N/A / Creative Director"
+      },
+      {
+        "year": 2022,
+        "organization": "Natural State",
+        "title": "N/A / Creative Director"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "violetta-massala",
+    "name": "Violetta Massala",
+    "title": "Chairperson ReGeneration 2030",
+    "organization": "ReGeneration 2030",
+    "country": "",
+    "email": "violetta.massala@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "ReGeneration 2030",
+        "title": "Chairperson ReGeneration 2030"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "virginia-vegas",
+    "name": "Virginia Vegas",
+    "title": "Director / N/A",
+    "organization": "Startup Norway / VC Challenge",
+    "country": "",
+    "email": "virginia@vcchallenge.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Startup Norway / VC Challenge",
+        "title": "Director / N/A"
+      },
+      {
+        "year": 2023,
+        "organization": "Startup Norway / VC Challenge",
+        "title": "Director / N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "vivi-avikainen",
+    "name": "Vivi Avikainen",
+    "title": "Investment Manager",
+    "organization": "Nefco - the Nordic Green Bank",
+    "country": "",
+    "email": "vivi.avikainen@nefco.int",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2024,
+        "organization": "Nefco - the Nordic Green Bank",
+        "title": "Investment Manager"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "vojtech-vosecky",
+    "name": "Vojtech Vosecky",
+    "title": "The Nordic Coordinator and Associate / Nordic Assosiate",
+    "organization": "Circle economy",
+    "country": "",
+    "email": "vojtech@circle-economy.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2021,
+        "organization": "Circle economy",
+        "title": "The Nordic Coordinator and Associate / Nordic Assosiate"
+      },
+      {
+        "year": 2022,
+        "organization": "Circle economy",
+        "title": "The Nordic Coordinator and Associate / Nordic Assosiate"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "walter-stahel",
+    "name": "Walter Stahel",
+    "title": "N/A",
+    "organization": "Product Life Institute",
+    "country": "",
+    "email": "wrstahel2014@gmail.com",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Product Life Institute",
+        "title": "N/A"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "zuzana-malinkovi-ov",
+    "name": "Zuzana Malinkovičová",
+    "title": "Project Manager Cataly(c)st",
+    "organization": "Cataly(c)st / DTU Skylab",
+    "country": "",
+    "email": "zuzma@dtu.dk",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2022,
+        "organization": "Cataly(c)st / DTU Skylab",
+        "title": "Project Manager Cataly(c)st"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "rd-s-kolbr-n-reykfj-r-gylfad-ttir",
+    "name": "Þórdís Kolbrún Reykfjörð Gylfadóttir",
+    "title": "Minister of Tourism, Industry and Innovation",
+    "organization": "Icelandic Government",
+    "country": "",
+    "email": "martha.ricart@anr.is",
+    "phone": null,
+    "linkedin": null,
+    "participationHistory": [
+      {
+        "year": 2020,
+        "organization": "Icelandic Government",
+        "title": "Minister of Tourism, Industry and Innovation"
+      },
+      {
+        "year": 2021,
+        "organization": "Icelandic Government",
+        "title": "Minister of Tourism, Industry and Innovation"
+      }
+    ],
+    "sessionRoles": [],
+    "segment": null
+  },
+  {
+    "id": "gorm-vold",
+    "name": "Gorm Vold",
+    "title": "",
+    "organization": "Nalik Ventures",
+    "country": "Greenland",
+    "email": "ggv@nalik.gl",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "Nalik Ventures"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-1-opening",
+        "role": "attendee",
+        "status": "confirmed",
+        "presence": "hybrid",
+        "timeSlot": "09:30",
+        "segment": "Arctic & Greenlandic Perspectives"
+      }
+    ]
+  },
+  {
+    "id": "eva-j-rgensen",
+    "name": "Eva Jørgensen",
+    "title": "",
+    "organization": "Nalik Ventures",
+    "country": "Greenland",
+    "email": "ggv@nalik.gl",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "Nalik Ventures"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-1-opening",
+        "role": "attendee",
+        "status": "confirmed",
+        "presence": "hybrid",
+        "timeSlot": "09:30",
+        "segment": "Arctic & Greenlandic Perspectives"
+      },
+      {
+        "sessionId": "session-1-opening",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "10:20",
+        "segment": "Presenting the programme & Reflect"
+      }
+    ]
+  },
+  {
+    "id": "frederik-thrane",
+    "name": "Frederik Thrane",
+    "title": "",
+    "organization": "N/A",
+    "country": "Finland, Danmark, Sweden, Åland, Norway, Greenland",
+    "email": "alisa@mixicenter.com",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-1-opening",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "09:43",
+        "segment": "Nordic Arctic Panel – Circular Innovation Across Borders"
+      },
+      {
+        "sessionId": "session-4-arctic",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "14:40",
+        "segment": "CLOSURE:"
+      },
+      {
+        "sessionId": "session-4-arctic",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "13:45",
+        "segment": "INTRODUCTION AND WELCOME"
+      },
+      {
+        "sessionId": "session-4-arctic",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "14:15",
+        "segment": "INTRODUCTION"
+      },
+      {
+        "sessionId": "session-4-arctic",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "14:35",
+        "segment": "Closure by moderator(S) and summary:"
+      }
+    ]
+  },
+  {
+    "id": "karin-pedersen-thorsen",
+    "name": "Karin Pedersen Thorsen",
+    "title": "",
+    "organization": "N/A",
+    "country": "Finland, Danmark, Sweden, Åland, Norway, Greenland",
+    "email": "alisa@mixicenter.com",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-1-opening",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "09:43",
+        "segment": "Nordic Arctic Panel – Circular Innovation Across Borders"
+      }
+    ]
+  },
+  {
+    "id": "agita-baltb-rde",
+    "name": "Agita Baltbārde",
+    "title": "",
+    "organization": "N/A",
+    "country": "",
+    "email": "agita.baltbarde@cleanrgrupa.lv",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-1-opening",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "10:11",
+        "segment": "Reflection: The New Nordics"
+      }
+    ]
+  },
+  {
+    "id": "alexandre-leeper",
+    "name": "Alexandre Leeper",
+    "title": "",
+    "organization": "Iceland Ocean Cluster",
+    "country": "Iceland",
+    "email": "alexandra@sjavarklasinn.is",
+    "gender": "Female",
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "Iceland Ocean Cluster"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-2-ocean",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "digital",
+        "timeSlot": "10:50",
+        "segment": "Circular Ocean Industries in the Nordics"
+      }
+    ]
+  },
+  {
+    "id": "kristian-ottesen",
+    "name": "Kristian Ottesen",
+    "title": "",
+    "organization": "Royal Greenland",
+    "country": "Greenland",
+    "email": "krot@royalgreenland.com",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "Royal Greenland"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-2-ocean",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "10:56",
+        "segment": "Keynote: Case Study: 100% Shrimp – Royal Greenland"
+      },
+      {
+        "sessionId": "session-2-ocean",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "11:19",
+        "segment": "Nordic Panel Discussion"
+      },
+      {
+        "sessionId": "session-4-arctic",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "13:50",
+        "segment": "Panel: Anchoring in Greenland"
+      },
+      {
+        "sessionId": "session-4-arctic",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "14:17",
+        "segment": "Panel: How can Compliance, transparancy & tracability become a business driver"
+      }
+    ]
+  },
+  {
+    "id": "michaela-lindstr-m",
+    "name": "Michaela Lindstrøm",
+    "title": "",
+    "organization": "N/A",
+    "country": "Finland",
+    "email": "michaela.lindstrom@hailia.fi",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-2-ocean",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "11:11",
+        "segment": "Keynote: Case: Hailia Nordic – Full Use of Fish Sidestreams"
+      }
+    ]
+  },
+  {
+    "id": "linn-indrestrand",
+    "name": "Linn Indrestrand",
+    "title": "",
+    "organization": "N/A",
+    "country": "Denmark / Norway, Norway, Greenland",
+    "email": "li@portofhirtshals.dk",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-2-ocean",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "11:19",
+        "segment": "Nordic Panel Discussion"
+      }
+    ]
+  },
+  {
+    "id": "monica-paulsen",
+    "name": "Monica Paulsen",
+    "title": "",
+    "organization": "N/A",
+    "country": "Denmark / Norway, Norway, Greenland",
+    "email": "li@portofhirtshals.dk",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-2-ocean",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "11:19",
+        "segment": "Nordic Panel Discussion"
+      }
+    ]
+  },
+  {
+    "id": "alexandra-leeper",
+    "name": "alexandra leeper",
+    "title": "",
+    "organization": "N/A",
+    "country": "Norway",
+    "email": "cathrine@naturalstate.no",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-2-ocean",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "11:40",
+        "segment": "Reflection / Closing"
+      }
+    ]
+  },
+  {
+    "id": "bjartur-nols-e",
+    "name": "Bjartur Nolsøe",
+    "title": "",
+    "organization": "N/A",
+    "country": "Grønland (bor her)/ er fra Færøyene",
+    "email": "bjartur@vestnordenfonden.gl",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-3-locally-rooted",
+        "role": "attendee",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": null,
+        "segment": "Vestnorden-fonden Bjartur Nolsøe"
+      }
+    ]
+  },
+  {
+    "id": "anne-nivika-gr-dem",
+    "name": "Anne Nivika Grødem",
+    "title": "",
+    "organization": "N/A",
+    "country": "",
+    "email": null,
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-3-locally-rooted",
+        "role": "attendee",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": null,
+        "segment": "Anne Nivika Grødem"
+      }
+    ]
+  },
+  {
+    "id": "mika-sulkinoja",
+    "name": "Mika Sulkinoja",
+    "title": "",
+    "organization": "SITRA",
+    "country": "Finland",
+    "email": "mika.sulkinoja@sitra.fi",
+    "gender": "Male",
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "SITRA"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-3-locally-rooted",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "digital",
+        "timeSlot": "12:49",
+        "segment": "Keynote 1"
+      }
+    ]
+  },
+  {
+    "id": "anders-ladefoged",
+    "name": "Anders Ladefoged",
+    "title": "",
+    "organization": "N/A",
+    "country": "Denmark, Britain, Sweden",
+    "email": "a.ladefoged@hotmail.com",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-3-locally-rooted",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "12:58",
+        "segment": "Panel"
+      }
+    ]
+  },
+  {
+    "id": "patrick-schr-der",
+    "name": "Patrick Schröder",
+    "title": "",
+    "organization": "N/A",
+    "country": "Denmark, Britain, Sweden",
+    "email": "a.ladefoged@hotmail.com",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-3-locally-rooted",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "12:58",
+        "segment": "Panel"
+      }
+    ]
+  },
+  {
+    "id": "luca-de-lorenzo",
+    "name": "Luca De Lorenzo",
+    "title": "",
+    "organization": "N/A",
+    "country": "Denmark, Britain, Sweden",
+    "email": "a.ladefoged@hotmail.com",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-3-locally-rooted",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "12:58",
+        "segment": "Panel"
+      }
+    ]
+  },
+  {
+    "id": "lise-lotte-terp",
+    "name": "Lise-Lotte Terp",
+    "title": "",
+    "organization": "N/A",
+    "country": "",
+    "email": "LLTProConsi@outlook.dk",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-4-arctic",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "14:40",
+        "segment": "CLOSURE:"
+      },
+      {
+        "sessionId": "session-4-arctic",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "13:45",
+        "segment": "INTRODUCTION AND WELCOME"
+      },
+      {
+        "sessionId": "session-4-arctic",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "14:15",
+        "segment": "INTRODUCTION"
+      },
+      {
+        "sessionId": "session-4-arctic",
+        "role": "moderator",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "14:35",
+        "segment": "Closure by moderator(S) and summary:"
+      }
+    ]
+  },
+  {
+    "id": "kerli-kant",
+    "name": "Kerli Kant",
+    "title": "",
+    "organization": "N/A",
+    "country": "",
+    "email": null,
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "N/A"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-4-arctic",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "14:40",
+        "segment": "CLOSURE:"
+      }
+    ]
+  },
+  {
+    "id": "mia-chemnitz",
+    "name": "Mia Chemnitz",
+    "title": "",
+    "organization": "Qiviut",
+    "country": "Grønland, Grønland / Danmark",
+    "email": "mia@qiviut.gl",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "Qiviut"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-4-arctic",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "13:50",
+        "segment": "Panel: Anchoring in Greenland"
+      },
+      {
+        "sessionId": "session-4-arctic",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "14:17",
+        "segment": "Panel: How can Compliance, transparancy & tracability become a business driver"
+      }
+    ]
+  },
+  {
+    "id": "gisle-mariani-madal",
+    "name": "Gisle Mariani Madal",
+    "title": "",
+    "organization": "NF&TA",
+    "country": "Norway, Sweden, Greenland, Greenland",
+    "email": "gisle@nfta.no",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "NF&TA"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-4-arctic",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "14:17",
+        "segment": "Panel: How can Compliance, transparancy & tracability become a business driver"
+      }
+    ]
+  },
+  {
+    "id": "tilda-larsson",
+    "name": "Tilda Larsson",
+    "title": "",
+    "organization": "NF&TA",
+    "country": "Norway, Sweden, Greenland, Greenland",
+    "email": "gisle@nfta.no",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "NF&TA"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-4-arctic",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "14:17",
+        "segment": "Panel: How can Compliance, transparancy & tracability become a business driver"
+      }
+    ]
+  },
+  {
+    "id": "ludvig-svensson",
+    "name": "Ludvig Svensson",
+    "title": "",
+    "organization": "NF&TA",
+    "country": "Norway, Sweden, Greenland, Greenland",
+    "email": "gisle@nfta.no",
+    "gender": null,
+    "participationHistory": [
+      {
+        "year": 2025,
+        "organization": "NF&TA"
+      }
+    ],
+    "sessionRoles": [
+      {
+        "sessionId": "session-4-arctic",
+        "role": "speaker",
+        "status": "confirmed",
+        "presence": "nuuk",
+        "timeSlot": "14:17",
+        "segment": "Panel: How can Compliance, transparancy & tracability become a business driver"
+      }
+    ]
+  }
+]
