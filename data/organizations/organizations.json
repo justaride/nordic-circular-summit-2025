@@ -1,0 +1,172 @@
+[
+  {
+    "id": "nordic-circular-hotspot",
+    "name": "Nordic Circular Hotspot",
+    "type": "host",
+    "country": "Nordic",
+    "description": "Primary host organization for the Nordic Circular Summit",
+    "website": "https://nordiccircularhotspot.org",
+    "logo": "",
+    "representatives": ["michel-bajuk"]
+  },
+  {
+    "id": "nordic-innovation",
+    "name": "Nordic Innovation",
+    "type": "host",
+    "country": "Nordic",
+    "description": "Nordic cooperation organization supporting innovation and circular economy",
+    "website": "",
+    "logo": "",
+    "representatives": ["marthe-haugland", "peter-munch-madsen"]
+  },
+  {
+    "id": "wcef",
+    "name": "World Circular Economy Forum",
+    "type": "partner",
+    "country": "International",
+    "description": "Global platform for circular economy - Nordic Circular Summit is an official WCEF Side Event",
+    "website": "",
+    "logo": "",
+    "representatives": []
+  },
+  {
+    "id": "greenland-business-association",
+    "name": "Sulisitsisut (Greenland Business Association)",
+    "type": "partner",
+    "country": "Greenland",
+    "description": "Regional partner representing Greenland business interests",
+    "website": "",
+    "logo": "",
+    "representatives": ["eva-jorgensen"]
+  },
+  {
+    "id": "nalik-ventures",
+    "name": "Nalik Ventures",
+    "type": "partner",
+    "country": "Greenland",
+    "description": "Regional partner supporting venture development",
+    "website": "",
+    "logo": "",
+    "representatives": ["gorm-vold"]
+  },
+  {
+    "id": "natural-state",
+    "name": "Natural State",
+    "type": "partner",
+    "country": "Norway",
+    "description": "Regional partner specializing in circular economy solutions",
+    "website": "",
+    "logo": "",
+    "representatives": ["cathrine-barth", "einar-kleppe-holthe", "jan-thomas-odegard"]
+  },
+  {
+    "id": "lifestyle-design-cluster",
+    "name": "Lifestyle & Design Cluster",
+    "type": "partner",
+    "country": "Denmark",
+    "description": "Regional partner focused on lifestyle and design innovation",
+    "website": "",
+    "logo": "",
+    "representatives": ["frederik-thrane"]
+  },
+  {
+    "id": "mixicenter",
+    "name": "Mixi Center",
+    "type": "partner",
+    "country": "Greenland",
+    "description": "Regional innovation center",
+    "website": "",
+    "logo": "",
+    "representatives": ["alisa-mick"]
+  },
+  {
+    "id": "cradlenet",
+    "name": "Cradlenet",
+    "type": "partner",
+    "country": "Nordic",
+    "description": "Regional partner supporting circular economy initiatives",
+    "website": "",
+    "logo": "",
+    "representatives": []
+  },
+  {
+    "id": "royal-greenland",
+    "name": "Royal Greenland",
+    "type": "corporate",
+    "country": "Greenland",
+    "description": "Leading seafood company",
+    "website": "",
+    "logo": "",
+    "representatives": ["kristian-ottesen"]
+  },
+  {
+    "id": "iceland-ocean-cluster",
+    "name": "Iceland Ocean Cluster",
+    "type": "corporate",
+    "country": "Iceland",
+    "description": "Ocean economy innovation cluster",
+    "website": "",
+    "logo": "",
+    "representatives": ["alexandra-leeper"]
+  },
+  {
+    "id": "nordic-investment-bank",
+    "name": "Nordic Investment Bank",
+    "type": "financial",
+    "country": "Nordic",
+    "description": "International financial institution supporting sustainable development",
+    "website": "",
+    "logo": "",
+    "representatives": ["luca-de-lorenzo"]
+  },
+  {
+    "id": "sitra",
+    "name": "The Finnish Innovation Fund Sitra",
+    "type": "innovation",
+    "country": "Finland",
+    "description": "Finnish innovation fund supporting circular economy",
+    "website": "",
+    "logo": "",
+    "representatives": ["mika-sulkinoja"]
+  },
+  {
+    "id": "chatham-house",
+    "name": "Chatham House",
+    "type": "research",
+    "country": "United Kingdom",
+    "description": "International affairs think tank",
+    "website": "",
+    "logo": "",
+    "representatives": ["patrick-schroder"]
+  },
+  {
+    "id": "aalborg-university",
+    "name": "Aalborg University",
+    "type": "academic",
+    "country": "Denmark",
+    "description": "Research university",
+    "website": "",
+    "logo": "",
+    "representatives": ["kerli-kant-hvass"]
+  },
+  {
+    "id": "nmbu",
+    "name": "Norwegian University of Life Sciences",
+    "type": "academic",
+    "country": "Norway",
+    "description": "University specializing in bioeconomy and life sciences",
+    "website": "",
+    "logo": "",
+    "representatives": ["thore-larsgard"]
+  },
+  {
+    "id": "nord-university",
+    "name": "Nord University Business School",
+    "type": "academic",
+    "country": "Norway",
+    "description": "Business school focusing on innovation",
+    "website": "",
+    "logo": "",
+    "representatives": ["rannveig-edda-hjaltadottir"]
+  }
+]

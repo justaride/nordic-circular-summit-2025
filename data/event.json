@@ -1,0 +1,35 @@
+{
+  "name": "Nordic Circular Summit 2025",
+  "theme": "Circular Frontiers: Shaping our Future",
+  "tagline": "From Remote Realities to Global Blueprints: How Arctic & Nordic communities can shape the next wave of circular innovation",
+  "dates": {
+    "start": "2025-11-19",
+    "end": "2025-11-20"
+  },
+  "location": {
+    "venue": "Hans Egede Hotel",
+    "city": "Nuuk",
+    "country": "Greenland",
+    "timezone": "GMT-2"
+  },
+  "format": {
+    "inPerson": true,
+    "online": true
+  },
+  "description": "The largest annual conference on circular economy in the Nordics. A gathering for changemakers, policymakers, researchers, and businesses focused on circular economy transition.",
+  "website": "https://nordiccircularhotspot.org/summit/nordic-circular-summit-2025",
+  "organizers": [
+    "nordic-circular-hotspot",
+    "nordic-innovation"
+  ],
+  "partners": [
+    "wcef",
+    "greenland-business-association",
+    "nalik-ventures",
+    "natural-state",
+    "lifestyle-design-cluster",
+    "mixicenter",
+    "cradlenet"
+  ],
+  "wcefSideEvent": true
+}

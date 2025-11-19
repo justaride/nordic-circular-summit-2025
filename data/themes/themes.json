@@ -1,0 +1,72 @@
+[
+  {
+    "id": "circular-economy",
+    "name": "Circular Economy",
+    "description": "Core theme of transitioning from linear to circular economic models",
+    "keywords": ["circular economy", "resource efficiency", "waste reduction", "closed-loop systems"],
+    "color": "#10b981"
+  },
+  {
+    "id": "ocean-industries",
+    "name": "Ocean Industries",
+    "description": "Sustainable practices in fisheries, aquaculture, and marine resources",
+    "keywords": ["fisheries", "aquaculture", "marine resources", "blue economy", "seafood"],
+    "color": "#3b82f6"
+  },
+  {
+    "id": "materials-innovation",
+    "name": "Materials & Innovation",
+    "description": "Development and use of sustainable, locally-sourced materials",
+    "keywords": ["materials", "local sourcing", "innovation", "biomaterials", "textiles"],
+    "color": "#8b5cf6"
+  },
+  {
+    "id": "sustainable-lifestyles",
+    "name": "Sustainable Lifestyles",
+    "description": "Consumption patterns and lifestyle choices supporting circularity",
+    "keywords": ["lifestyle", "consumption", "behavior change", "culture"],
+    "color": "#f59e0b"
+  },
+  {
+    "id": "arctic-nordic-context",
+    "name": "Arctic & Nordic Context",
+    "description": "Regional approaches and challenges specific to Arctic and Nordic regions",
+    "keywords": ["arctic", "nordic", "greenland", "remote communities", "local solutions"],
+    "color": "#06b6d4"
+  },
+  {
+    "id": "construction-building",
+    "name": "Construction & Building",
+    "description": "Sustainable construction practices and circular building materials",
+    "keywords": ["construction", "building", "housing", "infrastructure"],
+    "color": "#ef4444"
+  },
+  {
+    "id": "textiles-fashion",
+    "name": "Textiles & Fashion",
+    "description": "Circular approaches in textile and fashion industries",
+    "keywords": ["textiles", "fashion", "clothing", "fiber", "apparel"],
+    "color": "#ec4899"
+  },
+  {
+    "id": "policy-governance",
+    "name": "Policy & Governance",
+    "description": "Regulatory frameworks and policies supporting circular transition",
+    "keywords": ["policy", "regulation", "governance", "government", "municipal"],
+    "color": "#6366f1"
+  },
+  {
+    "id": "innovation-entrepreneurship",
+    "name": "Innovation & Entrepreneurship",
+    "description": "Business innovation and entrepreneurial approaches to circularity",
+    "keywords": ["innovation", "entrepreneurship", "startups", "business models"],
+    "color": "#14b8a6"
+  },
+  {
+    "id": "finance-investment",
+    "name": "Finance & Investment",
+    "description": "Financial mechanisms supporting circular economy transition",
+    "keywords": ["finance", "investment", "funding", "capital"],
+    "color": "#84cc16"
+  }
+]
