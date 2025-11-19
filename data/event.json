@@ -2,6 +2,8 @@
   "name": "Nordic Circular Summit 2025",
   "theme": "Circular Frontiers: Shaping our Future",
   "tagline": "From Remote Realities to Global Blueprints: How Arctic & Nordic communities can shape the next wave of circular innovation",
+  "edition": 6,
+  "significance": "First time the summit is held in one of the North Atlantic autonomous regions",
   "dates": {
     "start": "2025-11-19",
     "end": "2025-11-20"
@@ -10,11 +12,21 @@
     "venue": "Hans Egede Hotel",
     "city": "Nuuk",
     "country": "Greenland",
+    "region": "North Atlantic Autonomous Region",
     "timezone": "GMT-2"
   },
   "format": {
     "inPerson": true,
-    "online": true
+    "online": true,
+    "expectedAttendance": {
+      "total": 2600,
+      "inPerson": 100,
+      "online": 2500
+    },
+    "ticketing": {
+      "physicalPrice": "5000 NOK / 500 EUR (2 days incl. receptions)",
+      "onlinePrice": "Free and open to all"
+    }
   },
   "description": "The largest annual conference on circular economy in the Nordics. A gathering for changemakers, policymakers, researchers, and businesses focused on circular economy transition.",
   "website": "https://nordiccircularhotspot.org/summit/nordic-circular-summit-2025",
@@ -31,5 +43,36 @@
     "mixicenter",
     "cradlenet"
   ],
-  "wcefSideEvent": true
+  "wcefSideEvent": true,
+  "funding": {
+    "nordicInnovationSupport": 500000,
+    "currency": "NOK",
+    "note": "This is the last year Nordic Innovation provides financial support - future summits must be funded through other partners"
+  },
+  "travel": {
+    "flights": {
+      "routes": ["Copenhagen", "Reykjavik"],
+      "mainFlight": {
+        "outbound": {
+          "date": "2025-11-18",
+          "departure": "Copenhagen 10:45",
+          "arrival": "Nuuk 12:35",
+          "flight": "GL780"
+        },
+        "return": {
+          "date": "2025-11-21",
+          "departure": "Nuuk 12:10",
+          "arrival": "Copenhagen 19:30",
+          "flight": "GL780"
+        }
+      },
+      "note": "Limited seats - early booking recommended"
+    }
+  },
+  "history": {
+    "2020": "First summit",
+    "2021-2023": "Held in various Nordic capitals",
+    "2024": "Helsinki, Finland (during Slush week, entrepreneurship theme)",
+    "2025": "Nuuk, Greenland (first time in autonomous regions)"
+  }
 }

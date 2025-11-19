@@ -7,14 +7,14 @@
     "endTime": "10:30",
     "timezone": "GMT-2",
     "type": "keynote",
-    "description": "Opening keynote session exploring how Arctic and Nordic communities can shape the next wave of circular innovation",
-    "speakers": [],
+    "description": "Opening keynote session exploring how Arctic and Nordic communities can shape the next wave of circular innovation. Overarching theme about circular innovation in the Arctic.",
+    "speakers": ["marthe-haugland", "agita-baltbarde"],
     "moderators": [],
-    "topics": ["circular economy", "innovation", "arctic", "nordic"],
+    "topics": ["circular economy", "innovation", "arctic", "nordic", "circular frontiers"],
     "location": "Hans Egede Hotel, Nuuk, Greenland",
     "onlineAvailable": true,
     "transcriptFile": "",
-    "notes": ""
+    "notes": "Opening session setting the tone for the summit"
   },
   {
     "id": "circular-ocean-industries",
@@ -24,14 +24,14 @@
     "endTime": "11:45",
     "timezone": "GMT-2",
     "type": "panel",
-    "description": "Industry-focused discussion on circular economy in ocean-based industries",
-    "speakers": [],
+    "description": "Nordic collaboration in blue industry. Discussion covering ocean economy, fisheries, and marine resources with key industry players.",
+    "speakers": ["kristian-ottesen", "alexandra-leeper", "linn-indrestrand"],
     "moderators": [],
-    "topics": ["ocean economy", "fisheries", "marine resources", "circular economy"],
+    "topics": ["ocean economy", "fisheries", "marine resources", "circular economy", "blue industry", "nordic collaboration"],
     "location": "Hans Egede Hotel, Nuuk, Greenland",
     "onlineAvailable": true,
     "transcriptFile": "",
-    "notes": ""
+    "notes": "Focus on Royal Greenland, Iceland Ocean Cluster, Danish Ocean Cluster, Halibut Greenland, Polar Seafood"
   },
   {
     "id": "locally-rooted-materialising",
@@ -40,15 +40,15 @@
     "startTime": "12:45",
     "endTime": "13:30",
     "timezone": "GMT-2",
-    "type": "workshop",
-    "description": "Material innovation session focusing on locally sourced and circular materials",
-    "speakers": [],
-    "moderators": [],
-    "topics": ["materials", "local sourcing", "innovation", "circular design"],
+    "type": "panel",
+    "description": "Self-sufficiency and resilient local economies. Material innovation session focusing on locally sourced and circular materials, seasonal food, local production and knowledge.",
+    "speakers": ["mika-sulkinoja", "patrick-schroder", "anders-ladefoged", "luca-de-lorenzo"],
+    "moderators": ["alisa-mick", "keira-dignan"],
+    "topics": ["materials", "local sourcing", "innovation", "circular design", "self-sufficiency", "local economy", "food systems"],
     "location": "Hans Egede Hotel, Nuuk, Greenland",
     "onlineAvailable": true,
     "transcriptFile": "",
-    "notes": ""
+    "notes": "Includes discussion of Arctic food innovation, reindeer, musk ox, fat production with INNOVA"
   },
   {
     "id": "arctic-nordic-lifestyles",
@@ -58,30 +58,75 @@
     "endTime": "14:45",
     "timezone": "GMT-2",
     "type": "panel",
-    "description": "Lifestyle and consumption focus exploring sustainable living in Arctic and Nordic regions",
-    "speakers": [],
+    "description": "Circular traditions, culture and knowledge. Lifestyle and consumption focus exploring sustainable living in Arctic and Nordic regions.",
+    "speakers": ["gisle-mariani-mardal", "tilda-larsson", "michaela-lindstrom", "mia-chemnitz"],
     "moderators": [],
-    "topics": ["lifestyle", "consumption", "sustainability", "culture"],
+    "topics": ["lifestyle", "consumption", "sustainability", "culture", "textiles", "traditional knowledge"],
     "location": "Hans Egede Hotel, Nuuk, Greenland",
     "onlineAvailable": true,
     "transcriptFile": "",
-    "notes": ""
+    "notes": "Focus on Nordic Baltic Textile Transition Group, local materials like qiviut"
+  },
+  {
+    "id": "circular-cities-regions",
+    "day": 1,
+    "title": "Circular Cities and Regions",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "timezone": "GMT-2",
+    "type": "panel",
+    "description": "Technology and digitalization in circular transition. Focus on how cities and regions can implement circular economy principles.",
+    "speakers": ["terje-eide", "olle-kaldstrom"],
+    "moderators": [],
+    "topics": ["smart cities", "technology", "digitalization", "regional development", "circular economy"],
+    "location": "Hans Egede Hotel, Nuuk, Greenland",
+    "onlineAvailable": true,
+    "transcriptFile": "",
+    "notes": "Technology and digitalization focus"
   },
   {
     "id": "partner-digital-sessions",
     "day": 2,
     "title": "Partner-Hosted Digital Sessions",
-    "startTime": "09:00",
-    "endTime": "17:00",
+    "startTime": "08:00",
+    "endTime": "14:00",
     "timezone": "GMT-2",
     "type": "digital",
     "description": "Full day of digital sessions hosted by Summit Partners, highlighting circular initiatives, research, and case studies from across the Arctic and Nordic region",
     "speakers": [],
     "moderators": [],
-    "topics": ["research", "case studies", "initiatives", "circular economy"],
-    "location": "Online",
+    "topics": ["research", "case studies", "initiatives", "circular economy", "partnerships"],
+    "location": "Online + Nalik Venture office + locations around Nuuk",
     "onlineAvailable": true,
     "transcriptFile": "",
-    "notes": "Multiple partner-hosted sessions throughout the day"
+    "notes": "Organized in time slots: 08:00-09:00, 10:00-11:00, 11:30-12:30, 13:00-14:00. Thematic partner sessions include: Nordic Baltic Textile Transition Group, Critical Raw Materials, Circular Knowledge",
+    "partnerSessions": [
+      {
+        "time": "08:00-09:00",
+        "topics": ["Various partner sessions"]
+      },
+      {
+        "time": "10:00-11:00",
+        "topics": ["Various partner sessions"]
+      },
+      {
+        "time": "11:30-12:30",
+        "topics": ["Various partner sessions"]
+      },
+      {
+        "time": "13:00-14:00",
+        "topics": ["Various partner sessions"]
+      }
+    ],
+    "keyPartnerTopics": [
+      "Nordic Baltic Textile Transition Group",
+      "Critical Raw Materials",
+      "Circular Knowledge",
+      "Waste Management in Greenland",
+      "Local production and knowledge",
+      "Ocean industry partnerships",
+      "Financing and capital",
+      "Mining and minerals"
+    ]
   }
 ]
