@@ -9,7 +9,11 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["fisheries", "agriculture", "self-sufficiency"]
+    "topics": [
+      "fisheries",
+      "agriculture",
+      "self-sufficiency"
+    ]
   },
   {
     "id": "embla-kristjansdottir",
@@ -21,7 +25,14 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["construction", "housing", "infrastructure"]
+    "topics": [
+      "construction",
+      "housing",
+      "infrastructure"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/embla-kristjánsdóttir-6499a933/"
+    }
   },
   {
     "id": "carl-egede-boggild",
@@ -33,7 +44,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["education", "culture"]
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/carl-egede-bøggild-b18146b2/"
+    }
   },
   {
     "id": "kim-zinck-jorgensen",
@@ -45,7 +62,11 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["business", "mineral resources", "energy"]
+    "topics": [
+      "business",
+      "mineral resources",
+      "energy"
+    ]
   },
   {
     "id": "isabelle-scott",
@@ -57,7 +78,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["critical minerals", "international policy"]
+    "topics": [
+      "critical minerals",
+      "international policy"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/isabelle-scott-67258b83/"
+    }
   },
   {
     "id": "malene-vahl-rasmussen",
@@ -69,7 +96,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["local government", "municipal policy"]
+    "topics": [
+      "local government",
+      "municipal policy"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/malene-vahl-rasmussen-134398149/"
+    }
   },
   {
     "id": "inese-suija-markova",
@@ -81,7 +114,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["local government", "municipal policy"]
+    "topics": [
+      "local government",
+      "municipal policy"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/inese-suija-markova-7819301/"
+    }
   },
   {
     "id": "kristian-ottesen",
@@ -90,10 +129,18 @@
     "organization": "Royal Greenland",
     "country": "Greenland",
     "category": "corporate",
-    "bio": "",
+    "bio": "Director at Royal Greenland, focused on creating value from side-streams in the fishing industry. Experienced entrepreneur in developing innovative food products. Among the first to bring seaweed to commercial level in Northern European market. MSc in Strategy, Organization & Leadership from Copenhagen Business School.",
     "photo": "",
-    "sessions": [],
-    "topics": ["fisheries", "seafood industry"]
+    "sessions": [
+      "circular-ocean-industries"
+    ],
+    "topics": [
+      "fisheries",
+      "seafood industry"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/kristianottesen"
+    }
   },
   {
     "id": "inooraq-brandt",
@@ -105,7 +152,10 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["engineering", "consulting"]
+    "topics": [
+      "engineering",
+      "consulting"
+    ]
   },
   {
     "id": "alexandra-leeper",
@@ -114,10 +164,18 @@
     "organization": "Iceland Ocean Cluster",
     "country": "Iceland",
     "category": "corporate",
-    "bio": "",
+    "bio": "CEO of Iceland Ocean Cluster. PhD researcher working as scientist intrapreneur in blue and circular economies. Completed industrial doctorate in aquaculture and circular economy in 2021. Co-founder of Hringvarmi, an agri-tech startup utilizing waste heat for controlled environment food production.",
     "photo": "",
-    "sessions": [],
-    "topics": ["ocean economy", "marine resources"]
+    "sessions": [
+      "circular-ocean-industries"
+    ],
+    "topics": [
+      "ocean economy",
+      "marine resources"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/alexandra-leeper-phd-92410150"
+    }
   },
   {
     "id": "michaela-lindstrom",
@@ -129,7 +187,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["textiles", "sustainability"]
+    "topics": [
+      "textiles",
+      "sustainability"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/michaelal/"
+    }
   },
   {
     "id": "mia-chemnitz",
@@ -141,7 +205,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["textiles", "local materials"]
+    "topics": [
+      "textiles",
+      "local materials"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/mia-chemnitz-20b44b97/"
+    }
   },
   {
     "id": "linn-indrestrand",
@@ -153,7 +223,14 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["maritime", "fisheries", "ports"]
+    "topics": [
+      "maritime",
+      "fisheries",
+      "ports"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/linn-indrestrand-57415359/"
+    }
   },
   {
     "id": "kerli-kant-hvass",
@@ -165,7 +242,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["circular economy", "revaluation"]
+    "topics": [
+      "circular economy",
+      "revaluation"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/kerli-kant-hvass-phd-b24885/"
+    }
   },
   {
     "id": "thore-larsgard",
@@ -177,7 +260,10 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["bioeconomy", "agriculture"]
+    "topics": [
+      "bioeconomy",
+      "agriculture"
+    ]
   },
   {
     "id": "rannveig-edda-hjaltadottir",
@@ -189,7 +275,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["innovation", "business development"]
+    "topics": [
+      "innovation",
+      "business development"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/rannveig-edda-hjaltadóttir-aa672496/"
+    }
   },
   {
     "id": "patrick-schroder",
@@ -198,10 +290,18 @@
     "organization": "Chatham House",
     "country": "United Kingdom",
     "category": "academic",
-    "bio": "",
+    "bio": "Senior Research Fellow at Chatham House, IPCC AR7 Coordinating Lead Author, and UNEP GEO-7 Coordinating Lead Author. Led research on global transition to inclusive circular economy. Academic work published in Nature Sustainability and Journal of Industrial Ecology. Editor of two books on circular economy.",
     "photo": "",
-    "sessions": [],
-    "topics": ["research", "circular economy"]
+    "sessions": [
+      "locally-rooted-materialising"
+    ],
+    "topics": [
+      "research",
+      "circular economy"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/patrick-schröder-b5789119"
+    }
   },
   {
     "id": "gisle-mariani-mardal",
@@ -210,10 +310,19 @@
     "organization": "NF&TA – National cluster for the fashion and textile industry in Norway",
     "country": "Norway",
     "category": "industry",
-    "bio": "",
+    "bio": "Chairman of Nordic Fashion Association and Head of Development at Norwegian Fashion & Textile Agenda (NF&TA). Designer, entrepreneur and political lobbyist specialized in business and industry development in creative industries. MSc in Innovation and Entrepreneurship from BI Norwegian Business School.",
     "photo": "",
-    "sessions": [],
-    "topics": ["textiles", "fashion", "innovation"]
+    "sessions": [
+      "arctic-nordic-lifestyles"
+    ],
+    "topics": [
+      "textiles",
+      "fashion",
+      "innovation"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/gisle-mariani-mardal-25a4b420"
+    }
   },
   {
     "id": "tilda-larsson",
@@ -225,7 +334,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["textiles", "product development"]
+    "topics": [
+      "textiles",
+      "product development"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/tilda-larsson/"
+    }
   },
   {
     "id": "agita-baltbarde",
@@ -234,10 +349,18 @@
     "organization": "CleanR Grupa",
     "country": "Latvia",
     "category": "industry",
-    "bio": "",
+    "bio": "Board Member at CleanR Grupa and European Climate Pact Ambassador to Latvia. Initiator of the Circular Economy Index, the first scientifically-based circularity assessment tool involving 100% of Latvian municipalities. Corporate and public affairs leader.",
     "photo": "",
-    "sessions": [],
-    "topics": ["waste management", "recycling"]
+    "sessions": [
+      "circular-frontiers-opening"
+    ],
+    "topics": [
+      "waste management",
+      "recycling"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/agita-baltbārde-81105425"
+    }
   },
   {
     "id": "lise-lotte-terp",
@@ -249,7 +372,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["consulting", "sustainability"]
+    "topics": [
+      "consulting",
+      "sustainability"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/lise-lotte-terp/"
+    }
   },
   {
     "id": "anne-mette-christiansen",
@@ -261,7 +390,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["corporate social responsibility", "sustainability"]
+    "topics": [
+      "corporate social responsibility",
+      "sustainability"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/annemettechristiansencsr/"
+    }
   },
   {
     "id": "eva-jorgensen",
@@ -273,7 +408,10 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["legal", "business"]
+    "topics": [
+      "legal",
+      "business"
+    ]
   },
   {
     "id": "helle-redder-momsen",
@@ -285,7 +423,10 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["sustainable construction", "building"]
+    "topics": [
+      "sustainable construction",
+      "building"
+    ]
   },
   {
     "id": "monica-paulsen",
@@ -297,7 +438,10 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["cluster development", "arctic"]
+    "topics": [
+      "cluster development",
+      "arctic"
+    ]
   },
   {
     "id": "luca-de-lorenzo",
@@ -306,10 +450,19 @@
     "organization": "Nordic Investment Bank",
     "country": "Nordic",
     "category": "organization",
-    "bio": "",
+    "bio": "Former Senior Director/Head of Sustainability & Mandate at Nordic Investment Bank (6.5 years). Previously headed climate, energy and society unit at Stockholm Environment Institute (SEI). Co-founded Stockholm Sustainable Finance Centre. Background as engineer in corporate energy sector and management consulting. Princeton University educated.",
     "photo": "",
-    "sessions": [],
-    "topics": ["finance", "sustainability", "investment"]
+    "sessions": [
+      "locally-rooted-materialising"
+    ],
+    "topics": [
+      "finance",
+      "sustainability",
+      "investment"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/luca-de-lorenzo-27702b2b"
+    }
   },
   {
     "id": "gorm-vold",
@@ -321,7 +474,10 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["consulting", "venture development"]
+    "topics": [
+      "consulting",
+      "venture development"
+    ]
   },
   {
     "id": "anders-ladefoged",
@@ -333,7 +489,10 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["policy", "economic development"]
+    "topics": [
+      "policy",
+      "economic development"
+    ]
   },
   {
     "id": "frederik-thrane",
@@ -345,7 +504,14 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["circular economy", "lifestyle", "design"]
+    "topics": [
+      "circular economy",
+      "lifestyle",
+      "design"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/frederik-thrane-264064b/"
+    }
   },
   {
     "id": "talis-linkaits",
@@ -357,7 +523,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["energy", "project management"]
+    "topics": [
+      "energy",
+      "project management"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/tālis-linkaits-130b514/"
+    }
   },
   {
     "id": "dan-mikkin",
@@ -369,7 +541,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["sustainability", "design"]
+    "topics": [
+      "sustainability",
+      "design"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/danmikkin/"
+    }
   },
   {
     "id": "maarja-karlson",
@@ -381,7 +559,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["sustainability", "design"]
+    "topics": [
+      "sustainability",
+      "design"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/maarja-karlson/"
+    }
   },
   {
     "id": "marthe-haugland",
@@ -390,10 +574,18 @@
     "organization": "Nordic Innovation",
     "country": "Nordic",
     "category": "sustainability",
-    "bio": "",
+    "bio": "Senior Innovation Advisor and Head of the Circular Economy Program at Nordic Innovation. More than 7 years of experience with circular economy and circular business models in Nordic companies and organizations. Holds a master's degree in international relations.",
     "photo": "",
-    "sessions": [],
-    "topics": ["circular economy", "innovation"]
+    "sessions": [
+      "circular-frontiers-opening"
+    ],
+    "topics": [
+      "circular economy",
+      "innovation"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/marthe-haugland-5315031"
+    }
   },
   {
     "id": "mika-sulkinoja",
@@ -402,10 +594,18 @@
     "organization": "The Finnish Innovation Fund Sitra",
     "country": "Finland",
     "category": "sustainability",
-    "bio": "",
+    "bio": "Leading Specialist, Carbon Neutral Circular Economy at Sitra. Plans and intensifies Sitra's international cooperation in circular economy and climate fields. Master's in social sciences from University of Tampere, with supplemental studies in environmental economy in Berlin and climate themes at Harvard.",
     "photo": "",
-    "sessions": [],
-    "topics": ["innovation", "circular economy"]
+    "sessions": [
+      "locally-rooted-materialising"
+    ],
+    "topics": [
+      "innovation",
+      "circular economy"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/mikasulkinoja"
+    }
   },
   {
     "id": "michel-bajuk",
@@ -414,10 +614,16 @@
     "organization": "Nordic Circular Hotspot",
     "country": "Nordic",
     "category": "sustainability",
-    "bio": "",
+    "bio": "Managing Partner at Nordic Circular Hotspot and Director of Cradlenet. Co-author of 'Circular Economy Outlook 2024' examining how Nordic public companies integrate circular strategies. Key figure in accelerating circular economy transition in Nordic region.",
     "photo": "",
     "sessions": [],
-    "topics": ["circular economy", "hotspot management"]
+    "topics": [
+      "circular economy",
+      "hotspot management"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/michelbajuk/"
+    }
   },
   {
     "id": "cathrine-barth",
@@ -429,7 +635,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["circular economy", "strategy"]
+    "topics": [
+      "circular economy",
+      "strategy"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/cathrine-barth-8b75235a/"
+    }
   },
   {
     "id": "einar-kleppe-holthe",
@@ -441,7 +653,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["circular economy", "entrepreneurship"]
+    "topics": [
+      "circular economy",
+      "entrepreneurship"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/einar-kleppe-holthe-a27bb040/"
+    }
   },
   {
     "id": "alisa-mick",
@@ -453,7 +671,13 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["innovation", "circular economy"]
+    "topics": [
+      "innovation",
+      "circular economy"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/alisa-mick-72196b69/"
+    }
   },
   {
     "id": "peter-munch-madsen",
@@ -465,7 +689,10 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["innovation", "circular economy"]
+    "topics": [
+      "innovation",
+      "circular economy"
+    ]
   },
   {
     "id": "jan-thomas-odegard",
@@ -477,6 +704,9 @@
     "bio": "",
     "photo": "",
     "sessions": [],
-    "topics": ["project management", "circular economy"]
+    "topics": [
+      "project management",
+      "circular economy"
+    ]
   }
 ]

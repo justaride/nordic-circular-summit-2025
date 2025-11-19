@@ -9,6 +9,18 @@ export interface Speaker {
   photo: string;
   sessions: string[];
   topics: string[];
+  contact?: {
+    email?: string;
+    linkedin?: string;
+    twitter?: string;
+    website?: string;
+    phone?: string;
+  };
+  links?: {
+    companyProfile?: string;
+    articles?: string[];
+    presentations?: string[];
+  };
 }
 
 export interface Session {
@@ -38,6 +50,19 @@ export interface Organization {
   website: string;
   logo: string;
   representatives: string[];
+  contact?: {
+    email?: string;
+    phone?: string;
+    linkedin?: string;
+    twitter?: string;
+    address?: string;
+  };
+  details?: {
+    founded?: string;
+    employees?: string;
+    industry?: string;
+    focus?: string[];
+  };
 }
 
 export interface Theme {
@@ -102,12 +127,24 @@ export interface Article {
 export interface SocialMediaPost {
   id: string;
   platform: 'linkedin' | 'twitter' | 'instagram' | 'facebook';
-  sessionId: string;
+  date: string;
+  time_relative?: string;
+  author?: string;
+  author_title?: string;
   content: string;
+  hashtags: string[];
+  mentions: string[];
   media: string[];
-  tags: string[];
-  scheduledFor: string;
+  engagement: {
+    likes: number;
+    comments: number;
+    shares?: number;
+  };
   status: 'draft' | 'scheduled' | 'published';
+  post_type: string;
+  language?: string;
+  sessionId?: string;
+  scheduledFor?: string;
 }
 
 export interface Highlight {

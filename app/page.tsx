@@ -97,10 +97,17 @@ export default function Home() {
             </p>
           </Link>
 
+          <Link href="/social-media" className="bg-gradient-to-br from-purple-600 to-pink-600 rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow text-white">
+            <h3 className="text-xl font-bold mb-2">Social Media</h3>
+            <p className="opacity-90">
+              Historical posts, workflow, and content calendar
+            </p>
+          </Link>
+
           <Link href="/outputs" className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow">
             <h3 className="text-xl font-bold text-gray-900 mb-2">Content Outputs</h3>
             <p className="text-gray-600">
-              Articles, social media posts, and highlights
+              Articles, highlights, and generated content
             </p>
           </Link>
 

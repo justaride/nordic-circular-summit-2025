@@ -4,20 +4,52 @@
     "name": "Nordic Circular Hotspot",
     "type": "host",
     "country": "Nordic",
-    "description": "Primary host organization for the Nordic Circular Summit",
+    "description": "Collaboration platform accelerating transition to circular economy in Nordic region. Provides events, initiatives, networking opportunities and knowledge-sharing. Secretariat hosted by Natural State in Oslo.",
     "website": "https://nordiccircularhotspot.org",
     "logo": "",
-    "representatives": ["michel-bajuk"]
+    "representatives": [
+      "michel-bajuk"
+    ],
+    "contact": {
+      "linkedin": "https://no.linkedin.com/company/nordiccircularhotspot"
+    },
+    "details": {
+      "industry": "Circular Economy Network",
+      "focus": [
+        "Nordic collaboration",
+        "Circular innovation",
+        "Knowledge sharing",
+        "Sustainable business models"
+      ]
+    }
   },
   {
     "id": "nordic-innovation",
     "name": "Nordic Innovation",
     "type": "host",
     "country": "Nordic",
-    "description": "Nordic cooperation organization supporting innovation and circular economy",
-    "website": "",
+    "description": "Organization under Nordic Council of Ministers promoting entrepreneurship, innovation and competitiveness in Nordic businesses. Makes the Nordics a pioneering region for sustainable growth. Final year of funding Nordic Circular Summit (500,000 NOK).",
+    "website": "https://www.nordicinnovation.org",
     "logo": "",
-    "representatives": ["marthe-haugland", "peter-munch-madsen"]
+    "representatives": [
+      "marthe-haugland",
+      "peter-munch-madsen"
+    ],
+    "contact": {
+      "email": "info@nordicinnovation.org",
+      "phone": "+47 476 14 400",
+      "address": "Stensberggt. 27, 5th Floor, NO-0170 Oslo, Norway",
+      "linkedin": "https://no.linkedin.com/company/nordic-innovation"
+    },
+    "details": {
+      "industry": "Nordic Cooperation & Innovation",
+      "focus": [
+        "Cross-border innovation",
+        "Sustainable growth",
+        "Nordic cooperation",
+        "Circular economy programs"
+      ]
+    }
   },
   {
     "id": "wcef",
@@ -37,7 +69,9 @@
     "description": "Regional partner representing Greenland business interests",
     "website": "",
     "logo": "",
-    "representatives": ["eva-jorgensen"]
+    "representatives": [
+      "eva-jorgensen"
+    ]
   },
   {
     "id": "nalik-ventures",
@@ -47,17 +81,38 @@
     "description": "Regional partner supporting venture development",
     "website": "",
     "logo": "",
-    "representatives": ["gorm-vold"]
+    "representatives": [
+      "gorm-vold"
+    ]
   },
   {
     "id": "natural-state",
     "name": "Natural State",
     "type": "partner",
     "country": "Norway",
-    "description": "Regional partner specializing in circular economy solutions",
-    "website": "",
+    "description": "Strategy agency specializing in place development and sustainable economics. Hosts the secretariat for Nordic Circular Hotspot. Small group of purpose-driven strategists with expertise in operations, economics, place building and branding.",
+    "website": "https://naturalstate.no",
     "logo": "",
-    "representatives": ["cathrine-barth", "einar-kleppe-holthe", "jan-thomas-odegard"]
+    "representatives": [
+      "cathrine-barth",
+      "einar-kleppe-holthe",
+      "jan-thomas-odegard"
+    ],
+    "contact": {
+      "email": "contact@naturalstate.no",
+      "phone": "+47 22 38 00 00",
+      "address": "St Halvards gate 33, Oslo, Norway",
+      "linkedin": "https://www.linkedin.com/company/naturalstate"
+    },
+    "details": {
+      "industry": "Strategy & Place Development",
+      "focus": [
+        "Circular economy",
+        "Sustainable economics",
+        "Place branding",
+        "Nordic cooperation"
+      ]
+    }
   },
   {
     "id": "lifestyle-design-cluster",
@@ -67,7 +122,9 @@
     "description": "Regional partner focused on lifestyle and design innovation",
     "website": "",
     "logo": "",
-    "representatives": ["frederik-thrane"]
+    "representatives": [
+      "frederik-thrane"
+    ]
   },
   {
     "id": "mixicenter",
@@ -77,7 +134,9 @@
     "description": "Regional innovation center",
     "website": "",
     "logo": "",
-    "representatives": ["alisa-mick"]
+    "representatives": [
+      "alisa-mick"
+    ]
   },
   {
     "id": "cradlenet",
@@ -94,20 +153,54 @@
     "name": "Royal Greenland",
     "type": "corporate",
     "country": "Greenland",
-    "description": "Leading seafood company",
-    "website": "",
+    "description": "World's largest supplier of cold-water prawns and Greenland halibut. Leading seafood company focused on sustainable fishing practices and innovative by-product utilization.",
+    "website": "https://www.royalgreenland.com",
     "logo": "",
-    "representatives": ["kristian-ottesen"]
+    "representatives": [
+      "kristian-ottesen"
+    ],
+    "contact": {
+      "email": "info@royalgreenland.com",
+      "phone": "+299 361 300",
+      "address": "Qasapi 4, Postbox 1073, 3900 Nuuk, Greenland",
+      "linkedin": "https://gl.linkedin.com/company/royal-greenland"
+    },
+    "details": {
+      "industry": "Seafood Processing & Distribution",
+      "focus": [
+        "Sustainable fishing",
+        "By-product utilization",
+        "Seafood innovation",
+        "Arctic resources"
+      ]
+    }
   },
   {
     "id": "iceland-ocean-cluster",
     "name": "Iceland Ocean Cluster",
     "type": "corporate",
     "country": "Iceland",
-    "description": "Ocean economy innovation cluster",
-    "website": "",
+    "description": "Innovation hub and incubator for ocean-based businesses. Promotes 100% fish utilization and circular practices in marine industries. Provides funding mechanisms for ocean startups.",
+    "website": "https://sjavarklasinn.is/en",
     "logo": "",
-    "representatives": ["alexandra-leeper"]
+    "representatives": [
+      "alexandra-leeper"
+    ],
+    "contact": {
+      "email": "sjavarklasinn@sjavarklasinn.is",
+      "phone": "+354 577 6200",
+      "address": "Grandagarði 16, 101 Reykjavík, Iceland",
+      "linkedin": "https://is.linkedin.com/company/iceland-ocean-cluster"
+    },
+    "details": {
+      "industry": "Ocean Economy Innovation",
+      "focus": [
+        "100% fish utilization",
+        "Blue economy startups",
+        "Marine innovation",
+        "Circular ocean practices"
+      ]
+    }
   },
   {
     "id": "nordic-investment-bank",
@@ -117,27 +210,65 @@
     "description": "International financial institution supporting sustainable development",
     "website": "",
     "logo": "",
-    "representatives": ["luca-de-lorenzo"]
+    "representatives": [
+      "luca-de-lorenzo"
+    ]
   },
   {
     "id": "sitra",
     "name": "The Finnish Innovation Fund Sitra",
     "type": "innovation",
     "country": "Finland",
-    "description": "Finnish innovation fund supporting circular economy",
-    "website": "",
+    "description": "The Finnish Innovation Fund working for a fair, sustainable and joyful tomorrow. Promotes systemic change towards circular economy and carbon neutrality. Independent public fund under Finnish Parliament's supervision.",
+    "website": "https://www.sitra.fi/en",
     "logo": "",
-    "representatives": ["mika-sulkinoja"]
+    "representatives": [
+      "mika-sulkinoja"
+    ],
+    "contact": {
+      "email": "sitra@sitra.fi",
+      "phone": "+358 294 618 991",
+      "address": "Itämerenkatu 11-13, PO Box 160, FI-00181 Helsinki, Finland",
+      "linkedin": "https://www.linkedin.com/company/sitra"
+    },
+    "details": {
+      "founded": "1967",
+      "industry": "Innovation & Future Studies",
+      "focus": [
+        "Circular economy",
+        "Carbon neutrality",
+        "Sustainable wellbeing",
+        "Democratic participation"
+      ]
+    }
   },
   {
     "id": "chatham-house",
     "name": "Chatham House",
     "type": "research",
     "country": "United Kingdom",
-    "description": "International affairs think tank",
-    "website": "",
+    "description": "Royal Institute of International Affairs - leading international affairs think tank. Independent policy institute helping build a sustainably secure, prosperous and just world. Home to world-leading research on circular economy and global sustainability transitions.",
+    "website": "https://www.chathamhouse.org",
     "logo": "",
-    "representatives": ["patrick-schroder"]
+    "representatives": [
+      "patrick-schroder"
+    ],
+    "contact": {
+      "email": "contact@chathamhouse.org",
+      "phone": "+44 20 7957 5700",
+      "address": "10 St James's Square, London SW1Y 4LE, United Kingdom",
+      "linkedin": "https://uk.linkedin.com/company/chatham-house-the-royal-institute-of-international-affairs"
+    },
+    "details": {
+      "founded": "1920",
+      "industry": "International Affairs & Policy Research",
+      "focus": [
+        "Global governance",
+        "Circular economy",
+        "Climate change",
+        "Sustainable development"
+      ]
+    }
   },
   {
     "id": "aalborg-university",
@@ -147,7 +278,9 @@
     "description": "Research university",
     "website": "",
     "logo": "",
-    "representatives": ["kerli-kant-hvass"]
+    "representatives": [
+      "kerli-kant-hvass"
+    ]
   },
   {
     "id": "nmbu",
@@ -157,7 +290,9 @@
     "description": "University specializing in bioeconomy and life sciences",
     "website": "",
     "logo": "",
-    "representatives": ["thore-larsgard"]
+    "representatives": [
+      "thore-larsgard"
+    ]
   },
   {
     "id": "nord-university",
@@ -167,6 +302,53 @@
     "description": "Business school focusing on innovation",
     "website": "",
     "logo": "",
-    "representatives": ["rannveig-edda-hjaltadottir"]
+    "representatives": [
+      "rannveig-edda-hjaltadottir"
+    ]
+  },
+  {
+    "id": "cleanr-grupa",
+    "name": "CleanR Grupa",
+    "type": "corporate",
+    "country": "Latvia",
+    "description": "Leading waste management and circular economy company in Latvia. Focuses on setting new rules for urban resource management and fostering circular economy practices.",
+    "website": "https://cleanrgrupa.lv/en",
+    "logo": "",
+    "representatives": [
+      "agita-baltbarde"
+    ],
+    "contact": {
+      "linkedin": "https://www.linkedin.com/company/cleanr-grupa"
+    },
+    "details": {
+      "industry": "Waste Management & Circular Economy",
+      "focus": [
+        "Urban resource management",
+        "Circular economy",
+        "Municipal waste solutions",
+        "Sustainability"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-fashion-textile-agenda",
+    "name": "Norwegian Fashion & Textile Agenda (NF&TA)",
+    "type": "industry",
+    "country": "Norway",
+    "description": "Industry cluster for fashion and textile companies, academia and entrepreneurs. Supported by Innovation Norway. Promotes circular transformation in Nordic fashion and textile industry.",
+    "website": "",
+    "logo": "",
+    "representatives": [
+      "gisle-mariani-mardal"
+    ],
+    "details": {
+      "industry": "Fashion & Textiles",
+      "focus": [
+        "Circular textiles",
+        "Fashion innovation",
+        "Industry collaboration",
+        "Sustainable fashion"
+      ]
+    }
   }
 ]
