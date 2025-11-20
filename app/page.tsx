@@ -48,7 +48,7 @@ export default function Home() {
         </section>
 
         {/* Quick Stats */}
-        <div className="grid grid-cols-2 md:grid-cols-5 gap-6 mb-8">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8">
           <div className="bg-cyan-100 rounded-lg p-6">
             <div className="text-3xl font-bold text-cyan-900">{speakers.length}</div>
             <div className="text-cyan-700">Speakers</div>
@@ -61,10 +61,11 @@ export default function Home() {
             <div className="text-3xl font-bold text-purple-900">{organizations.length}</div>
             <div className="text-purple-700">Organizations</div>
           </div>
-          <div className="bg-indigo-100 rounded-lg p-6">
+          {/* Temporarily hidden - awaiting confirmed participant numbers for 2025 summit */}
+          {/* <div className="bg-indigo-100 rounded-lg p-6">
             <div className="text-3xl font-bold text-indigo-900">{participants.length}</div>
             <div className="text-indigo-700">Participants</div>
-          </div>
+          </div> */}
           <div className="bg-green-100 rounded-lg p-6">
             <div className="text-3xl font-bold text-green-900">2</div>
             <div className="text-green-700">Days</div>
