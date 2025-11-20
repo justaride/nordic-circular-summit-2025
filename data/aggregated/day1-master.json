@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "event": "Nordic Circular Summit 2025 - Day 1",
+    "date": "2025-11-19",
+    "location": "Hans Egede Hotel, Nuuk, Greenland",
+    "generated": "2025-11-20T11:02:20.240655",
+    "session_count": 6,
+    "total_duration_minutes": 330,
+    "total_speakers": 24,
+    "total_quotes": 0,
+    "total_themes": 0,
+    "cross_session_themes": 0,
+    "total_article_words": 28819
+  },
+  "sessions": [
+    {
+      "id": "session-1",
+      "title": "Circular Frontiers - Shaping our Future",
+      "time": "09:15-10:30",
+      "duration_minutes": 75,
+      "speakers": [],
+      "speaker_count": 0,
+      "quotes": [],
+      "quote_count": 0,
+      "themes": [],
+      "theme_count": 0,
+      "article_word_count": 1946,
+      "transcript_available": true,
+      "has_article": true,
+      "has_quotes": true
+    },
+    {
+      "id": "session-2",
+      "title": "Circular Ocean Industries",
+      "time": "10:45-11:45",
+      "duration_minutes": 60,
+      "speakers": [],
+      "speaker_count": 0,
+      "quotes": [],
+      "quote_count": 0,
+      "themes": [],
+      "theme_count": 0,
+      "article_word_count": 2641,
+      "transcript_available": true,
+      "has_article": true,
+      "has_quotes": true
+    },
+    {
+      "id": "session-3",
+      "title": "Locally Rooted - Materialising a Circular Future",
+      "time": "12:45-13:30",
+      "duration_minutes": 45,
+      "speakers": [
+        {
+          "name": "Alisa Mick",
+          "organization": "Miksi",
+          "role": "Moderator"
+        },
+        {
+          "name": "Mika Sulkinoja",
+          "organization": "Sitra (Finnish Innovation Fund)",
+          "role": "Keynote Speaker"
+        },
+        {
+          "name": "Anders Ladefoged",
+          "organization": "European Economic and Social Committee",
+          "role": "Panelist"
+        },
+        {
+          "name": "Luca De Lorenzo",
+          "organization": "Nordic Investment Bank",
+          "role": "Panelist"
+        },
+        {
+          "name": "Patrick Schroeder",
+          "organization": "Chatham House",
+          "role": "Panelist"
+        },
+        {
+          "name": "Keira Dignan",
+          "organization": "Regeneration 2030 / Regeneration Åland",
+          "role": "Co-moderator"
+        },
+        {
+          "name": "Cathrine Barth",
+          "organization": "Natural State / Nordic Circular Hotspot",
+          "role": "Closing Reflections"
+        }
+      ],
+      "speaker_count": 7,
+      "quotes": [],
+      "quote_count": 0,
+      "themes": [],
+      "theme_count": 0,
+      "article_word_count": 5076,
+      "transcript_available": true,
+      "has_article": true,
+      "has_quotes": true
+    },
+    {
+      "id": "session-4",
+      "title": "Arctic & Nordic Lifestyles",
+      "time": "13:45-14:45",
+      "duration_minutes": 60,
+      "speakers": [
+        {
+          "name": "Frederik Thrane",
+          "organization": "Lifestyle and Design Cluster (Denmark)",
+          "role": "Moderator"
+        },
+        {
+          "name": "Lise Lotte",
+          "organization": "Independent Consultant (formerly Government of Greenland)",
+          "role": "Co-moderator"
+        },
+        {
+          "name": "Mia Chemnitz",
+          "organization": "Grevilliot / Qiviut (Greenland)",
+          "role": "Panelist"
+        },
+        {
+          "name": "Kristian Ottesen",
+          "organization": "Royal Greenland",
+          "role": "Panelist"
+        },
+        {
+          "name": "Gisle Mariani Mardal",
+          "organization": "NFTA (Norway)",
+          "role": "Panelist - Digital Product Passport Expert"
+        },
+        {
+          "name": "Tilda Larsson",
+          "organization": "AB Ludwig Svensson (Sweden)",
+          "role": "Video Interview Participant"
+        },
+        {
+          "name": "Kalli Kent",
+          "organization": "Nordic Baltic Textile Transition Group (Estonia/Denmark)",
+          "role": "Closing Remarks"
+        }
+      ],
+      "speaker_count": 7,
+      "quotes": [],
+      "quote_count": 0,
+      "themes": [],
+      "theme_count": 0,
+      "article_word_count": 6097,
+      "transcript_available": true,
+      "has_article": true,
+      "has_quotes": true
+    },
+    {
+      "id": "session-5",
+      "title": "Circular Cities & Regions",
+      "time": "15:00-16:00",
+      "duration_minutes": 60,
+      "speakers": [
+        {
+          "name": "Einar Kleppe Holthe",
+          "organization": "Natural State (Norway)",
+          "role": "Moderator & Main Presenter"
+        },
+        {
+          "name": "Tālis Linkaits",
+          "organization": "Riga Energy Agency (Latvia)",
+          "role": "Presenter - Riga City Circular Economy"
+        },
+        {
+          "name": "Inese Suija-Markova",
+          "organization": "Cesis Municipality (Latvia)",
+          "role": "Presenter - Bioregion Development"
+        },
+        {
+          "name": "Inooraq Brandt",
+          "organization": "Rambøll Grønland A/S (Greenland)",
+          "role": "Panelist - Construction Perspective"
+        },
+        {
+          "name": "Helle Redder Momsen",
+          "organization": "Nordic Sustainable Construction / Danish Authority of Social Services and Housing",
+          "role": "Presenter - Nordic Construction Collaboration"
+        },
+        {
+          "name": "Embla Kristjánsdóttir",
+          "organization": "Ministry for Housing, Infrastructure and Outer Districts (Greenland)",
+          "role": "Presenter - Greenland National Strategy"
+        },
+        {
+          "name": "Anne Mette Christiansen",
+          "organization": "CSR Greenland / Rambøll",
+          "role": "Closing Reflections"
+        }
+      ],
+      "speaker_count": 7,
+      "quotes": [],
+      "quote_count": 0,
+      "themes": [],
+      "theme_count": 0,
+      "article_word_count": 9004,
+      "transcript_available": true,
+      "has_article": true,
+      "has_quotes": true
+    },
+    {
+      "id": "session-6",
+      "title": "Day 1 Summary - Closing Reflections",
+      "time": "16:15-16:45",
+      "duration_minutes": 30,
+      "speakers": [
+        {
+          "name": "Cathrine Barth",
+          "organization": "Nordic Circular Hotspot",
+          "role": "Co-founder & Moderator"
+        },
+        {
+          "name": "Malene Vahl Rasmussen",
+          "organization": "Kommune Kujalleq, Greenland",
+          "role": "Mayor"
+        },
+        {
+          "name": "Einar Kleppe Holthe",
+          "organization": "Nordic Circular Hotspot",
+          "role": "Co-founder & Co-moderator"
+        },
+        {
+          "name": "Edvard Lybert Mørk",
+          "organization": "Nalek Ventures, Greenland",
+          "role": "Business Representative"
+        },
+        {
+          "name": "Marthe Haugland",
+          "organization": "Nordic Innovation",
+          "role": "Representative"
+        }
+      ],
+      "speaker_count": 5,
+      "quotes": [],
+      "quote_count": 0,
+      "themes": [],
+      "theme_count": 0,
+      "article_word_count": 4055,
+      "transcript_available": true,
+      "has_article": true,
+      "has_quotes": true
+    }
+  ],
+  "aggregated": {
+    "all_quotes": [],
+    "all_themes": [],
+    "all_speakers": [
+      {
+        "name": "Alisa Mick",
+        "organization": "Miksi",
+        "role": "Moderator"
+      },
+      {
+        "name": "Mika Sulkinoja",
+        "organization": "Sitra (Finnish Innovation Fund)",
+        "role": "Keynote Speaker"
+      },
+      {
+        "name": "Anders Ladefoged",
+        "organization": "European Economic and Social Committee",
+        "role": "Panelist"
+      },
+      {
+        "name": "Luca De Lorenzo",
+        "organization": "Nordic Investment Bank",
+        "role": "Panelist"
+      },
+      {
+        "name": "Patrick Schroeder",
+        "organization": "Chatham House",
+        "role": "Panelist"
+      },
+      {
+        "name": "Keira Dignan",
+        "organization": "Regeneration 2030 / Regeneration Åland",
+        "role": "Co-moderator"
+      },
+      {
+        "name": "Cathrine Barth",
+        "organization": "Natural State / Nordic Circular Hotspot",
+        "role": "Closing Reflections"
+      },
+      {
+        "name": "Frederik Thrane",
+        "organization": "Lifestyle and Design Cluster (Denmark)",
+        "role": "Moderator"
+      },
+      {
+        "name": "Lise Lotte",
+        "organization": "Independent Consultant (formerly Government of Greenland)",
+        "role": "Co-moderator"
+      },
+      {
+        "name": "Mia Chemnitz",
+        "organization": "Grevilliot / Qiviut (Greenland)",
+        "role": "Panelist"
+      },
+      {
+        "name": "Kristian Ottesen",
+        "organization": "Royal Greenland",
+        "role": "Panelist"
+      },
+      {
+        "name": "Gisle Mariani Mardal",
+        "organization": "NFTA (Norway)",
+        "role": "Panelist - Digital Product Passport Expert"
+      },
+      {
+        "name": "Tilda Larsson",
+        "organization": "AB Ludwig Svensson (Sweden)",
+        "role": "Video Interview Participant"
+      },
+      {
+        "name": "Kalli Kent",
+        "organization": "Nordic Baltic Textile Transition Group (Estonia/Denmark)",
+        "role": "Closing Remarks"
+      },
+      {
+        "name": "Einar Kleppe Holthe",
+        "organization": "Natural State (Norway)",
+        "role": "Moderator & Main Presenter"
+      },
+      {
+        "name": "Tālis Linkaits",
+        "organization": "Riga Energy Agency (Latvia)",
+        "role": "Presenter - Riga City Circular Economy"
+      },
+      {
+        "name": "Inese Suija-Markova",
+        "organization": "Cesis Municipality (Latvia)",
+        "role": "Presenter - Bioregion Development"
+      },
+      {
+        "name": "Inooraq Brandt",
+        "organization": "Rambøll Grønland A/S (Greenland)",
+        "role": "Panelist - Construction Perspective"
+      },
+      {
+        "name": "Helle Redder Momsen",
+        "organization": "Nordic Sustainable Construction / Danish Authority of Social Services and Housing",
+        "role": "Presenter - Nordic Construction Collaboration"
+      },
+      {
+        "name": "Embla Kristjánsdóttir",
+        "organization": "Ministry for Housing, Infrastructure and Outer Districts (Greenland)",
+        "role": "Presenter - Greenland National Strategy"
+      },
+      {
+        "name": "Anne Mette Christiansen",
+        "organization": "CSR Greenland / Rambøll",
+        "role": "Closing Reflections"
+      },
+      {
+        "name": "Malene Vahl Rasmussen",
+        "organization": "Kommune Kujalleq, Greenland",
+        "role": "Mayor"
+      },
+      {
+        "name": "Edvard Lybert Mørk",
+        "organization": "Nalek Ventures, Greenland",
+        "role": "Business Representative"
+      },
+      {
+        "name": "Marthe Haugland",
+        "organization": "Nordic Innovation",
+        "role": "Representative"
+      }
+    ],
+    "cross_session_themes": {}
+  },
+  "statistics": {
+    "quotes_per_session": 0.0,
+    "themes_per_session": 0.0,
+    "speakers_per_session": 4.0,
+    "words_per_session": 4803.166666666667,
+    "duration_per_session": 55.0
+  }
+}

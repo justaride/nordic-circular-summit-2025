@@ -122,6 +122,13 @@ export default function Home() {
             </p>
           </Link>
 
+          <Link href="/day1-analysis" className="bg-gradient-to-br from-cyan-600 to-blue-600 rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow text-white">
+            <h3 className="text-xl font-bold mb-2">Day 1 Complete Analysis</h3>
+            <p className="opacity-90">
+              Comprehensive synthesis of all 6 Day 1 sessions with cross-session themes and strategic insights
+            </p>
+          </Link>
+
           <Link href="/search" className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow">
             <h3 className="text-xl font-bold text-gray-900 mb-2">Search</h3>
             <p className="text-gray-600">
