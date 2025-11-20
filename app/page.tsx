@@ -115,10 +115,10 @@ export default function Home() {
             </p>
           </Link>
 
-          <Link href="/outputs" className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow">
+          <Link href="/content" className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow">
             <h3 className="text-xl font-bold text-gray-900 mb-2">Content Outputs</h3>
             <p className="text-gray-600">
-              Articles, highlights, and generated content
+              Download transcripts, articles, quotes, and social media content
             </p>
           </Link>
 
