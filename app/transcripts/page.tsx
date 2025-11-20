@@ -15,6 +15,8 @@ import session4Transcript from '@/data/transcripts/session-4-arctic-lifestyles.j
 import session4SocialPosts from '@/data/social-media/session-4-posts.json';
 import session5Transcript from '@/data/transcripts/session-5-circular-cities.json';
 import session5SocialPosts from '@/data/social-media/session-5-posts.json';
+import day1SummaryTranscript from '@/data/transcripts/session-day1-summary.json';
+import day1SummarySocialPosts from '@/data/social-media/session-day1-summary-posts.json';
 
 // Stop words to filter out from word cloud
 const STOP_WORDS = new Set([
@@ -35,7 +37,8 @@ const transcriptData: Record<string, any> = {
   'circular-ocean-industries': session2Transcript,
   'locally-rooted-materialising': session3Transcript,
   'arctic-nordic-lifestyles': session4Transcript,
-  'circular-cities-regions': session5Transcript
+  'circular-cities-regions': session5Transcript,
+  'day1-summary': day1SummaryTranscript
 };
 
 // Map social posts by session ID
@@ -44,7 +47,8 @@ const socialPostsData: Record<string, any[]> = {
   'circular-ocean-industries': session2SocialPosts,
   'locally-rooted-materialising': session3SocialPosts,
   'arctic-nordic-lifestyles': session4SocialPosts,
-  'circular-cities-regions': session5SocialPosts
+  'circular-cities-regions': session5SocialPosts,
+  'day1-summary': day1SummarySocialPosts
 };
 
 // Session-specific download files mapping
@@ -89,6 +93,13 @@ const sessionDownloads: Record<string, {
     article: '/articles/session-5-circular-cities-article.md',
     highlights: '/highlights/session-5-key-quotes-and-themes.md',
     speakerGuide: '/transcripts/SESSION-5-SPEAKER-IDENTIFICATION.md'
+  },
+  'day1-summary': {
+    transcript: '/transcripts/session-day1-summary-CLEAN.md',
+    json: '/transcripts/session-day1-summary.json',
+    article: '/articles/session-day1-summary-reflections.md',
+    highlights: '/highlights/session-day1-summary-key-quotes.md',
+    speakerGuide: '/transcripts/SESSION-DAY1-SUMMARY-SPEAKER-IDENTIFICATION.md'
   }
 };
 
