@@ -1,0 +1,84 @@
+{
+  "id": "transcript-session-1-opening",
+  "sessionId": "session-1-opening",
+  "date": "2025-11-19",
+  "recordingFile": null,
+  "transcriptionStatus": "pending",
+  "notes": "Full day recording needs to be separated into parts based on program",
+  "metadata": {
+    "duration": "75 minutes",
+    "language": "English"
+  },
+  "parts": [
+    {
+      "id": "part-cultural-opening",
+      "title": "Cultural Opening - NAPA",
+      "startTime": "09:15",
+      "endTime": "09:22",
+      "description": "Traditional Greenlandic cultural opening performance",
+      "speakers": [],
+      "segments": [],
+      "notes": ""
+    },
+    {
+      "id": "part-welcome",
+      "title": "Welcome and Opening Remarks",
+      "startTime": "09:22",
+      "endTime": "09:30",
+      "description": "Welcome by session moderators Einar Kleppe Holthe",
+      "speakers": ["einar-kleppe-holthe"],
+      "segments": [],
+      "notes": ""
+    },
+    {
+      "id": "part-intro-nordic-innovation",
+      "title": "Introduction by Nordic Innovation",
+      "startTime": "09:40",
+      "endTime": "09:43",
+      "description": "Introduction by Marthe Haugland and Peter Munch Madsen",
+      "speakers": ["marthe-haugland", "peter-munch-madsen"],
+      "segments": [],
+      "notes": ""
+    },
+    {
+      "id": "part-arctic-perspectives",
+      "title": "Arctic & Greenlandic Perspectives",
+      "startTime": "09:30",
+      "endTime": "09:40",
+      "description": "Presentation by Gorm Vold and Eva Jørgensen",
+      "speakers": ["gorm-vold", "eva-jorgensen"],
+      "segments": [],
+      "notes": ""
+    },
+    {
+      "id": "part-nordic-panel",
+      "title": "Nordic Arctic Panel – Circular Innovation Across Borders",
+      "startTime": "09:43",
+      "endTime": "10:10",
+      "description": "Panel discussion with participants from Finland, Denmark, Sweden, Åland, Norway, and Greenland",
+      "speakers": ["alisa-mick", "frederik-thrane", "michel-bajuk", "keira-dignan", "cathrine-barth", "karin-pedersen-thorsen"],
+      "segments": [],
+      "notes": ""
+    },
+    {
+      "id": "part-reflection",
+      "title": "Reflection: The New Nordics",
+      "startTime": "10:11",
+      "endTime": "10:19",
+      "description": "Reflection by Einar Kleppe Holthe and Agita Baltbārde",
+      "speakers": ["einar-kleppe-holthe", "agita-baltbarde"],
+      "segments": [],
+      "notes": ""
+    },
+    {
+      "id": "part-program-presentation",
+      "title": "Presenting the Programme & Reflect",
+      "startTime": "10:20",
+      "endTime": "10:30",
+      "description": "Program overview and reflections by Cathrine Barth and Eva Jørgensen",
+      "speakers": ["cathrine-barth", "eva-jorgensen"],
+      "segments": [],
+      "notes": ""
+    }
+  ]
+}

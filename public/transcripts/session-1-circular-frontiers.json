@@ -1,0 +1,257 @@
+{
+  "id": "transcript-session-1-opening",
+  "sessionId": "circular-frontiers-opening",
+  "date": "2025-11-19",
+  "recordingFile": "Sesjon1Min film 1",
+  "transcriptionStatus": "completed",
+  "notes": "Complete transcription from Whisper. All speakers identified and mapped to actual names. Transcription reviewed and cleaned for errors. Key themes: circular value chains, industrial symbiosis, trust as infrastructure, youth involvement in system change, Baltic-Nordic collaboration.",
+  "metadata": {
+    "duration": "75 minutes",
+    "language": "English",
+    "transcribedBy": "Whisper Version 13.0.5 (1329)",
+    "reviewedBy": "Claude Code",
+    "transcriptionDate": "2025-11-19",
+    "participantCount": 13
+  },
+  "parts": [
+    {
+      "id": "part-cultural-opening",
+      "title": "Cultural Opening - NAPA",
+      "startTime": "09:15",
+      "endTime": "09:22",
+      "description": "Traditional Greenlandic cultural opening performance",
+      "speakers": [],
+      "segments": [
+        {
+          "startTime": "09:15",
+          "endTime": "09:22",
+          "text": "Traditional Greenlandic cultural opening performance - NAPA. Drum song and lamp lighting ceremony performed.",
+          "speakerId": null
+        }
+      ],
+      "notes": "Emotional cultural opening with drum song and lamp lighting. Minister Peter Borg mentioned feeling the spiritual connection to his companion, the polar bear."
+    },
+    {
+      "id": "part-welcome",
+      "title": "Welcome and Opening Remarks",
+      "startTime": "09:22",
+      "endTime": "09:30",
+      "description": "Welcome by session moderators and formal opening by Minister Peter Borg",
+      "speakers": ["einar-kleppe-holthe", "eva-jorgensen", "edvard-lybert-mork", "peter-borg"],
+      "segments": [
+        {
+          "startTime": "09:22",
+          "endTime": "09:23",
+          "text": "Perfect. And the sound is working. Thank you so much. Thank you so much for a wonderful ceremony. And now formally we can introduce and say welcome to the Nordic Circular Summit 2025 here in Nuuk. It's with great joy. We are a great team of collaborators and partners who've done this. So on behalf of the organizers, I want to say a deep welcome. And we are going to have two fantastic days. Eva, do you want to say a few words from your side?",
+          "speakerId": "einar-kleppe-holthe"
+        },
+        {
+          "startTime": "09:23",
+          "endTime": "09:24",
+          "text": "Yeah. Well, that said, I'm— Maybe. Eva from the Greenland Business Association. We are the local partners for this event and we are very happy to have this opportunity to contribute to the collaboration in the circular transition.",
+          "speakerId": "eva-jorgensen"
+        },
+        {
+          "startTime": "09:24",
+          "endTime": "09:25",
+          "text": "And I also want to, on behalf of Nordic Circular Hotspot in the Nordics and the Arctic and also Natural State in Norway, I want to say a great welcome. I also have with me the Nordic Circular Hotspot managing partners, represented with Fredrik from Lifestyle and Design Cluster, Michel from CradleNet, and Cathrine from also Natural State in Norway. We are very delighted to have been organizing this together. It's been very important to have a good partnership in conducting this conference. And Edward, do you want to say a little bit about who you are?",
+          "speakerId": "einar-kleppe-holthe"
+        },
+        {
+          "startTime": "09:25",
+          "endTime": "09:26",
+          "text": "Welcome to all the outsiders from Nuuk to Greenland. Nuuk, it's a bit gloomy, but still we hope that you will enjoy the stay in Nuuk during your days here, so we're very excited to be a part of this Nordic Circular Summit. So I hope we get some very good days. Yes. And to do the formal opening...",
+          "speakerId": "edvard-lybert-mork"
+        },
+        {
+          "startTime": "09:26",
+          "endTime": "09:27",
+          "text": "We would be honored to welcome Peter Borg from the Government of Greenland, Ministry of Fisheries, Hunting, Agriculture and Self-Sufficiency to the stage to do the formal opening. Thank you.",
+          "speakerId": "einar-kleppe-holthe"
+        },
+        {
+          "startTime": "09:27",
+          "endTime": "09:30",
+          "text": "FULL MINISTERIAL SPEECH - See markdown file for complete text. Key points: First time summit held in self-governing Nordic territory; Greenland's self-sufficiency strategy; Traditional knowledge of resource use (nothing wasted); Arctic perspective on sustainability; Importance of local communities; Cultural foundation informing modern innovation.",
+          "speakerId": "peter-borg"
+        }
+      ],
+      "notes": "Powerful opening by Minister Peter Borg emphasizing Greenland's self-sufficiency strategy, traditional knowledge systems, and the importance of local communities in circular economy. Mentioned spiritual connection to nature through polar bear companion during cultural opening."
+    },
+    {
+      "id": "part-arctic-perspectives",
+      "title": "Arctic & Greenlandic Perspectives",
+      "startTime": "09:30",
+      "endTime": "09:40",
+      "description": "Presentation by Einar Kleppe Holthe on Nordic Circular Hotspot, followed by remote connection with Gorm Vold in Brussels and Eva Jørgensen",
+      "speakers": ["einar-kleppe-holthe", "eva-jorgensen", "gorm-vold"],
+      "segments": [
+        {
+          "startTime": "09:30",
+          "endTime": "09:37",
+          "text": "COMPREHENSIVE NORDIC CIRCULAR HOTSPOT PRESENTATION by Einar Kleppe Holthe. Key themes: Value chains and circular principles; Balance between human and nature values; Moving from linear to circular economy; 250-year-old linear system needs transition; Circular economy measured in kilos not currency; Nordic market as scalable platform (28M people, 5 countries, 3 autonomous regions); Six summits from 2020-2025 (Oslo, Copenhagen, Stockholm, Reykjavik, Helsinki, Nuuk); Implementation and business viability essential; Transition groups for sectors (construction, textiles, finance). Full text in markdown file.",
+          "speakerId": "einar-kleppe-holthe"
+        },
+        {
+          "startTime": "09:37",
+          "endTime": "09:38",
+          "text": "Thank you. And as you say, the circular transition is very local, and we all need to learn and get inspired by each other. And that's why we are happy to be here, to be able to communicate some of the initiatives from around the Nordics to the rest of Greenland, hopefully. And Gorm, you are in Greenland days?",
+          "speakerId": "eva-jorgensen"
+        },
+        {
+          "startTime": "09:38",
+          "endTime": "09:40",
+          "text": "I am here in Brussels, arranged by the EU Commission and the Government of Greenland. Arctic circularity, the knowledge and the culture behind our view is widely local but also international. We have discussions with the European Commission about Greenland's contribution to circularity. Topics include hydropower, digital transition, raw materials and minerals, environmental perspective, connection between Greenland and EU. Many Greenlandic participants including ministers, officials, and companies like Nalek.",
+          "speakerId": "gorm-vold"
+        }
+      ],
+      "notes": "Major presentation on Nordic Circular Hotspot philosophy and approach. Emphasized value chains, implementation over strategy, and business viability. Remote connection to Brussels showed global relevance of local circular initiatives. Gorm Vold participating in EU-Greenland discussions on minerals, energy, and sustainability."
+    },
+    {
+      "id": "part-intro-nordic-innovation",
+      "title": "Introduction by Nordic Innovation",
+      "startTime": "09:40",
+      "endTime": "09:43",
+      "description": "Introduction by Marthe Haugland and Peter Munch Madsen from Nordic Innovation",
+      "speakers": ["marthe-haugland", "peter-munch-madsen"],
+      "segments": [
+        {
+          "startTime": "09:40",
+          "endTime": "09:41",
+          "text": "What a pleasure to meet you all. It's a great honor to be in Greenland. I am Peter from Nordic Innovation. Nordic Innovation offers Nordic solutions to global challenges. We are part of the Nordic Council of Ministers. Our vision: create the most integrated and sustainable region in the world. We enhance collaboration for business across the Nordic region. 15 people in Oslo. Three programs: innovative solutions/green transition, deep technology/critical technologies, capital attraction/internationalization.",
+          "speakerId": "peter-munch-madsen"
+        },
+        {
+          "startTime": "09:41",
+          "endTime": "09:43",
+          "text": "Nordic Innovation gathers actors around collaboration projects. Current call for proposals open: looking for solutions/networks ready by 2030, green solutions. Also looking ahead to post-2050 needs: new partnerships, new ways of working. Requires partners from three Nordic countries minimum. Total 30 million NOK available. Deadline February 11th. Contact us during the two days or online.",
+          "speakerId": "marthe-haugland"
+        }
+      ],
+      "notes": "Nordic Innovation presented their call for proposals (30M NOK) requiring 3+ Nordic countries. Focus on solutions ready by 2030 and preparing for post-2050 challenges. Key partner enabling Nordic collaboration."
+    },
+    {
+      "id": "part-nordic-panel",
+      "title": "Nordic Arctic Panel – Circular Innovation Across Borders",
+      "startTime": "09:43",
+      "endTime": "10:10",
+      "description": "Panel discussion with participants from Finland, Denmark, Sweden, Åland, Norway, and Greenland",
+      "speakers": ["marthe-haugland", "peter-munch-madsen", "cathrine-barth", "edvard-lybert-mork", "frederik-thrane", "alisa-mick", "michel-bajuk", "keira-dignan"],
+      "segments": [
+        {
+          "startTime": "09:43",
+          "endTime": "09:45",
+          "text": "CATHRINE BARTH on symbiosis: The fact that we have gathered here demonstrates what we've discovered on the Nordic journey over seven years. Key takeaway: our super skill is SYMBIOSIS - how nature works without waste. How do we organize industries and societies for industrial and regional symbiosis? This is our unfair advantage in this remote region. Turn the iceberg upside down and use symbiosis as a superpower.",
+          "speakerId": "cathrine-barth"
+        },
+        {
+          "startTime": "09:45",
+          "endTime": "09:47",
+          "text": "EDVARD MØRK on trust and adaptability: The real infrastructure in Greenland is TRUST, not roads. Without trust, we don't have any infrastructure. Scalable models? We understand them as ADAPTABLE models. Using Arctic strengths: reuse, resource respect, local self-reliance as basis for business models in Greenland.",
+          "speakerId": "edvard-lybert-mork"
+        },
+        {
+          "startTime": "09:47",
+          "endTime": "09:52",
+          "text": "FREDERIK THRANE on Danish initiatives: Prerequisites for circular economy are setting root. Movement from siloed pilot projects to strategic supply chain projects. Two collaborative networks: (1) Circular Furniture Network - 30 leading Danish furniture brands, (2) Voluntary Sector Collaboration on Textiles. Pre-competitive framework: competing businesses collaborate on challenges too big for individual companies. Focus on scalable REPAIR SYSTEMS. CLOSING LOOPS framework running 3 years, renewed for 3 more. Developed tools, infrastructure, digital platform for brands to facilitate repair. National Action Plan on Textiles in Danish Fiscal Act - focused on REDUCTION. Historic government support. Consortium including Lifestyle & Design Cluster, Business Association, Knowledge Institutions, TRACE working to make it happen.",
+          "speakerId": "frederik-thrane"
+        },
+        {
+          "startTime": "09:52",
+          "endTime": "09:56",
+          "text": "ALISA MICK on circular investments: Project funded by Nordic Innovation with three partners: Mixi (Finland), Fund Forward (Sweden), Circular Norway (Norway). Focus: accelerating investments into circular economy. Inviting financial stakeholders (banks, VC funds, corporates) to share best cases. Goal: library of use cases and best practices. Framework with KPIs for assessing circular business model impact. Building network through events and workshops. Challenge: Circular economy historically seen as NOT INVESTABLE due to higher risk and longer timelines. Circular solutions require market education, physical infrastructure (factories), and collaboration networks. Need NEW INVESTMENT MODELS combining public and private funding to lower risk.",
+          "speakerId": "alisa-mick"
+        },
+        {
+          "startTime": "09:56",
+          "endTime": "09:59",
+          "text": "MICHEL BAJUK on Nordic testbed: Testbedding means trying, developing, applying new policies, business models, technologies. Two critical areas: (1) CULTURE & MINDSET - Nordics good at collaboration, design thinking, technology. Trust and responsibility strong. Gives early adopters room for experiments and failure. (2) POLITICS - Nordics share ambition to be most sustainable region by 2030 on paper, but in practice addressing short-term economic concerns. Circular strategies nationally adopted but broad, non-binding, politically fragile. By contrast, EU championing circular economy with appointed Circular Commissioner marrying circularity with economics, security, geopolitical resilience. Ironically, commissioner is Swedish but doesn't align with Swedish politics. Conclusion: Excellent environment for testbedding BUT national politics need to align with EU targets and ambitions.",
+          "speakerId": "michel-bajuk"
+        },
+        {
+          "startTime": "09:59",
+          "endTime": "10:05",
+          "text": "KEIRA DIGNAN on youth and system change: Three things my generation needs: (1) INVITE US INTO THE ROOM (2) SUPPORT US ON THE STREETS (3) DON'T JAIL US. Three levels of circular economy: MICRO (consumer/company practices), ECONOMY-WIDE (% of economy that's circular, e.g. Circular Gap Report shows 4% circular/96% linear), SYSTEM LEVEL (macroeconomics: how economy designed, incentives, decision-making). We're asking for SYSTEM CHANGE at macro level. REGENERATION 2030 - youth network for Nordic and Baltic region, 18 member organizations. Different approaches: OUTSIDE PRESSURE (e.g. NaturUngdom Norway blocking new oil field), INSIDE PARTICIPATION (e.g. Generation 2030 Finland's 30-person youth board advising ministers including PM). To support youth: invite organized groups into decision-making rooms, support street activism, don't criminalize climate action.",
+          "speakerId": "keira-dignan"
+        },
+        {
+          "startTime": "10:05",
+          "endTime": "10:10",
+          "text": "CATHRINE BARTH final reflection: We live in a 250-YEAR-OLD LINEAR ECONOMY. The fish don't know what water is. My generation needs to UNLEARN what we grew up in. Most important infrastructure: HUMAN AND KNOWLEDGE INFRASTRUCTURE. How do we reskill next generation so we can scale faster into an economy in balance with nature systems? Need to understand what knowledge we need. Eager to learn during these two days how to move faster.",
+          "speakerId": "cathrine-barth"
+        }
+      ],
+      "notes": "Powerful panel representing all Nordic countries plus Greenland and Åland. Key insights: (1) Symbiosis as Nordic superpower, (2) Trust as infrastructure, adaptable not just scalable models, (3) Pre-competitive collaboration and repair systems in Denmark, (4) New investment models needed for circular economy, (5) Political alignment needed with EU ambitions, (6) Youth demanding system-level change with inside/outside strategies, (7) Need to unlearn 250 years of linear thinking and build knowledge infrastructure."
+    },
+    {
+      "id": "part-reflection",
+      "title": "Reflection: The New Nordics",
+      "startTime": "10:11",
+      "endTime": "10:19",
+      "description": "Reflection by Einar Kleppe Holthe and Agita Baltbārde on Baltic-Nordic collaboration",
+      "speakers": ["einar-kleppe-holthe", "agita-baltbarde"],
+      "segments": [
+        {
+          "startTime": "10:11",
+          "endTime": "10:13",
+          "text": "We are talking about the NEW NORDICS which includes the Baltics. When we started working with value chains of the Nordics, we saw big interconnectiveness with the Baltics. From Greenland in the West/North/Arctic and the Baltics in the East - important to see how we work together. You have started with three Baltic countries a BALTIC CIRCULAR HOTSPOT. We're collaborating on regional-to-regional collaboration.",
+          "speakerId": "einar-kleppe-holthe"
+        },
+        {
+          "startTime": "10:13",
+          "endTime": "10:16",
+          "text": "AGITA BALTBĀRDE on Baltic Circular Hotspot: Common ground: environmental context, challenges, geographical proximity, climate similarities, economic interconnections. True circular collaboration begins with MEANINGFUL TOUCHPOINTS for sharing experiences and knowledge. Baltic Circular Hotspot established exactly one year ago with Nordic Circular Hotspot as great platform. Focuses on Baltic-Nordic collaboration and practical support for organizations, institutions, NGOs, policymakers. In one year: establishing first TRANSITION GROUP in TEXTILE INDUSTRY. Next: construction industry, circular city life, food supply chains. Working together creates LARGER MARKET and CROSS-BORDER VALUE CHAINS.",
+          "speakerId": "agita-baltbarde"
+        },
+        {
+          "startTime": "10:16",
+          "endTime": "10:17",
+          "text": "Trying to support with our learnings to make your initiative reach goals in maybe 1-2 years because we need to work fast. Working with regional/inter-regional connectivities, following value chains, natural resources, human capacities, societal interest, market dynamics. Building collaborations within collaborations forms dynamics of transition.",
+          "speakerId": "einar-kleppe-holthe"
+        },
+        {
+          "startTime": "10:17",
+          "endTime": "10:19",
+          "text": "WIN-WIN POSITIONS: Nordics advancing circular economy more than a decade, Baltics at starting point. You bring experience and best practices, we bring FRESH PERSPECTIVE. Example: LATVIA CIRCULARITY REPORT for municipalities - success lies in ADJUSTABILITY/ADAPTABILITY. Can adjust indicators to any country's national priorities and challenges. If Nordics are testbed for global arena, then BALTICS COULD BE SANDBOX OR TESTBED to challenge and test new circular solutions before scaling up in Nordic region.",
+          "speakerId": "agita-baltbarde"
+        }
+      ],
+      "notes": "Important expansion of Nordic collaboration to include Baltics as 'New Nordics'. Baltic Circular Hotspot established one year ago. First transition group in textiles already forming. Baltics positioned as sandbox/testbed for solutions before Nordic scaling. Emphasis on win-win: Nordic experience + Baltic fresh perspectives and adaptability."
+    },
+    {
+      "id": "part-program-presentation",
+      "title": "Presenting the Programme & Reflect",
+      "startTime": "10:20",
+      "endTime": "10:30",
+      "description": "Program overview and reflections by Cathrine Barth and Eva Jørgensen",
+      "speakers": ["cathrine-barth", "eva-jorgensen", "einar-kleppe-holthe"],
+      "segments": [
+        {
+          "startTime": "10:20",
+          "endTime": "10:22",
+          "text": "CATHRINE: Haven't been in such a room with so much crossover knowledge in long time. Most important program will happen along and between the tables - getting people connected. Today's main program topics: (1) CIRCULAR OCEAN INDUSTRIES, (2) LOCALLY ROOTED - Materializing Circular Future, (3) ARCTIC NORDIC LIFESTYLE - role of culture and design in circular transition, (4) CIRCULAR REGIONS AND CITIES.",
+          "speakerId": "cathrine-barth"
+        },
+        {
+          "startTime": "10:22",
+          "endTime": "10:25",
+          "text": "Tomorrow we split: DIGITAL SESSIONS exploring transition groups in circular construction, upscaling circular transition solutions, larger projects in circularity and real estate. Launch of new CIRCULAR TEXTILE TRANSITION GROUP. Digital session on CIRCULAR DESIGN TOOLBOX - common working language and methodologies for developing circular solutions.",
+          "speakerId": "cathrine-barth"
+        },
+        {
+          "startTime": "10:25",
+          "endTime": "10:28",
+          "text": "EVA: Physical sessions at Nalek Ventures meeting rooms: (1) ARCTIC APPROACH TO INTERNATIONAL MATERIAL GOVERNANCE workshop, (2) CIRCULAR SKILLS AND KNOWLEDGE, (3) CIRCULAR PORT CITIES.",
+          "speakerId": "eva-jorgensen"
+        },
+        {
+          "startTime": "10:28",
+          "endTime": "10:30",
+          "text": "Two days of sharing knowledge, learning together, talking about what works and what doesn't. How to make our systems work better with circular and sustainable approaches in our markets and societies. Stretch our legs, reach out to people at tables. Meet again at 10:45 to splash down into ocean industries and circular economy. Thank you from Nuuk!",
+          "speakerId": "einar-kleppe-holthe"
+        }
+      ],
+      "notes": "Program preview for two-day summit. Day 1 (today) in Nuuk: ocean industries, locally rooted solutions, lifestyle/culture, cities/regions. Day 2: split between digital sessions (construction, textiles, design toolbox) and physical Nuuk sessions (material governance, skills, port cities). Emphasis on networking and peer learning as core value."
+    }
+  ]
+}

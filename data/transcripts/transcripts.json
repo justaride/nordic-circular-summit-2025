@@ -1,0 +1,74 @@
+[
+  {
+    "id": "transcript-session-1-opening",
+    "sessionId": "circular-frontiers-opening",
+    "date": "2025-11-19",
+    "recordingFile": "Sesjon1Min film 1",
+    "transcriptionStatus": "completed",
+    "notes": "Complete transcription from Whisper. All speakers identified and mapped to actual names. Transcription reviewed and cleaned for errors. Key themes: circular value chains, industrial symbiosis, trust as infrastructure, youth involvement in system change, Baltic-Nordic collaboration.",
+    "metadata": {
+      "duration": "75 minutes",
+      "language": "English",
+      "transcribedBy": "Whisper Version 13.0.5 (1329)",
+      "reviewedBy": "Claude Code",
+      "transcriptionDate": "2025-11-19",
+      "participantCount": 13
+    },
+    "detailsFile": "session-1-circular-frontiers.json",
+    "markdownFile": "session-1-circular-frontiers-CLEAN.md"
+  },
+  {
+    "id": "transcript-session-2-ocean",
+    "sessionId": "circular-ocean-industries",
+    "date": "2025-11-19",
+    "recordingFile": "Circular ocean industries",
+    "transcriptionStatus": "completed",
+    "notes": "Complete transcription from Whisper. All speakers identified. Panel discussion on 100% Fish/Shrimp philosophy, Royal Greenland transformation, Hylia startup journey, and ocean clusters as enablers. Key themes: waste to value, side streams as superfood, cross-sectoral collaboration, logistics challenges, trust infrastructure.",
+    "metadata": {
+      "duration": "60 minutes",
+      "language": "English",
+      "transcribedBy": "Whisper AI",
+      "reviewedBy": "Claude Code",
+      "transcriptionDate": "2025-11-19",
+      "participantCount": 6
+    },
+    "detailsFile": "session-2-circular-ocean.json",
+    "markdownFile": "session-2-circular-ocean-CLEAN.md"
+  },
+  {
+    "id": "transcript-session-3-locally-rooted",
+    "sessionId": "locally-rooted-materialising",
+    "date": "2025-11-19",
+    "recordingFile": "Locally rooted: Materialising a circular future",
+    "transcriptionStatus": "completed",
+    "notes": "Complete transcription from Whisper. All speakers identified. Keynote by Mika Sulkinoja on critical materials and circular security, panel discussion on balancing EU goals, investment gap, indigenous rights and FPIC. Key themes: circularity as security strategy, value of resilience, inner loops vs recycling, Arctic perspective, ArcCirc proposal.",
+    "metadata": {
+      "duration": "45 minutes",
+      "language": "English",
+      "transcribedBy": "Whisper AI",
+      "reviewedBy": "Claude Code",
+      "transcriptionDate": "2025-11-20",
+      "participantCount": 7
+    },
+    "detailsFile": "session-3-locally-rooted.json",
+    "markdownFile": "session-3-locally-rooted-CLEAN.md"
+  },
+  {
+    "id": "transcript-session-4-arctic-lifestyles",
+    "sessionId": "arctic-nordic-lifestyles",
+    "date": "2025-11-19",
+    "recordingFile": "Arctic & Nordic lifestyles",
+    "transcriptionStatus": "completed",
+    "notes": "Complete transcription from Whisper. All speakers identified. Panel discussion with Grevilliot and Royal Greenland on circularity as Greenlandic tradition, quota limitations driving value creation, repair practices, cultural decolonization. Digital Product Passport introduction by Gisle Mariani Mardal with video interview from Ludwig Svensson (Sweden). Key themes: traditional knowledge, local materials, waste-less systems, DPP as competitive advantage, Nordic-Baltic collaboration.",
+    "metadata": {
+      "duration": "60 minutes",
+      "language": "English",
+      "transcribedBy": "Whisper AI",
+      "reviewedBy": "Claude Code",
+      "transcriptionDate": "2025-11-20",
+      "participantCount": 7
+    },
+    "detailsFile": "session-4-arctic-lifestyles.json",
+    "markdownFile": "session-4-arctic-lifestyles-CLEAN.md"
+  }
+]

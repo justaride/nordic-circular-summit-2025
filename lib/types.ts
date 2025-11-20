@@ -98,18 +98,39 @@ export interface Event {
   wcefSideEvent: boolean;
 }
 
+export interface TranscriptSegment {
+  startTime: string; // e.g., "09:15:00" or "00:15:30"
+  endTime: string;
+  text: string;
+  speakerId?: string; // Optional speaker attribution
+}
+
+export interface SessionPart {
+  id: string;
+  title: string; // e.g., "Welcome by session moderators", "Keynote 1", "Panel Discussion"
+  startTime: string;
+  endTime: string;
+  description?: string;
+  speakers: string[]; // speaker IDs
+  segments: TranscriptSegment[]; // Transcript segments for this part
+  notes?: string; // User notes for this part
+}
+
 export interface Transcript {
+  id: string;
   sessionId: string;
-  timestamp: string;
-  content: string;
-  speakers: {
-    speakerId: string;
-    segments: {
-      startTime: string;
-      endTime: string;
-      text: string;
-    }[];
-  }[];
+  date: string; // Date of recording
+  recordingFile?: string; // Path to audio/video file
+  transcriptionStatus: 'pending' | 'in_progress' | 'completed' | 'needs_review';
+  parts: SessionPart[]; // Session broken into parts based on program
+  fullTranscript?: string; // Full transcript text if needed
+  notes?: string; // Overall session notes
+  metadata?: {
+    duration?: string;
+    recordedBy?: string;
+    transcribedBy?: string;
+    language?: string;
+  };
 }
 
 export interface Article {

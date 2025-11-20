@@ -7,14 +7,39 @@
     "endTime": "10:30",
     "timezone": "GMT-2",
     "type": "keynote",
-    "description": "Opening keynote session exploring how Arctic and Nordic communities can shape the next wave of circular innovation. Overarching theme about circular innovation in the Arctic.",
-    "speakers": ["marthe-haugland", "agita-baltbarde"],
+    "description": "Opening session exploring how entrepreneurship, circular business models, and funding can evolve the circular transition in the Nordics and beyond. The session addresses the new geopolitical situation creating a circular force in the economy through localized value chains, and examines how the Green Deal (ESPR, circular action plan) is accelerating change.\n\nThe session investigates circular innovation across Nordic and Arctic borders, highlighting the unique Nordic spirit of entrepreneurship and how entrepreneurs, intrapreneurs, innovators and founders are key for evolving the new circular market.",
+    "speakers": [
+      "marthe-haugland",
+      "agita-baltbarde"
+    ],
     "moderators": [],
-    "topics": ["circular economy", "innovation", "arctic", "nordic", "circular frontiers"],
+    "topics": [
+      "ESPR",
+      "Green Deal",
+      "arctic",
+      "circular business models",
+      "circular economy",
+      "circular frontiers",
+      "entrepreneurship",
+      "funding",
+      "geopolitical resilience",
+      "innovation",
+      "market transition",
+      "nordic",
+      "value chains"
+    ],
     "location": "Hans Egede Hotel, Nuuk, Greenland",
     "onlineAvailable": true,
     "transcriptFile": "",
-    "notes": "Opening session setting the tone for the summit"
+    "notes": "Opening session setting the tone for the summit",
+    "shortDescription": "Opening keynote session exploring how Arctic and Nordic communities can shape the next wave of circular innovation. Overarching theme about circular innovation in the Arctic.",
+    "themes": [
+      "The new geopolitical situation creating circular economy momentum",
+      "Resilience through localized value chains",
+      "Green Deal and ESPR implementation",
+      "Entrepreneurship as driver for circular transition",
+      "Nordic collaboration and innovation"
+    ]
   },
   {
     "id": "circular-ocean-industries",
@@ -24,14 +49,37 @@
     "endTime": "11:45",
     "timezone": "GMT-2",
     "type": "panel",
-    "description": "Nordic collaboration in blue industry. Discussion covering ocean economy, fisheries, and marine resources with key industry players.",
-    "speakers": ["kristian-ottesen", "alexandra-leeper", "linn-indrestrand"],
+    "description": "Nordic collaboration in blue industry, exploring how ocean-based industries can embrace circular economy principles. The session focuses on sustainable fisheries management, marine resource utilization, and industrial symbiosis in ocean industries.\n\nKey themes include building resilient ocean value chains, reducing waste in fisheries, and creating circular business models for marine resources. Participants examine best practices from Nordic ocean clusters and innovative approaches to ocean sustainability.",
+    "speakers": [
+      "kristian-ottesen",
+      "alexandra-leeper",
+      "linn-indrestrand"
+    ],
     "moderators": [],
-    "topics": ["ocean economy", "fisheries", "marine resources", "circular economy", "blue industry", "nordic collaboration"],
+    "topics": [
+      "blue bioeconomy",
+      "blue industry",
+      "circular economy",
+      "fisheries",
+      "marine resources",
+      "marine waste reduction",
+      "nordic collaboration",
+      "ocean clusters",
+      "ocean economy",
+      "sustainable fishing"
+    ],
     "location": "Hans Egede Hotel, Nuuk, Greenland",
     "onlineAvailable": true,
     "transcriptFile": "",
-    "notes": "Focus on Royal Greenland, Iceland Ocean Cluster, Danish Ocean Cluster, Halibut Greenland, Polar Seafood"
+    "notes": "Focus on Royal Greenland, Iceland Ocean Cluster, Danish Ocean Cluster, Halibut Greenland, Polar Seafood",
+    "shortDescription": "Nordic collaboration in blue industry. Discussion covering ocean economy, fisheries, and marine resources with key industry players.",
+    "themes": [
+      "Circular principles in fisheries and ocean industries",
+      "Nordic ocean cluster collaboration",
+      "Marine resource optimization",
+      "Waste reduction in fishing operations",
+      "Sustainable blue economy business models"
+    ]
   },
   {
     "id": "locally-rooted-materialising",
@@ -41,14 +89,47 @@
     "endTime": "13:30",
     "timezone": "GMT-2",
     "type": "panel",
-    "description": "Self-sufficiency and resilient local economies. Material innovation session focusing on locally sourced and circular materials, seasonal food, local production and knowledge.",
-    "speakers": ["mika-sulkinoja", "patrick-schroder", "anders-ladefoged", "luca-de-lorenzo"],
-    "moderators": ["alisa-mick", "keira-dignan"],
-    "topics": ["materials", "local sourcing", "innovation", "circular design", "self-sufficiency", "local economy", "food systems"],
+    "description": "Nature is regenerative – it continuously recreates itself without doing any harm. This session investigates how we can reinstate the human connection with nature by learning from natural systems and move towards a flourishing regenerative future.\n\nThe session explores regenerative business models, bioeconomy, and biomimicry. Historically, a key motivation for change is business opportunity, so we examine what it takes to build financially viable, nature-positive businesses. Topics include nature valuation, ecosystem services, resource stewardship, and how to transition from nature-negative to nature-positive business models.\n\nFocus on locally sourced materials, seasonal food systems, local production knowledge, and material innovation using Arctic and Nordic resources.",
+    "speakers": [
+      "mika-sulkinoja",
+      "patrick-schroder",
+      "anders-ladefoged",
+      "luca-de-lorenzo"
+    ],
+    "moderators": [
+      "alisa-mick",
+      "keira-dignan"
+    ],
+    "topics": [
+      "bioeconomy",
+      "biomimicry",
+      "circular design",
+      "ecosystem services",
+      "food systems",
+      "innovation",
+      "local economy",
+      "local sourcing",
+      "materials",
+      "nature valuation",
+      "nature-positive business",
+      "regenerative business",
+      "resource stewardship",
+      "self-sufficiency"
+    ],
     "location": "Hans Egede Hotel, Nuuk, Greenland",
     "onlineAvailable": true,
     "transcriptFile": "",
-    "notes": "Includes discussion of Arctic food innovation, reindeer, musk ox, fat production with INNOVA"
+    "notes": "Includes discussion of Arctic food innovation, reindeer, musk ox, fat production with INNOVA",
+    "shortDescription": "Self-sufficiency and resilient local economies. Material innovation session focusing on locally sourced and circular materials, seasonal food, local production and knowledge.",
+    "themes": [
+      "Nature as regenerative model for business",
+      "Biomimicry and learning from natural systems",
+      "Economics of nature and nature valuation",
+      "Regenerative business models",
+      "Local material innovation and self-sufficiency",
+      "Seasonal food systems and Arctic resources",
+      "Resource stewardship and finite resources"
+    ]
   },
   {
     "id": "arctic-nordic-lifestyles",
@@ -58,14 +139,45 @@
     "endTime": "14:45",
     "timezone": "GMT-2",
     "type": "panel",
-    "description": "Circular traditions, culture and knowledge. Lifestyle and consumption focus exploring sustainable living in Arctic and Nordic regions.",
-    "speakers": ["gisle-mariani-mardal", "tilda-larsson", "michaela-lindstrom", "mia-chemnitz"],
+    "description": "Exploring circular traditions, culture, and knowledge embedded in Arctic and Nordic lifestyles. The session examines how traditional knowledge and cultural practices inform sustainable consumption and circular living.\n\nTopics include textile circularity with focus on Nordic materials (wool, qiviut), sustainable lifestyle choices, behavioral change toward circularity, and the role of design in shaping circular consumption patterns. The session highlights how circularity can evolve from individual actions to societal norms.\n\nDiscussion covers the new normal in consumer behavior, sufficiency in consumption, and how Nordic values of trust, collaboration, and inclusiveness support circular transitions.",
+    "speakers": [
+      "gisle-mariani-mardal",
+      "tilda-larsson",
+      "michaela-lindstrom",
+      "mia-chemnitz"
+    ],
     "moderators": [],
-    "topics": ["lifestyle", "consumption", "sustainability", "culture", "textiles", "traditional knowledge"],
+    "topics": [
+      "behavioral change",
+      "circular culture",
+      "consumer behavior",
+      "consumption",
+      "culture",
+      "design for circularity",
+      "lifestyle",
+      "nordic materials",
+      "qiviut",
+      "sufficiency",
+      "sustainability",
+      "sustainable fashion",
+      "textiles",
+      "traditional knowledge",
+      "wool"
+    ],
     "location": "Hans Egede Hotel, Nuuk, Greenland",
     "onlineAvailable": true,
     "transcriptFile": "",
-    "notes": "Focus on Nordic Baltic Textile Transition Group, local materials like qiviut"
+    "notes": "Focus on Nordic Baltic Textile Transition Group, local materials like qiviut",
+    "shortDescription": "Circular traditions, culture and knowledge. Lifestyle and consumption focus exploring sustainable living in Arctic and Nordic regions.",
+    "themes": [
+      "Traditional knowledge and circular practices",
+      "Textile circularity and Nordic materials",
+      "Behavioral change and the new normal",
+      "Design for circular lifestyles",
+      "Cultural values supporting circularity",
+      "Sufficiency in consumption",
+      "Indigenous knowledge and sustainability"
+    ]
   },
   {
     "id": "circular-cities-regions",
@@ -75,14 +187,46 @@
     "endTime": "16:00",
     "timezone": "GMT-2",
     "type": "panel",
-    "description": "Technology and digitalization in circular transition. Focus on how cities and regions can implement circular economy principles.",
-    "speakers": ["terje-eide", "olle-kaldstrom"],
+    "description": "How can digitalization and AI accelerate the circular transition in the Nordics? This session explores how AI and emerging technologies drive circular change in business and society. We examine how innovations such as Digital Product Passports (DPP) enhance operational efficiency, improve decision-making processes, and enable new business models that support circularity.\n\nParticipants gain insights into how advanced technologies enable development of cutting-edge solutions in dynamic collaborations between corporations and startups. Topics include data sharing, transparency, trust, and human-computer interaction (HCI) in circular systems.\n\nThe session also addresses circular leadership at regional level - how cities and regions can take brave decisions and risks to establish circular leadership. Discussion covers organizational culture, communication, KPIs for circularity, and how circular goals are executed across governance levels.",
+    "speakers": [
+      "terje-eide",
+      "olle-kaldstrom"
+    ],
     "moderators": [],
-    "topics": ["smart cities", "technology", "digitalization", "regional development", "circular economy"],
+    "topics": [
+      "AI",
+      "DPP",
+      "Digital Product Passport",
+      "HCI",
+      "KPIs",
+      "circular economy",
+      "circular leadership",
+      "collaboration",
+      "data sharing",
+      "digitalization",
+      "enabling technologies",
+      "governance",
+      "human-computer interaction",
+      "regional development",
+      "smart cities",
+      "technology",
+      "transparency"
+    ],
     "location": "Hans Egede Hotel, Nuuk, Greenland",
     "onlineAvailable": true,
     "transcriptFile": "",
-    "notes": "Technology and digitalization focus"
+    "notes": "Technology and digitalization focus",
+    "shortDescription": "Technology and digitalization in circular transition. Focus on how cities and regions can implement circular economy principles.",
+    "themes": [
+      "AI and emerging technologies for circularity",
+      "Digital Product Passports and traceability",
+      "Data sharing and transparency",
+      "Corporation-startup collaboration",
+      "Circular leadership and governance",
+      "Regional circular strategies",
+      "Technology-enabled circular business models",
+      "Smart city circular infrastructure"
+    ]
   },
   {
     "id": "partner-digital-sessions",
@@ -92,10 +236,23 @@
     "endTime": "14:00",
     "timezone": "GMT-2",
     "type": "digital",
-    "description": "Full day of digital sessions hosted by Summit Partners, highlighting circular initiatives, research, and case studies from across the Arctic and Nordic region",
+    "description": "Full day of digital sessions hosted by Summit Partners, showcasing circular initiatives, research, and case studies from across the Arctic and Nordic region. Sessions cover diverse topics including textile transition, critical raw materials, circular knowledge sharing, waste management, local production, ocean partnerships, and financing.\n\nThese sessions provide platforms for partners to share their work, build networks, and demonstrate circular solutions in action. Thematic focus areas include Nordic Baltic Textile Transition Group initiatives, circular approaches to critical raw materials, knowledge exchange platforms, and innovative financing mechanisms for circular projects.",
     "speakers": [],
     "moderators": [],
-    "topics": ["research", "case studies", "initiatives", "circular economy", "partnerships"],
+    "topics": [
+      "case studies",
+      "circular economy",
+      "circular knowledge",
+      "collaboration",
+      "critical raw materials",
+      "financing",
+      "initiatives",
+      "network building",
+      "partnerships",
+      "research",
+      "textile transition",
+      "waste management"
+    ],
     "location": "Online + Nalik Venture office + locations around Nuuk",
     "onlineAvailable": true,
     "transcriptFile": "",
@@ -103,19 +260,27 @@
     "partnerSessions": [
       {
         "time": "08:00-09:00",
-        "topics": ["Various partner sessions"]
+        "topics": [
+          "Various partner sessions"
+        ]
       },
       {
         "time": "10:00-11:00",
-        "topics": ["Various partner sessions"]
+        "topics": [
+          "Various partner sessions"
+        ]
       },
       {
         "time": "11:30-12:30",
-        "topics": ["Various partner sessions"]
+        "topics": [
+          "Various partner sessions"
+        ]
       },
       {
         "time": "13:00-14:00",
-        "topics": ["Various partner sessions"]
+        "topics": [
+          "Various partner sessions"
+        ]
       }
     ],
     "keyPartnerTopics": [
@@ -127,6 +292,17 @@
       "Ocean industry partnerships",
       "Financing and capital",
       "Mining and minerals"
+    ],
+    "shortDescription": "Full day of digital sessions hosted by Summit Partners, highlighting circular initiatives, research, and case studies from across the Arctic and Nordic region",
+    "themes": [
+      "Partner-led circular initiatives",
+      "Textile industry transition",
+      "Critical raw materials circularity",
+      "Knowledge sharing and networks",
+      "Waste management solutions",
+      "Circular financing mechanisms",
+      "Multi-stakeholder collaboration",
+      "Regional circular case studies"
     ]
   }
 ]

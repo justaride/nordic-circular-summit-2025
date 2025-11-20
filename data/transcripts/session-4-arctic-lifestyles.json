@@ -1,0 +1,573 @@
+{
+  "id": "transcript-session-4-arctic-lifestyles",
+  "sessionId": "arctic-nordic-lifestyles",
+  "title": "Arctic & Nordic Lifestyles",
+  "date": "2025-11-19",
+  "startTime": "13:45",
+  "endTime": "14:45",
+  "duration": "60 minutes",
+  "location": "Hans Egede Hotel, Nuuk, Greenland",
+  "transcriptionStatus": "completed",
+  "metadata": {
+    "transcribedBy": "Whisper AI",
+    "reviewedBy": "Claude Code",
+    "language": "English",
+    "participantCount": 7,
+    "recordingFile": "Arctic & Nordic lifestyles"
+  },
+  "speakers": [
+    {
+      "id": "frederik-thrane",
+      "name": "Frederik Thrane",
+      "organization": "Lifestyle and Design Cluster (Denmark)",
+      "role": "Moderator"
+    },
+    {
+      "id": "lise-lotte",
+      "name": "Lise Lotte",
+      "organization": "Independent Consultant (formerly Government of Greenland)",
+      "role": "Co-moderator"
+    },
+    {
+      "id": "mia-chemnitz",
+      "name": "Mia Chemnitz",
+      "organization": "Grevilliot / Qiviut (Greenland)",
+      "role": "Panelist"
+    },
+    {
+      "id": "kristian-ottesen",
+      "name": "Kristian Ottesen",
+      "organization": "Royal Greenland",
+      "role": "Panelist"
+    },
+    {
+      "id": "gisle-mariani-mardal",
+      "name": "Gisle Mariani Mardal",
+      "organization": "NFTA (Norway)",
+      "role": "Panelist - Digital Product Passport Expert"
+    },
+    {
+      "id": "tilda-larsson",
+      "name": "Tilda Larsson",
+      "organization": "AB Ludwig Svensson (Sweden)",
+      "role": "Video Interview Participant"
+    },
+    {
+      "id": "kalli-kent",
+      "name": "Kalli Kent",
+      "organization": "Nordic Baltic Textile Transition Group (Estonia/Denmark)",
+      "role": "Closing Remarks"
+    }
+  ],
+  "parts": [
+    {
+      "id": "part-1-introduction",
+      "title": "Introduction & Session Framing",
+      "startTime": "13:45",
+      "endTime": "13:50",
+      "duration": "5 minutes",
+      "description": "Frederik Thrane introduces the session theme: Arctic and Nordic lifestyles rooted in circularity as tradition, not trend. Framing focuses on how Inuit practices of making—where nothing goes to waste—can inspire modern product systems across sectors.",
+      "speakers": ["frederik-thrane"],
+      "notes": "Frederik frames the session around the concept that 'In Greenland, circularity isn't a trend, it's a tradition and it's the foundation.' He introduces the key companies (Grevilliot and Royal Greenland) and highlights themes of resilience, self-sufficiency, cultural continuity, and the upcoming Digital Product Passport discussion.",
+      "keyThemes": [
+        "Circularity as tradition, not trend",
+        "Inuit knowledge and resilience",
+        "Cultural continuity through production",
+        "Waste-less systems and community strength",
+        "Digital Product Passport as transparency tool"
+      ],
+      "segments": [
+        {
+          "speaker": "frederik-thrane",
+          "text": "Good afternoon, everyone. So nice to be here. My name is Frederik Thrane, and I come from Lifestyle and Design Cluster, Denmark's national business cluster for the lifestyle and design industry. And I have the pleasure and honor to be moderating the exciting conversation that we're about to begin on Nordic and Arctic lifestyles, but inspired by Alisa's great intro for her session just before, locally rooted, I'm going to start with the framing. I'm going to read this up. Across the Arctic and the Nordic, design and production have traditionally been about more than output. They're acts of resiliency, self-sufficiency, and cultural continuity. In Greenland, the mindset spans from the use of musk ox wool and seal skin to the valorization of seafood side streams. Nothing goes to waste and everything has purpose. This session explores how Inuit traditions of making, where every material is valued and knowledge is shared, can inspire modern product systems and in any sector. By connecting Grevilliot's apparel craftsmanship and Royal Greenland's industrial resource loops, we uncover how rooted plant-based systems can inspire system change across sectors. In Greenland, circularity isn't a trend, it's a tradition and it's the foundation. Whether it's the way Grevilliot turned local wool and seal skin into enduring garments, or how Royal Greenland is preparing for a future where waste streams become the new revenue streams. Both sides show what resilience looks like when culture and production align. Today, we'll use these two examples to ask, what can companies, from fashion to food, learn about design systems that waste nothing and strengthen communities? We will conclude the session by looking into the near future where tools like the digital product passport can support companies in transparently communicating their good practices to their end consumers. From supply chain transparency to traceability to repair and resell systems. And using compliance as a competitive advantage. Together we'll examine pathways that move us from wasteful to waste-less, from volatile to resilient. But now let's begin our conversation. I'm so grateful to be here today and to be in Nuuk where we're going to learn about Greenlandic and Inuit culture through the prism of circularity. And I'm even more excited to be here with our panel that is locally rooted Greenlandic with Mia Chemnitz, co-owner and managing director of Grevilliot, and Kristian Ottesen from Royal Greenland. Also from Norway, we have Gisle Mariani Mardal, who is head of development at NFTA and partner in a project that we're also a partner with, an Interreg project called Data to Business. And then finally, we have you, Lise Lotte. You are my co-moderator today. And you were born in Qaanaaq, the most northern village in Greenland. You've spent most of your career working for the Home Rule government at that time, working with the Arctic and with Arctic issues. And today, you will help us bridge the Arctic to the Nordic, helping us see where we can learn from the Arctic to the Nordics. So today is about listening, it's about learning, it's about being inspired and hopefully if we succeed also about inspiring. And before we start Lise Lotte, I'd actually like you to kick off with telling us a little bit about yourself and your background."
+        }
+      ]
+    },
+    {
+      "id": "part-2-co-moderator-introduction",
+      "title": "Co-Moderator Introduction: Arctic Perspective",
+      "startTime": "13:50",
+      "endTime": "13:53",
+      "duration": "3 minutes",
+      "description": "Lise Lotte shares her background from Qaanaaq, North Greenland, and her work with government, Arctic cooperation, and place-based knowledge. She emphasizes the Arctic mindset where resources, production, and community are inseparable.",
+      "speakers": ["lise-lotte", "frederik-thrane"],
+      "notes": "Lise Lotte introduces herself, describing her upbringing in the remote Arctic community of Qaanaaq where resilience means nothing is wasted—not as a trend but as necessity rooted in Inuit tradition. She has 9 years experience with the Government of Greenland and now works with her own company on Arctic-Nordic cooperation and place-based knowledge.",
+      "keyThemes": [
+        "Remote Arctic community resilience",
+        "Resources valued by necessity and tradition",
+        "Place-based knowledge importance",
+        "Arctic-Nordic cooperation",
+        "Design, production, and community as inseparable"
+      ],
+      "segments": [
+        {
+          "speaker": "lise-lotte",
+          "text": "I shall do my very best, thank you. Yes, My name is Lise Lotte and I was born and raised up in Qaanaaq in North Greenland. Growing up in a remote Arctic community has shaped my understanding of what resilience truly means. In our everyday life every resource has value, nothing is wasted, but not because it was a trend but because it was a necessity deeply rooted in Inuit tradition. Later, I spent nine years working within the government of Greenland, where I gained a strong understanding of political processes and decision-making in the Arctic, and these roles also brought me across the country and gave me insight into how local communities think about resources, production, and the importance of maintaining cultural continuity. Through the years I have expanded my focus to broader Arctic and Nordic cooperation. I have worked extensively with business development, Arctic markets, and cross-border collaboration. I'll have to do this short because we have so many important things to say today. But today I have my own company, and I continue to work closely with stakeholders in Greenland the Nordic and EU, and across the Arctic, to highlight the importance of place-based knowledge. So what I bring to today's session is an understanding of how local practices reflect a broader Arctic mindset, a mindset where design, production, and community are inseparable. And I believe this principle can inspire companies in any sector as we move towards systems that are transparent, circular and culturally grounded. I'm looking so much forward to this session."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "Thank you, Lise Lotte."
+        }
+      ]
+    },
+    {
+      "id": "part-3-panel-grevilliot-royal-greenland",
+      "title": "Panel: Grevilliot & Royal Greenland - Locally Rooted Business",
+      "startTime": "13:53",
+      "endTime": "14:15",
+      "duration": "22 minutes",
+      "description": "Panel discussion with Mia Chemnitz and Kristian Ottesen exploring their life and business philosophies, how their work is rooted in Greenlandic culture, quota limitations, local value creation, repair practices, supply chain roles in communities, and the reintroduction of circular principles.",
+      "speakers": ["frederik-thrane", "mia-chemnitz", "kristian-ottesen", "lise-lotte"],
+      "notes": "Rich discussion covering: Mia's background in small Greenlandic villages and Grevilliot's complete local production (hunter → garment); quota limitations creating natural scarcity and high value; Kristian's journey from Chinese textiles to Greenlandic waste streams; Royal Greenland's 38 outposts (sole employer in settlements); repair as natural (maker = best repairer); sealskin as foundation of Inuit survival despite no 'performance tests'; reintroducing pre-industrialization circular practices; cultural decolonization through reclaiming traditional materials; local pride in products; and the scarf as 'a piece of history, culture, tradition—and a meal.'",
+      "keyThemes": [
+        "Local materials and complete value chains",
+        "Quota limitations driving circularity",
+        "Repair and longevity built-in",
+        "Waste streams as starting point",
+        "Cultural decolonization and pride",
+        "Traditional knowledge vs academic proof",
+        "Reintroducing pre-industrial practices",
+        "Supply chain as community backbone"
+      ],
+      "segments": [
+        {
+          "speaker": "frederik-thrane",
+          "text": "I'll change the slide. Yes. So now let's move into our panel, the first part of it. So again, we have Mia Chemnitz, who is co-owner and managing director of Grevilliot, and Kristian Ottesen, director of Royal Greenland. And I too have really looked forward to this conversation. We've had some very, very good prep calls that have been quite inspiring. So I hope we'll share the fruits of those conversations now. And I think since we're talking about Arctic and Nordic lifestyles, I'd love to get to know the two of you a little better and the companies that you represent. And obviously, Kristian, for those who've been listening all day, they've already been introduced to you. So I think we'd like to have a slightly more philosophical and a more personable presentation when we get to you. So I'd like to know about both your backgrounds, but also about your life and your business philosophies. But I'd like to start with you, Mia. Would you start presenting Mia Chemnitz and also Grevilliot? What is your business? What is your life and your business philosophy."
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "Yes, thank you. Can you hear me? Okay, yeah. I'm Mia. I was born here in Nuuk some 30 years ago. I grew up in a small village of about 500 people. It's one of the coldest places in Greenland, very small community. And then I also lived some years in Sisimiut, which is the same height, just above the Arctic Circle, but at the ocean side. My mother founded the company, Qiviut. We make-- well, actually, what the speaker before kind of summed up is basically what we do. We take local materials, like seal skin, musk ox hides and wool, and then we make the whole production line from wild animal in the fjord or on the mountain to garments that you can wear and we make it all locally, all local staff and you can't find anything in our store where I can't tell you who made it."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "Thank you Mia and a little hidden advertising since I'm wearing one of your scarves it is incredibly comfortable and also quite warm. Thank you. Kristian over to you."
+        },
+        {
+          "speaker": "kristian-ottesen",
+          "text": "So was there a question or did you just want to have a philosophical presentation?"
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "There wasn't a question, there was a presentation request."
+        },
+        {
+          "speaker": "kristian-ottesen",
+          "text": "I can say a little bit about my life philosophy, because that's kind of what is embedded in everything I do. I have, as I mentioned previously in my presentation, a background also working with textiles in China, and that was actually also setting out with a wish or with an ambition to change the industry, to make it more sustainable, to work with different production methods which could change the industry in a way. So I was very young and very, how can you say, naive in a way in my approach to doing all that. But I think that kind of life philosophy has followed me all the way through to what I'm doing today. Changing systems, working with innovation, improving what we're doing. It has been called a lot of things over the years, but circular mindsets, I guess, is actually coining it quite well, you know, thinking everything into a production setup and so on and so forth. So that's kind of what I'm coming from and my approach to trying to change systems as it is."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "And I think to those who might have forgotten or those who just joined now, I think part of what is really interesting with your transition or your journey is that you start with the fashion industry, you have an interim where you're working on a very material-based focus with seaweed, building up a company there that then is acquired by Royal Greenland and integrated into their business operation. So the two of you represent a very good canvassing of the landscape from apparel and textile to food systems. You also represent two quite different companies, both from obviously a product perspective and a price point and a size perspective. However, I also see that you share some quite similar foundations, or a similar foundational approach to what a healthy business looks like. And that takes me to moving into the questions. I'd like to learn how your work is rooted in Greenlandic society and in Greenlandic culture and heritage. You alluded a little to it in your presentation, Mia, but can you take us a bit more into, in lack of a better analogy, into the engine room of how you work. Where did my scarf start?"
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "Yeah, so if we take your scarf, it was a wild animal on the mountains near Kangerlussuaq. Then a hunter went out, shot the animal, sold the meat, and then I bought the hide. Then we take the wool off the hide. And then there's a process that is the only part that kind of leaves our hands. Because we don't have a spinning facility in Greenland, we have to ship it out of the country to spin it. But then it comes back as yarn. This one is knitted by us. Sometimes we dye it, and then we sell it. So every single material that we use is from a hunter that is local."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "That sounds amazing. So I'm a big chain store. I can feel how soft this is. I'd like to take 100,000 units. Can I order those from you tomorrow?"
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "No, and there is no discount for big amounts. No."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "Can you tell us a little bit about why that is? Because I think there is an interesting learning in this, like there could really be a demand. However, there are some limitations that are quite illustrative."
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "Yeah, and not only could there be a demand, there is a demand, but we are always limited by quotas. So especially with the musk ox wool, there is nowhere else in the world where I can go out and buy more raw material. So everything has to be-- we have to buy all the hides to be able to take the wool off during a two-month period in the coldest part of the winter. Otherwise, there is no raw material. There is no production. We are sold out all the time, which it's a luxury problem. I know that. But we would never be able to make more than what we're doing now. So for us, it's been very important to keep the value local. Because we could easily sell the raw wool to Canada or the US, but then it wouldn't be adding more value to Greenland, except for the price that I paid the hunter, and then the time it takes to take the wool off the hides."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "I think that's a very interesting learning in the circular economy journey about volume and about value creation. Kristian, can you share some of your perspectives on how Royal Greenland is rooted in the Greenlandic society and culture and heritage, and preferably in addition to what you told us this morning?"
+        },
+        {
+          "speaker": "kristian-ottesen",
+          "text": "Well, I can say from my own perspective, taking the whole company as in, would be a little bit of a mouthful, But I can say that I share Mia's philosophy around value creation in Greenland. And a lot of the stuff that we do is actually also grounded in creating value locally in Greenland. For example, we could easily just sell our side streams, for example, for further processing somewhere else where they have better technology, more skilled labor, and so on and so forth. But that wouldn't add anything to the Greenlandic society. It wouldn't add any education or learning or basically also revenue streams. So I can definitely see what Mia is coming from there. And so we share that philosophy and there is a lot of similarities in that."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "Can you maybe talk a little bit and the both of you into like from a from both from a practical perspective, you mentioned the numbers of employees within Royal Greenland in Greenland, but also what it means to local to have these companies, that one is state-owned, one is private-owned, but that produce products that are deeply rooted in Greenland, in this culture. What does that mean apart from labor, apart from employment, for the local communities?"
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "I believe that we are making a product that a lot of Greenlandic people are very proud of. We're not blind to the fact that of course our products are quite expensive, both because the resource is so limited, but also because we have so many labor hours going into each product, so this always adds to the price, and because we are so determined to have the work done here. I mean, we're not paid the same way as maybe a Chinese woman is, luckily. So all this adds to the price. But we try to find a balance where we can live off of our work. But we don't follow the world market price for our products, because that would be a lot higher. And we want to be somewhere where it's OK for us that our products are special. And this is something that you wish for when you have a round birthday or something like that or you come in and you have something specially made for you but still keeping prices at a level where that is possible for local people."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "And by doing so you also told me that you hardly have any impulse buys where in traditional apparel there is a very very high return rate on almost all products so it seems like by having this approach you've eliminated a lot of that."
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "We do have impulse buyers but they're not local."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "I think also-- question, please. Please, Kristian."
+        },
+        {
+          "speaker": "kristian-ottesen",
+          "text": "It was just adding a little bit to that with the cultural aspects. Well, the culture has an immense impact on my work. I've said it a few times before, and I've heard it previously as well. So fisheries and seafood is a massive thing in the Greenlandic culture. I mean, it constitutes, I think, 98% of the exports and so on. So it's so deeply rooted and such an important thing. But my work with, for example, the side stream and process optimization is quite easy because there is this cultural belief and this cultural embeddedness that waste not, have not, want not. So we have the tradition, or there is the tradition, of utilizing everything. And that makes it quite easy to get these things across."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "And maybe keeping with that, and going back to you, Mia, in the prior panel, Mika talked a lot about the R strategies, the preventing strategies for waste creation, where repair, keeping products at the highest possible value level for the longest time possible, is essential. In practice, how does that work? Again, if my scarf or my seal anorak gets torn or if it gets damaged, what would I do?"
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "Well, the good thing about buying garments from someone you know is that this person who made the garment is probably the best in the world to repair it. So you just come back and then they fix it. Yeah, and also to add to this waste thinking or minimizing the waste, we are basically a company founded on waste product, because we hunt for the meat. And then we wear the rest. So we're already you know, the starting point is kind of a waste product. Of course, we've never thought of seal skin as a waste product in Greenland. It's very evident, if you look back, that Inuit have survived in the Arctic because of the seal and also because of the seal skin."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "I actually I want to I want to bring up an interesting conversation that you and I had in regards to that, where we're in a world where we measure everything, we love data, we love metrics, and of course that is a prerequisite for a lot of things to happen. But we as Apparel Geeks, I am one as well, we're talking about performance as it relates to products. And to those of you who know performance materials, you know there's a lot of tests, There's water pressure, there's wicking, a lot of tests. And you said that for seal skin there are no such tests."
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "I don't know that there is any tests."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "None that you know of. However, when it comes to picking an apparel piece for survival, I'd like you to answer that."
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "Yeah, you asked me if I had these numbers and the results of the tests, and I told you that I don't know that there has been any tests. But I know that I trust the seal skin more than anything that's been tested a lot. So if I'm going on the ice cap or on a dog sled, I know what I'm going to be wearing."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "And I think that ties in beautifully to the prior session with including the locally rooted community, including the locally rooted knowledge, even the knowledge that might not be academically proven yet, but that has a couple of millennia to prove the value of the outcomes of the convictions. I think I would like to move to the next question that is a little tied into this as well. And it relates to the supply chain and the production systems that your companies are part of, and what role that supply chain plays in the local community. So Kristian, you mentioned that you have 38 outposts for Royal Greenland throughout the country. So can you explain a little bit more what that means for the local communities?"
+        },
+        {
+          "speaker": "kristian-ottesen",
+          "text": "Yeah, but in some of the smaller settlements we are the sole supplier or sole employer, so it means everything for the local communities. And we, as a state-owned company, we are obligated, how can you say, to maintain this and to drive this in order not to lose cultural aspects and the like. So it is a very strong part of our organizational culture that we are maintaining these settlements or production sites in the settlements. Sometimes it's only three people and a freezer, basically. And then we are doing, for example, a headed and gutted cut, which are then sold to the global market. So you can see even the smallest settlements in Greenland have actually a global market reach in a way. So it's kind of beautiful."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "How has it been coming in as a foreigner, as a Dane, with a waste stream management valorization mandate to a company that's been running for 300 years, to, I guess in a way, reintroduce the practices that it was founded on but that has been abandoned for a long period of time? Is it something that raises regional pride, that people essentially can say, \"We told you so, that's how we always did it before you guys came along.\" How did you feel that shift?"
+        },
+        {
+          "speaker": "kristian-ottesen",
+          "text": "Well, it's a very good point and it's an interesting notion actually. I mean, I moved here for that sake as well, to be part of the community, to understand what's going on, to understand the culture and to understand the drivers that could help me reintroduce these principles to our production sites. But it is a very good point. I mean, this has been done for centuries before we or I came along, but now we are reintroducing it. Because I think along with the industrialization of the fishing industry, we've forgotten some of these things. And I think earlier today it was said that we don't have to reinvent the wheel. We have to listen and learn from the history and then just reinstate some of the practices. And I will remember that. So thank you for that reflection."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "How about you, Mia, maybe not reintroducing the wheel, but reintroducing the principles that your business is built on. Have you felt a change in the national appreciation of that? In, again, going back to, we told you, so we've been doing this. Is there manifestations or are there manifestations where you can see that there is a shift in appreciation of these values in the public?"
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "I think to kind of start off with, like 15 years ago, we were all wearing Canada Goose jackets. Like it was the new national suit in Greenland. I own like three of them because I like jackets. But part of what we're trying to do is to take these amazing materials that we have here on site and make them fashionable again. And we're kind of tapping into this whole-- it's kind of a tricky word in Greenland, probably in Denmark, and maybe where you come from as well-- but this decolonization way of thinking. So we are taking back our tattoos. We're taking back our earrings. We're taking back our anorak. We're taking back our materials, culture, music, everything. And we're just, you know, we're very lucky with our timing, I think, because we're kind of just tagging along there."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "It also feels like there is a lot of multinational companies that promote wasteless products. I know a very well-known footwear company from the US tagged that when they invented a knitted technology. And it seems like again that you have some very compelling and millennia old principles that can be marketed in the same way and again showing that you invented this or you've been working with it for a very, very long time. Am I admitting something or forgetting something or what are your reflections on what we're thinking or talking about currently?"
+        },
+        {
+          "speaker": "lise-lotte",
+          "text": "I just noticed that your scarf is not just a scarf. I'm sorry, it's not. It's a bit of a history, a culture, and tradition. And a meal. And a meal. But don't eat it. So you actually have a piece of Greenlandic circularity. So congratulations on that. But besides that, I think this is, it's so nice to hear that going back to the roots, to the local foundations and the communities, taking this knowledge into new methods and into the new business industry, it's so important, but it's also, for a Greenlandic heart, it means a lot."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "And I think that's a beautiful segue onto my next question, which is what, in your opinion, can global businesses learn from your approach to product and system design and manufacturing? Of course, mainly in relation to circularity. You've already alluded a lot to it, but I think, Kristian, maybe you take the corporate perspective, and Mia, you take the more independent, smaller business perspective."
+        },
+        {
+          "speaker": "kristian-ottesen",
+          "text": "So what the world can learn, you know, we've talked about it previously today as well, Greenland is a massive country, very far from the north to the south, and with no roads attaching any settlement or any townships or anything like that. That means it's really hard to collate the raw materials in order to generate a critical mass to justify an investment into, how can you say, into a production setup. So it means that if we can make it work here, you know, we have to be a little bit smarter because we cannot just sell fish meal or fish oil like the waste streams are usually going into in mainland Europe. Because based on the logistics price and the complexities of the infrastructure, that's just not possible for us to compete in commodity pricing. So we have to be a little bit smarter every time we do something with these value streams. And that's where everybody else can learn a little bit from our innovations and our systems and our approaches to working with these value streams. I think that's a very important learning. We were talking about it during lunch. If we can make it happen here, it's actually with limited resources, then it can also be applied in many other places."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "And given that this is the Nordic Circular Summit in the Arctic, do you think there are some conditions in this group of countries that give us a competitive advantage compared to the global landscape?"
+        },
+        {
+          "speaker": "kristian-ottesen",
+          "text": "I think the collaboration here is actually quite interesting because we've done it with the 100% Shrimp Project, where we've taken collaborators instigated by, in this case, the Iceland Ocean Cluster and then supported by the Nordic Innovation, right? Then fostering the collaboration between the countries with similar challenges has actually given us a competitive advantage, I would say."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "That's good to hear. And Mia, from the perspective of a smaller, privately-owned company, what do you think comparable companies or in size globally can learn from what you're doing?"
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "I think we can kind of be an example of how good you could be at the non-waste. I know that most companies now are starting to think about it. They try to make strategies and stuff like that to implement new things to minimize waste. But I kind of want to challenge them to start with, okay, we have this waste, let's look at it, and what can we do with it? I don't know if that makes any sense."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "I think it makes sense, and I had the pleasure to walk by your store last night. Granted, unfortunately, it was closed, but I could look in the windows and window shop or gaze, and what struck me is the materiality of everything you have in your store. Essentially, I want to touch everything. Do you think the proximity of your customer base, or a lot of your customer base, to the products and the understanding of the physicality of what you're making the products from is a driver? Do people know what the insulating power of musk ox wool or the water repellency of sealskin or something like that, is there an inherent knowledge of the attributes of the materials in the products?"
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "I think that's a yes and a no. Because we can take someone like you. You moved to Greenland. Probably the first winter, you were like, yeah, I got all this gear that's been tested. And you probably-- I don't know if you ski, but you probably thought that you knew what you were going to wear in the winter. And then you come here, and then you're cold as fuck. And then you start looking at local people, like what are they wearing? And then you notice they're wearing me. And so it's-- and of course, the local people, they know more. But we also-- we have a lot of international customers. We have an online shop where you can shop our stuff. And of course, they have not touched it. Or maybe they have been in Nuuk years ago, and they bought a small product because it's pricey. And then they took it home, and then they wore it, and then they loved it, and they want everything else. So it's kind of a yes and no thing. But I think that in our company we have a huge potential in tapping into the storytelling, which we never really do, because we're always making stuff. So it's always like, how much time do you have in a day?"
+        }
+      ]
+    },
+    {
+      "id": "part-4-dpp-introduction",
+      "title": "Digital Product Passport Introduction",
+      "startTime": "14:15",
+      "endTime": "14:25",
+      "duration": "10 minutes",
+      "description": "Frederik introduces Gisle Mariani Mardal to explain the Digital Product Passport (DPP) concept, requirements, and how it can be a competitive advantage for transparent supply chains and circular business models.",
+      "speakers": ["frederik-thrane", "gisle-mariani-mardal"],
+      "notes": "Gisle explains DPP as 'Internet of Things for products'—a QR code connecting physical products to digital data grids. Covers: compliance requirements from EU starting 2026, production information, working conditions, repair instructions, resale connections, fiber regeneration; storytelling opportunities for local value chains; control over data reduces costs; Extended Producer Responsibility fees; circular services integration (repair, takeback, resale); and making sustainable choices easy.",
+      "keyThemes": [
+        "Digital Product Passport as QR code data carrier",
+        "EU compliance requirements (2026+)",
+        "Supply chain transparency and traceability",
+        "Storytelling for local/specific products",
+        "Control = cost reduction",
+        "Extended Producer Responsibility",
+        "Circular services integration",
+        "Making sustainability easy"
+      ],
+      "segments": [
+        {
+          "speaker": "frederik-thrane",
+          "text": "I think that is a very good segue to abandoning this part of the panel for a little instance and moving to the second part of the panel, which brings you on the scene, Gisle. So now we'll move into looking at how local production and supply chain transparency can be used as a competitive advantage and as a driver for circular practices. And in other words, we'll look at how we can create value from compliance data and how we can use the data for new circular business models. I'm very happy to have you here, Gisle, and repeating your title, you're head of development at NFTA and you're our Norwegian partner at the Interreg project, Data to Business. And Gisle, starting next year, the digital product passport will be a requirement for the first product groups on the European market. So maybe just to level the playing field for all of us, can you start telling us what is the digital product passport?"
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Yeah, yeah, sure. Thanks for the introduction. The digital product passport is a way of connecting a physical product to the digital grid. It's the Internet of Things that many of you probably have heard about earlier on IoT. And it's basically a carrier, a data carrier. And the easiest way to explain it is a QR code connected to the product. You can use your mobile phone like you did during the pandemic and you started ordering from a menu. You get the menu of the garment and all of the information required from a set of regulations that comes from the EU needs to follow this specific product. And the information needs to be stored until the product is done with. And this is production information, it's information about what it entails, the production, the working conditions. So it applies to the laws of having an openness around your manufacturing processes, to the dealing with the product as a consumer, if it's broken, how to fix it, if you want to sell it on, it's connected to a resale site, and then towards the end of it, if it's going to be, let's say, fiber-to-fiber, dealt with in that sort of respect. But also, we see that there's a huge opportunity to use it as a communication platform, because that's basically what it is. So, I mean, to what you were saying, you can tell the story of the product. The more specific the product is, obviously, the more specific the storytelling becomes. So, for us, in Norway in particular, we also have certain types of specific local value chains, And that's a way of being able to position yourself as someone who's out of the sort of mass manufacturing site and also in that respect require a higher price for your product, different type of handling of your product as the repair would be more worth it, but also maybe having a cleaner fiber mix so it's easier to regenerate the fiber from it towards the end of it."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "I think it does sound quite burdensome for the different companies to be compliant with this. So I'm really wanting you to elaborate and explain for everyone why this can be a competitive advantage, why being compliant can be a good business and circular business strategy as well."
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Well, first of all, the fashion and textile sector needs to become compliant because there's no control. Nobody knows anything, and they've been getting away with it for so long. So it's only right in that respect. Second is obviously that once you have control over the data in your value chain, you know where your product has been, where the fiber has been grown. You know where it's been produced. You know how it's been shipped. You know all of these things. It's easier to gain control over the product, and it's easier then by having that control to cost cut, because not having control is expensive. Once the product has been produced, it's in the market, you know where it is, and you're gonna have to start paying extended producer responsibility fees. This is also part of the EU transitioning into a circular economy act by 2030. So when the product is in the market, it's easy for you to track it, and so it becomes less expensive for you to deal with it. So it's the cost side. It becomes cheaper if you do it the right way to do business. And then it's the added value end of it, where you can obviously connect your circular services like a repair service or take back system. And in your respect, I think that's a wonderful idea to be able to actually buy back your products because they have such longevity, and then to sell them on. And there are some really good examples of other product categories where that's being done. And then you have obviously the fiber regenerating part of it if it's a clean enough product, and the process is easy enough, then that's also something that you can buy back into your own product and then align with having secondary fibers in new products."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "Thank you so much, Gisle. I think to make this even more tangible, you and I are both on the same side of the table, so I think maybe we should move on to the business side of the table. And I know you prepared an interview with our Swedish member of the panel, who will be with us shortly."
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Yes, it's always good to see yourself on tape."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "So should I turn on the video?"
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Yeah, go ahead."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "So without further ado, please lean back and for the next eight minutes, we have the pleasure of having Tilda Larsson, Product Development Engineer at Ludwig Svensson, that has been participating in the Data to Business Interreg project and she will share her experience. Hopefully this works."
+        }
+      ]
+    },
+    {
+      "id": "part-5-video-interview-ludwig-svensson",
+      "title": "Video Interview: Ludwig Svensson & Local Manufacturing",
+      "startTime": "14:25",
+      "endTime": "14:33",
+      "duration": "8 minutes",
+      "description": "Pre-recorded video interview with Tilda Larsson from AB Ludwig Svensson (Sweden), discussing their 137-year-old textile company, full local production line, and experience with Digital Product Passport implementation.",
+      "speakers": ["gisle-mariani-mardal", "tilda-larsson"],
+      "notes": "Tilda describes Ludwig Svensson founded 1887, still owning full production in Sweden (yarn dyeing, warping, weaving, knitting, finishing, piece dyeing). Local manufacturing advantage: can make small quality-driving changes and access all data quickly (unlike multi-step supply chains). Challenge: building systems to track data through departments and connect to customers. Sustainability is the future; systems must make sustainable choices easy, not hard. 'It should not be hard to be sustainable. It should be easy to do right.'",
+      "keyThemes": [
+        "137-year-old local manufacturing model",
+        "Full production line under one roof",
+        "Local control enables quality and agility",
+        "Easy data access vs complex supply chains",
+        "System integration challenges",
+        "Sustainability as necessity for future",
+        "Making sustainable choices easy"
+      ],
+      "segments": [
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "I'm really happy to meet you, Tilda. And you're sitting in Sweden and I'm in Norway, and I met you through the Digital Product Passport Project Data to Business, which you've been attending for a year. And I'm so happy that you said yes to do this interview. How are you?"
+        },
+        {
+          "speaker": "tilda-larsson",
+          "text": "Thank you. And first of all, thank you for asking me to join this interview. I think this is a nice way to talk and discuss about the project that I was very, very happy about. I'm fine, thank you. Located here in Sweden, yes, in the factory actually. Once there I will have production. So that's nice."
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "That's nice. I think you should say hello to everybody here at Nuuk in Greenland."
+        },
+        {
+          "speaker": "tilda-larsson",
+          "text": "Hello to Greenland. That's crazy to know that a small little town in Sweden are now representing the digital product passport all around the world in some part."
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Yeah, it's a true Nordic initiative, so that's great. I mean, you've agreed to do this interview, and maybe you should just tell us a little bit about the company that you work for."
+        },
+        {
+          "speaker": "tilda-larsson",
+          "text": "For sure. I'm working at AB Ludvig Svensson in Swedish. So it's a very old company. We are founded in 1887, so it's very many years. We are a textile producer, to explain it in the easiest way, but we are quite unique, I would say, to be a textile company to this day, because we are still owning and having our own production here in Sweden, and we have the full production line, so it's from the yarn dyeing and it's warping, weaving, there's some knitting process. We also have finishing and a piece dyeing department if we rather want that."
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Wow, so you've got a lot of operation under one roof. How important do you think it is? Textiles is a very global industry, but being a local manufacturer. How do you see this as an advantage point for the business model at Ludwig Svensson?"
+        },
+        {
+          "speaker": "tilda-larsson",
+          "text": "For sure, this is one of the biggest, like the best part of owning the production, I would say, is that you can change the small details. And the details will, in the end of the day, become the solution for the longevity and the durability and the high quality. So to be able to make small changes and compromising and collaboration through the divisions here and the different departments, I think that it's one of the keys to quality and high quality performance products."
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Yes. Yeah. And in the progress of learning about the digital product passport, how do you think this local manufacturing model has its benefits when it comes to the DPP? Is it a good thing or are there any challenges to it also?"
+        },
+        {
+          "speaker": "tilda-larsson",
+          "text": "Of course it's challenging to have their own production but most of all it's advantages of course and I think that the easiest way to explain it is that when I discussed with other companies in the project they told me about their supply chains and how many steps they need to go back in the supply chain to get information and to be able to have information for their DPP. And I was sitting in the same chair, but I was like, that's not the hard part for me, because I can contact all the departments here and I can receive the information very easy and very quick. But it is maybe a challenge. And I guess that that can be a challenge that everybody's facing. And it's a system because we really need to have a great system for the DPP to be able to collect the data. So when the yarn comes to the yarn dyeing department and moves to the warping department and do the weaving and the finishing so the information follow these steps in details. It's not that we don't have any system today, but to get this system included and linked to the warehouse and to our customers, because since we are a textile supplier, we are not always producing and putting the end product of the market. So we really need to have like a system that's are okay in-house, but also works for our customers. And I think that's one of the challenges for sure."
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Yeah, if I understand you correctly, it's having all the data, being a local manufacturing supply chain, you have all the data you need, but you still need the digital system to be the highway of this data, so to make sure that it gets to the right place and the right time. Exactly. So last question, you're obviously the young generation here, to what extent do you think sustainability is important when it comes to this kind of work that you're doing now?"
+        },
+        {
+          "speaker": "tilda-larsson",
+          "text": "Sustainability is, I guess, everybody knows that it is the future. And for me, as a younger person, I really think it's of importance. And I see that more and more people are trying to be sustainable, more sustainable, but it's not that easy. And I guess that it is not easy in this society to get understanding of what's the most sustainable way. And I think that we cannot tell, we cannot be able to push to the customers, and the people and the younger generations that they need to know everything, because that's impossible. So we need to have this type of information and systems and other types of equipments that can help the younger generations to make the right choices I would say."
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Yeah, so through the digital product passport you will enable the customer or the consumer to access sustainability data."
+        },
+        {
+          "speaker": "tilda-larsson",
+          "text": "Exactly. And I guess that my final words for that is that I think that it is important that it should not be hard to be sustainable, to make sustainable choices. It should be easy for you to do that, easy to do right."
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "That's great. That's a very good conclusion. I think this is all we have time for. So if you just want to say hi and goodbye to Nuuk."
+        },
+        {
+          "speaker": "tilda-larsson",
+          "text": "And thank you and goodbye and good luck, I would say, to everybody. And thank you for asking me to join this interview."
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Thank you so much, Tilda. It's been a pleasure talking to you."
+        }
+      ]
+    },
+    {
+      "id": "part-6-dpp-panel-discussion",
+      "title": "DPP Panel Discussion",
+      "startTime": "14:33",
+      "endTime": "14:40",
+      "duration": "7 minutes",
+      "description": "Discussion between Frederik, Gisle, and Mia on practical DPP implementation, particularly for small-batch and one-off products, compliance benefits for good actors, and storytelling opportunities.",
+      "speakers": ["frederik-thrane", "gisle-mariani-mardal", "mia-chemnitz"],
+      "notes": "Mia asks practical questions about DPP for custom products (one scarf vs 100 hats). Gisle explains QR codes can be individualized easily; label printing time is same for 1 or 100. Frederik highlights that Grevilliot and Royal Greenland already have connected supply chains and supplier knowledge—DPP just makes it accessible to customers. Mia asks 'How do you make sure it's not only the good guys doing this?' Gisle: Compliance becomes mandatory for EU market access by 2030—easier for transparent supply chains than opaque ones.",
+      "keyThemes": [
+        "Practical DPP for small batches",
+        "Individualized QR codes easy to create",
+        "Connected supply chains as advantage",
+        "Storytelling and customer access",
+        "Mandatory compliance (market access)",
+        "Easier for transparent vs opaque chains"
+      ],
+      "segments": [
+        {
+          "speaker": "frederik-thrane",
+          "text": "So thank you, Tilda and Gisle. What I'm hoping for us to do now is essentially to close the circle for our conversation and connect the dots between Mia and Kristian's work and the great enabling tool that is the digital product passport, if used correctly, that Tilda just presented. So do you have some reflections, and preferably in dialogue with essentially all of us, on what obvious benefits could a company like Grevilliot harvest from working with a digital product passport?"
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Yeah, I think compliance-wise it's not very difficult for you to do. So that's an upside. And I think also being able to tell the story of what you're doing. But that story has already been told in a good way, I'm sure. But it's a way to reach out and maybe a bigger sphere. And like I said earlier as well, being able to have more control over the goods that's been sold, if you have that as a second-hand business model, for example. I think that's the sort of best advice I could give, because I think you probably have so many good ways of promoting your business anyway. And as you said, there is a limit to what you could do."
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "And Mia has a question. I'm just wondering about the practical aspect of it. Yesterday, I made a scarf. There's only going to be this one scarf. So of course, the whole production line is the same as in many other products until the part where I make this scarf and not this scarf or this hat. So how would that work? Would I make a whole chain for this product, or would I take like the first five steps is the same so that it can be added to this product?"
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Yeah, yeah, I see what you mean. You can individualize it, so you can either do a batch or you could do like per product. And what you need is to have a QR code and making a QR code is very easy today. So you need a printer to print it onto and a label that's connected to it. And that's how you do it, and then you just program it."
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "Yeah, but yeah, I understand. But if we say that I make a model of a hat, I make maybe 100 of those a year. So my time put into making this, what do you call it, the label, yeah. It's okay because it's 100 hats. But then I make one scarf. And how long does it take to make the label?"
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Well, that's the thing. I mean, the label doesn't take long to make and you can print it out and each code is individual, obviously. So that's the biggest issue for you. And so producing many rather than producing one, I mean, it's the same amount of work."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "Maybe I can conclude on this part where I think part of what we would like to bring forward here is that this is an example of you reaping the fruit of your hard work with having a foundation where a lot of the data and a lot of the steps that can be quite hard to procure, you already have, and Kristian does as well, because you have a connected supply chain, you know your suppliers, you know your steps. So this is a way to enabling your customers and essentially anyone interested in Grevilliot to know more about your products and ease facilitating some of the circular business models with resale, with repair, with all of these things through that carrier, which is the code."
+        },
+        {
+          "speaker": "mia-chemnitz",
+          "text": "I have another question. Just so you know, the whole part before, we kind of talked about it before, but this is the first thing that I hear about this, so I'm very interested. I think this is a good idea. I think it's nice. But I'm also kind of, I don't know if you mentioned this and I didn't hear it, but how do you make sure that it's not only the good guys doing this?"
+        },
+        {
+          "speaker": "gisle-mariani-mardal",
+          "text": "Well, first of all, everybody has to do it because it becomes compliance. So if you want to put a product on the market in Europe after 2030, then you have to have a digital product passport. So it's basically market access."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "And you can say that it's easier for the good guys to do it than it is for the, not saying bad guys, but the more opaque supply chains. If you have a very long, very difficult supply chain, procuring data is a little bit more of work than it is for the two of you."
+        }
+      ]
+    },
+    {
+      "id": "part-7-closing-reflections",
+      "title": "Closing Reflections & Nordic-Baltic Collaboration",
+      "startTime": "14:40",
+      "endTime": "14:45",
+      "duration": "5 minutes",
+      "description": "Lise Lotte provides closing reflections on key learnings from the session. Frederik invites Kalli Kent to promote the next day's Nordic-Baltic Textile Transition Group session. Final thank yous and applause.",
+      "speakers": ["frederik-thrane", "lise-lotte", "kalli-kent"],
+      "notes": "Lise Lotte synthesizes: Nothing/less waste is possible when knowledge, materials, and community are interconnected; traditions provide foundation; local production strengthens supply chain transparency; stories already exist, just need labeling; sharing and partnerships are essential; Arctic-Nordic has huge potential. Frederik highlights collectivistic (Greenlandic) vs individualistic (Nordic) societies—Nordics must practice sharing more. 'We have two ears and one mouth, so we should listen while we share.' Kalli promotes Nordic-Baltic collaboration: no single country can solve textile circularity; Nordics need upstream/downstream value chain collaboration with Baltics who receive used textiles.",
+      "keyThemes": [
+        "Knowledge + materials + community = less waste",
+        "Traditions as foundation",
+        "Sharing and partnerships essential",
+        "Collectivism vs individualism",
+        "Listening as much as sharing",
+        "Nordic-Baltic textile collaboration necessity",
+        "Used textile flows require collaboration",
+        "Most sustainable region by 2030 vision"
+      ],
+      "segments": [
+        {
+          "speaker": "frederik-thrane",
+          "text": "In respect of time, I think we should continue this conversation after the panel. Lise Lotte noticed that we should have had four hours for this, and we fortunately do tonight. But I think we need to start concluding. And as expected, this has been wonderful. It's been so interesting to talk with you. But I think nearing the end, Lise Lotte, can you help us conclude what have we learned? What can we take with us from today? What Greenlandic or Inuit concepts or processes are the most relevant, and also how can we connect them to traceability, transparency, and to data?"
+        },
+        {
+          "speaker": "lise-lotte",
+          "text": "Just in two minutes, or can I have that?"
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "Yes, you will get generously granted two minutes."
+        },
+        {
+          "speaker": "lise-lotte",
+          "text": "Anyone else would like to take a shot on this? Well, I have made notes here from this panel. I think a central message is that today's presentation has been that nothing or less waste is possible when knowledge and materials and community are interconnected. So a lot of focus on that. And focus on the traditions as well. But also that by valuing local production and strengthen supply chain transparency. We also have more business created and more models created. And that there are some kind of easy things to do here because we know the story. Maybe it's just a kind of labeling the story. And there is an added value to the project. So maybe it's not just like get things done, because it's not that easy, I am sure about that, but it's about that we have the knowledge, we have the traditions, we have the business, we have the society, so we have a lot of the elements. And that's very nice to hear, thinking of circularity. And then I also think that we have noticed that sharing is important and partnerships is important. Getting the best knowledge into our business is very important. So I think that the Arctic Nordic has so many potentials here that is just really nice to think of."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "You mentioned to me in one of our conversations that one of the key differences between the Greenlandic society and the Nordic society is that the Nordic societies are individualistic and the Greenlandic is collectivistic. So maybe that's part of the perspective as it relates to sharing that we, from a Nordic perspective and very much so here today, need to practice even more to be collectivistic, to share more, especially when it comes to knowledge, especially when it comes to enabling, connecting the dots that need to be connected."
+        },
+        {
+          "speaker": "lise-lotte",
+          "text": "That's true, and that's fundamental for the societies in the Nordic and in the Greenlandic, that there are these different ways of dealing with the whole society, and your behavior and so on. So it's also important to say that we do have two ears and one mouth, so I really would like that we listen. While we share, we listen as well."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "I think that's a very good ending note. And supply chain and connectedness have been key topics for the conversation that we've just had. And tomorrow at 10 AM local time, we will launch the Nordic Baltic Textile Transition Group and continue the conversation on collaboration and connectedness and community. And Kalli Kent, who will represent Estonia and Denmark, will co-host the meeting with Lifestyle and Design Cluster. And Kalli is here on the front row and will give you a mic. And I would like you to tell us quite briefly why we should join the session tomorrow morning and extend the circle from a Nordic circle to a Nordic Baltic circle."
+        },
+        {
+          "speaker": "kalli-kent",
+          "text": "Yes, thank you. First of all, thank you for this very inspiring panel. I'm Kalli. I'm from Estonia, but I've shared myself professionally between Denmark and Baltics for the last 20 years. And I'm very grateful, actually, and big thank you for LDC for initiating the Nordic-Baltic Textile Transition Group. We all know, at least when it comes to textiles, that not one country can figure out the textile circular system. It can differ from industry to industry, but textiles, we know that. And if Nordic countries have a vision to be the most sustainable region by 2030, then seen from the textile perspective, they need to collaborate with upstream and downstream value chains. And seen from the Baltic perspective, we still do have quite a bit of production and collaboration with Nordic brands. But most importantly, the Baltic countries are receiving lots of used textiles consumed by Nordics. And that requires collaboration. And so tomorrow, we will have the opportunity to zoom in a bit, giving a helicopter view. Why is this kind of collaboration important, seen from the circular economy perspective? And we can discuss together with members of the steering group and different stakeholders what should we focus on. I have some suggestions, and these are based on the previous projects we have run, funded by the Nordic Council of Ministers. One was 2018 to '20, and the other one is now taking place. So we will build some of the helicopter view on these perspectives. So if this sounds interesting and relevant, seeing from your seat, then please join us tomorrow at 10."
+        },
+        {
+          "speaker": "frederik-thrane",
+          "text": "Thank you so much, Kalli. Thank you to the panel, including Tilda. Thank you to the audience here in the room, and hopefully the big audience behind the screens as well. But most of all, thank you to Nuuk, and thank you to Greenland for inviting us here, and for having us, and for giving us the opportunity to learn from your great examples. Thank you."
+        },
+        {
+          "speaker": "lise-lotte",
+          "text": "[Applause]"
+        }
+      ]
+    }
+  ]
+}
