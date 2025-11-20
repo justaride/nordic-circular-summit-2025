@@ -734,5 +734,24 @@
       "project management",
       "circular economy"
     ]
+  },
+  {
+    "id": "edvard-lybert-mork",
+    "name": "Edvard Lybert Mørk",
+    "title": "Collaborating Partner",
+    "organization": "Nalek Ventures",
+    "country": "Greenland",
+    "category": "organization",
+    "bio": "Collaborating partner at Nalek Ventures, representing business and capital perspectives in Greenland's circular economy transition. Known for his insight that 'trust is the infrastructure of Greenland,' emphasizing the role of social capital in enabling circular transitions in sparse populations.",
+    "photo": "",
+    "sessions": [
+      "day1-summary"
+    ],
+    "topics": [
+      "business development",
+      "venture capital",
+      "trust infrastructure",
+      "circular economy"
+    ]
   }
 ]

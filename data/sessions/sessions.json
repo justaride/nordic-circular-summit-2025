@@ -229,6 +229,51 @@
     ]
   },
   {
+    "id": "day1-summary",
+    "day": 1,
+    "title": "Summary of the Day - Day 1 Closing",
+    "startTime": "16:15",
+    "endTime": "16:45",
+    "timezone": "GMT-2",
+    "type": "panel",
+    "description": "Closing reflection session wrapping up Day 1 learnings. Panel discussion with Mayor Malene Vahl Rasmussen (Kommune Kujalleq), Edvard Lybert Mørk (Nalek Ventures), and Marthe Haugland (Nordic Innovation) sharing key takeaways, implementation insights, and future collaboration opportunities.\n\nKey themes: Trust as infrastructure, quality of life as circular economy purpose, municipal implementation examples, Indigenous knowledge alignment with circularity, Arctic-Nordic-Baltic collaboration, and invitation to rural Greenland.",
+    "speakers": [
+      "malene-vahl-rasmussen",
+      "edvard-lybert-mork",
+      "marthe-haugland"
+    ],
+    "moderators": [
+      "cathrine-barth",
+      "einar-kleppe-holthe"
+    ],
+    "topics": [
+      "trust infrastructure",
+      "quality of life",
+      "municipal circular economy",
+      "Indigenous knowledge",
+      "implementation",
+      "Arctic-Nordic-Baltic collaboration",
+      "youth leadership",
+      "local food systems",
+      "place-based solutions"
+    ],
+    "location": "Hans Egede Hotel, Nuuk, Greenland",
+    "onlineAvailable": true,
+    "transcriptFile": "session-day1-summary.json",
+    "notes": "Day 1 closing reflection and synthesis",
+    "shortDescription": "Day 1 closing reflections on trust, quality of life, and municipal implementation with Mayor Malene Vahl Rasmussen.",
+    "themes": [
+      "Trust as infrastructure enabling circular transitions",
+      "Quality of life as ultimate circular economy purpose",
+      "Municipal implementation: local food, youth inclusion, mining negotiations",
+      "Economic constraints as innovation catalyst",
+      "Indigenous Inuit mindset aligned with circular thinking",
+      "Implementation over planning focus",
+      "Arctic-Nordic-Baltic regional collaboration",
+      "Invitation to partnership and rural Greenland"
+    ]
+  },
+  {
     "id": "partner-digital-sessions",
     "day": 2,
     "title": "Partner-Hosted Digital Sessions",
