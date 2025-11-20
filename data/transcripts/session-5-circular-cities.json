@@ -1,0 +1,483 @@
+{
+  "id": "transcript-session-5-circular-cities",
+  "sessionId": "circular-cities-regions",
+  "title": "Circular Cities & Regions",
+  "date": "2025-11-19",
+  "startTime": "15:00",
+  "endTime": "16:00",
+  "duration": "60 minutes",
+  "location": "Hans Egede Hotel, Nuuk, Greenland",
+  "transcriptionStatus": "completed",
+  "metadata": {
+    "transcribedBy": "Whisper AI",
+    "reviewedBy": "Claude Code",
+    "language": "English",
+    "participantCount": 8,
+    "recordingFile": "Circular regions and cities"
+  },
+  "speakers": [
+    {
+      "id": "einar-kleppe-holthe",
+      "name": "Einar Kleppe Holthe",
+      "organization": "Natural State (Norway)",
+      "role": "Moderator & Main Presenter"
+    },
+    {
+      "id": "talis-linkaits",
+      "name": "Tālis Linkaits",
+      "organization": "Riga Energy Agency (Latvia)",
+      "role": "Presenter - Riga City Circular Economy"
+    },
+    {
+      "id": "inese-suija-markova",
+      "name": "Inese Suija-Markova",
+      "organization": "Cesis Municipality (Latvia)",
+      "role": "Presenter - Bioregion Development"
+    },
+    {
+      "id": "inooraq-brandt",
+      "name": "Inooraq Brandt",
+      "organization": "Rambøll Grønland A/S (Greenland)",
+      "role": "Panelist - Construction Perspective"
+    },
+    {
+      "id": "helle-redder-momsen",
+      "name": "Helle Redder Momsen",
+      "organization": "Nordic Sustainable Construction / Danish Authority of Social Services and Housing",
+      "role": "Presenter - Nordic Construction Collaboration"
+    },
+    {
+      "id": "embla-kristjansdottir",
+      "name": "Embla Kristjánsdóttir",
+      "organization": "Ministry for Housing, Infrastructure and Outer Districts (Greenland)",
+      "role": "Presenter - Greenland National Strategy"
+    },
+    {
+      "id": "anne-mette-christiansen",
+      "name": "Anne Mette Christiansen",
+      "organization": "CSR Greenland / Rambøll",
+      "role": "Closing Reflections"
+    }
+  ],
+  "parts": [
+    {
+      "id": "part-1-introduction",
+      "title": "Introduction & Session Framing",
+      "startTime": "15:00",
+      "endTime": "15:02",
+      "duration": "2 minutes",
+      "description": "Brief introduction welcoming attendees to the final main session of the day on circular cities, regions, and micro societies",
+      "speakers": ["einar-kleppe-holthe"],
+      "notes": "Session framing emphasizes how Arctic and Nordic regions can lead circular transition through digitalization, infrastructure, mobility, construction and adaptive reuse. Focus on urban-rural value symbiosis.",
+      "keyThemes": [
+        "Final main session of the day",
+        "Circular cities and regions",
+        "Arctic and Nordic leadership",
+        "Urban-rural value symbiosis",
+        "Place-based approach"
+      ],
+      "segments": [
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "Hello, everyone. And welcome to the stage of the Nordic Circular Summit 2025. And we're going into the last main session of the day. One of my personal favorite topics, circular cities, regions, micro societies, villages, and places to talk about the context of where we are. What to learn from cities to micro societies and villages, and how city systems can inform circular quality of lives and behavior. This is a session where we are looking at how can Arctic and Nordic regions lead the transition to a circular system, connecting digitalization, infrastructure and mobility with construction and adaptive reuse of buildings. How can you create urban and rural value symbiosis in the villages, societies and cities of the both the Arctic region, the Nordic region and also the Baltic region? And what can we learn from each other? How sustainable place economy principles can be added with place-based approach to local value creation for resilient societies, value creation with both nature, human and societal principles. And for our macro and micro markets. That is what we're going to be discussing today."
+        }
+      ]
+    },
+    {
+      "id": "part-2-place-economy-presentation",
+      "title": "Place Economy Principles Presentation",
+      "startTime": "15:02",
+      "endTime": "15:20",
+      "duration": "18 minutes",
+      "description": "Comprehensive presentation by Einar Kleppe Holthe on place economy principles, value chains, sustainable development frameworks, and practical applications in Norway",
+      "speakers": ["einar-kleppe-holthe"],
+      "notes": "Detailed presentation covering: Natural State company background; coffee industry experience; value chain transparency; economic consequence of awareness; sustainability economies; place-based approach; Oslo and Norwegian examples; circular construction projects; retrofit first principles; real estate transformation case studies.",
+      "keyThemes": [
+        "Place economy principles",
+        "Value chain transparency",
+        "Economic consequence of awareness",
+        "Sustainability economies",
+        "Circular construction",
+        "Retrofit first approach",
+        "Oslo circular development",
+        "Real estate transformation"
+      ],
+      "segments": [
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "We're going to have an introduction to the topic from our perspective and how we work with this in Norway from natural states and we will have some esteemed guests from the Baltic regions, both Tālis Linkaits and Inese Suija-Markova from Latvia will inform and give us insights in how they work with both Riga and the Cesis region. In addition, we will have Inooraq Brandt from General Manager of Buildings in Rambøl here in Greenland to have that conversation between the Arctic and the Baltics. We will have a visit from Helle Redder Momsen from Denmark, from Nordic Sustainable Construction Programme, and Embla Kristjánsdóttir from the Ministry of Greenland presenting the Greenland National Strategy for Sustainability in Building and Construction Sector. And in the end, a conclusion from Anne Mette Christiansen, CSR Greenland. So it's going to be an interesting topic for one hour. And before we get off, I will give you a quick introduction, seven-minute presentation of place economy principles and how we work with sustainable place and societal developments. What is the value of place? And how do you create holistic place economy principles? What is the economic consequence of awareness? And how can you work practically with an approach to the new sustainability economies?"
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "That is what we work with in our company in Norway, Natural State, where this natural state of place and the new natural state of the market, which is something we also have been talking about today with the strategy behind the Nordic circular hotspot. When we work, we work with places, and we work with place-based approach. Anything from the rural region of Norway to the international brand management strategy of Oslo, the capital. Anything from business modeling of sustainable value chains within the global value chains of coffee to culture industries and how that affects place. The place is where we live, and it's very important to take that into context."
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "But very quickly, the economy and the economic consequence of awareness. What does this mean? First, I want to bring you to a very short visit to my story as an economist. I grew up with coffee. I have been developing and managing some of the strongest coffee brands in Norway. I was the managing director of Stockfleths for seven years, working 11 years in that company. And I'm the owner of Fuglen, which is a company in Oslo, but also in Tokyo, Seoul, and Jakarta, where we work with the specialty coffee industry for 20 years with transparency trade principles, direct trade principles, and traceability trade principles within global food system value chains. That is where I've been working. And this is the value chain I grew up in. This is coffee going from producer all over the equatorial world to the consumer in the Nordics, Arctics, and the Baltics, the coffee you're having now. It is a crucial culture beverage for us up here in the North. But it's also crucial to take the principles that we've been talking about with traceability, direct trade-ness, sustainability, circular principles in any of the value-producing links of the global value chain."
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "This is how we see the value chain. And each value-creating link affects nature, human, and society. And this is radical transparency principles in global trading. And you can do this in local value producing principles as well. And this is the baseline economy principle. The language of this structure is economy, is numbers. That is why you need to learn how to speak economic, and for instance, circular economic. You use numbers to describe values for society, for humans, with nature resource management. And that is how you explain it. Very well explained by the textile industry earlier. The economic consequence of awareness comes from this, awareness of effect and cause of our systems today and what sustainability actually means. That is informed sustainable value creation principles like circular economy, and it has informed the sustainability economies as languages. We need to relate to this."
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "World Economic Forum in 2019, they explained nature positive as the new climate neutral because we understand the value of nature. And this is from The Economist just last month, and we can sense it outside today. We're not hitting the targets. Circle economy principles and all other sustainable economic languages informs other value propositions than just the capital value, but also the real value. The human value, the nature value, the societal value in the market value proposition. And this is what you need to take into any consent of any understanding of place. We talk about triangulating the contextual sustainability offer. If you take place, concrete, practical place, and you take approach, for instance, circular economy, and you take topic, for instance, construction, you can actually concretize the value proposition to such an extent that it makes meaning and gives sense to people to understand. Same with sustainable textile in the Nordics. This is how you have to work with the sense of place and place awareness."
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "So values of place, that is the core principle. And this came about from place making and place branding, the identity of place to place based approach to sustainable value creation, because the life of place, the city life, village life, neighborhood life, is also the life of our planet, is where you create or you have the activity. And that is the market sphere theory, where you have nature, human, society and market value. And that's how you inform it. This was developed for about 10 years working with Oslo as a city. I was a strategist in the, for instance, after we wrote the identity strategy for the region. We've also been behind the new regional development of Oslo Circular Hovedstaden, where it has a testbed for circular city solutions. It is an important factor."
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "But what is important with place is that in the end, it's how we belong to it. What is the feeling of place? It's the life of place. It's the life that goes on here in Nuuk that gives us the feeling. What is the identity of place? It's also the life of place. And what is the value of place? That is the value creation activity if it's in a shrimp factory, or if it's in a culture scene, or if it's in a restaurant here, or in a hunting ground. You need to understand the human activity, and then the content is key. And this is what we look at, the life of place. City life, village life, neighborhood life, societal life, business life, cultural life, commercial life. Life is human activity on location in the economic description. But it's also time of your life. What do you want to spend your time on? And the experience consists of time and place of your life, and your quality of life. And that needs to be defined by you as an individual."
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "This is where we look at how you define values of place, inform value spheres of location, and then you bridge it to the value chains. Value and market spheres, the bridge between value chains and income streams. Identify your market and value spheres and augmented value chains. Define the income cost streams and income and capital flows in classic economic format. Then you can describe the actual value of place in an economic format, either sustainability economically or land economically is of importance. So the dynamics of place is also the dynamics of values in market and society of location. The function of place is transaction. The function of place is activity. Transaction in market is initiated by human activity. The dynamic on place is also indicating the dynamic in the market of locality. The dynamics is the life of place. The activity is the value of place. And the values of place is the qualities of place. The qualities of place generates the attractivity of place. The attractivity of place is the identity of place. And the identity identifies quality of life of place."
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "This is how we work with these structures. You can read more about in the publication from 2022, the New Natural State of the Market, where we have got this published as a theory of economic development of place location. So this is the basic theory. Place identity based on sustainable economical activity on location and place economy based on the new sustainability economical principles. Theory, and then we go to practice. How do you take this out? This is, for instance, London. Retrofit first, coming to how London radically changed their city development factors by regulatory saying that you have to retrofit the buildings first. It completely changed the scene in 2020."
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "And this is from Oslo, circular economy as the driver for the biggest sustainability city development projects in Norway. This is really how it works. Everything from Kristiansand with cultural access and material flow analysis of festivals to travel and leisure analysis of circular impact of Lofoten in Norway, the Poland Circular Gap Report or the Nordic Circular Hotspot. How you can apply circular principles to the approach of developing your places where you live and create resilient systems. This is also where you take it into Nordic circular construction with the construction topic, where you can actually, again, triangular it, circular principles for construction in Oslo or the Nordics. And you get implementable, scalable, and actually economical viable products into the construction sector. That is when we can start to implement circular principles, when we manage to break that code and create that scale."
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "This is a pilot client for the project in Oslo, where he wants to transition a old office building to a public funded elderly home with collective living. And the economic result is one of best practices within real estate development, because you are able to keep the resources and create societal relevance. This is the same with the transitional program where you take old factories and create a vibrant community. Or in the rural districts, where you take abandoned factory locations, a bit of the same landscape as here in Greenland, and you create vibrant travel and leisure industry hubs, innovation hubs, and local production hubs in old factories, and also residential and hotels. You can create an elderly home, being a new, attractive living home in one of the smallest municipalities in Norway, with only 1,700 inhabitants in the forest of the inland, and how to attract new residents to sustain their elderly home demand for staff. This is how you can do it in different ways. And the business model of this comes out well."
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "This is from a transition project for Buskerud Drammen in Norway, the real estate. You see when you transform the buildings and fill it with the new life, storage to life, you get a completely different economic perspective, and you increase the value of the property. This is the outcomes of a good place development. You increase, you maintain the nature value, you take care of the human value, and you create societal value. And it's through the value chain orientation of place. Transparency in the market dynamic and awareness of sustainability and proposition. Holistic, strategic, and systemic approach. Everything is a process. We need to understand that. And communication and content is key, where culture is key to understand in a place-based approach with contextual and cultural understanding. If you don't bring that into the proposition, you're losing the value proposition. Collaboration, ability, and agility of direction. Sense of time and long-term value proposition. See the relations between function or form of the market of the location."
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "So what we need to look at is quality and flexibility of proposition, relevance of meaning and place, long-term and sustainable value proposition, accessibility and transparency of market dynamics, and sense of belonging and trust. For the most important thing you have to build when you build places is trust. And that is what we've been talking most about today. If you don't have trust, you don't manage to create any good place. And you need to make that into the transparent structures of structure. So that was a very, very, very quick introduction to place economy principles and how you can work systematically with introducing circular principles and city development, place development, small community and village development. So on that note, I want to invite Tālis Linkaits to come up and explain a little bit about how you work in the Baltic region with this. Thank you, and welcome to Tālis."
+        }
+      ]
+    },
+    {
+      "id": "part-3-riga-city-circular-economy",
+      "title": "Riga City Circular Economy",
+      "startTime": "15:20",
+      "endTime": "15:30",
+      "duration": "10 minutes",
+      "description": "Tālis Linkaits presents Riga's approach to becoming a climate neutral city and implementing circular economy principles across eight thematic areas",
+      "speakers": ["talis-linkaits", "einar-kleppe-holthe"],
+      "notes": "Riga received EU mission label as one of 100 climate neutral and smart cities. Presentation covers vision, eight thematic areas, three work directions (citizen engagement, municipality resources, circular businesses), and practical examples including circular construction guidelines, urban resource centers, and the Latvian Circular Economy Forum.",
+      "keyThemes": [
+        "EU mission label for climate neutrality",
+        "Eight thematic areas",
+        "Citizen engagement",
+        "Circular procurement",
+        "Material banks",
+        "Urban resource centers",
+        "School competitions",
+        "Library garden project",
+        "Latvian Circular Economy Forum"
+      ],
+      "segments": [
+        {
+          "speaker": "talis-linkaits",
+          "text": "Thank you for this wonderful summary of place-based approach. Nordic countries, both historically and also content-wise. But I would like to give a short introduction to what we are doing in relation to introducing circularity principles. So Riga City has been already for quite a long time working on sustainability and climate neutrality topics continuously in a constant manner. And the recent achievement is that we have received the EU mission label. We are one of 100 climate neutral and smart cities of the European Union. And this activity, of course, involves a lot of practical plans. How do we achieve this climate neutrality? And circular economy is one of the topics that can help us to achieve climate neutrality."
+        },
+        {
+          "speaker": "talis-linkaits",
+          "text": "Together with our stakeholders, with citizens and involved experts, we developed a vision for our city that we would like to be a modern driving force for circular economy innovations, a circular economy lab within the country and to be a source of inspiration for other cities, communities, and kind of a center for innovation in relation to circular economy. We choose eight thematic areas where we would like to emphasize, including waste management, of course, renewable energy, mobility and transport, culture and business. And we also developed quite a detailed action plan, how we are dealing with the challenges, how we are addressing the circular economy issues."
+        },
+        {
+          "speaker": "talis-linkaits",
+          "text": "And we will be working and we are working on three directions. One is citizen engagement and sharing the information about circular economy principles. And it's a lot similar to what we were discussing in the previous session here today, that basically we have somewhere in the background this knowledge about circularity in our daily life. But especially in urban environment, it's somehow forgotten. We don't have enough tools or we don't have enough practice to use circularity in daily life. So for us, it's important to get back to the basics, to talk about household-based separation, to talk about reuse of the different items in a daily life."
+        },
+        {
+          "speaker": "talis-linkaits",
+          "text": "The same about municipality resources. We would like to embed circularity in our daily management practices, in our procurement guidelines and principles, and also in the use of our assets. We are planning to create the material bank where we can share our assets and different inventory among the departments and divisions of our municipality as a company. And then, of course, the third direction is circular businesses, because it's a basic for the wealth and growth of the city, and we are very much not so much funding any circular activities for the businesses, but be more as a moderator, as a stimulator, as an influencer, as a networking community, networking and business networking. To gather like-minded businesses, to gather and see what synergies, what good practices we can get from this."
+        },
+        {
+          "speaker": "talis-linkaits",
+          "text": "And to be very practical, some examples of what we are doing together with the construction community, we have developed circular construction guidelines, which are used now also in procurement practices. We have developed very similar, as you told before, the pre-study how to transfer, transform one of our houses from the real estate to social care house, using all the circularity principles using all the available materials within this house. We are preparing the subsequent procurement of this reconstruction. We are also learning a lot from the Nordic cities how to create urban resource centers, And the first one has been established also in Riga as a kind of a -- not only the repair facility, but also a community center where we applied the circular design principles already from the very beginning when we designed the place as such, and this public circular procurement case was regarded as one of good practices and added to the EU database for good circular practices."
+        },
+        {
+          "speaker": "talis-linkaits",
+          "text": "And in this community center we provide our citizens some guided knowledge how to repair different equipment, different materials, chairs, tables, and so on. And it's also growing as a local community center where there are different lectures, activities taking place for the local community. We are involving our youth and students in different events and practices. Here was one of the competitions organized for this community center and we asked students of design universities to come together and compete and provide the best solution which afterwards was implemented in this community resource center. We also organized school competitions for the ways how to in the best way use circular principals in their daily life in school, and these competitions are taking place already for the second year."
+        },
+        {
+          "speaker": "talis-linkaits",
+          "text": "The latest example is about the library garden, which is on one of the neighborhoods of the capital city where we would like to create a unique outdoor area using circularity principles for some of these new places, new equipment where people can gather, especially during summer time, listen to some concerts, some discussions, and use together library and other cultural activities. This is going on. This development is being already organized, and we hope for opening next spring. In the very last, we were quite a lot inspired by the Nordic cooperation, how to gather the businesses and a few weeks ago we had the first Latvian circular economy forum, which was so popular that we had to cut the number of participants and speakers, but still there were 108 speakers and 34 thematic sessions. People were willing so much to come and tell their own stories. It was both from the business perspective, business case studies, but also universities, NGOs, and the public sector was very active. So this all, what we do, we do basically not from the public funding, but by attracting different EU funds and different sponsors and grants, and we hope to continue in such a way also in the future. That was in short Riga's case."
+        }
+      ]
+    },
+    {
+      "id": "part-4-cesis-bioregion-approach",
+      "title": "Cesis Bioregion Approach",
+      "startTime": "15:30",
+      "endTime": "15:38",
+      "duration": "8 minutes",
+      "description": "Inese Suija-Markova presents the first bioregion in the Baltic States, centered around Gauja National Park, with focus on local organic food, ecosystem services, and waste reduction",
+      "speakers": ["inese-suija-markova", "einar-kleppe-holthe"],
+      "notes": "Presentation covers Vidzeme region challenges, bioregion concept and memorandum of goodwill, six principles, eight working directions including short food supply chains, natural capital management, waste reduction, energy efficiency, and authentic tourism. Practical examples: organic food in schools/kindergartens, circular economy center at landfill, municipal grants, LEADER funding integration.",
+      "keyThemes": [
+        "First Baltic bioregion",
+        "Rural development challenges",
+        "Memorandum of goodwill",
+        "Short food supply chains",
+        "Organic food procurement",
+        "Natural capital management",
+        "Waste as resource",
+        "Circular economy center",
+        "LEADER program integration"
+      ],
+      "segments": [
+        {
+          "speaker": "inese-suija-markova",
+          "text": "Yes, the microphone? Yes. I will not need to... No, you don't have slides. No. I don't have slides, so I will be addressing... Yes, very good. ...directly. First of all, a very warm afternoon. Good afternoon to everyone, and it is indeed my great pleasure to be here in magnificent Greenland. And I would like to thank the Nordic Council of Ministers office in Latvia for this opportunity to come here and share our story, and for the support the Nordic Council has provided to our region and the long cooperation we are having."
+        },
+        {
+          "speaker": "inese-suija-markova",
+          "text": "I come from Cesis municipality, which is located 90 kilometers northeast of Riga, and it is located in the region of Vidzeme, and that's my home place. I was born in that town and municipality, and I happen to be the deputy mayor of Cesis municipality, and since August also the regional mayor for the whole Vidzeme region. And I must say I'm deeply in love with that region because it's the region that is very rich in nature. It is really a beautiful landscape, forests, meadows. It boasts clean air and a deep sense of community. And it is a region with very strong cultural traditions and natural beauty."
+        },
+        {
+          "speaker": "inese-suija-markova",
+          "text": "But it is also the region that shares many of the challenges faced by rural areas across the Nordic and the rest of the Europe, like sparse population, aging demographic, limited economic scale, and the concentration of research and innovation institutions in the capital city. Working in such a context teaches you, first of all, to be resourceful, but you learn very that you must prioritize and above all that you have to be open to cooperation. We understood long ago that we cannot excel in every area being all alone and we have also learned that by working together small regions can achieve more than they could ever do that in by being in isolation and that's why our municipality as well as the region boasts as being super active in international cooperation and being a trustful partner in many projects. So if you are seeking project partners, we are very open to discuss."
+        },
+        {
+          "speaker": "inese-suija-markova",
+          "text": "But today I am pleased to share our experience in creating the first bioregion in the Baltic States and Latvia. In October 2023, four municipalities from Vidzeme region joined forces with farmers, NGOs, entrepreneurs, researchers and residents to form the Bioregion, centered around the Gauja National Park, which is the oldest and largest national park in our region. And I have been blessed to be politically steering that process and working a lot with many stakeholders since then. By definition, a bioregion is not an administrative unit, although we are located in four municipalities. It is a geographic and cultural space where public authorities, farmers, tourism operators, businesses and citizens agree to manage local resources sustainably based on ecological principles and shared responsibility."
+        },
+        {
+          "speaker": "inese-suija-markova",
+          "text": "The foundation of the Bioregion is the memorandum of goodwill, which we crafted for one year. Every word has been agreed by the stakeholders who have signed the memorandum, and these are 13 institutions representing public, private, non-governmental and academic sectors, who joined the memorandum. So in essence, it's a social contract. It's a social contract, a public commitment to create a cleaner, healthier and more circular region. The memorandum sets out six principles how we work together, and it defines eight working directions or priority areas, like increasing access to healthy, organic food, developing short food supply chains, managing natural capital through ecosystem services, reducing waste, accelerating energy efficiency and renewables, providing sustainability education and fostering authentic and nature-friendly tourism. So it's a very holistic approach how we want to develop our place to address the challenges that I mentioned."
+        },
+        {
+          "speaker": "inese-suija-markova",
+          "text": "And just to say last few words, so what does circularity look in practice? I would like to highlight three practices that we have worked a lot since signing of the Memorandum of Goodwill. First of all, locally produced organic food in public institutions. So we are gradually transforming our procurement system to procure food for our schools and kindergartens, and the purpose is to increase the proportion of locally grown and locally produced food, organic ingredients, to replace the anonymous supply chain of products to our school meals and kindergarten meals. And one of our schools is working towards becoming the first organically certified school kitchen in Latvia. And that shift eventually will bring down, will reduce the transport-related emissions, will provide healthier food for children and more economic value kept within the region."
+        },
+        {
+          "speaker": "inese-suija-markova",
+          "text": "Another big direction where we work is waste reduction and development of the landfill where all the waste from the region comes into circular economy center. So a completely different concept and looking at waste as a resource and developing new products based on these waste streams. And last one, but not least, we are also developing new financial instruments to support the circular businesses like municipal grants. And based on the experience of Austrian colleagues, we have integrated the principles of the Bioregion Memorandum into the LEADER program. I know probably some of you are familiar with the LEADER funding. It's an EU funding for local and rural development. So it's been mainstreamed into leader funding strategies. And I think that's a great success. So if we think what is bioregion, it is a strategic alliance based on shared values and really the aim to be in touch with the nature, to live in accordance with the nature, to respect the environment where we live, because we see what's happening around the world and what kind of challenges we are facing."
+        }
+      ]
+    },
+    {
+      "id": "part-5-arctic-construction-perspective",
+      "title": "Arctic Construction Perspective",
+      "startTime": "15:38",
+      "endTime": "15:44",
+      "duration": "6 minutes",
+      "description": "Inooraq Brandt discusses construction practices in Greenland from a commercial perspective, emphasizing traditional knowledge, robust design, and renovation over new construction",
+      "speakers": ["inooraq-brandt", "einar-kleppe-holthe"],
+      "notes": "Discussion covers: commercial/consultancy role vs public sector; Arctic survival mindset ('as a WIC we can use almost anything'); transitioning from industrialization to pre-industrial circular practices; remote area construction challenges; robust solutions for limited maintenance access; design for disassembly example (father's house that moved); renovation case studies in Disko Bay; structural refurbishment at half the cost of new build; concrete CO2 reduction through renovation.",
+      "keyThemes": [
+        "Commercial consultancy perspective",
+        "Traditional Arctic survival skills",
+        "Pre-industrialization circular practices",
+        "Remote area robust design",
+        "Design for disassembly",
+        "Renovation economics",
+        "Structural refurbishment",
+        "Maintenance focus shift",
+        "CO2 reduction through renovation"
+      ],
+      "segments": [
+        {
+          "speaker": "inooraq-brandt",
+          "text": "Yes, thank you for pointing that out, because unlike my fellow panelists, I do not represent a public or government entity. I work on a commercial level and do consultancy. And as such, well, we essentially provide services. And through the experiences we make there, hopefully we are able also to challenge our customers that may be public entities in also pushing for more circularity."
+        },
+        {
+          "speaker": "inooraq-brandt",
+          "text": "I made some notes in the introduction this morning. And first, I think I want to also acknowledge one of the things that were mentioned during the lamp lighting ceremony. And the gentleman, he said, as a WIC, we can use almost anything. And that's actually something that is very detrimental-- well, a principle for living in these regions. We essentially come from a place where how can I construct any piece of equipment or whatever in a robust way that I ensure that I'm also able to maintain? Because our survival essentially depends on it."
+        },
+        {
+          "speaker": "inooraq-brandt",
+          "text": "And further on, I think it was in your presentation, you mentioned this thing from transitioning from the old time to the new time. And I made an assumption in my head that the old time in that regard was the industrialization period, and the new time is what is ahead. And the words that come to mind when people describe this new time is actually very much in line with the very, very old time in a Greenlandic or Arctic sense. How do we make use of what we have in a way that's not going to restrict future generations from doing what they need to do? And I think in that sense, I'm probably going to be a bit more practical and operational than these large-scale themes that were there."
+        },
+        {
+          "speaker": "inooraq-brandt",
+          "text": "So when we're doing constructions up here, I think one of the most important things is that we need to make sure that we are constructing something in an efficient manner. We are often building in remote areas where a carpenter might not be able to come by next week. So it's important to have robust solutions. And we need a high level of detail in what we're doing. When we talk about Greenland or the Arctic as one size, you might say, well, we are in Nuuk now. That is essentially a metropolis. But if you go two hours by boat into the fjord here, you will come to a small settlement with, what's it, 50 people or something like that? So it's very, very different ways of living, not just only dictated by climate, but also by size of population and access to different infrastructure."
+        },
+        {
+          "speaker": "inooraq-brandt",
+          "text": "And I think also given the fact that we are a population, I had to look this up and I had to write it down I know I come from numbers, this was an odd number. The population of Greenland is about 0.00068% of the world population. So I think it's also important to realize that we might not have the best result from trying to put our efforts into innovating new specific high-tech materials. We are very much focused on how do we utilize applications of whatever material is available. And I just thought if we even broaden up to the complete Arctic, the population of that part of the world is only 0.05%. So we are quite few people. We live in a huge area with a very low density of population. And I think when we talk about circularity and circular planning, I can't help but think that a lot of the things that we do in a traditional sense is actually something that might provide insight to how other regions of the world might also develop their view on circular economy."
+        },
+        {
+          "speaker": "inooraq-brandt",
+          "text": "My father was born in a – it's a small segue, but I hope it makes sense in the end. My father was born in a very small settlement in '45. I've never been there, '48 they moved away. I was born in '81, we never got back to where he was born. When I was an intern, I had the chance to go there and I said, \"Dad, where's the house you were born in?\" And he said, \"Well, I don't know.\" And his older sister was in the room and she said, \"The house, we brought it.\" So the way that their home was constructed essentially what we are talking about today, how do you design for disassembly? And I know that we won't be able to do that with every building that we might build, but I think this is some of the things that we might be able to contribute with on a larger scale, the ability to build something that in a sense is reusable in other settings that might come in the future."
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "Very good. We have to continue because of time. But while Helle will come to the stage, could you just very quickly say, how is the repurposing of buildings approached here?"
+        },
+        {
+          "speaker": "inooraq-brandt",
+          "text": "In Greenland in general? In Nuuk especially, where there are... Embla might touch upon this when she comes up on stage, but in a sense we've had a lack of maintenance of a lot of our buildings. So we're trying to catch up on that. And one of the things that I think is very positive-- and I want to acknowledge not just the government, but also the municipal levels-- that the larger focus that we are seeing on maintenance and renovation and transformation is very positive. And we have examples with housing blocks in the Disko Bay area of Greenland, where we are essentially stripping down to the main constructions of the building, refurbishing it for a new life at about half of the cost of building a new building. And given that the structural parts of a building is also where you have the largest CO2, especially when it's concrete, I think that's a thing we have to pursue more."
+        }
+      ]
+    },
+    {
+      "id": "part-6-nordic-sustainable-construction",
+      "title": "Nordic Sustainable Construction Programme",
+      "startTime": "15:44",
+      "endTime": "15:53",
+      "duration": "9 minutes",
+      "description": "Helle Redder Momsen presents the Nordic collaboration on sustainable construction, including the vision for 2030, LCA regulations, and circular building principles",
+      "speakers": ["helle-redder-momsen", "einar-kleppe-holthe"],
+      "notes": "Presentation covers: Nordic 2030 vision (most sustainable and integrated region); Ministers' declaration focusing on existing building stock; Nordic Sustainable Construction program (2021-2024); Toolbox for Future-Proofed Construction; LCA calculation requirements across Nordic countries (Sweden, Norway, Denmark, Iceland, Finland); limit values and reused products set to zero; three work packages (climate/LCA, circularity, EU coordination); Nordic Climate Forum for Construction; policy measures catalogue; educational program in six Nordic languages.",
+      "keyThemes": [
+        "Nordic 2030 vision",
+        "Existing building stock focus",
+        "LCA calculation requirements",
+        "Limit values for CO2 emissions",
+        "Reused products zero carbon",
+        "Policy measures catalogue",
+        "Educational programs",
+        "Cross-Nordic collaboration",
+        "EU alignment"
+      ],
+      "segments": [
+        {
+          "speaker": "helle-redder-momsen",
+          "text": "Thank you very much and thank you very much for inviting me. I've been looking very much forward to be here, to meet you, to learn from all of you and thank you for those of you who are still with online. My name is Helle Redder Momsen. I come from Denmark. I come from the Danish Authority of Social Services and Housing in Denmark, but I work on a Nordic collaboration that we have across all the Nordic countries. And what I want to share with you now today is what the Nordic countries have decided to gather all forces on regarding construction."
+        },
+        {
+          "speaker": "helle-redder-momsen",
+          "text": "And that is really, you got most of it here, to accelerate the green, digital and circular in construction, but how do we do that? What to focus the efforts we have on? How many of you in the room know about this vision? Hands up. Martha, you know at least? A few, few, few. Okay, within five years, the Nordic countries have this vision of being the most sustainable and integrated region in the world. That's ambitious. I work with construction. I really like buildings and our built environment a lot, and I also think it's key for us to be able to reach that very important vision."
+        },
+        {
+          "speaker": "helle-redder-momsen",
+          "text": "The Nordic Ministers for Housing and Construction agree to that, and they have made different declarations. This one is the latest, and it's from 2023. I will just highlight one point of it, 'cause that's what we will be focusing most on today. And it's really this one, which is recognize the potential in preserving and developing the existing building stock, and its contribution to reduced emissions and many other footprints. But emissions is the focus here. I think that links well to the last comment from the panel on using the existing building stocks. I hear that there's a lot of good potential here, and Embla will tell you more on that."
+        },
+        {
+          "speaker": "helle-redder-momsen",
+          "text": "This collaboration, the Nordic Sustainable Construction, that I'm part of leading, together with other really good colleagues in the Nordic countries. Started in 2021. We had five work packages at that time. And 2024 is finished. So we gathered the key findings in that report, Toolbox for Future-Proofed Construction. I think there's a lot of really, really important knowledge in that. It was a lot of efforts. So dig into it. Marte, who is sitting here, was part of some of the work being made here. And a lot of other good colleagues contributing to summit. I will just share a few parts of the results with you now."
+        },
+        {
+          "speaker": "helle-redder-momsen",
+          "text": "Some of you might know that within construction it's hot to talk about calculating the climate impact from construction. So that means you have to calculate through all the different phases. So now from you take the raw materials to you process them to transport them to your build on the side when you take out the window or whatever you need to do and then the end of life maybe you you dispose, maybe you can use some of it again. You have to calculate that. And Sweden were the first to say, by law, when you build new, you have to calculate. A few months later came Norway. You have to calculate when you build a new building. And then came Denmark in 2023, saying you have to calculate. But there's actually also a limit to how much CO2 equivalents you can emit per square-- when you do that."
+        },
+        {
+          "speaker": "helle-redder-momsen",
+          "text": "And this regulation that is being made from all the countries is spreading across the globe, really. Iceland just introduced it. So since September, you have to calculate in Iceland as well. And Finland has just sent it to EU notification and tried to calculate, but that there will also be limit values or a limit to how much you can emit in 2026. It's a huge, at least from my point of view, focus from the EU as well. In 2028, buildings larger than 1,000 square meters have to calculate, and in 2030, all the countries have to make a plan towards 2050. How will your limits be? So it's really a trend that's happening."
+        },
+        {
+          "speaker": "helle-redder-momsen",
+          "text": "What we did in the Nordic countries was, how do you calculate? 'Cause you can do that in really many ways. So we made a lot of knowledge, we have shared that, and that's some of the things you could find in that toolbox. And we use that common knowledge base to make similar regulation. It is not the same, but it could have been much, much, much, much, much more different. One of the things we found out when we made that limit was, what about reused products? What should they calculate for? And in Denmark, we were investigating that as part of setting the limit value. So we asked our colleagues, how do you set it? and more or less everyone wanted the political push that it should be set to zero. This is not the real number. Of course, there's emissions when you also take out a product and use it directly again, but more or less zero. Several of the countries calculate transport."
+        },
+        {
+          "speaker": "helle-redder-momsen",
+          "text": "So the Nordic Ministers of Housing and Construction in 2024 in August, gathered in Göteborg here. And there they said, we want this collaboration to continue. It's not-- you came far in the first phase, but you need to do more. And that's where it's accelerate the green, circular, and digital transition. So that's what we'll be focusing on now, or have been focusing on since June. And it's really to contribute to this Nordic vision of making the construction and housing competitive by minimizing the footprint from environment and climate. We do that to accelerate our knowledge together. And what we do and work on is these three work packages. So all the Nordic countries and regions, construction authorities, are part of this. These countries are just the countries that said we want to be part of sharing a work package. But all the countries give input. So Iceland is generally the one focusing on climate. We can still do more to make our LCAs more efficient. And many other good things. I'm talking a little bit fast because I can feel I'm getting there."
+        },
+        {
+          "speaker": "helle-redder-momsen",
+          "text": "And then the place where I'm from, the Danish Authority of Social Services and Housing are focusing on circularity. And Boverket in Sweden, the housing and planning authority there, is focusing on the EU. And then we have a secretariat to run it all. I wanted to focus on the circularity work package. And what we do here is really these four tasks. The first one is what political measures do we have as authorities to motivate what you were talking about before, how to utilise existing buildings better. We gathered all the Nordic construction authorities, EU Commission, key stakeholders from across all the Nordic countries, at this yearly thing we have called Nordic Climate Forum for Construction a few weeks ago. And here all the stakeholders presented what do they do to make it easier to use the existing building stocks. We gathered it all, so if you wanted to have sneak peeks into some of it, you can scroll forward. It was a whole morning session, so there's a lot of hours there. But you can read either the small things in the news article or find the recordings and the related slides online in our website."
+        },
+        {
+          "speaker": "helle-redder-momsen",
+          "text": "This is the first initial mapping of what policy measures are there to really enable this better use of the existing building stock. So lifetime extension, minimise unnecessary demolition, remove barriers for efficient renovation. How can we use the square meters we have more efficiently? Multiple use. What incentives and tax instruments do we have that we could use? Of course, this will be individual for each country, but it's an important tool. Design optimisation, design for disassemble, as was mentioned. The procurement muscle, and then what's almost cut off, but not fully, is research demonstration and piloting. Of course, we want to scale up, as I think you're really good at helping us with, but it's still a good thing. So all of these measures we are working on. We're trying to see how can we make a catalogue that can be inspiration for all the Nordic countries, but also other stakeholders who are interested in paving the way for the existing buildings."
+        },
+        {
+          "speaker": "helle-redder-momsen",
+          "text": "In the last phase, we made this educational program. Vocational teachers teaching carpenters or bricklayers. They often don't have much material on how to teach sustainable construction. We focused on reuse and we made this education material available online. And it's in six Nordic languages, not Greenlandic, unfortunately, but in English as well. So it's freely available and we think it's quite good."
+        }
+      ]
+    },
+    {
+      "id": "part-7-greenland-national-strategy",
+      "title": "Greenland National Strategy for Sustainable Construction",
+      "startTime": "15:53",
+      "endTime": "16:01",
+      "duration": "8 minutes",
+      "description": "Embla Kristjánsdóttir presents Greenland's national sustainability strategy for building and construction sector, approved in 2024",
+      "speakers": ["embla-kristjansdottir", "einar-kleppe-holthe"],
+      "notes": "Presentation covers: political ambition and shared framework; international reality where sustainability is competitive parameter; unique geographic/climatic/logistical conditions; small industry with strong community trust; holistic approach; guiding principles (CO2 reduction, healthy buildings, shared understanding); purpose and vision; six goals; seven concrete initiatives including DGNB system development, LCA methodology, Council for Sustainability, CO2 action plan; December conference planned; government will use DGNB standard but not certification; lack of current data.",
+      "keyThemes": [
+        "National sustainability strategy",
+        "Shared framework approach",
+        "No mandatory legislation yet",
+        "Community trust model",
+        "Holistic sector approach",
+        "DGNB system development",
+        "LCA methodology",
+        "Council for Sustainability",
+        "CO2 action plan",
+        "Data collection needs"
+      ],
+      "segments": [
+        {
+          "speaker": "embla-kristjansdottir",
+          "text": "I'll try to be really fast. Thank you, everyone. I'm just going to tell you a bit about the sustainable strategy for the construction of civil engineering here in Greenland, which was formally approved last year and is now in effect, sort of speech. The starting point of the strategy is the political ambition and a clear need for a shared framework for the work ahead. Part of an international reality where sustainability is a competitive parameter. That especially includes, we were talking about private funding or EU funding and such."
+        },
+        {
+          "speaker": "embla-kristjansdottir",
+          "text": "A Greenlandic context with unique geographic, climatic and logistical conditions, We're a small industry with a strong sense of community. There's a lot of trust between all of us working in this industry, as Inooraq also talked about. So we must succeed together. This also includes that we're not gonna, at least for now, put in some legislation concerning sustainability. We should be able to do this together and agree on all of those things. So all in all, a holistic approach to sustainability across the entire sector in the country."
+        },
+        {
+          "speaker": "embla-kristjansdottir",
+          "text": "The guiding principles, I'm just gonna read that to you how it actually says in the strategy. It is that sustainability, including initiatives to reduce CO2 emissions, becomes an active and permanent element of all government construction and civil engineering projects. That we create healthy, high-quality buildings and homes that benefit both society and users today and especially for future generations. That a shared understanding of sustainability is established across the sector. So an agreement all in all."
+        },
+        {
+          "speaker": "embla-kristjansdottir",
+          "text": "The purpose of the strategy is to launch and contribute to a sector-wide dialogue for the future direction of the industry and how more sustainable development can be supported in practice. As Inooraq also said, in practice in Greenland is sometimes a bit challenging. But the ambition is to create a common foundation on which the entire industry can continue to build together."
+        },
+        {
+          "speaker": "embla-kristjansdottir",
+          "text": "The vision is, again I'm going to just read from the strategy, that the construction sector of the future operates with consideration for future generations. The needs of the present must be met without compromising the ability of future generations to meet their own needs. Therefore the construction and civil engineering sector must in the future develop and use sustainable and innovative solutions, contribute to growth and development throughout the country, reflect Greenland's culture and support local communities, contribute to a better climate and environment, be regarded as a part of a global world that takes responsibility and actively participates in global developments. It's a very strong vision for a small industry, but we have set some goals in the strategy."
+        },
+        {
+          "speaker": "embla-kristjansdottir",
+          "text": "The government, in our role as a public developer, we must actively contribute to sustainable development through our construction projects, based on a holistic approach. The construction sector must establish a joint forum for dialogue and cooperation on sustainability. The construction sector must develop systematic methods and tools to measure and assess sustainability and sector-wide emissions. The sector must determine its environmental and climate impact, including CO2 emissions, set concrete targets and initiatives to reduce these emissions. The sector must jointly define specific objectives and initiatives for the development of more sustainable constructions. It's not many goals, which is also our purpose. It should be goals that we can actually meet."
+        },
+        {
+          "speaker": "embla-kristjansdottir",
+          "text": "So the concrete initiatives that are in the strategy is principles for sustainability, prioritization of art and architecture and government construction projects, development of a national DGNB system, certification system, development of a shared methodology for life cycle assessment, LCA calculations, establishment of a council for sustainability within the construction sector, preparation of an action plan for reducing CO2 emissions in the construction sector. And here, from these concrete initiatives, to take it from the top, the development of the national DGNB system is well on its way here in the start of December. We have a conference where we're gonna go through where are we at, and I think it's meant to be the final dialogue before it is."
+        },
+        {
+          "speaker": "embla-kristjansdottir",
+          "text": "Having said that, I can also tell you that the government is not gonna do certified projects. We're gonna go with the DGNB standard, but we're not gonna get the certification. It doesn't really give anything of value to us. But it needs to be in place for especially private projects. Within the development of DGNB is also development of the shared methodology for LCA, which is also gonna be presented in December. We have established the Council of Sustainability since last year and held, I think, two meetings where most of the discussion was how we're gonna get to the CO2 action plan because we don't have any data at the moment So we need to start somewhere. But we're well on our way since last year, and we'll continue."
+        }
+      ]
+    },
+    {
+      "id": "part-8-closing-reflections",
+      "title": "Closing Reflections",
+      "startTime": "16:01",
+      "endTime": "16:05",
+      "duration": "4 minutes",
+      "description": "Anne Mette Christiansen provides closing reflections on session themes and connections to Greenlandic context",
+      "speakers": ["anne-mette-christiansen", "einar-kleppe-holthe"],
+      "notes": "Reflections emphasize: social, cultural, economic, and environmental value of refurbishment over demolition; importance of repurposing and multi-use buildings; citizen engagement and storytelling; measuring progress and inspiring action; circular criteria in public tenders; robust solutions for remote maintenance; reconnecting to traditional practices like design for disassembly; cross-session thematic connections.",
+      "keyThemes": [
+        "Refurbishment over demolition",
+        "Multi-use buildings",
+        "Citizen engagement importance",
+        "Circular public procurement",
+        "Robust remote solutions",
+        "Traditional knowledge reconnection",
+        "Design for disassembly",
+        "Cross-cutting session themes"
+      ],
+      "segments": [
+        {
+          "speaker": "anne-mette-christiansen",
+          "text": "Well, a few-- For CSR. Yeah, please introduce yourself. A few reflections. My name is Anne Mette Christiansen. I am both a market director with Rambøll, responsible for sustainability, and also a senior advisor to CSR Greenland, and have worked with sustainability for many years here in Greenland and Nuuk. And this is a topic very close to my heart, so very good presentations. And I think there are some things that runs through this that also is really applicable in a Greenlandic context."
+        },
+        {
+          "speaker": "anne-mette-christiansen",
+          "text": "I think everyone has spoken quite a lot about both the social, the cultural, the economic and the environmental value of not demolishing buildings, but refurbishing and renovating, of course. And I'm happy to see that we see more and more of that in Greenland as well. I think that's absolutely critical. I also hear in not least the Baltic examples, which I thought was really, really inspirational. This idea of repurposing and also having multi-use buildings, not least, I think, here in a local context where we don't have that many buildings, how do we make sure that we really use them and utilize them for everything that they can be used for?"
+        },
+        {
+          "speaker": "anne-mette-christiansen",
+          "text": "Then, so that was kind of the overall reflection, but I think one of the things that stuck most with me was actually the example from Riga, with the importance of citizen engagement, and really making sure that this is not just something that happens in a government building or in the construction sector, but that we make sure that people also really understand why is this important, and that we measure progress, that we inspire citizens and businesses to work with circular practices in this field, and also that we make sure to create business opportunities around the circular agenda. I think that's absolutely crucial. And another note that I just picked up on that was the inclusion of circular criteria and public tenders. And I think I saw that a little bit in your presentation as well, really essential."
+        },
+        {
+          "speaker": "anne-mette-christiansen",
+          "text": "And then I just wanted to point to some of the things that Inooraq said about the Greenlandic context. And I think those are really some really good points there. The need for robust solutions when things cannot easily been maintained, when you might be in a location where there's not a carpenter or someone to fix your house, you need to make it in a way that people can actually easily maintain. And then this opportunity to reconnect to some of the more traditional practices, the, for example, design to disassembly, I think is absolutely crucial as well. So I think that's a nice thread to all of the presentations. And very good to see the strategy presented as well. I think it's a great piece of work."
+        },
+        {
+          "speaker": "einar-kleppe-holthe",
+          "text": "Thank you. That's an excellent summary. Thank you so much. And I think that will be the concluding speech of this session. Thank you so much for participating to everyone. And now take a small break before the closing session of the full day. Thank you so much to all contributors."
+        }
+      ]
+    }
+  ]
+}

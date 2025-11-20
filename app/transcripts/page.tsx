@@ -13,6 +13,8 @@ import session3Transcript from '@/data/transcripts/session-3-locally-rooted.json
 import session3SocialPosts from '@/data/social-media/session-3-posts.json';
 import session4Transcript from '@/data/transcripts/session-4-arctic-lifestyles.json';
 import session4SocialPosts from '@/data/social-media/session-4-posts.json';
+import session5Transcript from '@/data/transcripts/session-5-circular-cities.json';
+import session5SocialPosts from '@/data/social-media/session-5-posts.json';
 
 // Stop words to filter out from word cloud
 const STOP_WORDS = new Set([
@@ -32,7 +34,8 @@ const transcriptData: Record<string, any> = {
   'circular-frontiers-opening': session1Transcript,
   'circular-ocean-industries': session2Transcript,
   'locally-rooted-materialising': session3Transcript,
-  'arctic-nordic-lifestyles': session4Transcript
+  'arctic-nordic-lifestyles': session4Transcript,
+  'circular-cities-regions': session5Transcript
 };
 
 // Map social posts by session ID
@@ -40,7 +43,8 @@ const socialPostsData: Record<string, any[]> = {
   'circular-frontiers-opening': session1SocialPosts,
   'circular-ocean-industries': session2SocialPosts,
   'locally-rooted-materialising': session3SocialPosts,
-  'arctic-nordic-lifestyles': session4SocialPosts
+  'arctic-nordic-lifestyles': session4SocialPosts,
+  'circular-cities-regions': session5SocialPosts
 };
 
 // Session-specific download files mapping
@@ -78,6 +82,13 @@ const sessionDownloads: Record<string, {
     article: '/articles/session-4-arctic-lifestyles-article.md',
     highlights: '/highlights/session-4-key-quotes-and-themes.md',
     speakerGuide: '/transcripts/SESSION-4-SPEAKER-IDENTIFICATION.md'
+  },
+  'circular-cities-regions': {
+    transcript: '/transcripts/session-5-circular-cities-CLEAN.md',
+    json: '/transcripts/session-5-circular-cities.json',
+    article: '/articles/session-5-circular-cities-article.md',
+    highlights: '/highlights/session-5-key-quotes-and-themes.md',
+    speakerGuide: '/transcripts/SESSION-5-SPEAKER-IDENTIFICATION.md'
   }
 };
 
