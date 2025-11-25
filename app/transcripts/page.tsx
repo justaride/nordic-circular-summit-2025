@@ -4,7 +4,7 @@ import { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { sessions } from '@/lib/data';
 
-// Load actual transcript data
+// Load actual transcript data - Day 1
 import session1Transcript from '@/data/transcripts/session-1-circular-frontiers.json';
 import session1SocialPosts from '@/data/social-media/session-1-posts.json';
 import session2Transcript from '@/data/transcripts/session-2-circular-ocean.json';
@@ -17,6 +17,11 @@ import session5Transcript from '@/data/transcripts/session-5-circular-cities.jso
 import session5SocialPosts from '@/data/social-media/session-5-posts.json';
 import day1SummaryTranscript from '@/data/transcripts/session-day1-summary.json';
 import day1SummarySocialPosts from '@/data/social-media/session-day1-summary-posts.json';
+
+// Load actual transcript data - Day 2
+import day2CircularDesignToolboxTranscript from '@/data/transcripts/day2-session-circular-design-toolbox.json';
+import day2NbttTextilesTranscript from '@/data/transcripts/day2-session-nbtt-textiles.json';
+import day2CircularConstructionTranscript from '@/data/transcripts/day2-session-circular-construction.json';
 
 // Stop words to filter out from word cloud
 const STOP_WORDS = new Set([
@@ -33,12 +38,17 @@ const STOP_WORDS = new Set([
 
 // Map transcripts by session ID
 const transcriptData: Record<string, any> = {
+  // Day 1
   'circular-frontiers-opening': session1Transcript,
   'circular-ocean-industries': session2Transcript,
   'locally-rooted-materialising': session3Transcript,
   'arctic-nordic-lifestyles': session4Transcript,
   'circular-cities-regions': session5Transcript,
-  'day1-summary': day1SummaryTranscript
+  'day1-summary': day1SummaryTranscript,
+  // Day 2
+  'day2-circular-design-toolbox': day2CircularDesignToolboxTranscript,
+  'day2-nbtt-textiles': day2NbttTextilesTranscript,
+  'day2-circular-construction': day2CircularConstructionTranscript
 };
 
 // Map social posts by session ID
@@ -100,6 +110,28 @@ const sessionDownloads: Record<string, {
     article: '/articles/session-day1-summary-reflections.md',
     highlights: '/highlights/session-day1-summary-key-quotes.md',
     speakerGuide: '/transcripts/SESSION-DAY1-SUMMARY-SPEAKER-IDENTIFICATION.md'
+  },
+  // Day 2 Sessions
+  'day2-circular-design-toolbox': {
+    transcript: '/transcripts/day2-session-circular-design-toolbox-CLEAN.md',
+    json: '/transcripts/day2-session-circular-design-toolbox.json',
+    article: '',
+    highlights: '',
+    speakerGuide: '/transcripts/DAY2-SESSION-CIRCULAR-DESIGN-TOOLBOX-SPEAKER-IDENTIFICATION.md'
+  },
+  'day2-nbtt-textiles': {
+    transcript: '/transcripts/day2-session-nbtt-textiles-CLEAN.md',
+    json: '/transcripts/day2-session-nbtt-textiles.json',
+    article: '',
+    highlights: '',
+    speakerGuide: '/transcripts/DAY2-SESSION-NBTT-TEXTILES-SPEAKER-IDENTIFICATION.md'
+  },
+  'day2-circular-construction': {
+    transcript: '/transcripts/day2-session-circular-construction-CLEAN.md',
+    json: '/transcripts/day2-session-circular-construction.json',
+    article: '',
+    highlights: '',
+    speakerGuide: '/transcripts/DAY2-SESSION-CIRCULAR-CONSTRUCTION-SPEAKER-IDENTIFICATION.md'
   }
 };
 
@@ -158,14 +190,17 @@ export default function TranscriptsPage() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      <header className="bg-white border-b border-gray-200">
+    <div className="min-h-screen" style={{ background: 'linear-gradient(135deg, #f0f7f8 0%, #f4f6f2 50%, #f5f7f6 100%)' }}>
+      {/* Nordic Background Layer */}
+      <div className="nordic-bg" />
+
+      <header className="frost-card-strong border-b" style={{ borderColor: 'var(--glacial-200)' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-          <Link href="/" className="text-cyan-600 hover:text-cyan-700 mb-2 inline-block">
+          <Link href="/" className="mb-2 inline-block transition-colors" style={{ color: 'var(--glacial-600)' }}>
             ← Back to Home
           </Link>
-          <h1 className="text-3xl font-bold text-gray-900">Session Transcripts</h1>
-          <p className="text-gray-600 mt-2">Full transcripts from Nordic Circular Summit 2025</p>
+          <h1 className="text-3xl font-bold" style={{ color: 'var(--glacial-800)' }}>Session Transcripts</h1>
+          <p className="mt-2" style={{ color: 'var(--sage-600)' }}>Full transcripts from Nordic Circular Summit 2025</p>
         </div>
       </header>
 
@@ -173,8 +208,8 @@ export default function TranscriptsPage() {
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
           {/* Session List */}
           <div className="lg:col-span-1">
-            <div className="bg-white rounded-lg shadow-md p-6 sticky top-6">
-              <h2 className="text-lg font-bold text-gray-900 mb-4">Sessions</h2>
+            <div className="frost-card-strong rounded-xl shadow-lg p-6 sticky top-6" style={{ borderColor: 'var(--glacial-200)' }}>
+              <h2 className="text-lg font-bold mb-4" style={{ color: 'var(--glacial-800)' }}>Sessions</h2>
               <div className="space-y-2">
                 {sessions.map(session => {
                   const transcript = transcriptData[session.id];
@@ -185,25 +220,38 @@ export default function TranscriptsPage() {
                       key={session.id}
                       onClick={() => hasTranscript && setSelectedSession(session.id)}
                       disabled={!hasTranscript}
-                      className={`w-full text-left p-3 rounded-lg transition-colors ${
+                      className={`w-full text-left p-3 rounded-lg transition-all ${
                         selectedSession === session.id
-                          ? 'bg-cyan-100 border-2 border-cyan-500'
+                          ? 'border-2 shadow-md'
                           : hasTranscript
-                          ? 'bg-gray-50 border-2 border-transparent hover:bg-gray-100'
-                          : 'bg-gray-100 border-2 border-transparent opacity-50 cursor-not-allowed'
+                          ? 'border-2 border-transparent'
+                          : 'border-2 border-transparent opacity-50 cursor-not-allowed'
                       }`}
+                      style={
+                        selectedSession === session.id
+                          ? { background: 'var(--glacial-50)', borderColor: 'var(--glacial-400)' }
+                          : hasTranscript
+                          ? { background: 'var(--arctic-50)' }
+                          : { background: 'var(--arctic-100)' }
+                      }
                     >
                       <div className="flex items-start justify-between">
                         <div className="flex-1 min-w-0">
-                          <div className="font-medium text-gray-900 text-sm truncate">
+                          <div className="font-medium text-sm truncate" style={{ color: 'var(--glacial-800)' }}>
                             {session.title}
                           </div>
-                          <div className="text-xs text-gray-500 mt-1">
+                          <div className="text-xs mt-1" style={{ color: 'var(--sage-500)' }}>
                             Day {session.day} • {session.startTime}
                           </div>
                         </div>
                         {hasTranscript && (
-                          <span className={`ml-2 text-xs px-2 py-1 rounded ${statusColors[transcript.transcriptionStatus]}`}>
+                          <span
+                            className="ml-2 text-xs px-2 py-1 rounded"
+                            style={{
+                              background: transcript.transcriptionStatus === 'completed' ? 'var(--sage-100)' : 'var(--glacial-100)',
+                              color: transcript.transcriptionStatus === 'completed' ? 'var(--sage-700)' : 'var(--glacial-700)'
+                            }}
+                          >
                             {transcript.transcriptionStatus === 'completed' ? '✓' : transcript.transcriptionStatus}
                           </span>
                         )}
@@ -218,55 +266,62 @@ export default function TranscriptsPage() {
           {/* Transcript Content */}
           <div className="lg:col-span-3">
             {!selectedTranscript && (
-              <div className="bg-white rounded-lg shadow-md p-12 text-center">
-                <div className="text-gray-400 text-5xl mb-4">📝</div>
-                <h3 className="text-lg font-semibold text-gray-900 mb-2">No Transcript Available</h3>
-                <p className="text-gray-600">Select a session with available transcript from the list</p>
+              <div className="frost-card rounded-xl shadow-lg p-12 text-center">
+                <div className="text-5xl mb-4" style={{ color: 'var(--glacial-300)' }}>📝</div>
+                <h3 className="text-lg font-semibold mb-2" style={{ color: 'var(--glacial-800)' }}>No Transcript Available</h3>
+                <p style={{ color: 'var(--sage-600)' }}>Select a session with available transcript from the list</p>
               </div>
             )}
 
             {selectedTranscript && session && (
               <div className="space-y-6">
                 {/* Session Header */}
-                <div className="bg-white rounded-lg shadow-md p-6">
-                  <h2 className="text-3xl font-bold text-gray-900 mb-2">{session.title}</h2>
-                  <p className="text-gray-600 mb-4">{session.description}</p>
+                <div className="frost-card-strong rounded-xl shadow-lg p-6">
+                  <h2 className="text-3xl font-bold mb-2" style={{ color: 'var(--glacial-800)' }}>{session.title}</h2>
+                  <p className="mb-4" style={{ color: 'var(--sage-600)' }}>{session.description}</p>
 
-                  <div className="flex flex-wrap items-center gap-4 text-sm text-gray-500 mb-4">
+                  <div className="flex flex-wrap items-center gap-4 text-sm mb-4" style={{ color: 'var(--arctic-600)' }}>
                     <span>📅 {selectedTranscript.date}</span>
                     <span>⏱️ {selectedTranscript.metadata.duration}</span>
                     <span>🗣️ {selectedTranscript.metadata.participantCount} speakers</span>
-                    <span className={`px-3 py-1 rounded ${statusColors[selectedTranscript.transcriptionStatus]}`}>
+                    <span
+                      className="px-3 py-1 rounded"
+                      style={{
+                        background: selectedTranscript.transcriptionStatus === 'completed' ? 'var(--sage-100)' : 'var(--glacial-100)',
+                        color: selectedTranscript.transcriptionStatus === 'completed' ? 'var(--sage-700)' : 'var(--glacial-700)'
+                      }}
+                    >
                       {selectedTranscript.transcriptionStatus.replace('_', ' ')}
                     </span>
                   </div>
 
                   {selectedTranscript.notes && (
-                    <div className="p-4 bg-cyan-50 rounded-lg border border-cyan-200">
-                      <p className="text-sm text-cyan-900">{selectedTranscript.notes}</p>
+                    <div className="p-4 rounded-lg" style={{ background: 'var(--glacial-50)', border: '1px solid var(--glacial-200)' }}>
+                      <p className="text-sm" style={{ color: 'var(--glacial-800)' }}>{selectedTranscript.notes}</p>
                     </div>
                   )}
                 </div>
 
                 {/* Expandable Downloads Section - Dynamic for all sessions */}
                 {selectedSession && sessionDownloads[selectedSession] && (
-                  <div className="bg-white rounded-lg shadow-md overflow-hidden">
+                  <div className="frost-card rounded-xl shadow-lg overflow-hidden">
                     <button
                       onClick={() => setShowDownloads(!showDownloads)}
-                      className="w-full p-5 flex items-center justify-between hover:bg-gray-50 transition-colors border-l-4 border-green-500"
+                      className="w-full p-5 flex items-center justify-between transition-colors border-l-4"
+                      style={{ borderColor: 'var(--sage-400)' }}
                     >
                       <div className="flex items-center gap-3">
                         <span className="text-2xl">📥</span>
                         <div className="text-left">
-                          <h3 className="text-lg font-bold text-gray-900">Downloads & Resources</h3>
-                          <p className="text-sm text-gray-600">Transcripts, articles, quotes, and speaker guides</p>
+                          <h3 className="text-lg font-bold" style={{ color: 'var(--glacial-800)' }}>Downloads & Resources</h3>
+                          <p className="text-sm" style={{ color: 'var(--sage-600)' }}>Transcripts, articles, quotes, and speaker guides</p>
                         </div>
                       </div>
-                      <span className="text-gray-400 text-xl">{showDownloads ? '▼' : '▶'}</span>
+                      <span className="text-xl" style={{ color: 'var(--glacial-400)' }}>{showDownloads ? '▼' : '▶'}</span>
                     </button>
 
                     {showDownloads && (
-                      <div className="border-t p-6 bg-gray-50">
+                      <div className="border-t p-6" style={{ background: 'var(--arctic-50)', borderColor: 'var(--glacial-100)' }}>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                           <a
                             href={sessionDownloads[selectedSession].transcript}
@@ -340,23 +395,24 @@ export default function TranscriptsPage() {
 
                 {/* Expandable Word Cloud Section - Dynamic for all sessions */}
                 {selectedSession && wordFrequency.length > 0 && (
-                  <div className="bg-white rounded-lg shadow-md overflow-hidden">
+                  <div className="frost-card rounded-xl shadow-lg overflow-hidden">
                     <button
                       onClick={() => setShowWordCloud(!showWordCloud)}
-                      className="w-full p-5 flex items-center justify-between hover:bg-gray-50 transition-colors border-l-4 border-purple-500"
+                      className="w-full p-5 flex items-center justify-between transition-colors border-l-4"
+                      style={{ borderColor: 'var(--glacial-400)' }}
                     >
                       <div className="flex items-center gap-3">
                         <span className="text-2xl">☁️</span>
                         <div className="text-left">
-                          <h3 className="text-lg font-bold text-gray-900">Word Cloud</h3>
-                          <p className="text-sm text-gray-600">Top 50 most frequent words from the transcript</p>
+                          <h3 className="text-lg font-bold" style={{ color: 'var(--glacial-800)' }}>Word Cloud</h3>
+                          <p className="text-sm" style={{ color: 'var(--sage-600)' }}>Top 50 most frequent words from the transcript</p>
                         </div>
                       </div>
-                      <span className="text-gray-400 text-xl">{showWordCloud ? '▼' : '▶'}</span>
+                      <span className="text-xl" style={{ color: 'var(--glacial-400)' }}>{showWordCloud ? '▼' : '▶'}</span>
                     </button>
 
                     {showWordCloud && (
-                      <div className="border-t p-6 bg-gradient-to-br from-purple-50 to-cyan-50">
+                      <div className="border-t p-6" style={{ background: 'linear-gradient(135deg, var(--glacial-50) 0%, var(--sage-50) 100%)', borderColor: 'var(--glacial-100)' }}>
                         <div className="flex flex-wrap gap-3 justify-center items-center p-6">
                           {wordFrequency.map((item, idx) => {
                             const maxCount = wordFrequency[0].count;
@@ -441,34 +497,38 @@ function TranscriptPart({ part, index }: { part: any; index: number }) {
   const hasContent = part.segments && part.segments.length > 0 && part.segments[0].text;
 
   return (
-    <div className="bg-white rounded-lg shadow-md overflow-hidden">
+    <div className="frost-card rounded-xl shadow-lg overflow-hidden">
       {/* Part Header */}
       <div
-        className="p-5 cursor-pointer hover:bg-gray-50 transition-colors border-l-4 border-cyan-500"
+        className="p-5 cursor-pointer transition-colors border-l-4"
         onClick={() => setIsExpanded(!isExpanded)}
+        style={{ borderColor: 'var(--glacial-400)' }}
       >
         <div className="flex items-start justify-between">
           <div className="flex-1">
             <div className="flex items-center gap-3 mb-2">
-              <span className="text-xs font-bold text-cyan-600 bg-cyan-50 px-3 py-1 rounded-full">
+              <span
+                className="text-xs font-bold px-3 py-1 rounded-full"
+                style={{ background: 'var(--glacial-100)', color: 'var(--glacial-700)' }}
+              >
                 PART {index + 1}
               </span>
-              <span className="text-sm text-gray-500">
+              <span className="text-sm" style={{ color: 'var(--arctic-500)' }}>
                 {part.startTime} - {part.endTime}
               </span>
             </div>
-            <h3 className="text-xl font-bold text-gray-900">{part.title}</h3>
+            <h3 className="text-xl font-bold" style={{ color: 'var(--glacial-800)' }}>{part.title}</h3>
             {part.description && (
-              <p className="text-sm text-gray-600 mt-1">{part.description}</p>
+              <p className="text-sm mt-1" style={{ color: 'var(--sage-600)' }}>{part.description}</p>
             )}
             {hasContent && (
-              <div className="mt-2 flex items-center gap-2 text-xs text-green-600">
+              <div className="mt-2 flex items-center gap-2 text-xs" style={{ color: 'var(--sage-500)' }}>
                 <span>✓</span>
                 <span>Transcript available</span>
               </div>
             )}
           </div>
-          <button className="text-gray-400 hover:text-gray-600 ml-4">
+          <button className="ml-4" style={{ color: 'var(--glacial-400)' }}>
             {isExpanded ? '▼' : '▶'}
           </button>
         </div>
@@ -476,33 +536,33 @@ function TranscriptPart({ part, index }: { part: any; index: number }) {
 
       {/* Part Content (Expanded) */}
       {isExpanded && (
-        <div className="border-t bg-gray-50">
+        <div className="border-t" style={{ background: 'var(--arctic-50)', borderColor: 'var(--glacial-100)' }}>
           {/* Notes Section */}
           {part.notes && (
-            <div className="p-5 border-b bg-blue-50">
-              <h4 className="text-sm font-semibold text-blue-900 mb-2">📝 Notes</h4>
-              <p className="text-sm text-blue-800 whitespace-pre-wrap">{part.notes}</p>
+            <div className="p-5 border-b" style={{ background: 'var(--glacial-50)', borderColor: 'var(--glacial-100)' }}>
+              <h4 className="text-sm font-semibold mb-2" style={{ color: 'var(--glacial-700)' }}>📝 Notes</h4>
+              <p className="text-sm whitespace-pre-wrap" style={{ color: 'var(--glacial-800)' }}>{part.notes}</p>
             </div>
           )}
 
           {/* Transcript Segments */}
           {hasContent ? (
             <div className="p-6">
-              <h4 className="text-sm font-semibold text-gray-700 mb-4">Transcript</h4>
+              <h4 className="text-sm font-semibold mb-4" style={{ color: 'var(--glacial-700)' }}>Transcript</h4>
               <div className="space-y-4">
                 {part.segments.map((segment: any, idx: number) => (
                   <div key={idx} className="transcript-segment">
                     {segment.speakerId && (
                       <div className="flex items-center gap-2 mb-1">
-                        <span className="text-xs font-bold text-cyan-700 uppercase">
+                        <span className="text-xs font-bold uppercase" style={{ color: 'var(--glacial-600)' }}>
                           {formatSpeakerName(segment.speakerId)}
                         </span>
-                        <span className="text-xs text-gray-400">
+                        <span className="text-xs" style={{ color: 'var(--arctic-400)' }}>
                           {segment.startTime}
                         </span>
                       </div>
                     )}
-                    <p className="text-gray-800 leading-relaxed whitespace-pre-wrap pl-4 border-l-2 border-gray-200">
+                    <p className="leading-relaxed whitespace-pre-wrap pl-4 border-l-2" style={{ color: 'var(--foreground)', borderColor: 'var(--glacial-200)' }}>
                       {segment.text}
                     </p>
                   </div>
@@ -510,7 +570,7 @@ function TranscriptPart({ part, index }: { part: any; index: number }) {
               </div>
             </div>
           ) : (
-            <div className="p-6 text-center text-gray-400">
+            <div className="p-6 text-center" style={{ color: 'var(--arctic-400)' }}>
               <p className="text-sm italic">No transcript content for this part yet</p>
             </div>
           )}
@@ -525,6 +585,7 @@ function formatSpeakerName(speakerId: string | null): string {
 
   // Convert speaker ID to readable name
   const names: Record<string, string> = {
+    // Day 1 Speakers
     'einar-kleppe-holthe': 'Einar Kleppe Holthe',
     'eva-jorgensen': 'Eva Jørgensen',
     'edvard-lybert-mork': 'Edvard Lybert Mørk',
@@ -537,7 +598,20 @@ function formatSpeakerName(speakerId: string | null): string {
     'alisa-mick': 'Alisa Mick',
     'michel-bajuk': 'Michel Bajuk',
     'keira-dignan': 'Keira Dignan',
-    'agita-baltbarde': 'Agita Baltbārde'
+    'agita-baltbarde': 'Agita Baltbārde',
+    // Day 2 - Circular Design Toolbox
+    'dan-mikkin': 'Dan Mikkin',
+    'maarja-karlson': 'Maarja Karlson',
+    // Day 2 - NBTT Textiles
+    'betina-simonsen': 'Betina Simonsen',
+    'kerli-kant-hvass': 'Kerli Kant Hvass',
+    'jonas-eder-hansen': 'Jonas Eder-Hansen',
+    'emilia-jedda': 'Emilia Jedda',
+    'inga': 'Inga',
+    // Day 2 - Circular Construction
+    'jan-thomas-odegard': 'Jan Thomas Odegard',
+    'helle-redder-momsen': 'Helle Redder Momsen',
+    'anna-karlsdottir': 'Anna Karlsdottir'
   };
 
   return names[speakerId] || speakerId;
@@ -912,6 +986,277 @@ function QuotesViewer({ sessionId }: { sessionId: string }) {
             "Sister network spans 12 countries",
             "Danish, ACT clusters as regional enablers",
             "Cross-sectoral collaboration key to solutions"
+          ]
+        }
+      ]
+    },
+    // Day 2 Sessions
+    'day2-circular-design-toolbox': {
+      topQuotes: [
+        {
+          quote: "The linear economy is heavily dominating the world. And it's not moving in the right direction. We have just the recent data coming in and it's getting worse. Not that we are having less circular solutions, but the linear economy is growing even faster.",
+          author: "Dan Mikkin",
+          org: "HI Advisory, Estonia",
+          theme: "Linear Economy Crisis"
+        },
+        {
+          quote: "We wanted to create this step-by-step systemic approach that the process would be a bit easier.",
+          author: "Maarja Karlson",
+          org: "HI Advisory, Estonia",
+          theme: "Toolbox Purpose"
+        },
+        {
+          quote: "The aim here is not to score the highest but to be as objective as you can, be realistic.",
+          author: "Maarja Karlson",
+          org: "HI Advisory, Estonia",
+          theme: "Self-Assessment Guidance"
+        },
+        {
+          quote: "Regenerative organizations are these rare pioneering companies which actually restore the environment around them so that they give back more than they take from nature and from society.",
+          author: "Dan Mikkin",
+          org: "HI Advisory, Estonia",
+          theme: "Regenerative Goal"
+        },
+        {
+          quote: "If it adds up, then it all makes sense. If it doesn't, then it's a charity project. We are talking about actual working business models.",
+          author: "Dan Mikkin",
+          org: "HI Advisory, Estonia",
+          theme: "Economic Viability"
+        },
+        {
+          quote: "A good efficient transition process usually takes five, six, seven tools over a course of several months.",
+          author: "Dan Mikkin",
+          org: "HI Advisory, Estonia",
+          theme: "Practical Implementation"
+        }
+      ],
+      coreThemes: [
+        {
+          title: "R Strategies Framework",
+          icon: "♻️",
+          points: [
+            "Ellen MacArthur Foundation's 10 R strategies as foundation",
+            "Key 5 integrated: Refuse, Reduce, Replace, Extend, Regenerate",
+            "From waste management to regenerative business models",
+            "Top level: give back more than you take"
+          ]
+        },
+        {
+          title: "Double Diamond Process",
+          icon: "💎",
+          points: [
+            "British Design Council methodology adapted for circular",
+            "4 stages: Understand, Define, Ideate, Develop",
+            "15 tools across all stages",
+            "Self-assessment questionnaire as starting point"
+          ]
+        },
+        {
+          title: "Circularity Ladder",
+          icon: "📊",
+          points: [
+            "5-step progression for organizations",
+            "Conventional → Green → Sustainable → Restorative → Regenerative",
+            "Goal: be realistic about where you are today",
+            "5-year planning horizon for progression"
+          ]
+        },
+        {
+          title: "Partner Collaboration",
+          icon: "🤝",
+          points: [
+            "Partner Personas alongside User Personas",
+            "Supply chain collaboration essential for circularity",
+            "Understanding partner needs, goals, and challenges",
+            "Circular solutions require ecosystem thinking"
+          ]
+        }
+      ]
+    },
+    'day2-nbtt-textiles': {
+      topQuotes: [
+        {
+          quote: "The purpose of this Nordic-Baltic textile transition group is actually to serve as a common platform where we can bring together stakeholders... from companies, research communities, civil societies, and also the public sector.",
+          author: "Betina Simonsen",
+          org: "Lifestyle & Design Cluster, Denmark",
+          theme: "Platform Purpose"
+        },
+        {
+          quote: "The textile industry works as a system and there is no country system organized within their own borders. So we need to think across borders here.",
+          author: "Kerli Kant Hvass",
+          org: "Aalborg University, Estonia/Denmark",
+          theme: "Cross-Border Collaboration"
+        },
+        {
+          quote: "No single market has scaled feedstock volumes or technology mix available to build a circular textile system alone.",
+          author: "Kerli Kant Hvass",
+          org: "Aalborg University, Estonia/Denmark",
+          theme: "Regional Integration"
+        },
+        {
+          quote: "We can collaborate only when you have trust. Trust doesn't happen itself. So we need to have space to meet, learn about each other, understand each other, discuss the challenges and build that trust.",
+          author: "Kerli Kant Hvass",
+          org: "Aalborg University, Estonia/Denmark",
+          theme: "Trust Building"
+        },
+        {
+          quote: "The first thing that we learned has been that this pre-competitive setting where competing brands that would not in a million years sit together five years ago, they're actually quite willing to sit together.",
+          author: "Frederik Thrane",
+          org: "Lifestyle & Design Cluster, Denmark",
+          theme: "Pre-Competitive Collaboration"
+        },
+        {
+          quote: "A shared Nordic approach could really strengthen our collective voice also in Brussels and help demonstrate that our region is ready to lead on circular textiles.",
+          author: "Jonas Eder-Hansen",
+          org: "Lifestyle & Design Cluster, Denmark",
+          theme: "EU Policy Influence"
+        }
+      ],
+      coreThemes: [
+        {
+          title: "Regional Value Chain",
+          icon: "🌍",
+          points: [
+            "Nordics: design, R&D, automated sorting, recycling tech",
+            "Baltics: manual sorting, production, reuse/repair",
+            "No single country can build circular system alone",
+            "Complementary strengths across region"
+          ]
+        },
+        {
+          title: "EPR Harmonization",
+          icon: "📋",
+          points: [
+            "Need harmonized Extended Producer Responsibility",
+            "Focus on impact, not just price",
+            "Address whole waste hierarchy",
+            "Fix market failures collectively"
+          ]
+        },
+        {
+          title: "Pre-Competitive Collaboration",
+          icon: "🤝",
+          points: [
+            "Competing brands now willing to collaborate",
+            "Danish model: 40 signatories, shared goals",
+            "Voluntary but with accountability",
+            "Annual data reporting and benchmarking"
+          ]
+        },
+        {
+          title: "Reduction as Core Theme",
+          icon: "📉",
+          points: [
+            "Reduction of virgin materials and consumption",
+            "Waste prevention over recycling",
+            "Preparation for reuse prioritized",
+            "Ultra fast fashion as major challenge"
+          ]
+        }
+      ]
+    },
+    'day2-circular-construction': {
+      topQuotes: [
+        {
+          quote: "The Nordics as a region wants to be the most sustainable and integrated region in the world by 2030. But circularity in general is very low. That's among some of the lowest.",
+          author: "Jan Thomas Odegard",
+          org: "Natural State / Nordic Circular Construction",
+          theme: "Nordic Paradox"
+        },
+        {
+          quote: "Denmark must reduce its new construction with 80% by 2030 to reach its goals.",
+          author: "Jan Thomas Odegard",
+          org: "Natural State / Nordic Circular Construction",
+          theme: "Transformation Scale"
+        },
+        {
+          quote: "For nearly 900 years we built structures that were biodegradable, required constant care and returned to the earth when they were no longer in use. In contrast, our modern material systems are permanent, resource-intensive and environmentally burdensome.",
+          author: "Anna Karlsdottir",
+          org: "Ludica Architects, Iceland",
+          theme: "Historical Perspective"
+        },
+        {
+          quote: "Innovation literally operated within a loophole.",
+          author: "Anna Karlsdottir",
+          org: "Ludica Architects, Iceland",
+          theme: "Regulatory Barriers"
+        },
+        {
+          quote: "If concrete brought Iceland to modernity, what brings us into a regenerative future?",
+          author: "Anna Karlsdottir",
+          org: "Ludica Architects, Iceland",
+          theme: "Future Vision"
+        },
+        {
+          quote: "The most sustainable building is the one that is kept in use and loved.",
+          author: "Helle Redder Momsen",
+          org: "Danish Authority / Nordic Network for Sustainable Construction",
+          theme: "Existing Buildings"
+        },
+        {
+          quote: "At which pace can we consume materials which have taken billions of years to form?",
+          author: "Helle Redder Momsen",
+          org: "Danish Authority / Nordic Network for Sustainable Construction",
+          theme: "Resource Philosophy"
+        },
+        {
+          quote: "Until now, I haven't found one politician who can say, we're going to be this much circular in construction to achieve our climate and nature goals.",
+          author: "Jan Thomas Odegard",
+          org: "Natural State / Nordic Circular Construction",
+          theme: "Political Goals"
+        },
+        {
+          quote: "A traditional house in Norway is one that you can disassemble. And the Danes love it as their summer house even. You can pick it apart and then move it around.",
+          author: "Jan Thomas Odegard",
+          org: "Natural State / Nordic Circular Construction",
+          theme: "Traditional Circularity"
+        },
+        {
+          quote: "The real challenge lies in the implementation - how to shift from linear extraction to circular, regenerative systems in a meaningful and effective way.",
+          author: "Anna Karlsdottir",
+          org: "Ludica Architects, Iceland",
+          theme: "Implementation Challenge"
+        }
+      ],
+      coreThemes: [
+        {
+          title: "9R Framework",
+          icon: "🔄",
+          points: [
+            "Avoid unnecessary buildings first priority",
+            "Transform existing buildings second",
+            "Recycling materials least intensive option",
+            "Different building parts need varied approaches"
+          ]
+        },
+        {
+          title: "Existing Building Stock",
+          icon: "🏛️",
+          points: [
+            "Most sustainable building already exists",
+            "Finnish hierarchy: Use → Maintain → Renovate → Extend → Build new",
+            "200,000+ unused buildings in Norway alone",
+            "Office-to-housing conversions as quick wins"
+          ]
+        },
+        {
+          title: "Nordic Maturity Gap",
+          icon: "📊",
+          points: [
+            "Netherlands as pioneer benchmark",
+            "Denmark/Finland leading Nordic countries",
+            "Sweden > Norway > Iceland > Greenland",
+            "Regulatory + market development needed together"
+          ]
+        },
+        {
+          title: "Nine Policy Measures",
+          icon: "📋",
+          points: [
+            "Lifetime extension top priority",
+            "Demolition prevention/criteria",
+            "Remove barriers for renovation",
+            "Design for disassembly standards"
           ]
         }
       ]

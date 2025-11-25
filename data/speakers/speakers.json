@@ -61,7 +61,9 @@
     "category": "government",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day2-arctic-materials-governance"
+    ],
     "topics": [
       "business",
       "mineral resources",
@@ -77,7 +79,9 @@
     "category": "government",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day2-arctic-materials-governance"
+    ],
     "topics": [
       "critical minerals",
       "international policy"
@@ -95,7 +99,10 @@
     "category": "municipal",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day2-arctic-materials-governance",
+      "day2-circular-port-cities"
+    ],
     "topics": [
       "local government",
       "municipal policy"
@@ -225,7 +232,10 @@
     "category": "corporate",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "circular-ocean-industries",
+      "day2-circular-skills-knowledge"
+    ],
     "topics": [
       "maritime",
       "fisheries",
@@ -245,10 +255,13 @@
     "category": "academic",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day2-nbtt-textiles"
+    ],
     "topics": [
       "circular economy",
-      "revaluation"
+      "revaluation",
+      "textiles"
     ],
     "contact": {
       "linkedin": "https://www.linkedin.com/in/kerli-kant-hvass-phd-b24885/"
@@ -263,10 +276,13 @@
     "category": "academic",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day2-circular-skills-knowledge"
+    ],
     "topics": [
       "bioeconomy",
-      "agriculture"
+      "agriculture",
+      "education"
     ]
   },
   {
@@ -278,10 +294,13 @@
     "category": "academic",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day2-circular-skills-knowledge"
+    ],
     "topics": [
       "innovation",
-      "business development"
+      "business development",
+      "education"
     ],
     "contact": {
       "linkedin": "https://www.linkedin.com/in/rannveig-edda-hjaltadóttir-aa672496/"
@@ -297,11 +316,13 @@
     "bio": "Senior research fellow at Chatham House. An international sustainability expert specializing in climate change, resource governance, the circular economy, and the Sustainable Development Goals (SDGs). He works at the intersection of science, policy, and media to advance evidence-based policies, communicate complex sustainability issues, and promote equitable governance solutions at the multilateral level. He currently serves as Coordinating Lead Author for the IPCC Assessment Report 7 (WG III – Mitigation) and Coordinating Lead Author for the UN Global Environment Outlook 7.",
     "photo": "",
     "sessions": [
-      "locally-rooted-materialising"
+      "locally-rooted-materialising",
+      "day2-arctic-materials-governance"
     ],
     "topics": [
       "research",
-      "circular economy"
+      "circular economy",
+      "materials governance"
     ],
     "contact": {
       "linkedin": "https://www.linkedin.com/in/patrick-schröder-b5789119"
@@ -357,11 +378,13 @@
     "bio": "Board Member of the leading Latvian environmental services group CleanR Grupa, Co-Founder of Baltic Circular Hotspot, European Climate Pact Ambassador for Latvia. Author of Latvia's first Circular Economy Index, driving national dialogue on sustainable business transformation. Passionate advocate for environmental literacy, dedicated to integrating responsible practices into core business strategies.",
     "photo": "",
     "sessions": [
-      "circular-frontiers-opening"
+      "circular-frontiers-opening",
+      "day2-welcome-introduction"
     ],
     "topics": [
       "waste management",
-      "recycling"
+      "recycling",
+      "circular economy index"
     ],
     "contact": {
       "linkedin": "https://www.linkedin.com/in/agita-baltbārde-81105425"
@@ -395,7 +418,9 @@
     "category": "industry",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day2-welcome-introduction"
+    ],
     "topics": [
       "corporate social responsibility",
       "sustainability"
@@ -423,15 +448,18 @@
     "id": "helle-redder-momsen",
     "name": "Helle Redder Momsen",
     "title": "Head of Secretariat",
-    "organization": "Nordic Sustainable Construction, Danish Authority of Social Services and Housing",
+    "organization": "Nordic Network for Sustainable Construction, Danish Authority of Social Services and Housing",
     "country": "Denmark",
     "category": "organization",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day2-circular-construction"
+    ],
     "topics": [
       "sustainable construction",
-      "building"
+      "building",
+      "circular construction"
     ]
   },
   {
@@ -501,10 +529,14 @@
     "category": "organization",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "locally-rooted-materialising",
+      "day2-arctic-materials-governance"
+    ],
     "topics": [
       "policy",
-      "economic development"
+      "economic development",
+      "materials governance"
     ],
     "contact": {
       "email": "a.ladefoged@hotmail.com"
@@ -519,11 +551,14 @@
     "category": "organization",
     "bio": "Head of Circular Economy at Lifestyle & Design Cluster. Enthusiastic, strategic and detail-oriented Danish Design Director and Designer, with a strong international background in lifestyle and apparel design. Commitment to Circularity, environmental and financial sustainability - and to changing the lifestyle & design industry.",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day2-nbtt-textiles"
+    ],
     "topics": [
       "circular economy",
       "lifestyle",
-      "design"
+      "design",
+      "textiles"
     ],
     "contact": {
       "linkedin": "https://www.linkedin.com/in/frederik-thrane-264064b/",
@@ -557,10 +592,13 @@
     "category": "sustainability",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day2-circular-design-toolbox"
+    ],
     "topics": [
       "sustainability",
-      "design"
+      "design",
+      "circular design"
     ],
     "contact": {
       "linkedin": "https://www.linkedin.com/in/danmikkin/"
@@ -575,10 +613,13 @@
     "category": "sustainability",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day2-circular-design-toolbox"
+    ],
     "topics": [
       "sustainability",
-      "design"
+      "design",
+      "circular design"
     ],
     "contact": {
       "linkedin": "https://www.linkedin.com/in/maarja-karlson/"
@@ -654,10 +695,16 @@
     "category": "sustainability",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day1-summary",
+      "day2-welcome-introduction",
+      "day2-arctic-materials-governance",
+      "day2-circular-port-cities"
+    ],
     "topics": [
       "circular economy",
-      "strategy"
+      "strategy",
+      "materials governance"
     ],
     "contact": {
       "linkedin": "https://www.linkedin.com/in/cathrine-barth-8b75235a/",
@@ -673,7 +720,11 @@
     "category": "sustainability",
     "bio": "CEO and founder of Natural State, an Oslo based consulting studio specialised in Development Strategy and Value Creation. With more than 20 years of experience in market development, value creation and identity building, Holthe has built and realised numerous large development projects in public and private sectors, such as Innovation Cluster Arena Oslo, the international brand strategy for the City of Oslo, as well as several urban development projects. Prior to Natural State Holthe was the CEO of Stockfleths AS for 12 years, which led him to take over, and rebrand/build, Fuglen (Oslo, Tokyo). He is also the founder of Norwegian Icons, a circular promotion programme for the Norwegian furniture industry. Natural State is responsible for the project management and realisation of Nordic Circular Hotspot.",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day1-summary",
+      "day2-welcome-introduction",
+      "day2-circular-port-cities"
+    ],
     "topics": [
       "circular economy",
       "entrepreneurship"
@@ -723,16 +774,19 @@
   {
     "id": "jan-thomas-odegard",
     "name": "Jan Thomas Odegard",
-    "title": "Project Manager",
+    "title": "Project Manager, Nordic Circular Construction",
     "organization": "Natural State",
     "country": "Norway",
     "category": "sustainability",
     "bio": "",
     "photo": "",
-    "sessions": [],
+    "sessions": [
+      "day2-circular-construction"
+    ],
     "topics": [
       "project management",
-      "circular economy"
+      "circular economy",
+      "circular construction"
     ]
   },
   {
@@ -752,6 +806,116 @@
       "venture capital",
       "trust infrastructure",
       "circular economy"
+    ]
+  },
+  {
+    "id": "robert-weiss",
+    "name": "Robert Weiss",
+    "title": "Senior Researcher",
+    "organization": "VTT Technical Research Centre of Finland",
+    "country": "Finland",
+    "category": "academic",
+    "bio": "",
+    "photo": "",
+    "sessions": [
+      "day2-welcome-introduction"
+    ],
+    "topics": [
+      "hydrogen",
+      "clean energy",
+      "research",
+      "technology"
+    ]
+  },
+  {
+    "id": "thomas-varming",
+    "name": "Thomas Varming",
+    "title": "Researcher",
+    "organization": "Geological Survey of Denmark and Greenland",
+    "country": "Denmark",
+    "category": "academic",
+    "bio": "",
+    "photo": "",
+    "sessions": [
+      "day2-arctic-materials-governance"
+    ],
+    "topics": [
+      "geology",
+      "critical minerals",
+      "arctic resources"
+    ]
+  },
+  {
+    "id": "bent-olsvig-jensen",
+    "name": "Bent Olsvig Jensen",
+    "title": "Founder",
+    "organization": "Lumina Sustainable Materials",
+    "country": "Greenland",
+    "category": "corporate",
+    "bio": "",
+    "photo": "",
+    "sessions": [
+      "day2-arctic-materials-governance"
+    ],
+    "topics": [
+      "sustainable materials",
+      "mining",
+      "critical minerals"
+    ]
+  },
+  {
+    "id": "anna-karlsdottir",
+    "name": "Anna Karlsdottir",
+    "title": "Architect",
+    "organization": "Ludika Architects",
+    "country": "Iceland",
+    "category": "industry",
+    "bio": "",
+    "photo": "",
+    "sessions": [
+      "day2-circular-construction"
+    ],
+    "topics": [
+      "architecture",
+      "circular construction",
+      "sustainable building"
+    ]
+  },
+  {
+    "id": "betina-simonsen",
+    "name": "Betina Simonsen",
+    "title": "CEO",
+    "organization": "Lifestyle & Design Cluster",
+    "country": "Denmark",
+    "category": "organization",
+    "bio": "",
+    "photo": "",
+    "sessions": [
+      "day2-nbtt-textiles"
+    ],
+    "topics": [
+      "textiles",
+      "circular economy",
+      "design",
+      "cluster management"
+    ]
+  },
+  {
+    "id": "jonas-eder-hansen",
+    "name": "Jonas Eder-Hansen",
+    "title": "Senior Advisor",
+    "organization": "Lifestyle & Design Cluster",
+    "country": "Denmark",
+    "category": "organization",
+    "bio": "",
+    "photo": "",
+    "sessions": [
+      "day2-nbtt-textiles"
+    ],
+    "topics": [
+      "textiles",
+      "circular economy",
+      "fashion industry"
     ]
   }
 ]

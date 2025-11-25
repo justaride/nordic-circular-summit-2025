@@ -4,50 +4,68 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { sessions, getParticipantsBySession, getSessionParticipantsBySession } from '@/lib/data';
 import { Participant, SessionParticipant } from '@/lib/types';
+import {
+  SessionIcon,
+  SnowflakeIcon,
+  GlobeIcon,
+  LocationIcon,
+  LaptopIcon,
+  HybridIcon,
+  CheckIcon,
+  ArrowLeftIcon,
+  ChevronDownIcon,
+  ChevronRightIcon
+} from '@/components/Icons';
 
 const typeColors = {
-  keynote: 'bg-purple-100 text-purple-800',
-  panel: 'bg-blue-100 text-blue-800',
-  workshop: 'bg-green-100 text-green-800',
-  digital: 'bg-orange-100 text-orange-800'
+  keynote: { bg: 'var(--glacial-100)', text: 'var(--glacial-700)' },
+  panel: { bg: 'var(--sage-100)', text: 'var(--sage-700)' },
+  workshop: { bg: 'var(--glacial-50)', text: 'var(--glacial-600)' },
+  digital: { bg: 'var(--sage-50)', text: 'var(--sage-600)' }
 };
 
-function SessionCard({ session, typeColors }: { session: any; typeColors: any }) {
+function SessionCard({ session }: { session: any }) {
   const [showDetailed, setShowDetailed] = useState(false);
+  const colors = typeColors[session.type as keyof typeof typeColors] || typeColors.panel;
 
   return (
-    <div className="bg-white rounded-lg shadow-md p-6">
+    <div className="frost-card rounded-xl shadow-lg p-6 hover:shadow-xl transition-all" style={{ borderLeft: '4px solid var(--glacial-400)' }}>
       <div className="flex items-start justify-between">
         <div className="flex-1">
           <div className="flex items-center gap-3 mb-2 flex-wrap">
-            <span className="text-sm font-semibold text-gray-500">
+            <span className="text-sm font-semibold" style={{ color: 'var(--arctic-600)' }}>
               {session.startTime} - {session.endTime} {session.timezone}
             </span>
-            <span className={`text-xs px-3 py-1 rounded-full ${typeColors[session.type as keyof typeof typeColors]}`}>
+            <span
+              className="text-xs px-3 py-1 rounded-full font-medium"
+              style={{ background: colors.bg, color: colors.text }}
+            >
               {session.type.toUpperCase()}
             </span>
             {session.id === 'circular-frontiers-opening' && (
               <Link
                 href="/transcripts"
-                className="text-xs px-3 py-1 rounded-full bg-green-100 text-green-800 hover:bg-green-200 transition-colors"
+                className="text-xs px-3 py-1 rounded-full transition-colors flex items-center gap-1"
+                style={{ background: 'var(--sage-100)', color: 'var(--sage-700)' }}
               >
-                ✓ TRANSCRIPT AVAILABLE
+                <CheckIcon size={12} /> TRANSCRIPT AVAILABLE
               </Link>
             )}
           </div>
-          <h3 className="text-xl font-bold text-gray-900 mb-2">{session.title}</h3>
+          <h3 className="text-xl font-bold mb-2" style={{ color: 'var(--glacial-800)' }}>{session.title}</h3>
 
           {/* Description with toggle */}
-          <div className="text-gray-600">
+          <div style={{ color: 'var(--foreground)' }}>
             <p className={showDetailed ? '' : 'line-clamp-3'}>
               {showDetailed ? session.description : (session.shortDescription || session.description)}
             </p>
             {session.shortDescription && (
               <button
                 onClick={() => setShowDetailed(!showDetailed)}
-                className="text-cyan-600 hover:text-cyan-700 text-sm font-medium mt-2"
+                className="text-sm font-medium mt-2 transition-colors flex items-center gap-1"
+                style={{ color: 'var(--glacial-600)' }}
               >
-                {showDetailed ? '▼ Show less' : '▶ Show detailed description'}
+                {showDetailed ? <><ChevronDownIcon size={14} /> Show less</> : <><ChevronRightIcon size={14} /> Show detailed description</>}
               </button>
             )}
           </div>
@@ -55,11 +73,11 @@ function SessionCard({ session, typeColors }: { session: any; typeColors: any })
           {/* Themes */}
           {session.themes && session.themes.length > 0 && (
             <div className="mt-4">
-              <h4 className="text-sm font-semibold text-gray-700 mb-2">Key Themes</h4>
+              <h4 className="text-sm font-semibold mb-2" style={{ color: 'var(--glacial-700)' }}>Key Themes</h4>
               <ul className="space-y-1">
                 {session.themes.map((theme: string, idx: number) => (
-                  <li key={idx} className="text-sm text-gray-600 flex items-start">
-                    <span className="text-cyan-500 mr-2">•</span>
+                  <li key={idx} className="text-sm flex items-start" style={{ color: 'var(--sage-700)' }}>
+                    <span className="mr-2" style={{ color: 'var(--glacial-400)' }}>•</span>
                     <span>{theme}</span>
                   </li>
                 ))}
@@ -70,15 +88,19 @@ function SessionCard({ session, typeColors }: { session: any; typeColors: any })
           {/* Topics/Keywords */}
           {session.topics.length > 0 && (
             <div className="mt-4">
-              <h4 className="text-sm font-semibold text-gray-700 mb-2">Keywords</h4>
+              <h4 className="text-sm font-semibold mb-2" style={{ color: 'var(--glacial-700)' }}>Keywords</h4>
               <div className="flex flex-wrap gap-2">
                 {session.topics.slice(0, showDetailed ? session.topics.length : 8).map((topic: string, idx: number) => (
-                  <span key={idx} className="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded">
+                  <span
+                    key={idx}
+                    className="text-xs px-2 py-1 rounded"
+                    style={{ background: 'var(--arctic-100)', color: 'var(--arctic-700)' }}
+                  >
                     {topic}
                   </span>
                 ))}
                 {!showDetailed && session.topics.length > 8 && (
-                  <span className="text-xs text-gray-500 px-2 py-1">
+                  <span className="text-xs px-2 py-1" style={{ color: 'var(--arctic-500)' }}>
                     +{session.topics.length - 8} more
                   </span>
                 )}
@@ -86,9 +108,9 @@ function SessionCard({ session, typeColors }: { session: any; typeColors: any })
             </div>
           )}
 
-          <div className="mt-4 flex items-center gap-4 text-sm text-gray-500">
-            <span>📍 {session.location}</span>
-            {session.onlineAvailable && <span>🌐 Online Available</span>}
+          <div className="mt-4 flex items-center gap-4 text-sm" style={{ color: 'var(--sage-600)' }}>
+            <span className="flex items-center gap-1"><LocationIcon size={14} /> {session.location}</span>
+            {session.onlineAvailable && <span className="flex items-center gap-1"><GlobeIcon size={14} /> Online Available</span>}
           </div>
 
           {/* Participants Section */}
@@ -125,41 +147,32 @@ function SessionParticipants({ sessionId }: { sessionId: string }) {
   };
 
   const roleColors = {
-    speaker: 'bg-purple-100 text-purple-800 border-purple-200',
-    moderator: 'bg-blue-100 text-blue-800 border-blue-200',
-    panelist: 'bg-green-100 text-green-800 border-green-200',
-    attendee: 'bg-gray-100 text-gray-800 border-gray-200'
-  };
-
-  const statusColors = {
-    confirmed: 'bg-green-50 text-green-700 border-green-200',
-    pending: 'bg-yellow-50 text-yellow-700 border-yellow-200',
-    declined: 'bg-red-50 text-red-700 border-red-200',
-    in_contact: 'bg-blue-50 text-blue-700 border-blue-200'
-  };
-
-  const presenceIcons = {
-    nuuk: '📍',
-    digital: '💻',
-    hybrid: '🌐'
+    speaker: { bg: 'var(--glacial-100)', text: 'var(--glacial-700)' },
+    moderator: { bg: 'var(--sage-100)', text: 'var(--sage-700)' },
+    panelist: { bg: 'var(--glacial-50)', text: 'var(--glacial-600)' },
+    attendee: { bg: 'var(--arctic-100)', text: 'var(--arctic-700)' }
   };
 
   return (
-    <div className="mt-6 border-t pt-6">
-      <h4 className="text-sm font-semibold text-gray-700 mb-4">Participants ({participants.length})</h4>
+    <div className="mt-6 border-t pt-6" style={{ borderColor: 'var(--glacial-200)' }}>
+      <h4 className="text-sm font-semibold mb-4" style={{ color: 'var(--glacial-700)' }}>Participants ({participants.length})</h4>
 
       <div className="space-y-4">
         {roleOrder.map(role => {
           const roleParticipants = byRole[role] || [];
           if (roleParticipants.length === 0) return null;
+          const colors = roleColors[role];
 
           return (
             <div key={role}>
               <div className="flex items-center gap-2 mb-2">
-                <span className={`text-xs px-2 py-1 rounded font-medium ${roleColors[role]}`}>
+                <span
+                  className="text-xs px-2 py-1 rounded font-medium"
+                  style={{ background: colors.bg, color: colors.text }}
+                >
                   {roleLabels[role]}
                 </span>
-                <span className="text-xs text-gray-500">({roleParticipants.length})</span>
+                <span className="text-xs" style={{ color: 'var(--arctic-500)' }}>({roleParticipants.length})</span>
               </div>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
@@ -170,19 +183,21 @@ function SessionParticipants({ sessionId }: { sessionId: string }) {
                   return (
                     <div
                       key={sp.participantId}
-                      className="flex items-start justify-between p-3 bg-gray-50 rounded border border-gray-200 hover:border-gray-300 transition-colors"
+                      className="flex items-start justify-between p-3 rounded border transition-colors"
+                      style={{ background: 'var(--arctic-50)', borderColor: 'var(--glacial-200)' }}
                     >
                       <div className="flex-1 min-w-0">
-                        <div className="font-medium text-gray-900 text-sm truncate">
+                        <div className="font-medium text-sm truncate" style={{ color: 'var(--glacial-800)' }}>
                           {participant.name}
                         </div>
-                        <div className="text-xs text-gray-600 truncate">
+                        <div className="text-xs truncate" style={{ color: 'var(--sage-600)' }}>
                           {participant.organization}
                         </div>
                         {participant.email && (
                           <a
                             href={`mailto:${participant.email}`}
-                            className="text-xs text-cyan-600 hover:text-cyan-700 truncate block"
+                            className="text-xs truncate block transition-colors"
+                            style={{ color: 'var(--glacial-600)' }}
                           >
                             {participant.email}
                           </a>
@@ -190,20 +205,12 @@ function SessionParticipants({ sessionId }: { sessionId: string }) {
                       </div>
 
                       <div className="flex flex-col items-end gap-1 ml-2">
-                        {/* Presence indicator */}
                         <span
-                          className="text-xs px-2 py-0.5 rounded bg-white border border-gray-300"
-                          title={sp.presence}
+                          className="text-xs px-2 py-0.5 rounded border flex items-center gap-1"
+                          style={{ background: 'white', borderColor: 'var(--glacial-200)', color: 'var(--glacial-700)' }}
                         >
-                          {presenceIcons[sp.presence as keyof typeof presenceIcons]} {sp.presence}
+                          {sp.presence === 'nuuk' ? <LocationIcon size={12} /> : sp.presence === 'digital' ? <LaptopIcon size={12} /> : <GlobeIcon size={12} />} {sp.presence}
                         </span>
-
-                        {/* Status badge */}
-                        {sp.status !== 'confirmed' && (
-                          <span className={`text-xs px-2 py-0.5 rounded border ${statusColors[sp.status as keyof typeof statusColors]}`}>
-                            {sp.status}
-                          </span>
-                        )}
                       </div>
                     </div>
                   );
@@ -222,40 +229,55 @@ export default function SessionsPage() {
   const day2Sessions = sessions.filter(s => s.day === 2);
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      <header className="bg-white border-b border-gray-200">
+    <div className="min-h-screen">
+      <header className="frost-card-strong border-b" style={{ borderColor: 'var(--glacial-200)' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-          <Link href="/" className="text-cyan-600 hover:text-cyan-700 mb-2 inline-block">
-            ← Back to Home
+          <Link href="/" className="mb-2 inline-flex items-center gap-1 transition-colors" style={{ color: 'var(--glacial-600)' }}>
+            <ArrowLeftIcon size={16} /> Back to Home
           </Link>
-          <h1 className="text-3xl font-bold text-gray-900">Sessions</h1>
-          <p className="text-gray-600 mt-2">Full program across two days</p>
+          <div className="flex items-center gap-3">
+            <SessionIcon size={32} color="var(--glacial-500)" />
+            <div>
+              <h1 className="text-3xl font-bold" style={{ color: 'var(--glacial-800)' }}>Sessions</h1>
+              <p className="mt-1" style={{ color: 'var(--sage-600)' }}>Full program across two days</p>
+            </div>
+          </div>
         </div>
       </header>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {/* Day 1 */}
         <section className="mb-12">
-          <div className="bg-cyan-100 rounded-lg p-4 mb-6">
-            <h2 className="text-2xl font-bold text-cyan-900">Day 1 - November 19, 2025</h2>
-            <p className="text-cyan-700">In-person sessions at Hans Egede Hotel, Nuuk</p>
+          <div className="rounded-xl p-5 mb-6" style={{ background: 'linear-gradient(135deg, var(--glacial-100) 0%, var(--glacial-50) 100%)', border: '1px solid var(--glacial-200)' }}>
+            <div className="flex items-center gap-3">
+              <SnowflakeIcon size={32} color="var(--glacial-500)" />
+              <div>
+                <h2 className="text-2xl font-bold" style={{ color: 'var(--glacial-800)' }}>Day 1 - November 19, 2025</h2>
+                <p style={{ color: 'var(--glacial-700)' }}>In-person sessions at Hans Egede Hotel, Nuuk</p>
+              </div>
+            </div>
           </div>
           <div className="space-y-6">
             {day1Sessions.map(session => (
-              <SessionCard key={session.id} session={session} typeColors={typeColors} />
+              <SessionCard key={session.id} session={session} />
             ))}
           </div>
         </section>
 
         {/* Day 2 */}
         <section>
-          <div className="bg-blue-100 rounded-lg p-4 mb-6">
-            <h2 className="text-2xl font-bold text-blue-900">Day 2 - November 20, 2025</h2>
-            <p className="text-blue-700">Digital partner-hosted sessions</p>
+          <div className="rounded-xl p-5 mb-6" style={{ background: 'linear-gradient(135deg, var(--sage-100) 0%, var(--sage-50) 100%)', border: '1px solid var(--sage-200)' }}>
+            <div className="flex items-center gap-3">
+              <GlobeIcon size={32} color="var(--sage-500)" />
+              <div>
+                <h2 className="text-2xl font-bold" style={{ color: 'var(--sage-800)' }}>Day 2 - November 20, 2025</h2>
+                <p style={{ color: 'var(--sage-700)' }}>Digital partner-hosted sessions</p>
+              </div>
+            </div>
           </div>
           <div className="space-y-6">
             {day2Sessions.map(session => (
-              <SessionCard key={session.id} session={session} typeColors={typeColors} />
+              <SessionCard key={session.id} session={session} />
             ))}
           </div>
         </section>

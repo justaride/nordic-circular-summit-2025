@@ -1,0 +1,340 @@
+{
+  "id": "transcript-day2-nbtt-textiles",
+  "sessionId": "day2-nbtt-textiles",
+  "date": "2025-11-20",
+  "recordingFile": "TRANSCRIPTION -Nordic Baltic Textile Transition Group .pdf",
+  "transcriptionStatus": "completed",
+  "notes": "Complete transcription from Whisper. Nine speakers identified and mapped to actual names. Launch session for Nordic Baltic Textile Transition Group. Key themes: regional collaboration, EPR harmonization, used textile management, pre-competitive industry collaboration, data-driven reporting frameworks.",
+  "metadata": {
+    "duration": "60 minutes",
+    "language": "English",
+    "transcribedBy": "Whisper",
+    "reviewedBy": "Claude Code",
+    "transcriptionDate": "2025-11-20",
+    "participantCount": 9,
+    "format": "Digital Partner Session",
+    "hostedBy": "Lifestyle & Design Cluster (Denmark)",
+    "location": "Nalic Ventures offices, Nuuk / Online"
+  },
+  "parts": [
+    {
+      "id": "part-welcome",
+      "title": "Welcome and Introduction",
+      "startTime": "10:00",
+      "endTime": "10:05",
+      "description": "Session opening, house rules, and agenda overview",
+      "speakers": ["frederik-thrane"],
+      "segments": [
+        {
+          "startTime": "10:00",
+          "endTime": "10:03",
+          "text": "Hello everyone, welcome to the launch of the Nordic Baltic Textile Transition Group. We're really excited to see you. We're with you here from Nalic Ventures offices in Nuuk. We've been part of the Nordic Circular Summit for the past days and this session is part of that. My name is Frederik and I work for Lifestyle and Design Cluster. Next to me is Kerli Kant Hvass from Aalborg University.",
+          "speakerId": "frederik-thrane"
+        },
+        {
+          "startTime": "10:03",
+          "endTime": "10:05",
+          "text": "House rules: We are recording this session for YouTube distribution. We're using AI transcription for notes. For those not part of the steering group who wish to join the mailing list, please mail me with subject line 'Nordic Textile Transition Group mailing list' including your mail, name, title and organization (due to GDPR). Today's agenda: presentation of purpose and steering group, two presentations on regional challenges and Danish sector collaboration, next steps, and brainstorming session.",
+          "speakerId": "frederik-thrane"
+        }
+      ],
+      "notes": "Frederik Thrane from Lifestyle & Design Cluster opens the session from Nuuk, Greenland. Recording and AI transcription announced. GDPR-compliant mailing list sign-up process explained."
+    },
+    {
+      "id": "part-purpose",
+      "title": "Purpose and Steering Group",
+      "startTime": "10:05",
+      "endTime": "10:10",
+      "description": "Betina Simonsen presents the purpose and steering committee of the Nordic-Baltic Textile Transition Group",
+      "speakers": ["betina-simonsen"],
+      "segments": [
+        {
+          "startTime": "10:05",
+          "endTime": "10:07",
+          "text": "We actually had a launch last year of the Nordic Textile Transition Group in Helsinki, and it was good momentum. But we would like to relaunch it as we have been struggling to find finance. In the meantime, we have been happy to have good conversations with the Baltics. There's now a Baltic Circular Hotspot, and we've reached out to colleagues, friends and partners in the Baltic region. Everyone agreed this is a good idea.",
+          "speakerId": "betina-simonsen"
+        },
+        {
+          "startTime": "10:07",
+          "endTime": "10:10",
+          "text": "The purpose is to serve as a common platform bringing together stakeholders from companies, research communities, civil societies, and public sector. We want to build on knowledge each country has, share best and next practices, and address the systematic change facing the textile industry with EU regulations coming up. The overall theme will be REDUCTION - reduction of virgin materials and consumption. We have a steering committee with amazing members from each Nordic-Baltic country to help prioritize and deep dive into the right themes.",
+          "speakerId": "betina-simonsen"
+        }
+      ],
+      "notes": "Relaunch of initiative originally started in Helsinki 2024. Now expanded to include Baltic countries. Core theme is reduction of virgin materials and consumption. Multi-stakeholder platform approach with steering committee representation from all participating countries."
+    },
+    {
+      "id": "part-regional-challenges",
+      "title": "Regional Challenges and Opportunities in Used Textile Management",
+      "startTime": "10:10",
+      "endTime": "10:25",
+      "description": "Kerli Kant Hvass presents research on Nordic-Baltic textile waste flows and regional collaboration opportunities",
+      "speakers": ["kerli-kant-hvass"],
+      "segments": [
+        {
+          "startTime": "10:10",
+          "endTime": "10:13",
+          "text": "Working with circularity needs systems thinking, collaboration and trust. But collaboration doesn't usually happen itself. We need platforms and opportunities to meet. This is a very big milestone for the region. I'm Kerli, from Estonia, lived in Denmark, worked with textiles professionally almost 20 years. I'm an assistant professor at Aalto University in circular economy and an independent expert in circular transition within textile industry.",
+          "speakerId": "kerli-kant-hvass"
+        },
+        {
+          "startTime": "10:13",
+          "endTime": "10:16",
+          "text": "Personal story from 2017: After moving back to Estonia, a large secondhand operator approached me saying 'Kerli, we have roughly 50 tons of used textiles. We can't find markets and send them to landfill. Can you help?' This arose because Scandinavian imports saturated the local market. Solving that problem, I realized how complicated it was to send second-grade products out of Baltics. That paved the way for the first Nordic Council of Ministers funded project.",
+          "speakerId": "kerli-kant-hvass"
+        },
+        {
+          "startTime": "10:16",
+          "endTime": "10:19",
+          "text": "Key findings: We mapped textile waste flows, identified hotspots, documented that Baltics represent important export destination for Nordic textiles, realized there is limited collection and reuse of locally collected textiles as a consequence of imports, and found high expertise in Baltics for manual sorting, reuse, repair and recycling. Five years later, there are lots of silo initiatives but we need better consolidated overview and strategic collaboration.",
+          "speakerId": "kerli-kant-hvass"
+        },
+        {
+          "startTime": "10:19",
+          "endTime": "10:22",
+          "text": "The sector is in crisis at local, regional, EU and global levels. Overproduction and overconsumption have created a situation where end-of-life markets have no solutions for these volumes. With separate collection from January 1st, 2025, market failures and lack of infrastructure are in the spotlight. Ultra fast fashion is a major challenge - in Estonia, several airplanes per week arriving purely delivering Shein and Temu products. Markets for these volumes simply aren't there.",
+          "speakerId": "kerli-kant-hvass"
+        },
+        {
+          "startTime": "10:22",
+          "endTime": "10:25",
+          "text": "The textile industry works as a system with no country organized within their own borders. We need to think across borders. Key hotspots: Baltics are strong at manual sorting for reuse, Nordics do very little sorting for reuse (majority exported to Baltics). Nordics have automated fiber-based sorting technology and are pioneering chemical and mechanical recycling. Baltics don't have that capacity. No single market has scaled feedstock volumes or technology mix to build a circular textile system alone.",
+          "speakerId": "kerli-kant-hvass"
+        }
+      ],
+      "notes": "Comprehensive regional analysis based on two Nordic Council of Ministers funded projects. Key insight: Nordics lead in design, R&D, sorting/recycling tech; Baltics strong in manual sorting, production, reuse/repair capacity. EPR implementation concerns: focus on price not impact, unrealistically low fees, lack of harmonization. 80% of used textiles exported to Africa/Asia."
+    },
+    {
+      "id": "part-danish-model",
+      "title": "Danish Voluntary Sector Collaboration on Textiles",
+      "startTime": "10:25",
+      "endTime": "10:40",
+      "description": "Jonas Eder-Hansen presents the Danish sector collaboration as model for Nordic-Baltic expansion",
+      "speakers": ["jonas-eder-hansen", "betina-simonsen"],
+      "segments": [
+        {
+          "startTime": "10:25",
+          "endTime": "10:28",
+          "text": "My name is Jonas, project manager at LDC with 14 years industry experience from Global Fashion Agenda, Danish Fashion Institute, plus 8 years research experience at Copenhagen Business School's Sustainability Centre. My aim is to show how a coordinated Nordic effort could speed up circular transition and strengthen our shared position in Europe. Many challenges are the same across the region, and many companies treat our region as one integrated market.",
+          "speakerId": "jonas-eder-hansen"
+        },
+        {
+          "startTime": "10:28",
+          "endTime": "10:32",
+          "text": "A shared framework for circularity could reduce duplication, create common expectations, support international companies operating across borders, and strengthen our collective voice in Brussels. Note: Lifestyle and Design Cluster will not initiate or fundraise for a Nordic sector collaboration directly - this presentation is to inspire and invite further exchanges, similar to the Textile Action Network led by WRAP, connecting national initiatives across UK, Canada, Switzerland, Germany, and Denmark.",
+          "speakerId": "jonas-eder-hansen"
+        },
+        {
+          "startTime": "10:32",
+          "endTime": "10:36",
+          "text": "The Danish sector collaboration, inspired by WRAP's Textile 2030 (now UK Textiles Pact), was initiated in 2022. It brings together a broad cross-section of Danish fashion and textile industry - apparel, home textiles, resale, all company sizes. It's voluntary but signatories commit to shared goals and report progress annually. Purpose: create industry alignment, accelerate circularity, prepare companies for European regulation.",
+          "speakerId": "jonas-eder-hansen"
+        },
+        {
+          "startTime": "10:36",
+          "endTime": "10:40",
+          "text": "Three 2030 goals: (1) Circular Materials - at least 40% recycled content, 10% fiber-to-fiber; (2) Circular Design - products designed for long life and optimal circular loops using shared design guidelines; (3) Circular Business Models - larger share of revenue from resale, repair, rental. We have shared tools: catalogue for recycled materials, design guide aligned with eco-design regulation, service provider catalogue. Annual data reporting with established framework, anonymized data, action plan updated annually.",
+          "speakerId": "jonas-eder-hansen"
+        },
+        {
+          "startTime": "10:40",
+          "endTime": "10:41",
+          "text": "I just wanted to reinforce that this is of course open to Nordic and Baltic collaboration. We are sure this could be interesting for Baltic countries. In our action plan, we've included sharing this experience with the Nordic. With this Baltic collaboration, I think it's similarly important. When we say Nordic, we actually mean both Nordic and Baltics.",
+          "speakerId": "betina-simonsen"
+        }
+      ],
+      "notes": "Danish model based on UK Textiles Pact/WRAP. 40 Danish signatories. Three goals: 40% recycled content by 2030, circular design guidelines, circular business model revenue. Pre-competitive collaboration key success factor. Annual data reporting creates accountability and benchmarking. Model offered as inspiration, not direct replication."
+    },
+    {
+      "id": "part-qa",
+      "title": "Q&A Discussion",
+      "startTime": "10:41",
+      "endTime": "10:50",
+      "description": "Questions and discussion on learnings, roadblocks, and data consolidation",
+      "speakers": ["frederik-thrane", "jonas-eder-hansen", "betina-simonsen", "kerli-kant-hvass"],
+      "segments": [
+        {
+          "startTime": "10:41",
+          "endTime": "10:43",
+          "text": "Michel Bajuk (chat question): I'm interested in what you've learned from the work. You have these three theme areas with goals. How have you done achieving them? What roadblocks have you found? Often they're not just technical but economic.",
+          "speakerId": null
+        },
+        {
+          "startTime": "10:43",
+          "endTime": "10:45",
+          "text": "The first thing we learned: this pre-competitive setting where competing brands that would not in a million years sit together five years ago, they're actually quite willing to sit together. They're willing to share. They're aware that these challenges are way too big for individual businesses. That's one thing I'm proudest of - they are sitting together, exchanging ideas, quite active.",
+          "speakerId": "frederik-thrane"
+        },
+        {
+          "startTime": "10:45",
+          "endTime": "10:48",
+          "text": "What I see is the important possibility to come together and work towards specific goals. Small pilot projects where 2-4 companies address specific issues, like how to identify which returned products could be repaired. They develop systems together, try to scale what one or two have done. The data reporting exercise is really important - once you make it easy and accessible, you improve a framework. We now use an app specifically for it with solid analysis that we share with the rest of the industry.",
+          "speakerId": "jonas-eder-hansen"
+        },
+        {
+          "startTime": "10:48",
+          "endTime": "10:50",
+          "text": "The data has been a really good exercise to identify data, because many brands don't have total view of their value chain. It's been good preparation for EPR. Regarding regional reuse/recycling potential analysis - the current project has small budget for heavy research. We reached out to experts to consolidate existing knowledge but found it quite fragmented across many reports. We found synergies with Textended, an EU Horizon project with budget for additional data collection in spring.",
+          "speakerId": "betina-simonsen"
+        }
+      ],
+      "notes": "Key learning: pre-competitive collaboration now embraced by competing brands. Data reporting framework evolved from Excel to dedicated app. Fragmented existing research needs consolidation. Connection made with EU Horizon project 'Textended' for additional data collection."
+    },
+    {
+      "id": "part-next-steps",
+      "title": "Next Steps and Timeline",
+      "startTime": "10:50",
+      "endTime": "10:55",
+      "description": "Proposed format for Nordic-Baltic Textile Transition Group activities",
+      "speakers": ["betina-simonsen"],
+      "segments": [
+        {
+          "startTime": "10:50",
+          "endTime": "10:55",
+          "text": "In the steering committee meeting prior to this, we discussed the format. We believe we should have: (1) Two open online seminars/webinars/conferences where we meet on specific themes; (2) One physical event - we won't do our own but attach ourselves to an important event in the Baltic-Nordic region. When we meet, one country will be the host, deep diving into their initiatives, pilots, research results. With the themes you bring in, we'll prioritize an overall theme for each meeting with the steering committee.",
+          "speakerId": "betina-simonsen"
+        }
+      ],
+      "notes": "Format decided: 2 online seminars + 1 physical event (attached to existing regional event). Rotating host country model with deep dives into local initiatives. Steering committee to prioritize themes based on submitted suggestions."
+    },
+    {
+      "id": "part-brainstorm-closing",
+      "title": "Brainstorming and Closing",
+      "startTime": "10:55",
+      "endTime": "11:00",
+      "description": "Collection of ideas and session closing",
+      "speakers": ["frederik-thrane"],
+      "segments": [
+        {
+          "startTime": "10:55",
+          "endTime": "10:57",
+          "text": "Inga (from Lithuania/Baltic Circular Hotspot): The main idea from my side is to use the Baltic Circular Hotspot and this collaboration to connect our ecosystems. The Danish example with higher regulations than EU could help connect more stakeholders to develop innovations. Companies in Lithuania are struggling with requirements. This ecosystem of companies and academia could help develop good impact.",
+          "speakerId": null
+        },
+        {
+          "startTime": "10:57",
+          "endTime": "10:59",
+          "text": "Emilia Jedda (Finnish Textile and Fashion): The key priority should be to support and ensure that circularity and especially textile recycling become commercially and economically viable, both in Europe and our region. With EPR coming and ESPR regarding destruction of unsold goods, it's essential we have infrastructure in Europe/Nordics and aren't heavily depending on exporting textile materials outside Europe, for example to China.",
+          "speakerId": null
+        },
+        {
+          "startTime": "10:59",
+          "endTime": "11:00",
+          "text": "I strongly encourage you all to write us before December 1st, bullet point it with suggestions. We will collect them and bring them to the steering group. Please spread the word - there haven't been as many people on this call as we could wish for. Share the link, invite relevant players, ask them to join the mailing list. Thank you so much. We're so excited to have you on board. Have a good day and goodbye from Nuuk.",
+          "speakerId": "frederik-thrane"
+        }
+      ],
+      "notes": "Key suggestions: Use Baltic Circular Hotspot to connect ecosystems; ensure textile recycling becomes commercially viable; develop regional infrastructure to reduce dependence on exports outside Europe. Action item: Submit suggestions by December 1st. Conference planned for Riga summer 2026."
+    }
+  ],
+  "keyQuotes": [
+    {
+      "quote": "The purpose of this Nordic-Baltic textile transition group is actually to serve as a common platform where we can bring together stakeholders... from companies, research communities, civil societies, and also the public sector.",
+      "speakerId": "betina-simonsen",
+      "context": "Defining the purpose of the transition group"
+    },
+    {
+      "quote": "The textile industry works as a system and there is no country system organized within their own borders. So we need to think across borders here.",
+      "speakerId": "kerli-kant-hvass",
+      "context": "Explaining the need for regional collaboration"
+    },
+    {
+      "quote": "No single market has scaled feedstock volumes or technology mix available to build a circular textile system alone.",
+      "speakerId": "kerli-kant-hvass",
+      "context": "Key finding from regional research"
+    },
+    {
+      "quote": "We can collaborate only when you have trust. Trust doesn't happen itself. So we need to have space to meet, learn about each other, understand each other, discuss the challenges and build that trust.",
+      "speakerId": "kerli-kant-hvass",
+      "context": "On the importance of platforms for collaboration"
+    },
+    {
+      "quote": "The first thing that we learned has been that this pre-competitive setting where competing brands that would not in a million years sit together five years ago, they're actually quite willing to sit together.",
+      "speakerId": "frederik-thrane",
+      "context": "Key learning from Danish sector collaboration"
+    },
+    {
+      "quote": "A shared Nordic approach could really strengthen our collective voice also in Brussels and help demonstrate that our region is ready to lead on circular textiles.",
+      "speakerId": "jonas-eder-hansen",
+      "context": "Rationale for Nordic-Baltic expansion"
+    }
+  ],
+  "keyThemes": [
+    {
+      "theme": "Regional Value Chain Integration",
+      "description": "Nordics lead in design, R&D, sorting/recycling technology; Baltics have production capacity, manual sorting expertise, reuse/repair infrastructure. No single country can build circular system alone."
+    },
+    {
+      "theme": "EPR Harmonization",
+      "description": "Need for harmonized Extended Producer Responsibility schemes across Nordic-Baltic region that focus on impact (not just price), address whole waste hierarchy, and fix market failures."
+    },
+    {
+      "theme": "Pre-Competitive Collaboration",
+      "description": "Competing brands now willing to collaborate on challenges too big for individual companies. Danish model demonstrates success of voluntary sector collaboration with shared goals and data reporting."
+    },
+    {
+      "theme": "Data-Driven Transition",
+      "description": "Importance of consistent data reporting frameworks to benchmark progress, prepare for regulation, and share learnings across industry. Need to consolidate fragmented existing research."
+    },
+    {
+      "theme": "Infrastructure Development",
+      "description": "Strategic regional approach needed for sorting and recycling infrastructure. Question of whether automated sorting should be in both Nordics and Baltics or concentrated in one region."
+    },
+    {
+      "theme": "Reduction as Core Theme",
+      "description": "Overall theme of reduction of virgin materials and consumption. Focus on waste prevention, preparation for reuse, and actual reuse - not just recycling."
+    }
+  ],
+  "organizations": {
+    "hosts": ["Lifestyle & Design Cluster"],
+    "steeringCommittee": "Representatives from all Nordic-Baltic countries",
+    "partners": [
+      "Nordic Circular Hotspot",
+      "Baltic Circular Hotspot",
+      "Finnish Textile and Fashion",
+      "Nordic Council of Ministers"
+    ],
+    "referenced": [
+      "Global Fashion Agenda",
+      "Danish Fashion Institute",
+      "Copenhagen Business School",
+      "Aalborg University",
+      "Aalto University",
+      "WRAP (UK)",
+      "UK Textiles Pact",
+      "Textile Action Network"
+    ]
+  },
+  "actionItems": [
+    {
+      "action": "Submit suggestions for group activities",
+      "deadline": "December 1st, 2025",
+      "contact": "Frederik Thrane"
+    },
+    {
+      "action": "Join mailing list",
+      "details": "Email with name, title, organization (GDPR compliance)"
+    },
+    {
+      "action": "Conference in Riga",
+      "deadline": "Summer 2026"
+    },
+    {
+      "action": "Textended project data collection",
+      "deadline": "Spring 2026"
+    }
+  ],
+  "resources": {
+    "recordingAvailability": "YouTube (link to be distributed)",
+    "mailingList": "Contact Frederik Thrane at Lifestyle & Design Cluster",
+    "relatedProjects": [
+      "Nordic Council of Ministers textile waste flow mapping",
+      "Textended (EU Horizon project)"
+    ],
+    "danishTools": [
+      "Catalogue for recycled materials",
+      "Circular design guide (aligned with eco-design regulation)",
+      "Service provider catalogue"
+    ]
+  }
+}

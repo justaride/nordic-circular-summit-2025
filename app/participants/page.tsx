@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useMemo } from 'react';
+import Link from 'next/link';
 import { participants, getParticipantStats } from '@/lib/data';
 import { Participant } from '@/lib/types';
 
@@ -11,7 +12,6 @@ export default function ParticipantsPage() {
 
   const stats = getParticipantStats();
 
-  // Get unique years and countries for filters
   const years = useMemo(() => {
     return Object.keys(stats.byYear)
       .map(Number)
@@ -22,11 +22,9 @@ export default function ParticipantsPage() {
     return Object.keys(stats.byCountry).sort();
   }, [stats.byCountry]);
 
-  // Filter participants
   const filteredParticipants = useMemo(() => {
     let filtered = participants;
 
-    // Search filter
     if (searchQuery) {
       const q = searchQuery.toLowerCase();
       filtered = filtered.filter(
@@ -38,14 +36,12 @@ export default function ParticipantsPage() {
       );
     }
 
-    // Year filter
     if (selectedYear) {
       filtered = filtered.filter((p) =>
         p.participationHistory.some((ph) => ph.year === selectedYear)
       );
     }
 
-    // Country filter
     if (selectedCountry) {
       filtered = filtered.filter((p) => p.country === selectedCountry);
     }
@@ -54,52 +50,65 @@ export default function ParticipantsPage() {
   }, [searchQuery, selectedYear, selectedCountry]);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-cyan-50 to-blue-100 py-16 px-4">
+    <div className="min-h-screen py-16 px-4">
       <div className="max-w-7xl mx-auto">
         {/* Header */}
+        <div className="mb-6">
+          <Link href="/" className="inline-flex items-center transition-colors" style={{ color: 'var(--glacial-600)' }}>
+            <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+            </svg>
+            Back to Home
+          </Link>
+        </div>
+
+        {/* Title Section */}
         <div className="text-center mb-12">
-          <h1 className="text-5xl font-bold text-gray-900 mb-4">
-            Participant Network
-          </h1>
-          <p className="text-xl text-gray-600">
+          <div className="flex items-center justify-center gap-3 mb-4">
+            <span className="text-4xl">🌐</span>
+            <h1 className="text-5xl font-bold" style={{ color: 'var(--glacial-800)' }}>
+              Participant Network
+            </h1>
+          </div>
+          <p className="text-xl" style={{ color: 'var(--sage-600)' }}>
             Explore the Nordic Circular Summit community network
           </p>
         </div>
 
         {/* Statistics Cards */}
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-12">
-          <div className="bg-white rounded-lg shadow-md p-6">
-            <div className="text-3xl font-bold text-cyan-600 mb-2">
+          <div className="frost-card rounded-xl shadow-lg p-6" style={{ borderLeft: '4px solid var(--glacial-400)' }}>
+            <div className="text-3xl font-bold mb-2" style={{ color: 'var(--glacial-600)' }}>
               {stats.totalParticipants}
             </div>
-            <div className="text-gray-600">Total Participants</div>
+            <div style={{ color: 'var(--sage-600)' }}>Total Participants</div>
           </div>
-          <div className="bg-white rounded-lg shadow-md p-6">
-            <div className="text-3xl font-bold text-blue-600 mb-2">
+          <div className="frost-card rounded-xl shadow-lg p-6" style={{ borderLeft: '4px solid var(--sage-400)' }}>
+            <div className="text-3xl font-bold mb-2" style={{ color: 'var(--sage-600)' }}>
               {stats.historicalContacts}
             </div>
-            <div className="text-gray-600">Historical Contacts</div>
+            <div style={{ color: 'var(--glacial-600)' }}>Historical Contacts</div>
           </div>
-          <div className="bg-white rounded-lg shadow-md p-6">
-            <div className="text-3xl font-bold text-indigo-600 mb-2">
+          <div className="frost-card rounded-xl shadow-lg p-6" style={{ borderLeft: '4px solid var(--glacial-500)' }}>
+            <div className="text-3xl font-bold mb-2" style={{ color: 'var(--glacial-700)' }}>
               {Object.keys(stats.byCountry).length}
             </div>
-            <div className="text-gray-600">Countries</div>
+            <div style={{ color: 'var(--sage-600)' }}>Countries</div>
           </div>
-          <div className="bg-white rounded-lg shadow-md p-6">
-            <div className="text-3xl font-bold text-purple-600 mb-2">
+          <div className="frost-card rounded-xl shadow-lg p-6" style={{ borderLeft: '4px solid var(--sage-500)' }}>
+            <div className="text-3xl font-bold mb-2" style={{ color: 'var(--sage-700)' }}>
               {Object.keys(stats.byYear).length}
             </div>
-            <div className="text-gray-600">Years of Data</div>
+            <div style={{ color: 'var(--glacial-600)' }}>Years of Data</div>
           </div>
         </div>
 
         {/* Filters */}
-        <div className="bg-white rounded-lg shadow-md p-6 mb-8">
+        <div className="frost-card rounded-xl shadow-lg p-6 mb-8">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             {/* Search */}
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium mb-2" style={{ color: 'var(--glacial-700)' }}>
                 Search
               </label>
               <input
@@ -107,13 +116,14 @@ export default function ParticipantsPage() {
                 placeholder="Name, organization, title, country..."
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-cyan-500 focus:border-transparent"
+                className="w-full px-4 py-2 border rounded-md focus:ring-2 focus:outline-none"
+                style={{ borderColor: 'var(--glacial-300)', background: 'var(--arctic-50)' }}
               />
             </div>
 
             {/* Year filter */}
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium mb-2" style={{ color: 'var(--glacial-700)' }}>
                 Year
               </label>
               <select
@@ -121,7 +131,8 @@ export default function ParticipantsPage() {
                 onChange={(e) =>
                   setSelectedYear(e.target.value ? Number(e.target.value) : null)
                 }
-                className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-cyan-500 focus:border-transparent"
+                className="w-full px-4 py-2 border rounded-md focus:ring-2 focus:outline-none"
+                style={{ borderColor: 'var(--glacial-300)', background: 'var(--arctic-50)' }}
               >
                 <option value="">All Years</option>
                 {years.map((year) => (
@@ -134,7 +145,7 @@ export default function ParticipantsPage() {
 
             {/* Country filter */}
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium mb-2" style={{ color: 'var(--glacial-700)' }}>
                 Country
               </label>
               <select
@@ -142,7 +153,8 @@ export default function ParticipantsPage() {
                 onChange={(e) =>
                   setSelectedCountry(e.target.value || null)
                 }
-                className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-cyan-500 focus:border-transparent"
+                className="w-full px-4 py-2 border rounded-md focus:ring-2 focus:outline-none"
+                style={{ borderColor: 'var(--glacial-300)', background: 'var(--arctic-50)' }}
               >
                 <option value="">All Countries</option>
                 {countries.map((country) => (
@@ -157,35 +169,38 @@ export default function ParticipantsPage() {
           {/* Active filters indicator */}
           {(searchQuery || selectedYear || selectedCountry) && (
             <div className="mt-4 flex items-center gap-2 flex-wrap">
-              <span className="text-sm text-gray-600">Active filters:</span>
+              <span className="text-sm" style={{ color: 'var(--sage-600)' }}>Active filters:</span>
               {searchQuery && (
-                <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-cyan-100 text-cyan-800">
+                <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium" style={{ background: 'var(--glacial-100)', color: 'var(--glacial-800)' }}>
                   Search: {searchQuery}
                   <button
                     onClick={() => setSearchQuery('')}
-                    className="ml-2 text-cyan-600 hover:text-cyan-800"
+                    className="ml-2"
+                    style={{ color: 'var(--glacial-600)' }}
                   >
                     ×
                   </button>
                 </span>
               )}
               {selectedYear && (
-                <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-blue-100 text-blue-800">
+                <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium" style={{ background: 'var(--sage-100)', color: 'var(--sage-800)' }}>
                   Year: {selectedYear}
                   <button
                     onClick={() => setSelectedYear(null)}
-                    className="ml-2 text-blue-600 hover:text-blue-800"
+                    className="ml-2"
+                    style={{ color: 'var(--sage-600)' }}
                   >
                     ×
                   </button>
                 </span>
               )}
               {selectedCountry && (
-                <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-indigo-100 text-indigo-800">
+                <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium" style={{ background: 'var(--arctic-100)', color: 'var(--arctic-800)' }}>
                   Country: {selectedCountry}
                   <button
                     onClick={() => setSelectedCountry(null)}
-                    className="ml-2 text-indigo-600 hover:text-indigo-800"
+                    className="ml-2"
+                    style={{ color: 'var(--arctic-600)' }}
                   >
                     ×
                   </button>
@@ -197,7 +212,8 @@ export default function ParticipantsPage() {
                   setSelectedYear(null);
                   setSelectedCountry(null);
                 }}
-                className="text-sm text-gray-600 hover:text-gray-800 underline"
+                className="text-sm underline"
+                style={{ color: 'var(--glacial-600)' }}
               >
                 Clear all
               </button>
@@ -206,9 +222,8 @@ export default function ParticipantsPage() {
         </div>
 
         {/* Results count */}
-        <div className="mb-4 text-gray-600">
-          Showing {filteredParticipants.length} of {participants.length}{' '}
-          participants
+        <div className="mb-4" style={{ color: 'var(--sage-600)' }}>
+          Showing {filteredParticipants.length} of {participants.length} participants
         </div>
 
         {/* Participants Grid */}
@@ -221,7 +236,7 @@ export default function ParticipantsPage() {
         {/* No results */}
         {filteredParticipants.length === 0 && (
           <div className="text-center py-12">
-            <div className="text-gray-500 text-lg">
+            <div className="text-lg" style={{ color: 'var(--arctic-500)' }}>
               No participants found matching your filters.
             </div>
           </div>
@@ -240,31 +255,31 @@ function ParticipantCard({ participant }: { participant: Participant }) {
     : 'N/A';
 
   return (
-    <div className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow">
+    <div className="frost-card rounded-xl shadow-lg p-6 hover:shadow-xl transition-shadow" style={{ borderLeft: '4px solid var(--glacial-400)' }}>
       {/* Header */}
       <div className="mb-4">
-        <h3 className="text-lg font-bold text-gray-900 mb-1">
+        <h3 className="text-lg font-bold mb-1" style={{ color: 'var(--glacial-800)' }}>
           {participant.name}
         </h3>
         {participant.title && (
-          <p className="text-sm text-gray-600">{participant.title}</p>
+          <p className="text-sm" style={{ color: 'var(--sage-600)' }}>{participant.title}</p>
         )}
       </div>
 
       {/* Organization & Country */}
       <div className="mb-4 space-y-1">
         <div className="flex items-start">
-          <span className="text-sm font-medium text-gray-500 w-24 flex-shrink-0">
+          <span className="text-sm font-medium w-24 flex-shrink-0" style={{ color: 'var(--arctic-500)' }}>
             Organization:
           </span>
-          <span className="text-sm text-gray-900">{participant.organization}</span>
+          <span className="text-sm" style={{ color: 'var(--glacial-800)' }}>{participant.organization}</span>
         </div>
         {participant.country && (
           <div className="flex items-start">
-            <span className="text-sm font-medium text-gray-500 w-24 flex-shrink-0">
+            <span className="text-sm font-medium w-24 flex-shrink-0" style={{ color: 'var(--arctic-500)' }}>
               Country:
             </span>
-            <span className="text-sm text-gray-900">{participant.country}</span>
+            <span className="text-sm" style={{ color: 'var(--glacial-800)' }}>{participant.country}</span>
           </div>
         )}
       </div>
@@ -272,10 +287,10 @@ function ParticipantCard({ participant }: { participant: Participant }) {
       {/* Participation History */}
       <div className="mb-4">
         <div className="flex items-center gap-2 mb-2">
-          <span className="text-sm font-medium text-gray-700">
+          <span className="text-sm font-medium" style={{ color: 'var(--glacial-700)' }}>
             Participated:
           </span>
-          <span className="text-sm text-cyan-600 font-semibold">
+          <span className="text-sm font-semibold" style={{ color: 'var(--glacial-600)' }}>
             {yearRange}
           </span>
         </div>
@@ -284,7 +299,8 @@ function ParticipantCard({ participant }: { participant: Participant }) {
             {participant.participationHistory.map((ph, idx) => (
               <span
                 key={idx}
-                className="inline-block px-2 py-1 text-xs font-medium bg-cyan-100 text-cyan-800 rounded"
+                className="inline-block px-2 py-1 text-xs font-medium rounded"
+                style={{ background: 'var(--glacial-100)', color: 'var(--glacial-800)' }}
               >
                 {ph.year}
               </span>
@@ -295,24 +311,15 @@ function ParticipantCard({ participant }: { participant: Participant }) {
 
       {/* Contact Info */}
       {(participant.email || participant.linkedin || participant.phone) && (
-        <div className="border-t pt-4 space-y-2">
+        <div className="border-t pt-4 space-y-2" style={{ borderColor: 'var(--glacial-200)' }}>
           {participant.email && (
             <a
               href={`mailto:${participant.email}`}
-              className="flex items-center text-sm text-gray-600 hover:text-cyan-600"
+              className="flex items-center text-sm transition-colors"
+              style={{ color: 'var(--sage-600)' }}
             >
-              <svg
-                className="w-4 h-4 mr-2"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
-                />
+              <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
               </svg>
               Email
             </a>
@@ -322,13 +329,10 @@ function ParticipantCard({ participant }: { participant: Participant }) {
               href={participant.linkedin}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center text-sm text-gray-600 hover:text-cyan-600"
+              className="flex items-center text-sm transition-colors"
+              style={{ color: 'var(--sage-600)' }}
             >
-              <svg
-                className="w-4 h-4 mr-2"
-                fill="currentColor"
-                viewBox="0 0 24 24"
-              >
+              <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
               </svg>
               LinkedIn
@@ -337,20 +341,11 @@ function ParticipantCard({ participant }: { participant: Participant }) {
           {participant.phone && (
             <a
               href={`tel:${participant.phone}`}
-              className="flex items-center text-sm text-gray-600 hover:text-cyan-600"
+              className="flex items-center text-sm transition-colors"
+              style={{ color: 'var(--sage-600)' }}
             >
-              <svg
-                className="w-4 h-4 mr-2"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
-                />
+              <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
               </svg>
               Phone
             </a>
@@ -358,23 +353,21 @@ function ParticipantCard({ participant }: { participant: Participant }) {
         </div>
       )}
 
-      {/* Session roles (if any) */}
+      {/* Session roles */}
       {participant.sessionRoles.length > 0 && (
-        <div className="border-t pt-4 mt-4">
-          <div className="text-sm font-medium text-gray-700 mb-2">
+        <div className="border-t pt-4 mt-4" style={{ borderColor: 'var(--glacial-200)' }}>
+          <div className="text-sm font-medium mb-2" style={{ color: 'var(--glacial-700)' }}>
             2025 Sessions:
           </div>
           <div className="flex flex-wrap gap-1">
             {participant.sessionRoles.map((sr, idx) => (
               <span
                 key={idx}
-                className={`inline-block px-2 py-1 text-xs font-medium rounded ${
-                  sr.role === 'speaker'
-                    ? 'bg-purple-100 text-purple-800'
-                    : sr.role === 'moderator'
-                    ? 'bg-blue-100 text-blue-800'
-                    : 'bg-gray-100 text-gray-800'
-                }`}
+                className="inline-block px-2 py-1 text-xs font-medium rounded"
+                style={{
+                  background: sr.role === 'speaker' ? 'var(--glacial-100)' : sr.role === 'moderator' ? 'var(--sage-100)' : 'var(--arctic-100)',
+                  color: sr.role === 'speaker' ? 'var(--glacial-800)' : sr.role === 'moderator' ? 'var(--sage-800)' : 'var(--arctic-800)'
+                }}
               >
                 {sr.role}
               </span>

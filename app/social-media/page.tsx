@@ -36,14 +36,14 @@ function getSocialMediaPosts(): SocialMediaPost[] {
 export default function SocialMediaPage() {
   const posts = getSocialMediaPosts();
 
-  const platformColors = {
-    instagram: 'bg-gradient-to-br from-purple-600 to-pink-600 text-white',
-    linkedin: 'bg-blue-600 text-white',
-    twitter: 'bg-sky-500 text-white',
-    facebook: 'bg-blue-700 text-white'
+  const platformColors: Record<string, { bg: string; text: string }> = {
+    instagram: { bg: 'linear-gradient(135deg, var(--glacial-500) 0%, var(--sage-500) 100%)', text: 'white' },
+    linkedin: { bg: 'var(--glacial-600)', text: 'white' },
+    twitter: { bg: 'var(--arctic-600)', text: 'white' },
+    facebook: { bg: 'var(--sage-600)', text: 'white' }
   };
 
-  const platformIcons = {
+  const platformIcons: Record<string, JSX.Element> = {
     instagram: (
       <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
         <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
@@ -74,33 +74,38 @@ export default function SocialMediaPage() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      <header className="bg-white border-b border-gray-200">
+    <div className="min-h-screen">
+      <header className="frost-card-strong border-b" style={{ borderColor: 'var(--glacial-200)' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-          <Link href="/" className="text-cyan-600 hover:text-cyan-700 mb-2 inline-block">
+          <Link href="/" className="mb-2 inline-block transition-colors" style={{ color: 'var(--glacial-600)' }}>
             ← Back to Home
           </Link>
-          <h1 className="text-3xl font-bold text-gray-900">Social Media</h1>
-          <p className="text-gray-600 mt-2">Historical posts and social media workflow</p>
+          <div className="flex items-center gap-3">
+            <span className="text-3xl">📱</span>
+            <div>
+              <h1 className="text-3xl font-bold" style={{ color: 'var(--glacial-800)' }}>Social Media</h1>
+              <p className="mt-1" style={{ color: 'var(--sage-600)' }}>Historical posts and social media workflow</p>
+            </div>
+          </div>
         </div>
       </header>
 
       {/* Statistics */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-          <div className="bg-white rounded-lg shadow p-6">
-            <p className="text-sm text-gray-600 mb-1">Total Posts</p>
-            <p className="text-3xl font-bold text-gray-900">{stats.total}</p>
+          <div className="frost-card rounded-xl shadow-lg p-6" style={{ borderLeft: '4px solid var(--glacial-400)' }}>
+            <p className="text-sm mb-1" style={{ color: 'var(--sage-600)' }}>Total Posts</p>
+            <p className="text-3xl font-bold" style={{ color: 'var(--glacial-800)' }}>{stats.total}</p>
           </div>
-          <div className="bg-gradient-to-br from-purple-600 to-pink-600 rounded-lg shadow p-6 text-white">
+          <div className="rounded-xl shadow-lg p-6 text-white" style={{ background: 'linear-gradient(135deg, var(--glacial-500) 0%, var(--sage-500) 100%)' }}>
             <p className="text-sm opacity-90 mb-1">Instagram</p>
             <p className="text-3xl font-bold">{stats.instagram}</p>
           </div>
-          <div className="bg-blue-600 rounded-lg shadow p-6 text-white">
+          <div className="rounded-xl shadow-lg p-6 text-white" style={{ background: 'var(--glacial-600)' }}>
             <p className="text-sm opacity-90 mb-1">LinkedIn</p>
             <p className="text-3xl font-bold">{stats.linkedin}</p>
           </div>
-          <div className="bg-green-600 rounded-lg shadow p-6 text-white">
+          <div className="rounded-xl shadow-lg p-6 text-white" style={{ background: 'var(--sage-600)' }}>
             <p className="text-sm opacity-90 mb-1">Published</p>
             <p className="text-3xl font-bold">{stats.published}</p>
           </div>
@@ -108,24 +113,24 @@ export default function SocialMediaPage() {
 
         {/* Post Feed */}
         <div className="space-y-6">
-          <h2 className="text-2xl font-bold text-gray-900">Historical Posts</h2>
+          <h2 className="text-2xl font-bold" style={{ color: 'var(--glacial-800)' }}>Historical Posts</h2>
 
           {posts.map((post) => (
-            <div key={post.id} className="bg-white rounded-lg shadow-md overflow-hidden">
+            <div key={post.id} className="frost-card rounded-xl shadow-lg overflow-hidden">
               {/* Post Header */}
-              <div className="p-4 border-b border-gray-200 flex items-center justify-between">
+              <div className="p-4 border-b flex items-center justify-between" style={{ borderColor: 'var(--glacial-200)' }}>
                 <div className="flex items-center gap-3">
-                  <div className={`p-2 rounded-lg ${platformColors[post.platform]}`}>
+                  <div className="p-2 rounded-lg text-white" style={{ background: platformColors[post.platform]?.bg || 'var(--glacial-500)' }}>
                     {platformIcons[post.platform]}
                   </div>
                   <div>
                     {post.author && (
-                      <p className="font-semibold text-gray-900">{post.author}</p>
+                      <p className="font-semibold" style={{ color: 'var(--glacial-800)' }}>{post.author}</p>
                     )}
                     {post.author_title && (
-                      <p className="text-xs text-gray-600">{post.author_title}</p>
+                      <p className="text-xs" style={{ color: 'var(--sage-600)' }}>{post.author_title}</p>
                     )}
-                    <div className="flex items-center gap-2 text-sm text-gray-500">
+                    <div className="flex items-center gap-2 text-sm" style={{ color: 'var(--arctic-500)' }}>
                       <span>{post.date}</span>
                       {post.time_relative && (
                         <>
@@ -136,25 +141,25 @@ export default function SocialMediaPage() {
                     </div>
                   </div>
                 </div>
-                <span className="text-xs bg-gray-100 text-gray-700 px-3 py-1 rounded-full capitalize">
+                <span className="text-xs px-3 py-1 rounded-full capitalize" style={{ background: 'var(--arctic-100)', color: 'var(--arctic-700)' }}>
                   {post.post_type.replace('_', ' ')}
                 </span>
               </div>
 
               {/* Post Content */}
               <div className="p-6">
-                <p className="text-gray-800 whitespace-pre-line">{post.content}</p>
+                <p className="whitespace-pre-line" style={{ color: 'var(--foreground)' }}>{post.content}</p>
 
                 {/* Hashtags and Mentions */}
                 {(post.hashtags.length > 0 || post.mentions.length > 0) && (
                   <div className="mt-4 flex flex-wrap gap-2">
                     {post.hashtags.map((tag, idx) => (
-                      <span key={idx} className="text-sm text-cyan-600 font-medium">
+                      <span key={idx} className="text-sm font-medium" style={{ color: 'var(--glacial-600)' }}>
                         {tag}
                       </span>
                     ))}
                     {post.mentions.map((mention, idx) => (
-                      <span key={idx} className="text-sm text-blue-600 font-medium">
+                      <span key={idx} className="text-sm font-medium" style={{ color: 'var(--sage-600)' }}>
                         {mention}
                       </span>
                     ))}
@@ -165,7 +170,7 @@ export default function SocialMediaPage() {
                 {post.media.length > 0 && (
                   <div className="mt-4 flex flex-wrap gap-2">
                     {post.media.map((item, idx) => (
-                      <span key={idx} className="text-xs bg-gray-100 text-gray-600 px-2 py-1 rounded">
+                      <span key={idx} className="text-xs px-2 py-1 rounded" style={{ background: 'var(--arctic-100)', color: 'var(--arctic-600)' }}>
                         📷 {item}
                       </span>
                     ))}
@@ -174,8 +179,8 @@ export default function SocialMediaPage() {
               </div>
 
               {/* Engagement Stats */}
-              <div className="px-6 py-4 bg-gray-50 border-t border-gray-200">
-                <div className="flex items-center gap-6 text-sm text-gray-600">
+              <div className="px-6 py-4 border-t" style={{ background: 'var(--arctic-50)', borderColor: 'var(--glacial-200)' }}>
+                <div className="flex items-center gap-6 text-sm" style={{ color: 'var(--sage-600)' }}>
                   <div className="flex items-center gap-1">
                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
@@ -197,7 +202,7 @@ export default function SocialMediaPage() {
                     </div>
                   )}
                   {post.language && (
-                    <span className="ml-auto text-xs bg-gray-200 text-gray-700 px-2 py-1 rounded capitalize">
+                    <span className="ml-auto text-xs px-2 py-1 rounded capitalize" style={{ background: 'var(--glacial-100)', color: 'var(--glacial-700)' }}>
                       {post.language}
                     </span>
                   )}
@@ -207,9 +212,9 @@ export default function SocialMediaPage() {
           ))}
 
           {posts.length === 0 && (
-            <div className="bg-white rounded-lg shadow-md p-12 text-center">
-              <p className="text-gray-500">No social media posts found</p>
-              <p className="text-sm text-gray-400 mt-2">Posts will appear here once imported</p>
+            <div className="frost-card rounded-xl shadow-lg p-12 text-center">
+              <p style={{ color: 'var(--arctic-500)' }}>No social media posts found</p>
+              <p className="text-sm mt-2" style={{ color: 'var(--arctic-400)' }}>Posts will appear here once imported</p>
             </div>
           )}
         </div>

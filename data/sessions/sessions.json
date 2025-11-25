@@ -274,80 +274,272 @@
     ]
   },
   {
-    "id": "partner-digital-sessions",
+    "id": "day2-circular-construction",
     "day": 2,
-    "title": "Partner-Hosted Digital Sessions",
+    "title": "From Pilots to Practice – Next Steps to Scale Circular Construction in the Nordics",
     "startTime": "08:00",
-    "endTime": "14:00",
+    "endTime": "09:00",
     "timezone": "GMT-2",
     "type": "digital",
-    "description": "Full day of digital sessions hosted by Summit Partners, showcasing circular initiatives, research, and case studies from across the Arctic and Nordic region. Sessions cover diverse topics including textile transition, critical raw materials, circular knowledge sharing, waste management, local production, ocean partnerships, and financing.\n\nThese sessions provide platforms for partners to share their work, build networks, and demonstrate circular solutions in action. Thematic focus areas include Nordic Baltic Textile Transition Group initiatives, circular approaches to critical raw materials, knowledge exchange platforms, and innovative financing mechanisms for circular projects.",
-    "speakers": [],
+    "description": "This one-hour session examines the transition from circular construction pilots to mainstream practice across the Nordic region. Despite strong sustainability ambitions and numerous pilot initiatives, circular construction remains far from systemic. The session brings together Icelandic, Danish, and Nordic perspectives to identify practical next steps and collaborative opportunities.\n\nConstruction is one of the most resource-intensive sectors globally and in the Nordics. It is responsible for a significant share of CO₂ emissions, material extraction, and waste generation. Although circularity is essential for achieving the Nordic region's climate and nature goals, the region continues to underperform compared to Europe and global peers.\n\nThe challenges are especially pronounced in remote areas and island nations such as Iceland, where limited material flows and dependency on imports complicate scaling.",
+    "speakers": [
+      "anna-karlsdottir",
+      "helle-redder-momsen"
+    ],
+    "moderators": [
+      "jan-thomas-odegard"
+    ],
+    "topics": [
+      "circular construction",
+      "building materials",
+      "reuse",
+      "renovation",
+      "regulatory frameworks",
+      "value chains",
+      "Nordic collaboration"
+    ],
+    "location": "Online (Digital Partner Session)",
+    "onlineAvailable": true,
+    "transcriptStatus": "completed",
+    "transcriptFile": "day2-session-circular-construction.json",
+    "transcriptMarkdown": "day2-session-circular-construction-CLEAN.md",
+    "notes": "Focus areas: Current status of circular construction in the Nordics, Icelandic realities (small volumes, resource constraints, import dependence), Regulatory developments, What pilots have achieved and why scaling remains slow",
+    "shortDescription": "Examining the transition from circular construction pilots to mainstream practice across the Nordic region with Icelandic and Danish perspectives.",
+    "themes": [
+      "Supply-demand paradox in reuse materials",
+      "Value-chain design for circularity",
+      "Regulatory fit and building regulations",
+      "Renovation vs rebuild decisions",
+      "Scaling circular construction in remote areas"
+    ]
+  },
+  {
+    "id": "day2-welcome-introduction",
+    "day": 2,
+    "title": "Welcome and Introduction of the Day",
+    "startTime": "09:30",
+    "endTime": "10:15",
+    "timezone": "GMT-2",
+    "type": "opening",
+    "description": "Opening session for Day 2 featuring welcome remarks from Nordic Circular Hotspot, Nalik Ventures and Nordic Innovation. The session includes the soft launch of a new CSR Greenland report, a presentation on Latvia's Circular Economy Index by Agita Baltbārde, and a hydrogen presentation by Robert Weiss from VTT Finland.\n\nThe session concludes with reflection and handover to the Chatham House Session on Arctic Materials Governance.",
+    "speakers": [
+      "einar-kleppe-holthe",
+      "cathrine-barth",
+      "agita-baltbarde",
+      "anne-mette-christiansen",
+      "robert-weiss"
+    ],
     "moderators": [],
     "topics": [
-      "case studies",
-      "circular economy",
-      "circular knowledge",
-      "collaboration",
-      "critical raw materials",
-      "financing",
-      "initiatives",
-      "network building",
-      "partnerships",
-      "research",
-      "textile transition",
-      "waste management"
+      "welcome",
+      "CSR Greenland",
+      "Latvia Circular Economy Index",
+      "hydrogen",
+      "clean energy",
+      "Nordic collaboration"
     ],
-    "location": "Online + Nalik Venture office + locations around Nuuk",
+    "location": "Hans Egede Hotel, Nuuk, Greenland",
     "onlineAvailable": true,
     "transcriptFile": "",
-    "notes": "Organized in time slots: 08:00-09:00, 10:00-11:00, 11:30-12:30, 13:00-14:00. Thematic partner sessions include: Nordic Baltic Textile Transition Group, Critical Raw Materials, Circular Knowledge",
-    "partnerSessions": [
-      {
-        "time": "08:00-09:00",
-        "topics": [
-          "Various partner sessions"
-        ]
-      },
-      {
-        "time": "10:00-11:00",
-        "topics": [
-          "Various partner sessions"
-        ]
-      },
-      {
-        "time": "11:30-12:30",
-        "topics": [
-          "Various partner sessions"
-        ]
-      },
-      {
-        "time": "13:00-14:00",
-        "topics": [
-          "Various partner sessions"
-        ]
-      }
-    ],
-    "keyPartnerTopics": [
-      "Nordic Baltic Textile Transition Group",
-      "Critical Raw Materials",
-      "Circular Knowledge",
-      "Waste Management in Greenland",
-      "Local production and knowledge",
-      "Ocean industry partnerships",
-      "Financing and capital",
-      "Mining and minerals"
-    ],
-    "shortDescription": "Full day of digital sessions hosted by Summit Partners, highlighting circular initiatives, research, and case studies from across the Arctic and Nordic region",
+    "notes": "Includes CSR Greenland soft launch of new report and Latvia Circular Economy Index presentation",
+    "shortDescription": "Day 2 opening with Nordic Circular Hotspot, Nalik Ventures and Nordic Innovation featuring CSR Greenland report launch and hydrogen presentation.",
     "themes": [
-      "Partner-led circular initiatives",
-      "Textile industry transition",
-      "Critical raw materials circularity",
-      "Knowledge sharing and networks",
-      "Waste management solutions",
-      "Circular financing mechanisms",
-      "Multi-stakeholder collaboration",
-      "Regional circular case studies"
+      "CSR reporting in Greenland",
+      "National circular economy measurement",
+      "Hydrogen and clean energy transition",
+      "Nordic-Baltic collaboration"
+    ]
+  },
+  {
+    "id": "day2-arctic-materials-governance",
+    "day": 2,
+    "title": "An Arctic Approach and Contribution to International Materials Governance",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "timezone": "GMT-2",
+    "type": "panel",
+    "description": "The global demand for raw materials—especially critical minerals needed for the green transition—is rising rapidly due to the expansion of clean technologies (EVs, wind, solar, and battery storage). Despite their growing systemic importance, no international governance system currently exists to oversee extraction, trade, processing, and end-of-life management in a coordinated and equitable way.\n\nGeopolitical tensions escalated in 2025, sharpening competition for critical minerals. Greenland, a region of strategic importance, has again become a geopolitical focal point. Without cooperation and shared governance frameworks, the race for resources risks worsening global inequality, degrading ecosystems, and marginalizing Arctic communities.\n\nThe North Atlantic Arctic region is well positioned to lead on developing new governance models. An Arctic Materials Agency could reflect the realities of Arctic ecosystems and communities, pilot circular economy-aligned governance structures, protect ecological and social interests, and contribute to future global material governance frameworks.",
+    "speakers": [
+      "kim-zinck-jorgensen",
+      "malene-vahl-rasmussen",
+      "thomas-varming",
+      "anders-ladefoged",
+      "isabelle-scott",
+      "cathrine-barth",
+      "bent-olsvig-jensen"
+    ],
+    "moderators": [
+      "patrick-schroder"
+    ],
+    "topics": [
+      "critical minerals",
+      "materials governance",
+      "Arctic resources",
+      "geopolitics",
+      "circular economy",
+      "mining",
+      "international policy",
+      "benefit sharing"
+    ],
+    "location": "Hans Egede Hotel, Nuuk, Greenland",
+    "onlineAvailable": true,
+    "transcriptFile": "",
+    "notes": "Chatham House session. Key questions: Greenland's role in critical mineral governance, circular economy integration in materials governance, leveraging existing institutions (Arctic Council, UNEP IRP, EU Arctic Strategy), institutional design for Arctic materials agency",
+    "shortDescription": "Chatham House session exploring how Greenland and the Arctic can shape critical mineral governance that respects Arctic realities and ecosystems.",
+    "themes": [
+      "Greenland's role in critical mineral governance",
+      "Circular economy integration in materials governance",
+      "Leveraging existing institutions (Arctic Council, UNEP IRP)",
+      "Institutional design for Arctic Materials Agency",
+      "Data transparency and sustainable mining standards",
+      "Benefit-sharing and equitable governance"
+    ]
+  },
+  {
+    "id": "day2-nbtt-textiles",
+    "day": 2,
+    "title": "Nordic-Baltic Textile Transition Group (NBTT)",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "timezone": "GMT-2",
+    "type": "digital",
+    "transcriptStatus": "completed",
+    "description": "The Nordic-Baltic Textile Transition Group (NBTT) is a collaborative platform that connects companies, researchers, civil society, and public-sector actors working to accelerate the circular transition within the textile industry. Recognising that systemic change requires cross-sector collaboration, the group focuses on sharing knowledge, best practices, and concrete case studies.\n\nThe session will share insights and best practices for reducing the environmental footprint of textiles, address market failures and explore circular business models and value chains across the Nordic-Baltic region and beyond, and strengthen Nordic-Baltic R&D collaboration.",
+    "speakers": [
+      "betina-simonsen",
+      "kerli-kant-hvass",
+      "frederik-thrane",
+      "jonas-eder-hansen"
+    ],
+    "moderators": [],
+    "topics": [
+      "textiles",
+      "circular economy",
+      "Nordic-Baltic collaboration",
+      "used textile management",
+      "R&D collaboration",
+      "circular business models"
+    ],
+    "location": "Online (Digital Partner Session)",
+    "onlineAvailable": true,
+    "transcriptFile": "day2-session-nbtt-textiles.json",
+    "transcriptMarkdown": "day2-session-nbtt-textiles-CLEAN.md",
+    "notes": "Launch of NBTT platform. Plan to host two online meetings per year and one physical meeting annually from 2026. Regional challenges in used textile management presentation by Kerli Kant Hvass.",
+    "shortDescription": "Launch of the Nordic-Baltic Textile Transition Group platform connecting stakeholders to accelerate circular transition in the textile industry.",
+    "themes": [
+      "Regional challenges in used textile management",
+      "Voluntary Sector Collaboration on Textiles expansion",
+      "Nordic-Baltic R&D collaboration",
+      "Circular business models for textiles"
+    ]
+  },
+  {
+    "id": "day2-circular-design-toolbox",
+    "day": 2,
+    "title": "The Circular Design Toolbox",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "timezone": "GMT-2",
+    "type": "digital",
+    "transcriptStatus": "completed",
+    "description": "The transition to a sustainable and competitive future depends on circularity. While many organisations have high ambitions, they often struggle to translate these into practical, actionable steps. This session introduces The Circular Design Toolbox – a practical catalyst designed to help companies integrate circular thinking into their business models and value chains.\n\nDeveloped by HI advisory and the Estonian Business and Innovation Agency, the toolbox offers a systematic, step-by-step methodology to help organisations build circular capabilities, strengthen competitiveness, and manage future risks.\n\nParticipants will be introduced to essential circular design concepts, including R-strategies, and will be guided through the toolbox's four development stages: Understand, Define, Ideate, and Develop.",
+    "speakers": [
+      "dan-mikkin",
+      "maarja-karlson"
+    ],
+    "moderators": [],
+    "topics": [
+      "circular design",
+      "R-strategies",
+      "business transformation",
+      "toolbox",
+      "competitiveness",
+      "risk management"
+    ],
+    "location": "Online (Digital Partner Session)",
+    "onlineAvailable": true,
+    "transcriptFile": "day2-session-circular-design-toolbox.json",
+    "transcriptMarkdown": "day2-session-circular-design-toolbox-CLEAN.md",
+    "notes": "Developed by HI advisory and Estonian Business and Innovation Agency. Four stages: Understand, Define, Ideate, Develop. Includes practical self-assessment questionnaire.",
+    "shortDescription": "Introduction to The Circular Design Toolbox - a practical methodology to help companies integrate circular thinking into business models.",
+    "themes": [
+      "Circular design drives competitiveness",
+      "R-strategies across value chains",
+      "Four toolbox stages for business transformation",
+      "Practical implementation tools"
+    ]
+  },
+  {
+    "id": "day2-circular-skills-knowledge",
+    "day": 2,
+    "title": "Circular Skills and Knowledge – for a More Circular and Sustainable Economy",
+    "startTime": "13:00",
+    "endTime": "14:15",
+    "timezone": "GMT-2",
+    "type": "roundtable",
+    "description": "This session explores how Arctic communities can blend traditional knowledge, local innovation, research, and education to build circular systems and activities. Circular principles—reuse, regeneration, reciprocity—have deep roots in Arctic traditions. By revitalizing these practices through collaboration with research institutions, education systems, and innovation hubs, Arctic societies can model how locally grounded wisdom can contribute to global sustainability transitions.\n\nParticipants will examine how cross-sector networks of communities, educators, researchers, innovators, and youth can co-create circular systems that respond to global challenges while remaining grounded in local realities. Integrating community knowledge into educational frameworks and innovation ecosystems can empower youth, stimulate entrepreneurship, and strengthen environmental and social resilience.\n\nThe session features short presentations followed by an open roundtable discussion, focusing on knowledge exchange, storytelling, and practical examples.",
+    "speakers": [
+      "rannveig-edda-hjaltadottir",
+      "thore-larsgard",
+      "linn-indrestrand"
+    ],
+    "moderators": [],
+    "topics": [
+      "traditional knowledge",
+      "education",
+      "innovation",
+      "youth empowerment",
+      "research collaboration",
+      "circular skills",
+      "knowledge exchange"
+    ],
+    "location": "Hans Egede Hotel, Nuuk, Greenland",
+    "onlineAvailable": true,
+    "transcriptFile": "",
+    "notes": "Short presentations followed by open roundtable discussion. Focus on knowledge exchange, storytelling, and practical examples.",
+    "shortDescription": "Exploring how Arctic communities can blend traditional knowledge with research and education to build circular systems.",
+    "themes": [
+      "Traditional knowledge and circular practices",
+      "Cross-sector knowledge networks",
+      "Youth empowerment and entrepreneurship",
+      "Education for circularity",
+      "Local-global knowledge bridges"
+    ]
+  },
+  {
+    "id": "day2-circular-port-cities",
+    "day": 2,
+    "title": "Circular Port Cities",
+    "startTime": "14:30",
+    "endTime": "16:30",
+    "timezone": "GMT-2",
+    "type": "workshop",
+    "description": "This workshop examines how port cities—especially in the Nordic and Arctic regions—can become engines of circular transformation. Ports are more than logistical hubs; they represent strategic interfaces between land and sea, economy and community, tradition and innovation.\n\nGreenland's position as a crossroads between the Arctic and the Nordic region offers unique opportunities to translate circular principles into concrete strategies for coastal and urban development. The workshop explores how port cities can evolve into living laboratories for sustainable infrastructure, resource loops, and socially grounded value creation.\n\nParticipants will take part in dialogues, case presentations, and collaborative group exercises to identify actionable opportunities for collaboration and innovation. The goal is to identify tangible collaboration initiatives for further development in 2026, strengthening ties between Greenland and the wider Nordic and North Atlantic region.",
+    "speakers": [
+      "cathrine-barth",
+      "einar-kleppe-holthe",
+      "malene-vahl-rasmussen"
+    ],
+    "moderators": [],
+    "topics": [
+      "port cities",
+      "urban development",
+      "circular infrastructure",
+      "resource loops",
+      "Nordic-Arctic collaboration",
+      "coastal development"
+    ],
+    "location": "Hans Egede Hotel, Nuuk, Greenland",
+    "onlineAvailable": true,
+    "transcriptFile": "",
+    "notes": "Workshop format with dialogues, case presentations, and collaborative group exercises. Goal: identify tangible collaboration initiatives for 2026 including potential Circular Port Cities Platform.",
+    "shortDescription": "Workshop exploring how Nordic and Arctic port cities can become engines of circular transformation through collaboration and innovation.",
+    "themes": [
+      "Ports as circular transformation engines",
+      "Connecting ports to local industries and communities",
+      "Design and infrastructure for circular port cities",
+      "Circular Port Cities Platform development",
+      "Nordic-North Atlantic collaboration"
     ]
   }
 ]

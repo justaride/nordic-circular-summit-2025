@@ -1,0 +1,3098 @@
+{
+  "metadata": {
+    "title": "Nordic Circular Summit 2025 - Network Map",
+    "description": "Day 1 speakers and participants network visualization",
+    "generated": "2025-11-20",
+    "focus": "Day 1 - November 19, 2025"
+  },
+  "stats": {
+    "totalNodes": 53,
+    "totalEdges": 218,
+    "speakers": 41,
+    "participants": 12,
+    "sessionConnections": 156,
+    "organizationConnections": 29,
+    "countryConnections": 33,
+    "organizations": 40,
+    "countries": 16,
+    "sessions": 4
+  },
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "id": "peter-borg",
+          "label": "Peter Borg",
+          "name": "Peter Borg",
+          "title": "Naalakkersuisoq (Minister)",
+          "organization": "Greenland Ministry of Fisheries, Hunting, Agriculture and Self-Sufficiency",
+          "country": "Greenland",
+          "type": "speaker",
+          "category": "government",
+          "topics": [
+            "fisheries",
+            "agriculture",
+            "self-sufficiency"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "embla-kristjansdottir",
+          "label": "Embla Kristjánsdóttir",
+          "name": "Embla Kristjánsdóttir",
+          "title": "Head of Department for Construction",
+          "organization": "Greenland Ministry for Housing, Infrastructure and Outer Districts",
+          "country": "Greenland",
+          "type": "speaker",
+          "category": "government",
+          "topics": [
+            "construction",
+            "housing",
+            "infrastructure"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "carl-egede-boggild",
+          "label": "Carl Egede Bøggild",
+          "name": "Carl Egede Bøggild",
+          "title": "Special Advisor",
+          "organization": "Greenland Ministry of Education, Culture, Sport and Church",
+          "country": "Greenland",
+          "type": "speaker",
+          "category": "government",
+          "topics": [
+            "education",
+            "culture"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "kim-zinck-jorgensen",
+          "label": "Kim Zinck Jørgensen",
+          "name": "Kim Zinck Jørgensen",
+          "title": "Head of Department",
+          "organization": "Ministry of Business, Mineral Resources, Energy, Justice and Gender Equality",
+          "country": "Greenland",
+          "type": "speaker",
+          "category": "government",
+          "topics": [
+            "business",
+            "mineral resources",
+            "energy"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "isabelle-scott",
+          "label": "Isabelle Scott",
+          "name": "Isabelle Scott",
+          "title": "Head of International Critical Minerals Policy",
+          "organization": "FCDO, UK Government",
+          "country": "United Kingdom",
+          "type": "speaker",
+          "category": "government",
+          "topics": [
+            "critical minerals",
+            "international policy"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "malene-vahl-rasmussen",
+          "label": "Malene Vahl Rasmussen",
+          "name": "Malene Vahl Rasmussen",
+          "title": "Mayor",
+          "organization": "Kommune Kujalleq",
+          "country": "Greenland",
+          "type": "speaker",
+          "category": "municipal",
+          "topics": [
+            "local government",
+            "municipal policy"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "inese-suija-markova",
+          "label": "Inese Suija-Markova",
+          "name": "Inese Suija-Markova",
+          "title": "Deputy Mayor",
+          "organization": "Cesis Municipality",
+          "country": "Latvia",
+          "type": "speaker",
+          "category": "municipal",
+          "topics": [
+            "local government",
+            "municipal policy"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "kristian-ottesen",
+          "label": "Kristian S. Ottesen",
+          "name": "Kristian S. Ottesen",
+          "title": "Director",
+          "organization": "Royal Greenland",
+          "country": "Greenland",
+          "type": "speaker",
+          "category": "corporate",
+          "topics": [
+            "fisheries",
+            "seafood industry"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "inooraq-brandt",
+          "label": "Inooraq Brandt",
+          "name": "Inooraq Brandt",
+          "title": "General Manager",
+          "organization": "Rambøll Grønland A/S",
+          "country": "Greenland",
+          "type": "speaker",
+          "category": "corporate",
+          "topics": [
+            "engineering",
+            "consulting"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "alexandra-leeper",
+          "label": "Alexandra Leeper",
+          "name": "Alexandra Leeper",
+          "title": "CEO",
+          "organization": "Iceland Ocean Cluster",
+          "country": "Iceland",
+          "type": "speaker",
+          "category": "corporate",
+          "topics": [
+            "ocean economy",
+            "marine resources"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "michaela-lindstrom",
+          "label": "Michaela Lindström",
+          "name": "Michaela Lindström",
+          "title": "CEO & Co-founder",
+          "organization": "Hailia Nordic",
+          "country": "Nordic",
+          "type": "speaker",
+          "category": "corporate",
+          "topics": [
+            "textiles",
+            "sustainability"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "mia-chemnitz",
+          "label": "Mia Chemnitz",
+          "name": "Mia Chemnitz",
+          "title": "Managing Director",
+          "organization": "Qiviut",
+          "country": "Greenland",
+          "type": "speaker",
+          "category": "corporate",
+          "topics": [
+            "textiles",
+            "local materials"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "linn-indrestrand",
+          "label": "Linn Indrestrand",
+          "name": "Linn Indrestrand",
+          "title": "Head of Fishery & Maritime Services",
+          "organization": "Port of Hirtshals",
+          "country": "Denmark",
+          "type": "speaker",
+          "category": "corporate",
+          "topics": [
+            "maritime",
+            "fisheries",
+            "ports"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "kerli-kant-hvass",
+          "label": "Kerli Kant Hvass",
+          "name": "Kerli Kant Hvass",
+          "title": "Founder, Revaluate; Assistant Professor",
+          "organization": "Aalborg University",
+          "country": "Denmark",
+          "type": "speaker",
+          "category": "academic",
+          "topics": [
+            "circular economy",
+            "revaluation"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "thore-larsgard",
+          "label": "Thore Larsgård",
+          "name": "Thore Larsgård",
+          "title": "Assistant Professor for Bioeconomy Master's programme",
+          "organization": "Norwegian University of Life Sciences",
+          "country": "Norway",
+          "type": "speaker",
+          "category": "academic",
+          "topics": [
+            "bioeconomy",
+            "agriculture"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "rannveig-edda-hjaltadottir",
+          "label": "Rannveig Edda Hjaltadottir",
+          "name": "Rannveig Edda Hjaltadottir",
+          "title": "Associate Professor of Innovation",
+          "organization": "Nord University Business School",
+          "country": "Norway",
+          "type": "speaker",
+          "category": "academic",
+          "topics": [
+            "innovation",
+            "business development"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "patrick-schroder",
+          "label": "Patrick Schröder",
+          "name": "Patrick Schröder",
+          "title": "Senior Research Fellow",
+          "organization": "Chatham House",
+          "country": "United Kingdom",
+          "type": "speaker",
+          "category": "academic",
+          "topics": [
+            "research",
+            "circular economy"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "gisle-mariani-mardal",
+          "label": "Gisle Mariani Mardal",
+          "name": "Gisle Mariani Mardal",
+          "title": "Head of Innovation and Development",
+          "organization": "NF&TA – National cluster for the fashion and textile industry in Norway",
+          "country": "Norway",
+          "type": "speaker",
+          "category": "industry",
+          "topics": [
+            "textiles",
+            "fashion",
+            "innovation"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "tilda-larsson",
+          "label": "Tilda Larsson",
+          "name": "Tilda Larsson",
+          "title": "Product Development Engineer – Interior Textiles",
+          "organization": "Ludvig Svensson",
+          "country": "Sweden",
+          "type": "speaker",
+          "category": "industry",
+          "topics": [
+            "textiles",
+            "product development"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "agita-baltbarde",
+          "label": "Agita Baltbārde",
+          "name": "Agita Baltbārde",
+          "title": "Board Member",
+          "organization": "CleanR Grupa",
+          "country": "Latvia",
+          "type": "speaker",
+          "category": "industry",
+          "topics": [
+            "waste management",
+            "recycling"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "lise-lotte-terp",
+          "label": "Lise-Lotte Terp",
+          "name": "Lise-Lotte Terp",
+          "title": "CEO & Founder",
+          "organization": "ProConsi International",
+          "country": "Denmark",
+          "type": "speaker",
+          "category": "industry",
+          "topics": [
+            "consulting",
+            "sustainability"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "anne-mette-christiansen",
+          "label": "Anne Mette Christiansen",
+          "name": "Anne Mette Christiansen",
+          "title": "Senior Advisor",
+          "organization": "CSR Greenland",
+          "country": "Greenland",
+          "type": "speaker",
+          "category": "industry",
+          "topics": [
+            "corporate social responsibility",
+            "sustainability"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "eva-jorgensen",
+          "label": "Eva Jørgensen",
+          "name": "Eva Jørgensen",
+          "title": "Legal Consultant",
+          "organization": "Greenland Business Association",
+          "country": "Greenland",
+          "type": "speaker",
+          "category": "industry",
+          "topics": [
+            "legal",
+            "business"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "helle-redder-momsen",
+          "label": "Helle Redder Momsen",
+          "name": "Helle Redder Momsen",
+          "title": "Head of Secretariat",
+          "organization": "Nordic Sustainable Construction, Danish Authority of Social Services and Housing",
+          "country": "Denmark",
+          "type": "speaker",
+          "category": "organization",
+          "topics": [
+            "sustainable construction",
+            "building"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "monica-paulsen",
+          "label": "Monica Paulsen",
+          "name": "Monica Paulsen",
+          "title": "Cluster Manager",
+          "organization": "Arctic Cluster Team",
+          "country": "Arctic",
+          "type": "speaker",
+          "category": "organization",
+          "topics": [
+            "cluster development",
+            "arctic"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "luca-de-lorenzo",
+          "label": "Luca De Lorenzo",
+          "name": "Luca De Lorenzo",
+          "title": "Vice-President, Head of Sustainability and Mandate, Member of Executive Committee",
+          "organization": "Nordic Investment Bank",
+          "country": "Nordic",
+          "type": "speaker",
+          "category": "organization",
+          "topics": [
+            "finance",
+            "sustainability",
+            "investment"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "gorm-vold",
+          "label": "Gorm Vold",
+          "name": "Gorm Vold",
+          "title": "Chief Consultant",
+          "organization": "Nalik Ventures",
+          "country": "Greenland",
+          "type": "speaker",
+          "category": "organization",
+          "topics": [
+            "consulting",
+            "venture development"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "anders-ladefoged",
+          "label": "Anders Ladefoged",
+          "name": "Anders Ladefoged",
+          "title": "Member of the European Economic and Social Committee (EESC)",
+          "organization": "European Economic and Social Committee",
+          "country": "Europe",
+          "type": "speaker",
+          "category": "organization",
+          "topics": [
+            "policy",
+            "economic development"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "frederik-thrane",
+          "label": "Frederik Thrane",
+          "name": "Frederik Thrane",
+          "title": "Circular Economy Team Lead",
+          "organization": "Lifestyle & Design Cluster",
+          "country": "Denmark",
+          "type": "speaker",
+          "category": "organization",
+          "topics": [
+            "circular economy",
+            "lifestyle",
+            "design"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "talis-linkaits",
+          "label": "Tālis Linkaits",
+          "name": "Tālis Linkaits",
+          "title": "Senior Expert and Project Manager",
+          "organization": "Riga Energy Agency",
+          "country": "Latvia",
+          "type": "speaker",
+          "category": "organization",
+          "topics": [
+            "energy",
+            "project management"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "dan-mikkin",
+          "label": "Dan Mikkin",
+          "name": "Dan Mikkin",
+          "title": "Partner, Sustainability Designer",
+          "organization": "HI Advisory",
+          "country": "Estonia",
+          "type": "speaker",
+          "category": "sustainability",
+          "topics": [
+            "sustainability",
+            "design"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "maarja-karlson",
+          "label": "Maarja Karlson",
+          "name": "Maarja Karlson",
+          "title": "Partner, Sustainability Designer",
+          "organization": "HI Advisory",
+          "country": "Estonia",
+          "type": "speaker",
+          "category": "sustainability",
+          "topics": [
+            "sustainability",
+            "design"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "marthe-haugland",
+          "label": "Marthe Haugland",
+          "name": "Marthe Haugland",
+          "title": "Head of Program Circular Economy & Senior Innovation Advisor",
+          "organization": "Nordic Innovation",
+          "country": "Nordic",
+          "type": "speaker",
+          "category": "sustainability",
+          "topics": [
+            "circular economy",
+            "innovation"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "mika-sulkinoja",
+          "label": "Mika Sulkinoja",
+          "name": "Mika Sulkinoja",
+          "title": "Senior Lead",
+          "organization": "The Finnish Innovation Fund Sitra",
+          "country": "Finland",
+          "type": "speaker",
+          "category": "sustainability",
+          "topics": [
+            "innovation",
+            "circular economy"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "michel-bajuk",
+          "label": "Michel Bajuk",
+          "name": "Michel Bajuk",
+          "title": "Managing Partner",
+          "organization": "Nordic Circular Hotspot",
+          "country": "Nordic",
+          "type": "speaker",
+          "category": "sustainability",
+          "topics": [
+            "circular economy",
+            "hotspot management"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "cathrine-barth",
+          "label": "Cathrine Barth",
+          "name": "Cathrine Barth",
+          "title": "Head of Circular Economy",
+          "organization": "Natural State",
+          "country": "Norway",
+          "type": "speaker",
+          "category": "sustainability",
+          "topics": [
+            "circular economy",
+            "strategy"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "einar-kleppe-holthe",
+          "label": "Einar Kleppe Holthe",
+          "name": "Einar Kleppe Holthe",
+          "title": "CEO and Founder",
+          "organization": "Natural State",
+          "country": "Norway",
+          "type": "speaker",
+          "category": "sustainability",
+          "topics": [
+            "circular economy",
+            "entrepreneurship"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "alisa-mick",
+          "label": "Alisa Mick",
+          "name": "Alisa Mick",
+          "title": "CEO & Founder",
+          "organization": "Mixicenter",
+          "country": "Greenland",
+          "type": "speaker",
+          "category": "sustainability",
+          "topics": [
+            "innovation",
+            "circular economy"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "peter-munch-madsen",
+          "label": "Peter Munch-Madsen",
+          "name": "Peter Munch-Madsen",
+          "title": "Senior Advisor",
+          "organization": "Nordic Innovation",
+          "country": "Nordic",
+          "type": "speaker",
+          "category": "sustainability",
+          "topics": [
+            "innovation",
+            "circular economy"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "jan-thomas-odegard",
+          "label": "Jan Thomas Odegard",
+          "name": "Jan Thomas Odegard",
+          "title": "Project Manager",
+          "organization": "Natural State",
+          "country": "Norway",
+          "type": "speaker",
+          "category": "sustainability",
+          "topics": [
+            "project management",
+            "circular economy"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "edvard-lybert-mork",
+          "label": "Edvard Lybert Mørk",
+          "name": "Edvard Lybert Mørk",
+          "title": "Collaborating Partner",
+          "organization": "Nalek Ventures",
+          "country": "Greenland",
+          "type": "speaker",
+          "category": "organization",
+          "topics": [
+            "business development",
+            "venture capital",
+            "trust infrastructure",
+            "circular economy"
+          ],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "eva-j-rgensen",
+          "label": "Eva J Rgensen",
+          "name": "Eva J Rgensen",
+          "title": "",
+          "organization": "Nalik Ventures",
+          "country": "Greenland",
+          "type": "participant",
+          "category": "attendee",
+          "topics": [],
+          "size": 35
+        }
+      },
+      {
+        "data": {
+          "id": "keira-dignan",
+          "label": "Keira Dignan",
+          "name": "Keira Dignan",
+          "title": "N/A",
+          "organization": "Regeneration2030",
+          "country": "",
+          "type": "participant",
+          "category": "speaker",
+          "topics": [],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "karin-pedersen-thorsen",
+          "label": "Karin Pedersen Thorsen",
+          "name": "Karin Pedersen Thorsen",
+          "title": "",
+          "organization": "N/A",
+          "country": "Finland, Danmark, Sweden, Åland, Norway, Greenland",
+          "type": "participant",
+          "category": "speaker",
+          "topics": [],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "agita-baltb-rde",
+          "label": "Agita Baltb Rde",
+          "name": "Agita Baltb Rde",
+          "title": "",
+          "organization": "N/A",
+          "country": "",
+          "type": "participant",
+          "category": "speaker",
+          "topics": [],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "alexandre-leeper",
+          "label": "Alexandre Leeper",
+          "name": "Alexandre Leeper",
+          "title": "",
+          "organization": "Iceland Ocean Cluster",
+          "country": "Iceland",
+          "type": "participant",
+          "category": "speaker",
+          "topics": [],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "michaela-lindstr-m",
+          "label": "Michaela Lindstr M",
+          "name": "Michaela Lindstr M",
+          "title": "",
+          "organization": "N/A",
+          "country": "Finland",
+          "type": "participant",
+          "category": "speaker",
+          "topics": [],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "bjartur-nols-e",
+          "label": "Bjartur Nols E",
+          "name": "Bjartur Nols E",
+          "title": "",
+          "organization": "N/A",
+          "country": "Grønland (bor her)/ er fra Færøyene",
+          "type": "participant",
+          "category": "attendee",
+          "topics": [],
+          "size": 35
+        }
+      },
+      {
+        "data": {
+          "id": "anne-nivika-gr-dem",
+          "label": "Anne Nivika Gr Dem",
+          "name": "Anne Nivika Gr Dem",
+          "title": "",
+          "organization": "N/A",
+          "country": "",
+          "type": "participant",
+          "category": "attendee",
+          "topics": [],
+          "size": 35
+        }
+      },
+      {
+        "data": {
+          "id": "patrick-schr-der",
+          "label": "Patrick Schr Der",
+          "name": "Patrick Schr Der",
+          "title": "",
+          "organization": "N/A",
+          "country": "Denmark, Britain, Sweden",
+          "type": "participant",
+          "category": "speaker",
+          "topics": [],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "kerli-kant",
+          "label": "Kerli Kant",
+          "name": "Kerli Kant",
+          "title": "",
+          "organization": "N/A",
+          "country": "",
+          "type": "participant",
+          "category": "speaker",
+          "topics": [],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "gisle-mariani-madal",
+          "label": "Gisle Mariani Madal",
+          "name": "Gisle Mariani Madal",
+          "title": "",
+          "organization": "NF&TA",
+          "country": "Norway, Sweden, Greenland, Greenland",
+          "type": "participant",
+          "category": "speaker",
+          "topics": [],
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "ludvig-svensson",
+          "label": "Ludvig Svensson",
+          "name": "Ludvig Svensson",
+          "title": "",
+          "organization": "NF&TA",
+          "country": "Norway, Sweden, Greenland, Greenland",
+          "type": "participant",
+          "category": "speaker",
+          "topics": [],
+          "size": 60
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "id": "edge-0",
+          "source": "gorm-vold",
+          "target": "eva-j-rgensen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-1",
+          "source": "gorm-vold",
+          "target": "einar-kleppe-holthe",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-2",
+          "source": "gorm-vold",
+          "target": "marthe-haugland",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-3",
+          "source": "gorm-vold",
+          "target": "peter-munch-madsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-4",
+          "source": "gorm-vold",
+          "target": "alisa-mick",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-5",
+          "source": "gorm-vold",
+          "target": "frederik-thrane",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-6",
+          "source": "gorm-vold",
+          "target": "michel-bajuk",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-7",
+          "source": "gorm-vold",
+          "target": "keira-dignan",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-8",
+          "source": "gorm-vold",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-9",
+          "source": "gorm-vold",
+          "target": "karin-pedersen-thorsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-10",
+          "source": "gorm-vold",
+          "target": "agita-baltb-rde",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-11",
+          "source": "eva-j-rgensen",
+          "target": "einar-kleppe-holthe",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-12",
+          "source": "eva-j-rgensen",
+          "target": "marthe-haugland",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-13",
+          "source": "eva-j-rgensen",
+          "target": "peter-munch-madsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-14",
+          "source": "eva-j-rgensen",
+          "target": "alisa-mick",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-15",
+          "source": "eva-j-rgensen",
+          "target": "frederik-thrane",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-16",
+          "source": "eva-j-rgensen",
+          "target": "michel-bajuk",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-17",
+          "source": "eva-j-rgensen",
+          "target": "keira-dignan",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-18",
+          "source": "eva-j-rgensen",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-19",
+          "source": "eva-j-rgensen",
+          "target": "karin-pedersen-thorsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-20",
+          "source": "eva-j-rgensen",
+          "target": "agita-baltb-rde",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-21",
+          "source": "eva-j-rgensen",
+          "target": "eva-j-rgensen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-22",
+          "source": "einar-kleppe-holthe",
+          "target": "marthe-haugland",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-23",
+          "source": "einar-kleppe-holthe",
+          "target": "peter-munch-madsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-24",
+          "source": "einar-kleppe-holthe",
+          "target": "alisa-mick",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-25",
+          "source": "einar-kleppe-holthe",
+          "target": "frederik-thrane",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-26",
+          "source": "einar-kleppe-holthe",
+          "target": "michel-bajuk",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-27",
+          "source": "einar-kleppe-holthe",
+          "target": "keira-dignan",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-28",
+          "source": "einar-kleppe-holthe",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-29",
+          "source": "einar-kleppe-holthe",
+          "target": "karin-pedersen-thorsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-30",
+          "source": "einar-kleppe-holthe",
+          "target": "einar-kleppe-holthe",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-31",
+          "source": "einar-kleppe-holthe",
+          "target": "agita-baltb-rde",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-32",
+          "source": "marthe-haugland",
+          "target": "peter-munch-madsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-33",
+          "source": "marthe-haugland",
+          "target": "alisa-mick",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-34",
+          "source": "marthe-haugland",
+          "target": "frederik-thrane",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-35",
+          "source": "marthe-haugland",
+          "target": "michel-bajuk",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-36",
+          "source": "marthe-haugland",
+          "target": "keira-dignan",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-37",
+          "source": "marthe-haugland",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-38",
+          "source": "marthe-haugland",
+          "target": "karin-pedersen-thorsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-39",
+          "source": "marthe-haugland",
+          "target": "agita-baltb-rde",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-40",
+          "source": "peter-munch-madsen",
+          "target": "alisa-mick",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-41",
+          "source": "peter-munch-madsen",
+          "target": "frederik-thrane",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-42",
+          "source": "peter-munch-madsen",
+          "target": "michel-bajuk",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-43",
+          "source": "peter-munch-madsen",
+          "target": "keira-dignan",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-44",
+          "source": "peter-munch-madsen",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-45",
+          "source": "peter-munch-madsen",
+          "target": "karin-pedersen-thorsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-46",
+          "source": "peter-munch-madsen",
+          "target": "agita-baltb-rde",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-47",
+          "source": "alisa-mick",
+          "target": "frederik-thrane",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-48",
+          "source": "alisa-mick",
+          "target": "michel-bajuk",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-49",
+          "source": "alisa-mick",
+          "target": "keira-dignan",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-50",
+          "source": "alisa-mick",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-51",
+          "source": "alisa-mick",
+          "target": "karin-pedersen-thorsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-52",
+          "source": "alisa-mick",
+          "target": "agita-baltb-rde",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-53",
+          "source": "frederik-thrane",
+          "target": "michel-bajuk",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-54",
+          "source": "frederik-thrane",
+          "target": "keira-dignan",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-55",
+          "source": "frederik-thrane",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-56",
+          "source": "frederik-thrane",
+          "target": "karin-pedersen-thorsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-57",
+          "source": "frederik-thrane",
+          "target": "agita-baltb-rde",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-58",
+          "source": "michel-bajuk",
+          "target": "keira-dignan",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-59",
+          "source": "michel-bajuk",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-60",
+          "source": "michel-bajuk",
+          "target": "karin-pedersen-thorsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-61",
+          "source": "michel-bajuk",
+          "target": "agita-baltb-rde",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-62",
+          "source": "keira-dignan",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-63",
+          "source": "keira-dignan",
+          "target": "karin-pedersen-thorsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-64",
+          "source": "keira-dignan",
+          "target": "agita-baltb-rde",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-65",
+          "source": "cathrine-barth",
+          "target": "karin-pedersen-thorsen",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-66",
+          "source": "cathrine-barth",
+          "target": "agita-baltb-rde",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-67",
+          "source": "cathrine-barth",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-68",
+          "source": "karin-pedersen-thorsen",
+          "target": "agita-baltb-rde",
+          "type": "session",
+          "label": "Session: session-1-opening",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-69",
+          "source": "cathrine-barth",
+          "target": "alexandre-leeper",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-70",
+          "source": "cathrine-barth",
+          "target": "kristian-ottesen",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-71",
+          "source": "cathrine-barth",
+          "target": "michaela-lindstr-m",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-72",
+          "source": "cathrine-barth",
+          "target": "linn-indrestrand",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-73",
+          "source": "cathrine-barth",
+          "target": "monica-paulsen",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-74",
+          "source": "cathrine-barth",
+          "target": "alexandra-leeper",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-75",
+          "source": "alexandre-leeper",
+          "target": "kristian-ottesen",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-76",
+          "source": "alexandre-leeper",
+          "target": "michaela-lindstr-m",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-77",
+          "source": "alexandre-leeper",
+          "target": "linn-indrestrand",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-78",
+          "source": "alexandre-leeper",
+          "target": "monica-paulsen",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-79",
+          "source": "alexandre-leeper",
+          "target": "alexandra-leeper",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-80",
+          "source": "kristian-ottesen",
+          "target": "michaela-lindstr-m",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-81",
+          "source": "kristian-ottesen",
+          "target": "linn-indrestrand",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-82",
+          "source": "kristian-ottesen",
+          "target": "monica-paulsen",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-83",
+          "source": "kristian-ottesen",
+          "target": "kristian-ottesen",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-84",
+          "source": "kristian-ottesen",
+          "target": "alexandra-leeper",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-85",
+          "source": "michaela-lindstr-m",
+          "target": "linn-indrestrand",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-86",
+          "source": "michaela-lindstr-m",
+          "target": "monica-paulsen",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-87",
+          "source": "michaela-lindstr-m",
+          "target": "alexandra-leeper",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-88",
+          "source": "linn-indrestrand",
+          "target": "monica-paulsen",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-89",
+          "source": "linn-indrestrand",
+          "target": "alexandra-leeper",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-90",
+          "source": "monica-paulsen",
+          "target": "alexandra-leeper",
+          "type": "session",
+          "label": "Session: session-2-ocean",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-91",
+          "source": "bjartur-nols-e",
+          "target": "anne-nivika-gr-dem",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-92",
+          "source": "bjartur-nols-e",
+          "target": "alisa-mick",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-93",
+          "source": "bjartur-nols-e",
+          "target": "keira-dignan",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-94",
+          "source": "bjartur-nols-e",
+          "target": "mika-sulkinoja",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-95",
+          "source": "bjartur-nols-e",
+          "target": "anders-ladefoged",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-96",
+          "source": "bjartur-nols-e",
+          "target": "patrick-schr-der",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-97",
+          "source": "bjartur-nols-e",
+          "target": "luca-de-lorenzo",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-98",
+          "source": "bjartur-nols-e",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-99",
+          "source": "anne-nivika-gr-dem",
+          "target": "alisa-mick",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-100",
+          "source": "anne-nivika-gr-dem",
+          "target": "keira-dignan",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-101",
+          "source": "anne-nivika-gr-dem",
+          "target": "mika-sulkinoja",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-102",
+          "source": "anne-nivika-gr-dem",
+          "target": "anders-ladefoged",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-103",
+          "source": "anne-nivika-gr-dem",
+          "target": "patrick-schr-der",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-104",
+          "source": "anne-nivika-gr-dem",
+          "target": "luca-de-lorenzo",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-105",
+          "source": "anne-nivika-gr-dem",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-106",
+          "source": "alisa-mick",
+          "target": "mika-sulkinoja",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-107",
+          "source": "alisa-mick",
+          "target": "alisa-mick",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-108",
+          "source": "alisa-mick",
+          "target": "anders-ladefoged",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-109",
+          "source": "alisa-mick",
+          "target": "patrick-schr-der",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-110",
+          "source": "alisa-mick",
+          "target": "luca-de-lorenzo",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-111",
+          "source": "keira-dignan",
+          "target": "mika-sulkinoja",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-112",
+          "source": "keira-dignan",
+          "target": "anders-ladefoged",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-113",
+          "source": "keira-dignan",
+          "target": "patrick-schr-der",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-114",
+          "source": "keira-dignan",
+          "target": "luca-de-lorenzo",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-115",
+          "source": "mika-sulkinoja",
+          "target": "anders-ladefoged",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-116",
+          "source": "mika-sulkinoja",
+          "target": "patrick-schr-der",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-117",
+          "source": "mika-sulkinoja",
+          "target": "luca-de-lorenzo",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-118",
+          "source": "mika-sulkinoja",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-119",
+          "source": "anders-ladefoged",
+          "target": "patrick-schr-der",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-120",
+          "source": "anders-ladefoged",
+          "target": "luca-de-lorenzo",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-121",
+          "source": "anders-ladefoged",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-122",
+          "source": "patrick-schr-der",
+          "target": "luca-de-lorenzo",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-123",
+          "source": "patrick-schr-der",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-124",
+          "source": "luca-de-lorenzo",
+          "target": "cathrine-barth",
+          "type": "session",
+          "label": "Session: session-3-locally-rooted",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-125",
+          "source": "frederik-thrane",
+          "target": "lise-lotte-terp",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-126",
+          "source": "frederik-thrane",
+          "target": "kerli-kant",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-127",
+          "source": "frederik-thrane",
+          "target": "frederik-thrane",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-128",
+          "source": "frederik-thrane",
+          "target": "mia-chemnitz",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-129",
+          "source": "frederik-thrane",
+          "target": "kristian-ottesen",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-130",
+          "source": "frederik-thrane",
+          "target": "gisle-mariani-madal",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-131",
+          "source": "frederik-thrane",
+          "target": "tilda-larsson",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-132",
+          "source": "frederik-thrane",
+          "target": "ludvig-svensson",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-133",
+          "source": "lise-lotte-terp",
+          "target": "kerli-kant",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-134",
+          "source": "lise-lotte-terp",
+          "target": "lise-lotte-terp",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-135",
+          "source": "lise-lotte-terp",
+          "target": "mia-chemnitz",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-136",
+          "source": "lise-lotte-terp",
+          "target": "kristian-ottesen",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-137",
+          "source": "lise-lotte-terp",
+          "target": "gisle-mariani-madal",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-138",
+          "source": "lise-lotte-terp",
+          "target": "tilda-larsson",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-139",
+          "source": "lise-lotte-terp",
+          "target": "ludvig-svensson",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-140",
+          "source": "kerli-kant",
+          "target": "mia-chemnitz",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-141",
+          "source": "kerli-kant",
+          "target": "kristian-ottesen",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-142",
+          "source": "kerli-kant",
+          "target": "gisle-mariani-madal",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-143",
+          "source": "kerli-kant",
+          "target": "tilda-larsson",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-144",
+          "source": "kerli-kant",
+          "target": "ludvig-svensson",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-145",
+          "source": "mia-chemnitz",
+          "target": "kristian-ottesen",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-146",
+          "source": "mia-chemnitz",
+          "target": "gisle-mariani-madal",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-147",
+          "source": "mia-chemnitz",
+          "target": "tilda-larsson",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-148",
+          "source": "mia-chemnitz",
+          "target": "ludvig-svensson",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-149",
+          "source": "mia-chemnitz",
+          "target": "mia-chemnitz",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-150",
+          "source": "kristian-ottesen",
+          "target": "gisle-mariani-madal",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-151",
+          "source": "kristian-ottesen",
+          "target": "tilda-larsson",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-152",
+          "source": "kristian-ottesen",
+          "target": "ludvig-svensson",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-153",
+          "source": "gisle-mariani-madal",
+          "target": "tilda-larsson",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-154",
+          "source": "gisle-mariani-madal",
+          "target": "ludvig-svensson",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-155",
+          "source": "tilda-larsson",
+          "target": "ludvig-svensson",
+          "type": "session",
+          "label": "Session: session-4-arctic",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "edge-156",
+          "source": "alexandra-leeper",
+          "target": "alexandre-leeper",
+          "type": "organization",
+          "label": "Organization: Iceland Ocean Cluster",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-157",
+          "source": "gorm-vold",
+          "target": "eva-j-rgensen",
+          "type": "organization",
+          "label": "Organization: Nalik Ventures",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-158",
+          "source": "dan-mikkin",
+          "target": "maarja-karlson",
+          "type": "organization",
+          "label": "Organization: HI Advisory",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-159",
+          "source": "marthe-haugland",
+          "target": "peter-munch-madsen",
+          "type": "organization",
+          "label": "Organization: Nordic Innovation",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-160",
+          "source": "cathrine-barth",
+          "target": "einar-kleppe-holthe",
+          "type": "organization",
+          "label": "Organization: Natural State",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-161",
+          "source": "cathrine-barth",
+          "target": "jan-thomas-odegard",
+          "type": "organization",
+          "label": "Organization: Natural State",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-162",
+          "source": "einar-kleppe-holthe",
+          "target": "jan-thomas-odegard",
+          "type": "organization",
+          "label": "Organization: Natural State",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-163",
+          "source": "karin-pedersen-thorsen",
+          "target": "agita-baltb-rde",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-164",
+          "source": "karin-pedersen-thorsen",
+          "target": "michaela-lindstr-m",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-165",
+          "source": "karin-pedersen-thorsen",
+          "target": "bjartur-nols-e",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-166",
+          "source": "karin-pedersen-thorsen",
+          "target": "anne-nivika-gr-dem",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-167",
+          "source": "karin-pedersen-thorsen",
+          "target": "patrick-schr-der",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-168",
+          "source": "karin-pedersen-thorsen",
+          "target": "kerli-kant",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-169",
+          "source": "agita-baltb-rde",
+          "target": "michaela-lindstr-m",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-170",
+          "source": "agita-baltb-rde",
+          "target": "bjartur-nols-e",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-171",
+          "source": "agita-baltb-rde",
+          "target": "anne-nivika-gr-dem",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-172",
+          "source": "agita-baltb-rde",
+          "target": "patrick-schr-der",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-173",
+          "source": "agita-baltb-rde",
+          "target": "kerli-kant",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-174",
+          "source": "michaela-lindstr-m",
+          "target": "bjartur-nols-e",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-175",
+          "source": "michaela-lindstr-m",
+          "target": "anne-nivika-gr-dem",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-176",
+          "source": "michaela-lindstr-m",
+          "target": "patrick-schr-der",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-177",
+          "source": "michaela-lindstr-m",
+          "target": "kerli-kant",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-178",
+          "source": "bjartur-nols-e",
+          "target": "anne-nivika-gr-dem",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-179",
+          "source": "bjartur-nols-e",
+          "target": "patrick-schr-der",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-180",
+          "source": "bjartur-nols-e",
+          "target": "kerli-kant",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-181",
+          "source": "anne-nivika-gr-dem",
+          "target": "patrick-schr-der",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-182",
+          "source": "anne-nivika-gr-dem",
+          "target": "kerli-kant",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-183",
+          "source": "patrick-schr-der",
+          "target": "kerli-kant",
+          "type": "organization",
+          "label": "Organization: N/A",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-184",
+          "source": "gisle-mariani-madal",
+          "target": "ludvig-svensson",
+          "type": "organization",
+          "label": "Organization: NF&TA",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "edge-185",
+          "source": "isabelle-scott",
+          "target": "patrick-schroder",
+          "type": "country",
+          "label": "Country: United Kingdom",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-186",
+          "source": "inese-suija-markova",
+          "target": "agita-baltbarde",
+          "type": "country",
+          "label": "Country: Latvia",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-187",
+          "source": "inese-suija-markova",
+          "target": "talis-linkaits",
+          "type": "country",
+          "label": "Country: Latvia",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-188",
+          "source": "agita-baltbarde",
+          "target": "talis-linkaits",
+          "type": "country",
+          "label": "Country: Latvia",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-189",
+          "source": "michaela-lindstrom",
+          "target": "luca-de-lorenzo",
+          "type": "country",
+          "label": "Country: Nordic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-190",
+          "source": "michaela-lindstrom",
+          "target": "marthe-haugland",
+          "type": "country",
+          "label": "Country: Nordic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-191",
+          "source": "michaela-lindstrom",
+          "target": "michel-bajuk",
+          "type": "country",
+          "label": "Country: Nordic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-192",
+          "source": "michaela-lindstrom",
+          "target": "peter-munch-madsen",
+          "type": "country",
+          "label": "Country: Nordic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-193",
+          "source": "luca-de-lorenzo",
+          "target": "marthe-haugland",
+          "type": "country",
+          "label": "Country: Nordic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-194",
+          "source": "luca-de-lorenzo",
+          "target": "michel-bajuk",
+          "type": "country",
+          "label": "Country: Nordic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-195",
+          "source": "luca-de-lorenzo",
+          "target": "peter-munch-madsen",
+          "type": "country",
+          "label": "Country: Nordic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-196",
+          "source": "linn-indrestrand",
+          "target": "kerli-kant-hvass",
+          "type": "country",
+          "label": "Country: Denmark",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-197",
+          "source": "linn-indrestrand",
+          "target": "lise-lotte-terp",
+          "type": "country",
+          "label": "Country: Denmark",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-198",
+          "source": "linn-indrestrand",
+          "target": "helle-redder-momsen",
+          "type": "country",
+          "label": "Country: Denmark",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-199",
+          "source": "linn-indrestrand",
+          "target": "frederik-thrane",
+          "type": "country",
+          "label": "Country: Denmark",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-200",
+          "source": "kerli-kant-hvass",
+          "target": "lise-lotte-terp",
+          "type": "country",
+          "label": "Country: Denmark",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-201",
+          "source": "kerli-kant-hvass",
+          "target": "helle-redder-momsen",
+          "type": "country",
+          "label": "Country: Denmark",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-202",
+          "source": "kerli-kant-hvass",
+          "target": "frederik-thrane",
+          "type": "country",
+          "label": "Country: Denmark",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-203",
+          "source": "lise-lotte-terp",
+          "target": "helle-redder-momsen",
+          "type": "country",
+          "label": "Country: Denmark",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-204",
+          "source": "helle-redder-momsen",
+          "target": "frederik-thrane",
+          "type": "country",
+          "label": "Country: Denmark",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-205",
+          "source": "thore-larsgard",
+          "target": "rannveig-edda-hjaltadottir",
+          "type": "country",
+          "label": "Country: Norway",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-206",
+          "source": "thore-larsgard",
+          "target": "gisle-mariani-mardal",
+          "type": "country",
+          "label": "Country: Norway",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-207",
+          "source": "thore-larsgard",
+          "target": "cathrine-barth",
+          "type": "country",
+          "label": "Country: Norway",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-208",
+          "source": "thore-larsgard",
+          "target": "einar-kleppe-holthe",
+          "type": "country",
+          "label": "Country: Norway",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-209",
+          "source": "thore-larsgard",
+          "target": "jan-thomas-odegard",
+          "type": "country",
+          "label": "Country: Norway",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-210",
+          "source": "rannveig-edda-hjaltadottir",
+          "target": "gisle-mariani-mardal",
+          "type": "country",
+          "label": "Country: Norway",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-211",
+          "source": "rannveig-edda-hjaltadottir",
+          "target": "cathrine-barth",
+          "type": "country",
+          "label": "Country: Norway",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-212",
+          "source": "rannveig-edda-hjaltadottir",
+          "target": "einar-kleppe-holthe",
+          "type": "country",
+          "label": "Country: Norway",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-213",
+          "source": "rannveig-edda-hjaltadottir",
+          "target": "jan-thomas-odegard",
+          "type": "country",
+          "label": "Country: Norway",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-214",
+          "source": "gisle-mariani-mardal",
+          "target": "cathrine-barth",
+          "type": "country",
+          "label": "Country: Norway",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-215",
+          "source": "gisle-mariani-mardal",
+          "target": "einar-kleppe-holthe",
+          "type": "country",
+          "label": "Country: Norway",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-216",
+          "source": "gisle-mariani-mardal",
+          "target": "jan-thomas-odegard",
+          "type": "country",
+          "label": "Country: Norway",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "edge-217",
+          "source": "mika-sulkinoja",
+          "target": "michaela-lindstr-m",
+          "type": "country",
+          "label": "Country: Finland",
+          "weight": 0.5
+        }
+      }
+    ]
+  },
+  "sessionData": {
+    "session-1-opening": {
+      "title": "session-1-opening",
+      "memberCount": 17
+    },
+    "session-2-ocean": {
+      "title": "session-2-ocean",
+      "memberCount": 12
+    },
+    "session-3-locally-rooted": {
+      "title": "session-3-locally-rooted",
+      "memberCount": 10
+    },
+    "session-4-arctic": {
+      "title": "session-4-arctic",
+      "memberCount": 16
+    }
+  }
+}

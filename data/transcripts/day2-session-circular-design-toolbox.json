@@ -1,0 +1,294 @@
+{
+  "id": "transcript-day2-circular-design-toolbox",
+  "sessionId": "day2-circular-design-toolbox",
+  "date": "2025-11-20",
+  "recordingFile": "TRANSCRIPT - The Circular Design Toolbox.pdf",
+  "transcriptionStatus": "completed",
+  "notes": "Complete transcription from Whisper. Both speakers identified and mapped to actual names. Transcription reviewed and cleaned for errors. Key themes: R-strategies framework, Double Diamond design process, circularity ladder, value chain mapping, circular business model canvas, partner personas for collaboration.",
+  "metadata": {
+    "duration": "60 minutes",
+    "language": "English",
+    "transcribedBy": "Whisper",
+    "reviewedBy": "Claude Code",
+    "transcriptionDate": "2025-11-20",
+    "participantCount": 2,
+    "format": "Digital Partner Session",
+    "presentedBy": "HI Advisory (Estonia)"
+  },
+  "parts": [
+    {
+      "id": "part-introduction",
+      "title": "Introduction and Context",
+      "startTime": "11:30",
+      "endTime": "11:40",
+      "description": "Introduction to the Circular Design Toolbox, linear economy crisis context, and the role of design",
+      "speakers": ["dan-mikkin"],
+      "segments": [
+        {
+          "startTime": "11:30",
+          "endTime": "11:32",
+          "text": "Hello, everyone. I hope you can hear me. Let me share what we have to say today. Here we go. Welcome, Nuuk. Welcome the rest of the Nordics. We're going to walk you through the Circular Design Toolbox. So you'll hear all about it in the next 45, 55 minutes. We are from HI Advisory, HI as in human intelligence, and we are sustainability designers. So there's Maarja next to me, and I'm Dan. Nice to know that you're out there somewhere.",
+          "speakerId": "dan-mikkin"
+        },
+        {
+          "startTime": "11:32",
+          "endTime": "11:34",
+          "text": "Well, first of all, why did we create this toolbox in the first place? So you are all very much aware of the context. This is just to bring us on the same page. So we know that the linear economy is heavily dominating the world. And it's not moving in the right direction. We have just the recent data coming in and it's getting worse. Not that we are having less circular solutions, but the linear economy is growing even faster.",
+          "speakerId": "dan-mikkin"
+        },
+        {
+          "startTime": "11:34",
+          "endTime": "11:36",
+          "text": "Probably you have heard about the planetary boundaries, which we are also exceedingly crossing. And the latest data just came in that in 2025, now we are also doing more damage to the oceans through acidification, than the ocean can repair itself. We are actually quite big fans of the iteration of this model, which is called the donut economics, which brings in the social aspect also into that framework so that this model is based on planetary boundaries but brings in also the human perspective so that we all could have good lives, being educated, being free, being well-fed and having enough water to drink.",
+          "speakerId": "dan-mikkin"
+        },
+        {
+          "startTime": "11:36",
+          "endTime": "11:38",
+          "text": "The framework that we have based the toolbox on is the R Strategies by Ellen MacArthur Foundation. Like 10 different ways to become more sustainable, prolong the use of the products, make them more durable, refuse from materials and rethink how they are designed in the first place. And on the very top of it is how to create a business model which actually would leave the surroundings in a better state than it was before. So what can we give back to the environment as companies, as users of products and services?",
+          "speakerId": "dan-mikkin"
+        },
+        {
+          "startTime": "11:38",
+          "endTime": "11:40",
+          "text": "So Maarja and I, we are designers. So just to get the terms right, so why are we talking about design in the realm of circular economy? From the economic perspective, you obviously have certain goals: Economic gains - more effective material use; Risk management - meet regulations, be less dependent on raw materials; Competitive advantage - know your target customer and ensure solid brand value. And design is a process that helps companies to get to these goals through the Double Diamond: Understand, Define, Ideate, Develop. This is a framework created by the British Design Council.",
+          "speakerId": "dan-mikkin"
+        }
+      ],
+      "notes": "Dan Mikkin introduced the context for the toolbox: linear economy crisis, planetary boundaries, donut economics framework, and Ellen MacArthur Foundation R Strategies. Emphasized design as the process to achieve economic goals through the Double Diamond methodology."
+    },
+    {
+      "id": "part-toolbox-structure",
+      "title": "Toolbox Structure and Architecture",
+      "startTime": "11:40",
+      "endTime": "11:50",
+      "description": "Overview of the toolbox structure, target audiences, and self-assessment questionnaire",
+      "speakers": ["maarja-karlson"],
+      "segments": [
+        {
+          "startTime": "11:40",
+          "endTime": "11:43",
+          "text": "So now let's go to the toolbox, so why we have all gathered here. First, Dan told you about the context a bit, but why we created this toolbox or what we kept in mind during the process was the companies who want to ideate and develop these circular products and services and we wanted to create this step-by-step systemic approach that the process would be a bit easier. We also throughout the process kept in mind both manufacturing and service industry because the tools can sometimes be a bit more manufacturing companies focused, but also the service industry needs the process and can apply it very well as well.",
+          "speakerId": "maarja-karlson"
+        },
+        {
+          "startTime": "11:43",
+          "endTime": "11:46",
+          "text": "And we also kept in mind different target groups and also tested the toolbox during the process. So we followed our own process along the way and the main target groups we built it for are from top-level managers to the development managers as well as designers and everyone can use it. We built this toolbox on this development process. For each stage we have a set of tools: Understand stage has 6 tools and takes the longest; Define stage has 3 tools and ends with revisiting your problem statement; Ideate stage has 3 tools; Develop stage has tools to implement and bring it to life.",
+          "speakerId": "maarja-karlson"
+        },
+        {
+          "startTime": "11:46",
+          "endTime": "11:50",
+          "text": "Each tool follows a similar architecture: Title and number (important for compatibility - we refer to different tools, how they connect); Purpose - what's the goal, what can you achieve; Step-by-step instruction - how to go through it by yourself; Difficulty level - some tools are trickier and may need a designer, facilitator, or circular economy expert; Additional materials and sources - we gathered the best knowledge out there, mixed and matched, plus our own creations; and the actual Worksheet to fill in with explanatory parts and tips from us. Before going into the design process, we have this preparation step which is a self-assessment tool or questionnaire. You will answer eight questions and assess where your company is today with the sustainability journey. The aim here is not to score the highest but to be as objective as you can, be realistic.",
+          "speakerId": "maarja-karlson"
+        }
+      ],
+      "notes": "Maarja Karlson explained the toolbox structure designed for both manufacturing and service industries. 15 tools across 4 stages (Understand, Define, Ideate, Develop) with consistent architecture. Self-assessment questionnaire as preparation step for objective baseline."
+    },
+    {
+      "id": "part-understand-stage",
+      "title": "Understand Stage Tools",
+      "startTime": "11:50",
+      "endTime": "12:00",
+      "description": "Detailed explanation of the six Understand stage tools, with focus on Circularity Ambition and Value Chain Mapping",
+      "speakers": ["dan-mikkin"],
+      "segments": [
+        {
+          "startTime": "11:50",
+          "endTime": "11:53",
+          "text": "Regarding the understand stage, there are six different tools: (1) Circularity Ambition - I'll explain in more detail; (2) Circular Design Audit - takes a week or two, very thorough tool in spreadsheet format mapping your current situation; (3) Stakeholder Map - your shareholders: users, partners, suppliers, everyone who has an impact; (4) Value Chain Mapping - I will also explain in more detail; (5) Research Planning - tool to decide where to look for more information; (6) Interviews Tool - crucial in design process, spreadsheet format to collect and analyze.",
+          "speakerId": "dan-mikkin"
+        },
+        {
+          "startTime": "11:53",
+          "endTime": "11:57",
+          "text": "The Circularity Ambition tool: Your self-assessment would help you understand where you are on the so-called circularity ladder. It's really just judging by yourselves with your core team, where you are today and where you want to be in five years. The Five Steps: (1) Conventional organizations - play by the book, but have no initiative to become more circular; (2) Green organizations - good mindset, but circularity basically narrowed down to waste management; (3) Sustainable organizations - have circularity as a goal, movement for it, but not yet part of business model; (4) Restorative organizations - have circularity and sustainability as a core part of their business model; (5) Regenerative organizations - rare pioneering companies which actually restore the environment, give back more than they take from nature and society.",
+          "speakerId": "dan-mikkin"
+        },
+        {
+          "startTime": "11:57",
+          "endTime": "12:00",
+          "text": "Try to be objective. Don't imagine where you are or make yourselves any nicer than reality is. For 5-year goals, try to be realistic - what can you realistically achieve? This is a good map to put on the wall and see: this is where we are today, this is where I want to go. The Value Chain Mapping tool maps your value chain as it is today. You use your bright mind from the whole team to have the overarching review of resources you use, stakeholders involved, inefficiencies in your value chain today. Value Chain Stages on the horizontal axis: Design, Materials sourcing, Manufacturing, Distribution, Marketing, Sales, End of life. For each stage on the vertical axis, assess: what resources you need, critical stakeholders, inefficiencies (new creation using this tool), and macro-level influences like EU regulations and industry standards.",
+          "speakerId": "dan-mikkin"
+        }
+      ],
+      "notes": "Dan explained the 6 Understand stage tools. Circularity Ambition features a 5-step ladder from Conventional to Regenerative organizations. Value Chain Mapping provides comprehensive horizontal (7 stages from Design to End of life) and vertical (resources, stakeholders, inefficiencies, macro influences) analysis framework."
+    },
+    {
+      "id": "part-define-stage",
+      "title": "Define Stage Tools",
+      "startTime": "12:00",
+      "endTime": "12:10",
+      "description": "Define stage tools including Research Insights, Personas (User and Partner), and Circular Design Brief",
+      "speakers": ["maarja-karlson"],
+      "segments": [
+        {
+          "startTime": "12:00",
+          "endTime": "12:03",
+          "text": "After the understanding phase where you have gathered information about your own internal processes as well as your end user and partners or other stakeholders, you enter the defined stage which has three tools: (1) Research Insights - for gathering your findings, analyzing them, and making conclusions; (2) Personas (User + Partner) - familiar from service design, but we've added a twist; (3) Circular Design Brief - revisit your problem statement or 'how might we' question. At the end of the first diamond, you can take a pause and see whether the problem you thought you had is the same or actually you found out the challenge is a bit different.",
+          "speakerId": "maarja-karlson"
+        },
+        {
+          "startTime": "12:03",
+          "endTime": "12:06",
+          "text": "The Personas Tool has two worksheets: (1) User Persona - your end user, your client, gathering their needs and challenges; (2) Partner Persona - your suppliers, investors, key stakeholders who play a very important part in your business model. What is especially important with circular collaborations are the partners. You want to understand their needs and challenges as well.",
+          "speakerId": "maarja-karlson"
+        },
+        {
+          "startTime": "12:06",
+          "endTime": "12:10",
+          "text": "Partner Persona Example - Wooden Panels Producer: Let's say I'm a producer of wooden panels. My stakeholder is Ann, a production manager at a coatings and finishes manufacturer. We buy wooden coatings from them. What we found from interviews: Company is quite aware of circularity due to EU regulations, but readiness to change is not that high. About Ann: Responsible for all mixing lines, her team works on product durability, has to manage hazardous materials. Goals: Efficiency (run large continuous batches), Compliance (meet EU regulations, avoid fines). Values: Safety of her team (top priority - hazardous fumes). Challenges: Small batch custom orders are inconvenient. Opportunity discovered: They would be open for R&D work for bio-based alternatives if we order big batches securing their cash flow.",
+          "speakerId": "maarja-karlson"
+        }
+      ],
+      "notes": "Maarja presented the 3 Define stage tools. Key innovation is the Partner Persona tool - recognizing that circular collaborations depend heavily on understanding partner needs. Detailed example showed how partner research reveals collaboration opportunities (bio-based R&D in exchange for volume commitment)."
+    },
+    {
+      "id": "part-ideate-stage",
+      "title": "Ideate Stage Tools",
+      "startTime": "12:10",
+      "endTime": "12:20",
+      "description": "Ideation tools including the lotus blossom-based R Strategy brainstorming framework",
+      "speakers": ["maarja-karlson"],
+      "segments": [
+        {
+          "startTime": "12:10",
+          "endTime": "12:13",
+          "text": "With this knowledge, you can move on to the ideation stage. I think this is the most fun part usually in the process, because you have been gathering, gathering, gathering all the ideas, but you can't really say them yet. Ideation Stage Tools: (1) Ideation Tool - brainstorm as many ideas as possible; (2) Solution Prioritization - not all solutions are worth moving on with; (3) Circular Business Model Ideation - if the business side doesn't work, then no one wins.",
+          "speakerId": "maarja-karlson"
+        },
+        {
+          "startTime": "12:13",
+          "endTime": "12:16",
+          "text": "The Ideation Tool: The goal is to brainstorm as many ideas as possible that would fit your 'how might we' question. Here you want to really focus on quantity, not perfection, so that you would have a pool of feasible ideas, but also these crazy ideas that can actually surprise you and turn into something feasible. This tool is based on the 'lotus blossom' ideation tool, but we have integrated it with five most important R strategies.",
+          "speakerId": "maarja-karlson"
+        },
+        {
+          "startTime": "12:16",
+          "endTime": "12:20",
+          "text": "R Strategy Questions for Brainstorming: (1) REFUSE - Could we refuse some harmful materials or activities when it comes to our products? (2) REDUCE - If it's not possible to refuse, could we reduce something? (3) REPLACE - Could we replace something? (4) EXTEND LIFECYCLE - Is there something in our products or services that would help us extend the lifecycle? Can we come up with a new service? Can we repair or remanufacture? (5) REGENERATE - the most tricky one - Can we, through our products and services, regenerate the environment? Brainstorming Tips: It can be a small thing - replace some chemicals, change packaging, or offer products as a service where people lease instead of own, and you keep ownership.",
+          "speakerId": "maarja-karlson"
+        }
+      ],
+      "notes": "Maarja presented the 3 Ideate stage tools. The core Ideation Tool combines the lotus blossom method with 5 key R strategies (Refuse, Reduce, Replace, Extend Lifecycle, Regenerate). Emphasis on quantity over perfection in brainstorming, with Regenerate being the most challenging but aspirational strategy."
+    },
+    {
+      "id": "part-develop-stage",
+      "title": "Develop Stage Tools",
+      "startTime": "12:20",
+      "endTime": "12:25",
+      "description": "Develop stage tools including the Circular Business Model Canvas and 100-day Implementation Plan",
+      "speakers": ["dan-mikkin"],
+      "segments": [
+        {
+          "startTime": "12:20",
+          "endTime": "12:22",
+          "text": "So let's move to the last stage. How do you get to rolling it out? Develop Stage Tools: (1) Value Chain Mapping (Future State) - now we open the second half and envision what you can do better along the whole value chain; (2) Circular Business Model Canvas - I will reveal in more detail; (3) Implementation Plan (100 Days) - the most difficult part is usually taking the first step. What would we do in the first 100 days? Critical to get your transition started.",
+          "speakerId": "dan-mikkin"
+        },
+        {
+          "startTime": "12:22",
+          "endTime": "12:25",
+          "text": "Tool #14: Circular Business Model Canvas - This tool actually integrates everything that you have done so far - what you have discovered, what you have ideated, and what you have decided - onto one canvas. It determines what resources, including financial ones, would your new circular solution call for, and what would be the possible winnings, both economical as well as environmental. Canvas Structure: CENTER - Your new value proposition (ideally in one sentence) + Business value goal; LEFT SIDE (Users & Communication) - Critical users and participants, how would you communicate with them, how do you get information from them, how do you tell them your value; RIGHT SIDE (Partners & Resources) - Critical partners who help you get to the circular model, what actions are needed, what resources would you need; BOTTOM (Financial Model) - How much would it cost to move to the new circular model, what would be the possible revenue, when would you actually make a profit. If it adds up, it all makes sense. If it doesn't, then it's a charity project. We are talking about actual working business models. OUTER LAYER (Environment & Society) - Possible impacts to society or environment, possible goals - how would you benefit your surroundings.",
+          "speakerId": "dan-mikkin"
+        }
+      ],
+      "notes": "Dan explained the 3 Develop stage tools. The Circular Business Model Canvas integrates all previous work into one comprehensive view with 5 key areas: Value Proposition (center), Users & Communication (left), Partners & Resources (right), Financial Model (bottom), and Environment & Society (outer layer). Strong emphasis that circular solutions must be economically viable, not charity projects."
+    },
+    {
+      "id": "part-qa-closing",
+      "title": "Q&A and Closing",
+      "startTime": "12:25",
+      "endTime": "12:30",
+      "description": "Questions and answers, next steps, and closing remarks",
+      "speakers": ["dan-mikkin"],
+      "segments": [
+        {
+          "startTime": "12:25",
+          "endTime": "12:27",
+          "text": "So this was the circular design toolbox that we just walked you through. FAQs: How digital is it? Now it's based on Miro. It can also be printed out and used for live workshops with stickers. Stickers have a good social vibe, Miro saves on paper. We definitely think of how to make it more digital, how to engage AI and make it even more efficient and accessible. Would you need all 15 tools? No. A good efficient transition process usually takes five, six, seven tools over a course of several months. It depends case by case how deep you want to go, how profound is your transition process.",
+          "speakerId": "dan-mikkin"
+        },
+        {
+          "startTime": "12:27",
+          "endTime": "12:28",
+          "text": "Question from Inga: Do companies have any guidance or literature about regenerative companies before filling the form? Answer: In the toolset there are inspiration cards so that you will have real cases which describe real business models that actually have given something back to nature but also which apply to other R strategies.",
+          "speakerId": "dan-mikkin"
+        },
+        {
+          "startTime": "12:28",
+          "endTime": "12:30",
+          "text": "Next Steps: (1) We have created this toolbox; (2) It's up on Enterprise Estonia's page; (3) Open sessions to introduce it so people know there is an open source toolbox; (4) Looking forward for pilot sessions with certain companies - we'll dedicate more time and map their actual needs; (5) Will iterate and develop into a more digital solution that will ideally fill itself to an extent; (6) Tools are designed to be as approachable as possible, but a good sustainability designer could give you a hand. You are most welcome to check out what HI Advisory is about and we are really thankful for Enterprise Estonia for giving us the opportunity to develop this toolbox with the help of the European Union. Please check out the project page on the Nordic Circular Hotspot. This has been a Circular Design Toolbox and it was our pleasure to entertain you with a bit of design in a circular way. Enjoy the rest of the summit. Take care. Get circular.",
+          "speakerId": "dan-mikkin"
+        }
+      ],
+      "notes": "Q&A covered: Miro-based digital format with print options; typically 5-7 tools used per transition; inspiration cards with real regenerative business cases available. Toolbox is open source on Enterprise Estonia website, with pilot sessions planned. Developed with EU funding support."
+    }
+  ],
+  "keyQuotes": [
+    {
+      "quote": "The linear economy is heavily dominating the world. And it's not moving in the right direction. We have just the recent data coming in and it's getting worse. Not that we are having less circular solutions, but the linear economy is growing even faster.",
+      "speakerId": "dan-mikkin",
+      "context": "Opening context on the urgency of circular transition"
+    },
+    {
+      "quote": "We wanted to create this step-by-step systemic approach that the process would be a bit easier.",
+      "speakerId": "maarja-karlson",
+      "context": "Purpose of the toolbox"
+    },
+    {
+      "quote": "The aim here is not to score the highest but to be as objective as you can, be realistic.",
+      "speakerId": "maarja-karlson",
+      "context": "Self-assessment questionnaire guidance"
+    },
+    {
+      "quote": "Regenerative organizations are these rare pioneering companies which actually restore the environment around them so that they give back more than they take from nature and from society.",
+      "speakerId": "dan-mikkin",
+      "context": "Defining the highest level of the circularity ladder"
+    },
+    {
+      "quote": "If it adds up, then it all makes sense. If it doesn't, then it's a charity project. We are talking about actual working business models.",
+      "speakerId": "dan-mikkin",
+      "context": "Emphasis on economic viability of circular solutions"
+    },
+    {
+      "quote": "A good efficient transition process usually takes five, six, seven tools over a course of several months.",
+      "speakerId": "dan-mikkin",
+      "context": "Practical guidance on toolbox usage"
+    }
+  ],
+  "keyThemes": [
+    {
+      "theme": "R Strategies Framework",
+      "description": "Ellen MacArthur Foundation's 10 R strategies as the foundation for circular design, with 5 key strategies (Refuse, Reduce, Replace, Extend Lifecycle, Regenerate) integrated into the ideation tool"
+    },
+    {
+      "theme": "Double Diamond Design Process",
+      "description": "British Design Council's methodology (Understand, Define, Ideate, Develop) adapted for circular economy applications"
+    },
+    {
+      "theme": "Circularity Ladder",
+      "description": "5-step progression from Conventional to Green to Sustainable to Restorative to Regenerative organizations"
+    },
+    {
+      "theme": "Partner Collaboration",
+      "description": "Emphasis on understanding partner needs through dedicated Partner Personas, recognizing that circular solutions require supply chain collaboration"
+    },
+    {
+      "theme": "Economic Viability",
+      "description": "Strong emphasis that circular business models must be financially sustainable, not charity projects"
+    },
+    {
+      "theme": "Accessibility",
+      "description": "Toolbox designed for multiple user types (top managers to designers), both manufacturing and service industries, with varying difficulty levels"
+    }
+  ],
+  "resources": {
+    "toolbox": "Enterprise Estonia website",
+    "platform": "Miro (digital) or printable worksheets",
+    "projectPage": "Nordic Circular Hotspot website",
+    "developedBy": "HI Advisory + Estonian Business and Innovation Agency",
+    "fundedBy": "European Union"
+  }
+}
