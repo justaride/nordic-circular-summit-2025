@@ -1,0 +1,364 @@
+{
+  "metadata": {
+    "description": "All statistics and quantitative data mentioned at Nordic Circular Summit 2025",
+    "last_updated": "2025-11-28",
+    "total_statistics": 75,
+    "sources": ["transcripts", "presentations", "by-the-numbers documents"]
+  },
+  "categories": {
+    "global_context": [
+      {
+        "stat": "Global economy currently circular",
+        "value": "4%",
+        "source": "Circular Gap Reports",
+        "session": "session-1"
+      },
+      {
+        "stat": "Global economy still linear",
+        "value": "96%",
+        "source": "Circular Gap Reports",
+        "session": "session-1"
+      },
+      {
+        "stat": "EU circularity target (medium-term)",
+        "value": "25%",
+        "source": "Sitra",
+        "session": "session-3"
+      },
+      {
+        "stat": "Years of linear economy dominance",
+        "value": "250 years",
+        "source": "Einar Kleppe Holthe",
+        "session": "session-1"
+      },
+      {
+        "stat": "National circular economy roadmaps globally",
+        "value": "75+",
+        "source": "Chatham House/UNIDO",
+        "session": "session-3"
+      }
+    ],
+    "seafood_industry": [
+      {
+        "stat": "Edible seafood wasted annually",
+        "value": "23 million metric tons",
+        "source": "Iceland Ocean Cluster",
+        "session": "session-2"
+      },
+      {
+        "stat": "Processing stage waste (global)",
+        "value": "15%",
+        "source": "Hylia Nordic",
+        "session": "session-2"
+      },
+      {
+        "stat": "Iceland fish utilization (before)",
+        "value": "45%",
+        "source": "Iceland Ocean Cluster",
+        "session": "session-2"
+      },
+      {
+        "stat": "Iceland fish utilization (after)",
+        "value": "90%+",
+        "source": "Iceland Ocean Cluster",
+        "session": "session-2"
+      },
+      {
+        "stat": "Atlantic cod value (before)",
+        "value": "$12 USD",
+        "source": "Iceland Ocean Cluster",
+        "session": "session-2"
+      },
+      {
+        "stat": "Atlantic cod value (after 100% utilization)",
+        "value": "$5,000 USD",
+        "source": "Iceland Ocean Cluster",
+        "session": "session-2"
+      },
+      {
+        "stat": "Royal Greenland share of Greenland GDP",
+        "value": "35%",
+        "source": "Kristian Ottesen",
+        "session": "session-2"
+      },
+      {
+        "stat": "Royal Greenland employees total",
+        "value": "2,400",
+        "source": "Kristian Ottesen",
+        "session": "session-2"
+      },
+      {
+        "stat": "Royal Greenland production sites",
+        "value": "38 outposts",
+        "source": "Kristian Ottesen",
+        "session": "session-2"
+      },
+      {
+        "stat": "Side stream calcium vs fillet",
+        "value": "20x more",
+        "source": "Hylia Nordic",
+        "session": "session-2"
+      },
+      {
+        "stat": "Side stream zinc vs fillet",
+        "value": "10x more",
+        "source": "Hylia Nordic",
+        "session": "session-2"
+      }
+    ],
+    "construction": [
+      {
+        "stat": "Denmark new construction reduction needed",
+        "value": "80% by 2030",
+        "source": "2025 paper",
+        "session": "day2-construction"
+      },
+      {
+        "stat": "Norway material use reduction needed",
+        "value": "72% by 2030",
+        "source": "2024 report",
+        "session": "day2-construction"
+      },
+      {
+        "stat": "Amsterdam circular construction target",
+        "value": "50% by 2030",
+        "source": "Jan Thomas Odegard",
+        "session": "day2-construction"
+      },
+      {
+        "stat": "Greenland renovation cost vs new construction",
+        "value": "~50%",
+        "source": "Session 5",
+        "session": "session-5"
+      },
+      {
+        "stat": "Unused buildings in Norway districts",
+        "value": "200,000+",
+        "source": "Natural State report",
+        "session": "day2-construction"
+      },
+      {
+        "stat": "Potential housing from splitting big houses (Norway)",
+        "value": "130,000",
+        "source": "Jan Thomas Odegard",
+        "session": "day2-construction"
+      },
+      {
+        "stat": "Iceland buildings made of concrete",
+        "value": "~80%",
+        "source": "Anna Karlsdottir",
+        "session": "day2-construction"
+      },
+      {
+        "stat": "Iceland recycling ratio (2015-2020)",
+        "value": "88%",
+        "source": "Icelandic roadmap",
+        "session": "day2-construction"
+      }
+    ],
+    "textiles": [
+      {
+        "stat": "Danish sector collaboration signatories",
+        "value": "~40 companies",
+        "source": "Jonas Eder-Hansen",
+        "session": "day2-nbtt-textiles"
+      },
+      {
+        "stat": "2030 recycled content target (Denmark)",
+        "value": "40%",
+        "source": "Danish sector collaboration",
+        "session": "day2-nbtt-textiles"
+      },
+      {
+        "stat": "2030 fiber-to-fiber target (Denmark)",
+        "value": "10%",
+        "source": "Danish sector collaboration",
+        "session": "day2-nbtt-textiles"
+      },
+      {
+        "stat": "Textile export to Africa/Asia",
+        "value": "~80%",
+        "source": "Kerli Kant Hvass",
+        "session": "day2-nbtt-textiles"
+      }
+    ],
+    "economic": [
+      {
+        "stat": "EU remanufacturing market (current)",
+        "value": "€31 billion",
+        "source": "Session 3",
+        "session": "session-3"
+      },
+      {
+        "stat": "EU remanufacturing market (2030 potential)",
+        "value": "€100 billion",
+        "source": "Session 3",
+        "session": "session-3"
+      },
+      {
+        "stat": "Remanufacturing job creation potential",
+        "value": "500,000 jobs",
+        "source": "Session 3",
+        "session": "session-3"
+      },
+      {
+        "stat": "Nordic Investment Bank balance sheet",
+        "value": "€45 billion",
+        "source": "Luca De Lorenzo",
+        "session": "session-3"
+      },
+      {
+        "stat": "Nordic Investment Bank annual lending",
+        "value": "€4 billion",
+        "source": "Luca De Lorenzo",
+        "session": "session-3"
+      }
+    ],
+    "geographic": [
+      {
+        "stat": "Greenland population (% of world)",
+        "value": "0.00068%",
+        "source": "Inooraq Brandt",
+        "session": "session-1"
+      },
+      {
+        "stat": "Arctic population",
+        "value": "4 million",
+        "source": "Cathrine Barth",
+        "session": "session-3"
+      },
+      {
+        "stat": "World biodiversity in indigenous lands",
+        "value": "80%",
+        "source": "Patrick Schroeder",
+        "session": "session-3"
+      },
+      {
+        "stat": "Nordic market population",
+        "value": "28 million",
+        "source": "Session 1",
+        "session": "session-1"
+      },
+      {
+        "stat": "Nordic-Baltic region population",
+        "value": "~36 million",
+        "source": "Calculated",
+        "session": "day2-nbtt-textiles"
+      }
+    ],
+    "networks_collaboration": [
+      {
+        "stat": "Iceland Ocean Cluster companies",
+        "value": "70+",
+        "source": "Alexandra Leeper",
+        "session": "session-2"
+      },
+      {
+        "stat": "Iceland Ocean Cluster sister countries",
+        "value": "12",
+        "source": "Alexandra Leeper",
+        "session": "session-2"
+      },
+      {
+        "stat": "ACT Cluster partners",
+        "value": "119",
+        "source": "Session 2",
+        "session": "session-2"
+      },
+      {
+        "stat": "ACT Cluster years of operation",
+        "value": "8 years",
+        "source": "Session 2",
+        "session": "session-2"
+      },
+      {
+        "stat": "Cesis bioregion institutions",
+        "value": "13",
+        "source": "Inese Suija-Markova",
+        "session": "session-5"
+      },
+      {
+        "stat": "Cesis memorandum crafting time",
+        "value": "1 year",
+        "source": "Inese Suija-Markova",
+        "session": "session-5"
+      },
+      {
+        "stat": "Regeneration 2030 member organizations",
+        "value": "18",
+        "source": "Keira Dignan",
+        "session": "session-1"
+      },
+      {
+        "stat": "Circular Furniture Network brands (Denmark)",
+        "value": "30",
+        "source": "Session 1",
+        "session": "session-1"
+      }
+    ],
+    "summit_metrics": [
+      {
+        "stat": "Day 1 sessions",
+        "value": "6",
+        "source": "Summit program",
+        "session": "all"
+      },
+      {
+        "stat": "Day 2 documented sessions",
+        "value": "3",
+        "source": "Transcripts",
+        "session": "all"
+      },
+      {
+        "stat": "Total speakers",
+        "value": "50+",
+        "source": "Speaker database",
+        "session": "all"
+      },
+      {
+        "stat": "Organizations mapped",
+        "value": "85+",
+        "source": "Intelligence hub",
+        "session": "all"
+      },
+      {
+        "stat": "Social media posts created",
+        "value": "80+",
+        "source": "Content production",
+        "session": "all"
+      },
+      {
+        "stat": "Countries represented",
+        "value": "10+",
+        "source": "Speaker data",
+        "session": "all"
+      }
+    ],
+    "targets_timelines": [
+      {
+        "stat": "Nordic 2030 vision",
+        "value": "Most sustainable and integrated region",
+        "source": "Nordic Council",
+        "session": "multiple"
+      },
+      {
+        "stat": "Paris Agreement CO2 reduction",
+        "value": "55% by 2030",
+        "source": "Session 3",
+        "session": "session-3"
+      },
+      {
+        "stat": "DPP mandatory (all products)",
+        "value": "2030",
+        "source": "Session 4",
+        "session": "session-4"
+      },
+      {
+        "stat": "EU LCA requirement (all buildings)",
+        "value": "2030",
+        "source": "Session 5",
+        "session": "session-5"
+      }
+    ]
+  }
+}

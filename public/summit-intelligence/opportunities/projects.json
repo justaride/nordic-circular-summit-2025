@@ -1,0 +1,294 @@
+{
+  "metadata": {
+    "description": "Projects mentioned, launched, or proposed at Nordic Circular Summit 2025",
+    "last_updated": "2025-11-28",
+    "purpose": "NCH project development pipeline and follow-up tracking"
+  },
+  "projects": [
+    {
+      "id": "nbtt-group",
+      "name": "Nordic-Baltic Textile Transition Group",
+      "status": "launched",
+      "type": "network",
+      "sector": "textiles",
+      "lead_organization": "lifestyle-design-cluster",
+      "partners": ["baltic-circular-hotspot", "aalborg-university", "finnish-textile-fashion"],
+      "countries": ["Denmark", "Norway", "Sweden", "Finland", "Iceland", "Estonia", "Latvia", "Lithuania"],
+      "description": "Regional platform for textile sector collaboration on circularity",
+      "goals": [
+        "Share best practices across Nordic-Baltic",
+        "Coordinate EPR implementation",
+        "Develop regional infrastructure",
+        "Harmonize DPP readiness"
+      ],
+      "activities_planned": [
+        "2 online seminars annually",
+        "1 physical conference (Riga, summer 2026)",
+        "Steering committee meetings"
+      ],
+      "timeline": "2025-ongoing",
+      "nch_role": "potential_coordinator",
+      "nch_opportunity": "Co-coordination, communication support, data/research",
+      "next_actions": [
+        "Submit topic suggestions before Dec 1, 2025",
+        "Join mailing list",
+        "Explore steering committee participation"
+      ],
+      "contacts": ["frederik-thrane", "betina-simonsen", "kerli-kant-hvass"],
+      "funding_status": "seeking",
+      "priority": "high"
+    },
+    {
+      "id": "nordic-circular-construction",
+      "name": "Nordic Circular Construction",
+      "status": "active",
+      "type": "project",
+      "sector": "construction",
+      "lead_organization": "natural-state",
+      "funder": "nordic-innovation",
+      "partners": ["16 companies"],
+      "countries": ["Norway", "Denmark", "Sweden", "Finland", "Iceland"],
+      "description": "Supporting 16 companies to upscale circular construction solutions in Nordics",
+      "goals": [
+        "Create circular construction product catalog (15→100 solutions)",
+        "Develop market accelerator program",
+        "Connect supply with demand"
+      ],
+      "achievements": [
+        "15 solutions catalogued",
+        "Company network established"
+      ],
+      "timeline": "2024-2026",
+      "nch_role": "potential_partner",
+      "nch_opportunity": "Platform/distribution, catalog hosting, communication",
+      "next_actions": [
+        "Explore catalog integration with NCH platform",
+        "Discuss co-promotion opportunities"
+      ],
+      "contacts": ["jan-thomas-odegard", "cathrine-barth"],
+      "funding_status": "funded",
+      "priority": "high"
+    },
+    {
+      "id": "nordic-sustainable-construction-network",
+      "name": "Nordic Sustainable Construction Network",
+      "status": "active",
+      "type": "government_collaboration",
+      "sector": "construction",
+      "lead_organization": "danish-authority-housing",
+      "funder": "nordic-council-of-ministers",
+      "partners": ["All Nordic country construction authorities"],
+      "countries": ["Denmark", "Norway", "Sweden", "Finland", "Iceland", "Faroe Islands", "Greenland"],
+      "description": "Nordic government collaboration on sustainable construction policy",
+      "goals": [
+        "Harmonize Nordic construction regulations",
+        "Develop assessment methods for reused products",
+        "Create education materials"
+      ],
+      "work_packages": [
+        "Existing building stock optimization",
+        "Reused products assessment",
+        "Workforce skills development"
+      ],
+      "achievements": [
+        "9 policy measures identified",
+        "Online education in 6 languages",
+        "Nordic Climate Forum for Construction"
+      ],
+      "timeline": "2021-2027",
+      "nch_role": "observer",
+      "nch_opportunity": "Knowledge dissemination, business engagement",
+      "contacts": ["helle-redder-momsen"],
+      "funding_status": "funded",
+      "priority": "medium"
+    },
+    {
+      "id": "circular-design-toolbox",
+      "name": "Circular Design Toolbox",
+      "status": "launched",
+      "type": "tool",
+      "sector": "cross_sectoral",
+      "lead_organization": "hi-advisory",
+      "funder": "enterprise-estonia",
+      "countries": ["Estonia", "Nordic-Baltic (target)"],
+      "description": "15-tool methodology for companies transitioning to circular business models",
+      "goals": [
+        "Enable companies to self-assess circular maturity",
+        "Provide step-by-step design process",
+        "Scale across Nordic-Baltic region"
+      ],
+      "features": [
+        "Circularity Ladder (5 levels)",
+        "R Strategies framework",
+        "Circular Business Model Canvas"
+      ],
+      "availability": "Open-source, Enterprise Estonia website",
+      "timeline": "2025-ongoing",
+      "nch_role": "potential_deployer",
+      "nch_opportunity": "Regional deployment, training programs, sector adaptation",
+      "next_actions": [
+        "Explore partnership for Nordic deployment",
+        "Identify pilot companies",
+        "Develop sector-specific versions"
+      ],
+      "contacts": ["dan-mikkin", "maarja-karlson"],
+      "funding_status": "funded",
+      "priority": "high"
+    },
+    {
+      "id": "arccirc",
+      "name": "ArcCirc - Arctic Circular Economy Resource Centre",
+      "status": "proposed",
+      "type": "institution",
+      "sector": "cross_sectoral",
+      "proposed_by": "cathrine-barth",
+      "session_source": "session-3",
+      "countries": ["Arctic region (4 million population)"],
+      "description": "Arctic version of EU CERC to ensure Arctic residents are active partners in circular transition",
+      "proposed_functions": [
+        "Policy lab (Arctic-adapted frameworks)",
+        "Business lab (Arctic circular enterprises)",
+        "Knowledge lab (peer learning, traditional wisdom)"
+      ],
+      "rationale": [
+        "Arctic population 0.05% of world but critical for transition",
+        "Risk of linear lock-in while rest of world transitions",
+        "EU programs too complicated for small Arctic entities",
+        "80% of biodiversity in indigenous lands"
+      ],
+      "timeline": "Concept stage",
+      "nch_role": "potential_initiator",
+      "nch_opportunity": "Lead development, convene stakeholders, secure funding",
+      "next_actions": [
+        "Develop concept note",
+        "Identify potential funders",
+        "Convene Arctic stakeholders"
+      ],
+      "contacts": ["cathrine-barth"],
+      "funding_status": "seeking",
+      "priority": "high"
+    },
+    {
+      "id": "100-percent-fish",
+      "name": "100% Fish / 100% Shrimp",
+      "status": "active",
+      "type": "methodology",
+      "sector": "seafood",
+      "lead_organization": "iceland-ocean-cluster",
+      "partners": ["royal-greenland", "danish-ocean-cluster", "norwegian-partners"],
+      "countries": ["Iceland", "Greenland", "Denmark", "Norway"],
+      "description": "Methodology for complete utilization of fish/seafood",
+      "achievements": [
+        "Atlantic cod value: $12 → $5,000",
+        "45% → 90%+ utilization in Iceland",
+        "Royal Greenland chitosan transformation"
+      ],
+      "timeline": "Ongoing",
+      "nch_role": "knowledge_sharing",
+      "nch_opportunity": "Case study documentation, methodology spread to other sectors",
+      "contacts": ["alexandra-leeper", "kristian-ottesen"],
+      "funding_status": "various",
+      "priority": "medium"
+    },
+    {
+      "id": "future-matters-iceland",
+      "name": "Future Matters",
+      "status": "active",
+      "type": "research",
+      "sector": "construction",
+      "lead_organization": "ludica-architects",
+      "partners": ["Trípuli architectar", "Gísli Rafa Magnusson"],
+      "countries": ["Iceland"],
+      "description": "Research project exploring Iceland's architectural heritage and future material pathways",
+      "goals": [
+        "Document Icelandic material heritage",
+        "Identify local material alternatives",
+        "Create toolkit for change"
+      ],
+      "timeline": "2025-ongoing",
+      "nch_role": "knowledge_sharing",
+      "nch_opportunity": "Research collaboration, Nordic expansion",
+      "contacts": ["anna-karlsdottir"],
+      "funding_status": "seeking",
+      "priority": "medium"
+    },
+    {
+      "id": "danish-sector-collaboration-textiles",
+      "name": "Danish Voluntary Sector Collaboration on Textiles",
+      "status": "active",
+      "type": "sector_initiative",
+      "sector": "textiles",
+      "lead_organization": "lifestyle-design-cluster",
+      "countries": ["Denmark"],
+      "description": "Pre-competitive collaboration of 40 Danish textile companies",
+      "goals": [
+        "40% recycled content by 2030",
+        "10% fiber-to-fiber by 2030",
+        "Circular design adoption"
+      ],
+      "model_for": "Nordic-Baltic expansion",
+      "timeline": "2022-2030",
+      "nch_role": "learning",
+      "nch_opportunity": "Replicate model for other sectors",
+      "contacts": ["jonas-eder-hansen", "frederik-thrane"],
+      "funding_status": "self-funded",
+      "priority": "medium"
+    },
+    {
+      "id": "cesis-bioregion",
+      "name": "Cesis Bioregion",
+      "status": "active",
+      "type": "territorial",
+      "sector": "cross_sectoral",
+      "lead_organization": "cesis-municipality",
+      "partners": ["4 municipalities", "13 institutions"],
+      "countries": ["Latvia"],
+      "description": "First bioregion in Baltic states - voluntary alliance around Gauja National Park",
+      "achievements": [
+        "13-institution memorandum (1 year to craft)",
+        "6 bioregion principles",
+        "8 working directions"
+      ],
+      "timeline": "2024-ongoing",
+      "nch_role": "learning",
+      "nch_opportunity": "Model replication, knowledge exchange",
+      "contacts": ["inese-suija-markova"],
+      "funding_status": "public",
+      "priority": "low"
+    },
+    {
+      "id": "textended",
+      "name": "Textended",
+      "status": "active",
+      "type": "research",
+      "sector": "textiles",
+      "funder": "EU Horizon",
+      "countries": ["EU/Nordic-Baltic"],
+      "description": "EU Horizon project with budget for regional textile data collection",
+      "synergies": ["nbtt-group"],
+      "timeline": "2025-ongoing",
+      "nch_role": "potential_partner",
+      "nch_opportunity": "Data collaboration, research input",
+      "contacts": ["kerli-kant-hvass"],
+      "funding_status": "funded",
+      "priority": "medium"
+    }
+  ],
+  "summary": {
+    "total_projects": 11,
+    "by_status": {
+      "launched": 2,
+      "active": 7,
+      "proposed": 1
+    },
+    "by_sector": {
+      "textiles": 4,
+      "construction": 4,
+      "cross_sectoral": 2,
+      "seafood": 1
+    },
+    "nch_high_priority": 4,
+    "nch_medium_priority": 5,
+    "nch_low_priority": 2
+  }
+}

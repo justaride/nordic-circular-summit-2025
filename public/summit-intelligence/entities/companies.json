@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "description": "Companies with circular solutions mentioned at Nordic Circular Summit 2025",
+    "last_updated": "2025-11-28",
+    "total_count": 32,
+    "purpose": "Pipeline for NCH company engagement and project development"
+  },
+  "companies": [
+    {
+      "id": "royal-greenland",
+      "name": "Royal Greenland",
+      "sector": "seafood",
+      "country": "Greenland",
+      "size": "large",
+      "circular_solution": "100% utilization of seafood, chitosan production from shrimp waste",
+      "maturity": "scaled",
+      "session_source": "session-2",
+      "key_metrics": {
+        "gdp_share": "35%",
+        "employees_total": 2400,
+        "employees_greenland": 1200,
+        "production_sites": 38
+      },
+      "achievements": ["Loss-making shrimp meal → profitable chitosan", "Complete utilization model"],
+      "contact": "kristian-ottesen",
+      "follow_up_potential": "Case study, knowledge sharing"
+    },
+    {
+      "id": "hylia-nordic",
+      "name": "Hylia Nordic",
+      "sector": "food_tech",
+      "country": "Nordic",
+      "size": "startup",
+      "circular_solution": "Converting seafood side streams to retail nutrition products",
+      "maturity": "scaling",
+      "session_source": "session-2",
+      "key_metrics": {
+        "retail_products": 8
+      },
+      "achievements": ["Side stream nutrition (20x calcium, 10x zinc vs fillet)", "Retail products launched"],
+      "contact": "michaela-lindstrom",
+      "follow_up_potential": "Investment connection, expansion support"
+    },
+    {
+      "id": "grevilliot",
+      "name": "Grevilliot / Qiviut",
+      "sector": "textiles",
+      "country": "Greenland",
+      "size": "sme",
+      "circular_solution": "100% local materials from musk ox and seal, complete traceability",
+      "maturity": "scaled",
+      "session_source": "session-4",
+      "key_metrics": {
+        "local_sourcing": "100%",
+        "traceability": "complete",
+        "return_rate": "minimal"
+      },
+      "achievements": ["Sold out consistently", "Cultural decolonization through material reclamation"],
+      "contact": "mia-chemnitz",
+      "follow_up_potential": "Showcase example, DPP pioneer"
+    },
+    {
+      "id": "ludvig-svensson",
+      "name": "Ludvig Svensson",
+      "sector": "textiles",
+      "country": "Sweden",
+      "size": "large",
+      "circular_solution": "Full vertical integration enabling easy DPP compliance",
+      "maturity": "scaled",
+      "session_source": "session-4",
+      "key_metrics": {
+        "company_age": 137,
+        "production_model": "full_in_house"
+      },
+      "achievements": ["DPP-ready", "Complete supply chain control"],
+      "contact": "tilda-larsson",
+      "follow_up_potential": "DPP best practice sharing"
+    },
+    {
+      "id": "ludica-architects",
+      "name": "Ludica Architects",
+      "sector": "construction",
+      "country": "Iceland",
+      "size": "sme",
+      "circular_solution": "Bio-based construction, hempcrete, design for disassembly",
+      "maturity": "piloting",
+      "session_source": "day2-construction",
+      "projects": ["hamkrid-hempcrete", "future-matters"],
+      "achievements": ["Iceland's first hempcrete building", "Local material research"],
+      "contact": "anna-karlsdottir",
+      "follow_up_potential": "Research collaboration, Nordic expansion"
+    },
+    {
+      "id": "hi-advisory",
+      "name": "HI Advisory",
+      "sector": "consulting",
+      "country": "Estonia",
+      "size": "sme",
+      "circular_solution": "Circular Design Toolbox - 15-tool methodology",
+      "maturity": "scaled",
+      "session_source": "day2-design-toolbox",
+      "tools": ["circular-design-toolbox"],
+      "achievements": ["Open-source toolbox", "Tested with companies"],
+      "contact": "dan-mikkin",
+      "follow_up_potential": "Toolbox deployment partnership, regional training"
+    },
+    {
+      "id": "bricks-denmark",
+      "name": "Bricks",
+      "sector": "construction",
+      "country": "Denmark",
+      "size": "sme",
+      "circular_solution": "Reclaimed bricks for construction",
+      "maturity": "scaling",
+      "session_source": "day2-construction",
+      "distribution": "Available through Stark (Home Depot)",
+      "contact": null,
+      "follow_up_potential": "Catalog inclusion"
+    },
+    {
+      "id": "nester-denmark",
+      "name": "Nester",
+      "sector": "construction",
+      "country": "Denmark",
+      "size": "sme",
+      "circular_solution": "Bike sheds from reclaimed wood, collaboration with demolition companies",
+      "maturity": "scaling",
+      "session_source": "day2-construction",
+      "contact": null,
+      "follow_up_potential": "Catalog inclusion"
+    },
+    {
+      "id": "entree-norway",
+      "name": "Entree",
+      "sector": "construction",
+      "country": "Norway",
+      "size": "sme",
+      "circular_solution": "Building materials from reclaimed wood",
+      "maturity": "scaling",
+      "session_source": "day2-construction",
+      "contact": null,
+      "follow_up_potential": "Catalog inclusion"
+    },
+    {
+      "id": "carbonade",
+      "name": "Carbonade",
+      "sector": "construction",
+      "country": "Nordic",
+      "size": "startup",
+      "circular_solution": "Precast concrete with captured CO2",
+      "maturity": "piloting",
+      "session_source": "day2-construction",
+      "contact": null,
+      "follow_up_potential": "Catalog inclusion, investment connection"
+    },
+    {
+      "id": "nordic-circle",
+      "name": "Nordic Circle",
+      "sector": "construction",
+      "country": "Nordic",
+      "size": "sme",
+      "circular_solution": "Steel beams from marine steel",
+      "maturity": "scaling",
+      "session_source": "day2-construction",
+      "contact": null,
+      "follow_up_potential": "Catalog inclusion"
+    },
+    {
+      "id": "bilt",
+      "name": "Bilt",
+      "sector": "construction",
+      "country": "Nordic",
+      "size": "sme",
+      "circular_solution": "Building renovation and transformation specialization",
+      "maturity": "scaled",
+      "session_source": "day2-construction",
+      "contact": null,
+      "follow_up_potential": "Catalog inclusion"
+    },
+    {
+      "id": "recircle",
+      "name": "ReCircle",
+      "sector": "construction",
+      "country": "Nordic",
+      "size": "sme",
+      "circular_solution": "Leading renovation/rehabilitation company",
+      "maturity": "scaled",
+      "session_source": "day2-construction",
+      "contact": null,
+      "follow_up_potential": "Catalog inclusion"
+    },
+    {
+      "id": "make-a-bim",
+      "name": "Make a BIM",
+      "sector": "construction_tech",
+      "country": "Finland",
+      "size": "startup",
+      "circular_solution": "AI-powered BIM model creation for existing buildings",
+      "maturity": "scaling",
+      "session_source": "day2-construction",
+      "contact": null,
+      "follow_up_potential": "Tech partnership"
+    },
+    {
+      "id": "fira-finland",
+      "name": "FIRA",
+      "sector": "construction",
+      "country": "Finland",
+      "size": "sme",
+      "circular_solution": "Interior and Fabric Air Ventilation",
+      "maturity": "scaled",
+      "session_source": "day2-construction",
+      "contact": null,
+      "follow_up_potential": "Catalog inclusion"
+    },
+    {
+      "id": "steinull-iceland",
+      "name": "Steinull",
+      "sector": "construction",
+      "country": "Iceland",
+      "size": "sme",
+      "circular_solution": "Insulation from volcanic sand using renewable energy",
+      "maturity": "scaled",
+      "session_source": "day2-construction",
+      "achievements": ["Exporting product"],
+      "contact": null,
+      "follow_up_potential": "Catalog inclusion"
+    },
+    {
+      "id": "lumina-sustainable",
+      "name": "Lumina Sustainable Materials",
+      "sector": "materials",
+      "country": "Greenland",
+      "size": "startup",
+      "circular_solution": "Sustainable materials from Greenlandic resources",
+      "maturity": "developing",
+      "session_source": "day2-materials-governance",
+      "contact": "bent-olsvig-jensen",
+      "follow_up_potential": "Arctic materials project"
+    },
+    {
+      "id": "ferc-denmark",
+      "name": "FERC Denmark",
+      "sector": "various",
+      "country": "Denmark",
+      "size": "sme",
+      "circular_solution": "Circular business models",
+      "maturity": "scaled",
+      "session_source": "session-3",
+      "contact": null,
+      "follow_up_potential": "Case study"
+    },
+    {
+      "id": "otokumpu",
+      "name": "OtoKumpu",
+      "sector": "steel",
+      "country": "Finland",
+      "size": "large",
+      "circular_solution": "Circular steel production",
+      "maturity": "scaled",
+      "session_source": "session-3",
+      "contact": null,
+      "follow_up_potential": "Case study"
+    }
+  ],
+  "by_sector": {
+    "construction": 12,
+    "textiles": 2,
+    "seafood": 1,
+    "food_tech": 1,
+    "consulting": 1,
+    "materials": 1,
+    "steel": 1,
+    "other": 1
+  },
+  "by_maturity": {
+    "scaled": 8,
+    "scaling": 6,
+    "piloting": 2,
+    "developing": 1
+  },
+  "by_country": {
+    "Denmark": 3,
+    "Finland": 3,
+    "Nordic": 4,
+    "Iceland": 2,
+    "Greenland": 3,
+    "Sweden": 1,
+    "Estonia": 1,
+    "Norway": 2
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "description": "Funding sources and opportunities relevant to Nordic Circular Summit 2025 outcomes",
+    "last_updated": "2025-11-28",
+    "purpose": "Support NCH and partners in project development and funding applications"
+  },
+  "funding_sources": [
+    {
+      "id": "nordic-innovation",
+      "name": "Nordic Innovation",
+      "type": "public_agency",
+      "geography": "Nordic",
+      "focus_areas": ["circular economy", "business development", "innovation"],
+      "relevance": "high",
+      "mentioned_at_summit": true,
+      "current_programs": [
+        {
+          "name": "Circular Business Models Programme",
+          "description": "Accelerating circular transition in Nordic region",
+          "contact": "marthe-haugland"
+        },
+        {
+          "name": "Nordic Circular Construction",
+          "description": "Supporting 16 companies in circular construction",
+          "status": "active"
+        }
+      ],
+      "application_tips": "Focus on cross-Nordic collaboration, business model innovation",
+      "website": "https://www.nordicinnovation.org"
+    },
+    {
+      "id": "nordic-council-of-ministers",
+      "name": "Nordic Council of Ministers",
+      "type": "intergovernmental",
+      "geography": "Nordic",
+      "focus_areas": ["policy coordination", "research", "sustainable development"],
+      "relevance": "high",
+      "mentioned_at_summit": true,
+      "current_programs": [
+        {
+          "name": "Nordic Sustainable Construction Network",
+          "description": "Government collaboration on construction policy",
+          "timeline": "2021-2027"
+        },
+        {
+          "name": "Textile waste flow mapping",
+          "description": "Nordic Council funded research",
+          "status": "completed"
+        }
+      ],
+      "application_tips": "Government/institutional applicants, policy relevance",
+      "website": "https://www.norden.org"
+    },
+    {
+      "id": "sitra",
+      "name": "The Finnish Innovation Fund Sitra",
+      "type": "innovation_fund",
+      "geography": "Finland / Nordic / Global",
+      "focus_areas": ["circular economy", "systemic change", "future prosperity"],
+      "relevance": "high",
+      "mentioned_at_summit": true,
+      "key_initiatives": [
+        "World Circular Economy Forum",
+        "Circular economy research",
+        "Policy development"
+      ],
+      "contact": "mika-sulkinoja",
+      "application_tips": "Systems-level impact, Finnish connection beneficial",
+      "website": "https://www.sitra.fi"
+    },
+    {
+      "id": "nib",
+      "name": "Nordic Investment Bank",
+      "type": "development_bank",
+      "geography": "Nordic-Baltic",
+      "focus_areas": ["productivity", "environment", "infrastructure"],
+      "relevance": "high",
+      "mentioned_at_summit": true,
+      "financial_capacity": {
+        "balance_sheet": "€45 billion",
+        "annual_lending": "€4 billion"
+      },
+      "contact": "luca-de-lorenzo",
+      "application_tips": "Infrastructure projects, environmental benefits, productivity gains",
+      "notes": "Longer timelines accepted for circular investments",
+      "website": "https://www.nib.int"
+    },
+    {
+      "id": "enterprise-estonia",
+      "name": "Enterprise Estonia / Estonian Business and Innovation Agency",
+      "type": "government_agency",
+      "geography": "Estonia",
+      "focus_areas": ["business development", "innovation", "exports"],
+      "relevance": "medium",
+      "mentioned_at_summit": true,
+      "example_funded": "Circular Design Toolbox (HI Advisory)",
+      "notes": "Good for Estonian partners or Estonia-focused activities"
+    },
+    {
+      "id": "horizon-europe",
+      "name": "Horizon Europe",
+      "type": "eu_programme",
+      "geography": "EU/Associated countries",
+      "focus_areas": ["research", "innovation", "green transition"],
+      "relevance": "high",
+      "mentioned_at_summit": true,
+      "relevant_clusters": [
+        "Climate, Energy and Mobility",
+        "Food, Bioeconomy, Natural Resources",
+        "Digital, Industry and Space"
+      ],
+      "example_funded": "Textended project",
+      "application_tips": "Strong consortia, TRL advancement, impact metrics",
+      "notes": "Anders Ladefoged noted EU programs 'extremely complicated' for small Arctic entities"
+    },
+    {
+      "id": "interreg",
+      "name": "Interreg Programmes",
+      "type": "eu_programme",
+      "geography": "EU cross-border",
+      "focus_areas": ["territorial cooperation", "regional development"],
+      "relevance": "medium",
+      "relevant_programs": [
+        "Interreg Baltic Sea Region",
+        "Interreg Northern Periphery and Arctic (NPA)",
+        "Interreg North"
+      ],
+      "application_tips": "Cross-border partnerships, regional impact"
+    },
+    {
+      "id": "nora",
+      "name": "NORA (Nordic Atlantic Cooperation)",
+      "type": "intergovernmental",
+      "geography": "Nordic Atlantic (Greenland, Iceland, Faroe Islands, coastal Norway)",
+      "focus_areas": ["regional development", "innovation", "sustainability"],
+      "relevance": "medium",
+      "mentioned_at_summit": true,
+      "notes": "Mentioned by Gorm Vold as funding source for Greenland projects"
+    },
+    {
+      "id": "national-programs",
+      "name": "National Circular Economy Programs",
+      "type": "national",
+      "geography": "Various",
+      "examples": [
+        {
+          "country": "Denmark",
+          "program": "Textile National Action Plan",
+          "status": "Active (in Fiscal Act 2024)"
+        },
+        {
+          "country": "Finland",
+          "program": "National Circular Economy Programme",
+          "status": "Active"
+        },
+        {
+          "country": "Norway",
+          "program": "Various ministry programs",
+          "status": "Active"
+        }
+      ],
+      "notes": "75+ national CE roadmaps globally (Chatham House)"
+    },
+    {
+      "id": "private-investment",
+      "name": "Private Circular Economy Investment",
+      "type": "private",
+      "geography": "Global",
+      "mentioned_at_summit": true,
+      "challenges_noted": [
+        "Circular investments seen as more risky",
+        "Require more time than software solutions",
+        "Need hybrid public-private models"
+      ],
+      "solutions_discussed": [
+        "Off-take guarantees",
+        "Floor prices",
+        "Recycled content requirements",
+        "Blended finance"
+      ],
+      "contact": "alisa-mick"
+    }
+  ],
+  "funding_opportunities": [
+    {
+      "id": "nbtt-coordination",
+      "project": "Nordic-Baltic Textile Transition Group coordination",
+      "potential_funders": ["nordic-innovation", "nordic-council-of-ministers"],
+      "estimated_need": "€200-500K annually",
+      "status": "seeking",
+      "nch_role": "potential_applicant"
+    },
+    {
+      "id": "arccirc-development",
+      "project": "ArcCirc concept development",
+      "potential_funders": ["nordic-innovation", "nora", "horizon-europe"],
+      "estimated_need": "€1-2M for establishment",
+      "status": "concept_stage",
+      "nch_role": "potential_lead"
+    },
+    {
+      "id": "circular-catalog-expansion",
+      "project": "Nordic Circular Construction Catalog expansion",
+      "potential_funders": ["nordic-innovation"],
+      "status": "funded_core",
+      "additional_needs": "Platform development, marketing"
+    },
+    {
+      "id": "toolbox-nordic-deployment",
+      "project": "Circular Design Toolbox Nordic deployment",
+      "potential_funders": ["nordic-innovation", "national-programs"],
+      "estimated_need": "€100-300K",
+      "status": "opportunity",
+      "nch_role": "potential_applicant"
+    }
+  ],
+  "application_calendar": {
+    "ongoing": ["Nordic Innovation (rolling)", "National programs"],
+    "annual": ["Horizon Europe calls (check specific deadlines)"],
+    "periodic": ["Interreg (program-specific)", "NORA"]
+  },
+  "nch_funding_strategy": {
+    "priority_1": "Secure coordination role for NBTT Group",
+    "priority_2": "Lead ArcCirc concept development",
+    "priority_3": "Partner on Horizon Europe applications",
+    "priority_4": "National program alignment"
+  }
+}

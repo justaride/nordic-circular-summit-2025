@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "description": "KPI framework for measuring Nordic Circular Summit 2025 impact",
+    "last_updated": "2025-11-28",
+    "version": "1.0",
+    "status_legend": {
+      "captured": "Data available and recorded",
+      "pending": "Data expected but not yet received",
+      "tbd": "Data source/method to be determined"
+    }
+  },
+  "categories": {
+    "reach": {
+      "description": "How many people did the summit reach?",
+      "metrics": [
+        {
+          "id": "in-person-attendees",
+          "name": "In-person Attendees",
+          "value": null,
+          "status": "pending",
+          "target": 100,
+          "source": "Registration data",
+          "notes": "Day 1 physical attendance in Nuuk"
+        },
+        {
+          "id": "online-viewers-live",
+          "name": "Online Viewers (Live)",
+          "value": null,
+          "status": "pending",
+          "target": null,
+          "source": "Stream analytics",
+          "notes": "Combined Day 1 and Day 2 live viewers"
+        },
+        {
+          "id": "recording-views-day1",
+          "name": "Day 1 Recording Views",
+          "value": null,
+          "status": "tbd",
+          "target": null,
+          "source": "YouTube analytics",
+          "notes": "Post-event views of Day 1 sessions"
+        },
+        {
+          "id": "recording-views-day2",
+          "name": "Day 2 Recording Views",
+          "value": null,
+          "status": "tbd",
+          "target": null,
+          "source": "YouTube analytics",
+          "notes": "Post-event views of Day 2 partner sessions"
+        },
+        {
+          "id": "countries-represented",
+          "name": "Countries Represented",
+          "value": 10,
+          "status": "captured",
+          "source": "Speaker/participant data",
+          "notes": "Nordic, Baltic, UK, EU"
+        },
+        {
+          "id": "unique-website-visitors",
+          "name": "Unique Website Visitors",
+          "value": null,
+          "status": "tbd",
+          "source": "Vercel analytics",
+          "notes": "Summit website traffic"
+        }
+      ]
+    },
+    "engagement": {
+      "description": "How engaged were participants?",
+      "metrics": [
+        {
+          "id": "social-mentions-total",
+          "name": "Social Media Mentions",
+          "value": null,
+          "status": "tbd",
+          "source": "Social monitoring",
+          "notes": "All platforms combined"
+        },
+        {
+          "id": "hashtag-usage",
+          "name": "Hashtag Usage (#NordicCircularSummit)",
+          "value": null,
+          "status": "tbd",
+          "source": "Social monitoring"
+        },
+        {
+          "id": "linkedin-engagement",
+          "name": "LinkedIn Post Engagement",
+          "value": null,
+          "status": "tbd",
+          "source": "LinkedIn analytics"
+        },
+        {
+          "id": "questions-asked",
+          "name": "Audience Questions Asked",
+          "value": null,
+          "status": "pending",
+          "source": "Session records"
+        },
+        {
+          "id": "chat-messages",
+          "name": "Chat Messages (Online)",
+          "value": null,
+          "status": "pending",
+          "source": "Stream platform"
+        },
+        {
+          "id": "newsletter-signups",
+          "name": "Newsletter Sign-ups",
+          "value": null,
+          "status": "tbd",
+          "source": "Mailing list",
+          "notes": "NBTT group specifically requested sign-ups"
+        }
+      ]
+    },
+    "content_production": {
+      "description": "What content was produced?",
+      "metrics": [
+        {
+          "id": "sessions-documented",
+          "name": "Sessions Documented",
+          "value": 9,
+          "status": "captured",
+          "breakdown": {
+            "day1_sessions": 6,
+            "day2_sessions": 3
+          }
+        },
+        {
+          "id": "transcripts-produced",
+          "name": "Full Transcripts",
+          "value": 9,
+          "status": "captured"
+        },
+        {
+          "id": "articles-written",
+          "name": "Long-form Articles",
+          "value": 6,
+          "status": "captured",
+          "notes": "Day 1 sessions"
+        },
+        {
+          "id": "executive-summaries",
+          "name": "Executive Summaries",
+          "value": 2,
+          "status": "captured",
+          "breakdown": {
+            "day1": 1,
+            "day2": 1
+          }
+        },
+        {
+          "id": "social-posts-created",
+          "name": "Social Media Posts Created",
+          "value": 83,
+          "status": "captured",
+          "breakdown": {
+            "day1_session_posts": 50,
+            "day1_holistic_posts": 20,
+            "day2_session_posts": 34,
+            "day2_holistic_posts": 15
+          }
+        },
+        {
+          "id": "key-quotes-extracted",
+          "name": "Key Quotes Extracted",
+          "value": 270,
+          "status": "captured",
+          "notes": "Estimate from documentation"
+        },
+        {
+          "id": "statistics-documented",
+          "name": "Statistics/Numbers Documented",
+          "value": 100,
+          "status": "captured",
+          "notes": "In by-the-numbers documents"
+        }
+      ]
+    },
+    "network": {
+      "description": "What network connections were made?",
+      "metrics": [
+        {
+          "id": "speakers-total",
+          "name": "Total Speakers",
+          "value": 50,
+          "status": "captured"
+        },
+        {
+          "id": "organizations-mapped",
+          "name": "Organizations Mapped",
+          "value": 85,
+          "status": "captured"
+        },
+        {
+          "id": "companies-with-solutions",
+          "name": "Companies with Circular Solutions",
+          "value": 32,
+          "status": "captured"
+        },
+        {
+          "id": "new-contacts-nch",
+          "name": "New NCH Contacts",
+          "value": null,
+          "status": "tbd",
+          "source": "CRM/follow-up tracking"
+        },
+        {
+          "id": "business-cards-exchanged",
+          "name": "Business Cards/Contacts Exchanged",
+          "value": null,
+          "status": "tbd",
+          "source": "Post-summit survey"
+        }
+      ]
+    },
+    "outcomes": {
+      "description": "What concrete outcomes emerged?",
+      "metrics": [
+        {
+          "id": "initiatives-launched",
+          "name": "Initiatives Launched",
+          "value": 3,
+          "status": "captured",
+          "items": [
+            "Nordic-Baltic Textile Transition Group",
+            "Nordic Circular Construction Catalog",
+            "Circular Design Toolbox (regional deployment)"
+          ]
+        },
+        {
+          "id": "proposals-made",
+          "name": "Proposals/Suggestions Made",
+          "value": 5,
+          "status": "captured",
+          "items": [
+            "ArcCirc (Arctic CE Resource Centre)",
+            "Nordic EPR harmonization",
+            "Building hierarchy policy adoption",
+            "Regional DPP coordination",
+            "Retrofit-first policy"
+          ]
+        },
+        {
+          "id": "partnerships-formed",
+          "name": "New Partnerships Formed",
+          "value": null,
+          "status": "tbd",
+          "source": "6-month follow-up"
+        },
+        {
+          "id": "projects-started",
+          "name": "Projects Started Post-Summit",
+          "value": null,
+          "status": "tbd",
+          "source": "6-month follow-up"
+        },
+        {
+          "id": "funding-applications",
+          "name": "Funding Applications Submitted",
+          "value": null,
+          "status": "tbd",
+          "source": "Partner reporting"
+        },
+        {
+          "id": "media-coverage",
+          "name": "Media Coverage (Articles)",
+          "value": null,
+          "status": "tbd",
+          "source": "Media monitoring"
+        }
+      ]
+    },
+    "quality": {
+      "description": "How satisfied were participants?",
+      "metrics": [
+        {
+          "id": "overall-satisfaction",
+          "name": "Overall Satisfaction Score",
+          "value": null,
+          "status": "tbd",
+          "source": "Post-summit survey",
+          "scale": "1-10"
+        },
+        {
+          "id": "nps-score",
+          "name": "Net Promoter Score",
+          "value": null,
+          "status": "tbd",
+          "source": "Post-summit survey"
+        },
+        {
+          "id": "content-quality-rating",
+          "name": "Content Quality Rating",
+          "value": null,
+          "status": "tbd",
+          "source": "Post-summit survey"
+        },
+        {
+          "id": "would-attend-again",
+          "name": "Would Attend Again (%)",
+          "value": null,
+          "status": "tbd",
+          "source": "Post-summit survey"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_metrics": 35,
+    "captured": 15,
+    "pending": 5,
+    "tbd": 15,
+    "completion_rate": "43%"
+  },
+  "data_collection_timeline": {
+    "immediate": ["Registration data", "Stream analytics"],
+    "1_week": ["Social media metrics", "Website analytics"],
+    "1_month": ["Survey responses", "Newsletter signups"],
+    "3_months": ["Partnership tracking", "Project starts"],
+    "6_months": ["Funding applications", "Long-term outcomes"]
+  }
+}

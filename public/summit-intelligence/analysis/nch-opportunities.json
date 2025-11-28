@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "description": "Nordic Circular Hotspot strategic opportunities from Summit 2025",
+    "last_updated": "2025-11-28",
+    "purpose": "Guide NCH strategic positioning and project development"
+  },
+  "strategic_roles": {
+    "knowledge_hub": {
+      "description": "Maintain and disseminate summit intelligence, produce regional reports",
+      "activities": [
+        "Maintain Summit Intelligence Hub",
+        "Publish annual 'State of Nordic-Baltic Circular Economy'",
+        "Provide data services to partners",
+        "Document case studies and best practices"
+      ],
+      "resources_needed": "Data management, research capacity, communication",
+      "revenue_potential": "Membership fees, commissioned research, sponsorship"
+    },
+    "network_convener": {
+      "description": "Facilitate connections and collaboration across the region",
+      "activities": [
+        "Host follow-up events and webinars",
+        "Facilitate cross-sector introductions",
+        "Support new network development",
+        "Coordinate Summit 2026"
+      ],
+      "resources_needed": "Event management, relationship management, communication",
+      "revenue_potential": "Event fees, membership, sponsorship"
+    },
+    "project_developer": {
+      "description": "Lead and coordinate funding applications and project implementation",
+      "activities": [
+        "Write funding applications",
+        "Provide project management services",
+        "Offer communication/dissemination support",
+        "Coordinate multi-partner consortia"
+      ],
+      "resources_needed": "Project management, grant writing, administrative capacity",
+      "revenue_potential": "Project fees, overhead recovery, coordination fees"
+    },
+    "policy_interface": {
+      "description": "Aggregate and channel business perspectives to policymakers",
+      "activities": [
+        "Compile industry input on regulations (EPR, DPP, ESPR)",
+        "Coordinate regional positions toward EU",
+        "Support advocacy efforts",
+        "Policy briefings and recommendations"
+      ],
+      "resources_needed": "Policy expertise, stakeholder relationships, communication",
+      "revenue_potential": "Commissioned policy work, membership value"
+    }
+  },
+  "priority_opportunities": [
+    {
+      "id": "nbtt-coordination",
+      "title": "Nordic-Baltic Textile Transition Group Coordination",
+      "description": "Support or co-lead the newly launched textile platform",
+      "nch_role": "Co-coordinator / Communication partner",
+      "partners": ["lifestyle-design-cluster", "baltic-circular-hotspot"],
+      "activities": [
+        "Co-organize online seminars",
+        "Manage communication/outreach",
+        "Develop content and reporting",
+        "Facilitate steering committee"
+      ],
+      "timeline": "Immediate (Dec 2025 deadline for input)",
+      "funding_strategy": "Seek Nordic Innovation funding for coordination role",
+      "priority": "high",
+      "impact": "Position NCH as textile sector anchor",
+      "next_steps": [
+        "Contact Frederik Thrane re: coordination role",
+        "Submit topic suggestions before Dec 1",
+        "Draft funding application outline"
+      ]
+    },
+    {
+      "id": "arccirc-initiative",
+      "title": "ArcCirc Development Initiative",
+      "description": "Lead development of proposed Arctic CE Resource Centre",
+      "nch_role": "Initiator / Lead developer",
+      "partners": ["natural-state", "arctic-stakeholders"],
+      "activities": [
+        "Develop concept note and feasibility study",
+        "Convene Arctic stakeholders",
+        "Secure seed funding",
+        "Design governance structure"
+      ],
+      "timeline": "2026 development, 2027 launch",
+      "funding_strategy": "Nordic Innovation + NORA + Arctic Council",
+      "priority": "high",
+      "impact": "Position NCH as Arctic circular economy leader",
+      "next_steps": [
+        "Discuss with Cathrine Barth (original proposer)",
+        "Map Arctic stakeholders",
+        "Develop 2-page concept note"
+      ]
+    },
+    {
+      "id": "construction-catalog-platform",
+      "title": "Circular Construction Catalog Platform",
+      "description": "Host/distribute Nordic circular construction solutions catalog",
+      "nch_role": "Platform partner / Distribution",
+      "partners": ["natural-state", "nordic-circular-construction"],
+      "activities": [
+        "Integrate catalog with NCH website",
+        "Co-promote solutions",
+        "Connect supply with demand",
+        "Expand from 15 to 100 solutions"
+      ],
+      "timeline": "Q1 2026",
+      "funding_strategy": "Part of existing project, low additional cost",
+      "priority": "high",
+      "impact": "Tangible value proposition for construction sector",
+      "next_steps": [
+        "Meet with Jan Thomas Odegard",
+        "Assess technical integration requirements",
+        "Develop co-promotion plan"
+      ]
+    },
+    {
+      "id": "toolbox-deployment",
+      "title": "Circular Design Toolbox Regional Deployment",
+      "description": "Deploy Estonian toolbox across Nordic-Baltic region",
+      "nch_role": "Deployment partner / Training provider",
+      "partners": ["hi-advisory", "enterprise-estonia"],
+      "activities": [
+        "Organize pilot workshops",
+        "Train NCH team as facilitators",
+        "Adapt for sector-specific use",
+        "Develop digital enhancements"
+      ],
+      "timeline": "2026",
+      "funding_strategy": "Nordic Innovation application",
+      "priority": "medium",
+      "impact": "Practical tool offering for member companies",
+      "next_steps": [
+        "Contact Dan Mikkin re: partnership",
+        "Identify pilot companies",
+        "Draft deployment plan"
+      ]
+    },
+    {
+      "id": "summit-intelligence-service",
+      "title": "Summit Intelligence as Service",
+      "description": "Productize summit intelligence hub for ongoing value",
+      "nch_role": "Owner / Service provider",
+      "activities": [
+        "Maintain and update intelligence hub",
+        "Provide access to members",
+        "Produce quarterly updates",
+        "Offer custom analysis"
+      ],
+      "timeline": "Ongoing",
+      "funding_strategy": "Membership value, sponsored updates",
+      "priority": "medium",
+      "impact": "Recurring value proposition",
+      "next_steps": [
+        "Complete hub development",
+        "Design access model",
+        "Communicate to members"
+      ]
+    },
+    {
+      "id": "epr-coordination",
+      "title": "Nordic-Baltic EPR Harmonization Coordination",
+      "description": "Coordinate regional position on textile EPR implementation",
+      "nch_role": "Facilitator / Coordinator",
+      "partners": ["nbtt-group", "national-epr-bodies"],
+      "activities": [
+        "Map EPR development across countries",
+        "Facilitate harmonization discussions",
+        "Develop regional position papers",
+        "Interface with EU"
+      ],
+      "timeline": "2025-2026 (urgent)",
+      "funding_strategy": "Policy work funding, member interest",
+      "priority": "medium",
+      "impact": "Policy influence, industry relevance",
+      "next_steps": [
+        "Assess via NBTT Group",
+        "Map current EPR status by country",
+        "Identify harmonization gaps"
+      ]
+    }
+  ],
+  "quick_wins": [
+    {
+      "action": "Join NBTT mailing list and submit topic suggestions",
+      "deadline": "December 1, 2025",
+      "effort": "low",
+      "impact": "medium"
+    },
+    {
+      "action": "Publish Summit Intelligence Hub on NCH website",
+      "deadline": "December 2025",
+      "effort": "medium",
+      "impact": "high"
+    },
+    {
+      "action": "Create summit impact report for stakeholders",
+      "deadline": "January 2026",
+      "effort": "medium",
+      "impact": "high"
+    },
+    {
+      "action": "Schedule follow-up calls with priority contacts",
+      "deadline": "December 2025",
+      "effort": "low",
+      "impact": "high"
+    }
+  ],
+  "key_contacts_for_follow_up": [
+    {
+      "name": "Frederik Thrane",
+      "organization": "Lifestyle & Design Cluster",
+      "opportunity": "NBTT Group coordination",
+      "priority": "high"
+    },
+    {
+      "name": "Cathrine Barth",
+      "organization": "Natural State",
+      "opportunity": "ArcCirc development",
+      "priority": "high"
+    },
+    {
+      "name": "Jan Thomas Odegard",
+      "organization": "Natural State",
+      "opportunity": "Construction catalog",
+      "priority": "high"
+    },
+    {
+      "name": "Dan Mikkin",
+      "organization": "HI Advisory",
+      "opportunity": "Toolbox deployment",
+      "priority": "medium"
+    },
+    {
+      "name": "Marthe Haugland",
+      "organization": "Nordic Innovation",
+      "opportunity": "Funding discussions",
+      "priority": "high"
+    },
+    {
+      "name": "Kerli Kant Hvass",
+      "organization": "Aalborg University",
+      "opportunity": "Research collaboration",
+      "priority": "medium"
+    }
+  ],
+  "success_metrics": {
+    "short_term_6mo": [
+      "Formal role in NBTT Group secured",
+      "Construction catalog integrated",
+      "ArcCirc concept note developed",
+      "3+ follow-up events hosted"
+    ],
+    "medium_term_1yr": [
+      "Funding secured for coordination role",
+      "Summit 2026 planning underway",
+      "Toolbox pilots completed",
+      "EPR position paper published"
+    ],
+    "long_term_3yr": [
+      "ArcCirc established",
+      "NCH as recognized policy interface",
+      "Sustainable revenue model proven",
+      "Regional circular metrics dashboard"
+    ]
+  }
+}
