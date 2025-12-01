@@ -59,7 +59,7 @@ export default function Home() {
                 <h3 className="font-semibold mb-3 flex items-center gap-2" style={{ color: 'var(--glacial-700)' }}>
                   <LocationIcon size={18} color="var(--glacial-600)" /> Date & Location
                 </h3>
-                <p style={{ color: 'var(--foreground)' }}>
+                <p style={{ color: '#111827' }}>
                   {new Date(event.dates.start).toLocaleDateString('en-US', {
                     month: 'long',
                     day: 'numeric'
@@ -69,7 +69,7 @@ export default function Home() {
                     year: 'numeric'
                   })}
                 </p>
-                <p style={{ color: 'var(--foreground)' }}>
+                <p style={{ color: '#111827' }}>
                   {event.location.venue}, {event.location.city}, {event.location.country}
                 </p>
                 <p className="text-sm mt-2 px-3 py-1 rounded-full inline-flex items-center gap-1.5" style={{
@@ -88,7 +88,7 @@ export default function Home() {
               </div>
             </div>
             <div className="mt-6 p-4 rounded-xl" style={{ background: 'var(--sage-50)', border: '1px solid var(--sage-200)' }}>
-              <p style={{ color: 'var(--foreground)' }}>{event.description}</p>
+              <p style={{ color: '#111827' }}>{event.description}</p>
             </div>
           </div>
         </section>
@@ -192,7 +192,15 @@ export default function Home() {
             <div className="mb-3 group-hover:scale-110 transition-transform"><ChartIcon size={36} color="white" /></div>
             <h3 className="text-xl font-bold mb-2">Day 1 Analysis</h3>
             <p className="opacity-90">
-              Comprehensive synthesis of all sessions with strategic insights
+              Comprehensive synthesis of plenary sessions with strategic insights
+            </p>
+          </Link>
+
+          <Link href="/day2-analysis" className="rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group text-white" style={{ background: 'linear-gradient(135deg, var(--sage-600) 0%, var(--glacial-600) 100%)' }}>
+            <div className="mb-3 group-hover:scale-110 transition-transform"><ChartIcon size={36} color="white" /></div>
+            <h3 className="text-xl font-bold mb-2">Day 2 Analysis</h3>
+            <p className="opacity-90">
+              Digital partner sessions: Construction, Textiles, Design Toolbox
             </p>
           </Link>
 
@@ -201,6 +209,14 @@ export default function Home() {
             <h3 className="text-xl font-bold mb-2" style={{ color: 'var(--glacial-800)' }}>Search</h3>
             <p style={{ color: 'var(--sage-600)' }}>
               Search across all summit content and materials
+            </p>
+          </Link>
+
+          <Link href="/summit-intelligence" className="rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group text-white" style={{ background: 'linear-gradient(135deg, var(--glacial-500) 0%, var(--sage-600) 100%)' }}>
+            <div className="mb-3 group-hover:scale-110 transition-transform"><ChartIcon size={36} color="white" /></div>
+            <h3 className="text-xl font-bold mb-2">Summit Intelligence</h3>
+            <p className="opacity-90">
+              Strategic opportunities, project pipeline & actionable insights for NCH
             </p>
           </Link>
         </div>

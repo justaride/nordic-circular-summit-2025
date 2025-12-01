@@ -23,6 +23,11 @@ import day2CircularDesignToolboxTranscript from '@/data/transcripts/day2-session
 import day2NbttTextilesTranscript from '@/data/transcripts/day2-session-nbtt-textiles.json';
 import day2CircularConstructionTranscript from '@/data/transcripts/day2-session-circular-construction.json';
 
+// Load social posts - Day 2
+import day2ConstructionSocialPosts from '@/data/social-media/day2-session-1-construction-posts.json';
+import day2NbttSocialPosts from '@/data/social-media/day2-session-4-nbtt-posts.json';
+import day2ToolboxSocialPosts from '@/data/social-media/day2-session-5-toolbox-posts.json';
+
 // Stop words to filter out from word cloud
 const STOP_WORDS = new Set([
   'the', 'be', 'to', 'of', 'and', 'a', 'in', 'that', 'have', 'i', 'it', 'for', 'not', 'on', 'with', 'he', 'as', 'you',
@@ -53,12 +58,17 @@ const transcriptData: Record<string, any> = {
 
 // Map social posts by session ID
 const socialPostsData: Record<string, any[]> = {
+  // Day 1
   'circular-frontiers-opening': session1SocialPosts,
   'circular-ocean-industries': session2SocialPosts,
   'locally-rooted-materialising': session3SocialPosts,
   'arctic-nordic-lifestyles': session4SocialPosts,
   'circular-cities-regions': session5SocialPosts,
-  'day1-summary': day1SummarySocialPosts
+  'day1-summary': day1SummarySocialPosts,
+  // Day 2
+  'day2-circular-construction': day2ConstructionSocialPosts,
+  'day2-nbtt-textiles': day2NbttSocialPosts,
+  'day2-circular-design-toolbox': day2ToolboxSocialPosts
 };
 
 // Session-specific download files mapping
@@ -111,27 +121,56 @@ const sessionDownloads: Record<string, {
     highlights: '/highlights/session-day1-summary-key-quotes.md',
     speakerGuide: '/transcripts/SESSION-DAY1-SUMMARY-SPEAKER-IDENTIFICATION.md'
   },
-  // Day 2 Sessions
+  // Day 2 Sessions - With Transcripts
   'day2-circular-design-toolbox': {
     transcript: '/transcripts/day2-session-circular-design-toolbox-CLEAN.md',
     json: '/transcripts/day2-session-circular-design-toolbox.json',
-    article: '',
-    highlights: '',
+    article: '/articles/day2-circular-design-toolbox-article.md',
+    highlights: '/highlights/day2-circular-design-toolbox-key-quotes.md',
     speakerGuide: '/transcripts/DAY2-SESSION-CIRCULAR-DESIGN-TOOLBOX-SPEAKER-IDENTIFICATION.md'
   },
   'day2-nbtt-textiles': {
     transcript: '/transcripts/day2-session-nbtt-textiles-CLEAN.md',
     json: '/transcripts/day2-session-nbtt-textiles.json',
-    article: '',
-    highlights: '',
+    article: '/articles/day2-nbtt-textiles-article.md',
+    highlights: '/highlights/day2-nbtt-textiles-key-quotes.md',
     speakerGuide: '/transcripts/DAY2-SESSION-NBTT-TEXTILES-SPEAKER-IDENTIFICATION.md'
   },
   'day2-circular-construction': {
     transcript: '/transcripts/day2-session-circular-construction-CLEAN.md',
     json: '/transcripts/day2-session-circular-construction.json',
+    article: '/articles/day2-circular-construction-article.md',
+    highlights: '/highlights/day2-circular-construction-key-quotes.md',
+    speakerGuide: '/transcripts/DAY2-SESSION-CIRCULAR-CONSTRUCTION-SPEAKER-IDENTIFICATION.md'
+  },
+  // Day 2 Sessions - No Recording
+  'day2-welcome-introduction': {
+    transcript: '',
+    json: '',
     article: '',
     highlights: '',
-    speakerGuide: '/transcripts/DAY2-SESSION-CIRCULAR-CONSTRUCTION-SPEAKER-IDENTIFICATION.md'
+    speakerGuide: ''
+  },
+  'day2-arctic-materials-governance': {
+    transcript: '',
+    json: '',
+    article: '',
+    highlights: '',
+    speakerGuide: ''
+  },
+  'day2-circular-skills-knowledge': {
+    transcript: '',
+    json: '',
+    article: '',
+    highlights: '',
+    speakerGuide: ''
+  },
+  'day2-circular-port-cities': {
+    transcript: '',
+    json: '',
+    article: '',
+    highlights: '',
+    speakerGuide: ''
   }
 };
 
@@ -244,7 +283,7 @@ export default function TranscriptsPage() {
                             Day {session.day} • {session.startTime}
                           </div>
                         </div>
-                        {hasTranscript && (
+                        {hasTranscript ? (
                           <span
                             className="ml-2 text-xs px-2 py-1 rounded"
                             style={{
@@ -253,6 +292,16 @@ export default function TranscriptsPage() {
                             }}
                           >
                             {transcript.transcriptionStatus === 'completed' ? '✓' : transcript.transcriptionStatus}
+                          </span>
+                        ) : (
+                          <span
+                            className="ml-2 text-xs px-2 py-1 rounded whitespace-nowrap"
+                            style={{
+                              background: 'var(--arctic-200)',
+                              color: 'var(--arctic-600)'
+                            }}
+                          >
+                            No Recording
                           </span>
                         )}
                       </div>
@@ -562,7 +611,7 @@ function TranscriptPart({ part, index }: { part: any; index: number }) {
                         </span>
                       </div>
                     )}
-                    <p className="leading-relaxed whitespace-pre-wrap pl-4 border-l-2" style={{ color: 'var(--foreground)', borderColor: 'var(--glacial-200)' }}>
+                    <p className="leading-relaxed whitespace-pre-wrap pl-4 border-l-2" style={{ color: '#111827', borderColor: 'var(--glacial-200)' }}>
                       {segment.text}
                     </p>
                   </div>
@@ -628,6 +677,7 @@ function ArticleViewer({ sessionId }: { sessionId: string }) {
     headline: string;
     subheadline: string;
   }> = {
+    // Day 1 Sessions
     'circular-frontiers-opening': {
       title: 'Article: Circular Frontiers',
       subtitle: '5000+ word comprehensive article covering all session themes',
@@ -641,6 +691,28 @@ function ArticleViewer({ sessionId }: { sessionId: string }) {
       description: 'From Waste to Value: Nordic Ocean Industries Lead Circular Revolution',
       headline: 'From Waste to Value: Nordic Ocean Industries Lead Circular Revolution',
       subheadline: 'Nordic Circular Summit 2025 deep-dives into seafood transformation'
+    },
+    // Day 2 Sessions
+    'day2-circular-construction': {
+      title: 'Article: Circular Construction',
+      subtitle: 'Comprehensive article on Nordic circular construction transformation',
+      description: 'From Pilots to Practice: Nordic Circular Construction\'s Pivotal Moment',
+      headline: 'From Pilots to Practice: Nordic Circular Construction\'s Pivotal Moment',
+      subheadline: 'Digital partner session reveals path from experimentation to systemic transformation'
+    },
+    'day2-nbtt-textiles': {
+      title: 'Article: Nordic-Baltic Textile Transition',
+      subtitle: 'Launch of the NBTT Group and regional textile collaboration',
+      description: 'Nordic-Baltic Textile Transition Group Launches',
+      headline: 'Nordic-Baltic Textile Transition Group Launches',
+      subheadline: 'New collaborative platform unites eight countries to tackle textile circularity crisis'
+    },
+    'day2-circular-design-toolbox': {
+      title: 'Article: Circular Design Toolbox',
+      subtitle: 'Open-source methodology for business transformation',
+      description: 'The Circular Design Toolbox: Making Circular Transition Practical',
+      headline: 'The Circular Design Toolbox: Making Circular Transition Practical',
+      subheadline: 'Estonian sustainability designers unveil open-source methodology for business transformation'
     }
   };
 
@@ -760,6 +832,112 @@ function ArticleViewer({ sessionId }: { sessionId: string }) {
                     <p className="font-semibold text-green-900">"For consumers, it needs to taste good and have good texture. If we want people to eat side streams, they need to resemble familiar seafood."</p>
                     <p className="text-sm text-green-700 mt-1">— Michaela Lindström, Hylia Nordic</p>
                   </div>
+                </>
+              )}
+
+              {sessionId === 'day2-circular-construction' && (
+                <>
+                  <p>
+                    The gap between Nordic ambitions and circular construction reality was laid bare in this pivotal Day 2 session. While the Nordic region aspires to be the world's most sustainable and integrated region by 2030, its circularity in construction remains among the lowest globally.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">The Uncomfortable Truth</h2>
+                  <p>
+                    Jan Thomas Odegard of Natural State opened with a frank assessment: despite ambitious sustainability goals, the Nordics face eight major challenges blocking circular construction—from linear domination to slow construction cycles limiting experimentation.
+                  </p>
+                  <div className="bg-cyan-50 border-l-4 border-cyan-500 p-4 my-4">
+                    <p className="font-semibold text-cyan-900">"If we are to reach our sustainability goals, we really have to do changes in the way we do construction."</p>
+                    <p className="text-sm text-cyan-700 mt-1">— Jan Thomas Odegard, Natural State</p>
+                  </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Iceland's 900-Year Material Heritage</h2>
+                  <p>
+                    Anna Karlsdottir of Ludica Architects delivered a powerful perspective from Iceland—a nation where approximately 80% of buildings are concrete, yet which built biodegradable structures for nearly 900 years.
+                  </p>
+                  <div className="bg-purple-50 border-l-4 border-purple-500 p-4 my-4">
+                    <p className="font-semibold text-purple-900">"If concrete brought Iceland to modernity, what brings us into a regenerative future?"</p>
+                    <p className="text-sm text-purple-700 mt-1">— Anna Karlsdottir, Ludica Architects</p>
+                  </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Key Takeaways</h2>
+                  <ul className="list-disc pl-6 space-y-2">
+                    <li>Denmark must reduce new construction by 80% by 2030</li>
+                    <li>Norway needs 72% material use reduction by 2030</li>
+                    <li>200,000+ unused buildings exist in Norwegian districts alone</li>
+                    <li>The building hierarchy: Use existing → Maintain → Renovate → Extend → Build new</li>
+                    <li>Nordic Circular Construction Catalog features 15 circular solution companies</li>
+                  </ul>
+                </>
+              )}
+
+              {sessionId === 'day2-nbtt-textiles' && (
+                <>
+                  <p>
+                    In a sector facing systemic crisis, the launch of the Nordic-Baltic Textile Transition Group (NBTT) marks a watershed moment for regional collaboration. The session brought together textile industry experts from across the Nordic-Baltic region to establish a new platform for accelerating textile circularity.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">A Sector in Crisis</h2>
+                  <p>
+                    Kerli Kant Hvass painted a stark picture: approximately 80% of collected textiles from Nordic-Baltic countries are exported to Africa and Asia. The circular economy's inner loops—reuse, repair, preparation for reuse—largely happen elsewhere.
+                  </p>
+                  <div className="bg-cyan-50 border-l-4 border-cyan-500 p-4 my-4">
+                    <p className="font-semibold text-cyan-900">"No single market has scaled feedstock volumes or technology mix available to build a circular textile system alone."</p>
+                    <p className="text-sm text-cyan-700 mt-1">— Kerli Kant Hvass, Aalborg University</p>
+                  </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Regional Complementarity</h2>
+                  <p>
+                    Nordics bring design, R&D, and emerging tech; Baltics bring production capacity, manual sorting expertise, and reuse infrastructure. Together, the region has what it needs.
+                  </p>
+                  <div className="bg-purple-50 border-l-4 border-purple-500 p-4 my-4">
+                    <p className="font-semibold text-purple-900">"Competing brands that would not in a million years sit together five years ago, they're actually quite willing to sit together."</p>
+                    <p className="text-sm text-purple-700 mt-1">— Frederik Thrane, Lifestyle & Design Cluster</p>
+                  </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Danish Model: 2030 Goals</h2>
+                  <ul className="list-disc pl-6 space-y-2">
+                    <li>40% recycled content in textiles by 2030</li>
+                    <li>10% fiber-to-fiber recycling target</li>
+                    <li>~40 Danish companies signed voluntary sector collaboration</li>
+                    <li>NBTT Group to host 2 online + 1 physical meeting annually</li>
+                  </ul>
+                </>
+              )}
+
+              {sessionId === 'day2-circular-design-toolbox' && (
+                <>
+                  <p>
+                    In a world where the linear economy grows faster than circular solutions can scale, two Estonian sustainability designers introduced a practical tool to help companies bridge the gap. The Circular Design Toolbox offers a step-by-step methodology for businesses seeking to integrate circular thinking.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">The Business Case for Design</h2>
+                  <p>
+                    The toolbox builds on the Ellen MacArthur Foundation's R Strategies framework—ten distinct approaches to becoming more circular, from Refuse to Regenerate.
+                  </p>
+                  <div className="bg-cyan-50 border-l-4 border-cyan-500 p-4 my-4">
+                    <p className="font-semibold text-cyan-900">"The linear economy is heavily dominating the world. And it's getting worse. Not that we are having less circular solutions, but the linear economy is growing even faster."</p>
+                    <p className="text-sm text-cyan-700 mt-1">— Dan Mikkin, HI Advisory</p>
+                  </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">The Circularity Ladder</h2>
+                  <p>
+                    Companies position themselves on five levels: Conventional → Green → Sustainable → Restorative → Regenerative. The goal is honest self-assessment and realistic 5-year targets.
+                  </p>
+                  <div className="bg-purple-50 border-l-4 border-purple-500 p-4 my-4">
+                    <p className="font-semibold text-purple-900">"If it adds up, then it all makes sense. If it doesn't, then it's a charity project. We are talking about actual working business models."</p>
+                    <p className="text-sm text-purple-700 mt-1">— Dan Mikkin, HI Advisory</p>
+                  </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">15 Tools Across Four Stages</h2>
+                  <ul className="list-disc pl-6 space-y-2">
+                    <li><strong>Understand</strong> (6 tools): Map situation, stakeholders, inefficiencies</li>
+                    <li><strong>Define</strong> (3 tools): Narrow to new value proposition</li>
+                    <li><strong>Ideate</strong> (3 tools): Generate and prioritize solutions</li>
+                    <li><strong>Develop</strong> (3 tools): Create implementation roadmap</li>
+                  </ul>
+                  <p className="mt-4">
+                    The toolbox is available as open-source on Enterprise Estonia's website.
+                  </p>
                 </>
               )}
             </div>
