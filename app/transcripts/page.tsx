@@ -692,6 +692,20 @@ function ArticleViewer({ sessionId }: { sessionId: string }) {
       headline: 'From Waste to Value: Nordic Ocean Industries Lead Circular Revolution',
       subheadline: 'Nordic Circular Summit 2025 deep-dives into seafood transformation'
     },
+    'locally-rooted-materialising': {
+      title: 'Article: Locally Rooted',
+      subtitle: '5500+ word comprehensive article on material security and circular resilience',
+      description: 'Locally Rooted, Globally Connected: Arctic Perspectives on Material Security and Circular Resilience',
+      headline: 'Locally Rooted, Globally Connected: Arctic Perspectives on Material Security',
+      subheadline: 'How circularity became a strategic imperative for competitiveness and security'
+    },
+    'arctic-nordic-lifestyles': {
+      title: 'Article: Arctic & Nordic Lifestyles',
+      subtitle: '5800+ word article on how Greenlandic wisdom can transform modern product systems',
+      description: 'Circularity as Tradition: How Greenlandic Wisdom Can Transform Modern Product Systems',
+      headline: 'Circularity as Tradition: How Greenlandic Wisdom Transforms Modern Products',
+      subheadline: 'What if we don\'t need to invent circularity—what if we just need to listen to those who never abandoned it?'
+    },
     // Day 2 Sessions
     'day2-circular-construction': {
       title: 'Article: Circular Construction',
@@ -1164,6 +1178,218 @@ function QuotesViewer({ sessionId }: { sessionId: string }) {
             "Sister network spans 12 countries",
             "Danish, ACT clusters as regional enablers",
             "Cross-sectoral collaboration key to solutions"
+          ]
+        }
+      ]
+    },
+    'locally-rooted-materialising': {
+      topQuotes: [
+        {
+          quote: "We cannot mine our way out of this dependency. At the same time, we will still need mining in the years ahead. We need both. But circularity must define the long-term path.",
+          author: "Mika Sulkinoja",
+          org: "Sitra, Finland",
+          theme: "Mining + Circularity"
+        },
+        {
+          quote: "Circularity is no longer an environmental agenda. It is now a matter of competitiveness and security for Europe and for all other regions as well.",
+          author: "Mika Sulkinoja",
+          org: "Sitra, Finland",
+          theme: "Circularity as Security"
+        },
+        {
+          quote: "Money goes where value is created. It's as simple as that.",
+          author: "Luca De Lorenzo",
+          org: "Nordic Investment Bank",
+          theme: "Value Creation"
+        },
+        {
+          quote: "The value of resilience has increased. This is structural. It's not going to go away even if we get a bit more peace. The fundamental trust in the market is broken.",
+          author: "Luca De Lorenzo",
+          org: "Nordic Investment Bank",
+          theme: "Structural Shift"
+        },
+        {
+          quote: "Shortening supply chains has a value. And we can put a dollar or a euro sign or a kroner sign to it.",
+          author: "Luca De Lorenzo",
+          org: "Nordic Investment Bank",
+          theme: "Resilience Value"
+        },
+        {
+          quote: "How could it be if we go together and establish an ArcCirc? An Arctic Circular Economy Resource Centre.",
+          author: "Cathrine Barth",
+          org: "Natural State / Nordic Circular Hotspot",
+          theme: "ArcCirc Vision"
+        },
+        {
+          quote: "For small entities in the Arctic with limited resources, a lot of the programs that EU provides are extremely complicated. It's complicated to apply, it's complicated to report.",
+          author: "Anders Ladefoged",
+          org: "European Economic and Social Committee",
+          theme: "Arctic Complexity"
+        },
+        {
+          quote: "Can we still maintain prior informed consent? Are we able to pay maybe a higher price? We have to. We need to do this despite the international pressure.",
+          author: "Patrick Schroeder",
+          org: "Chatham House",
+          theme: "Indigenous Rights"
+        },
+        {
+          quote: "The Arctic community is actually quite a large nation, if you put it in those terms, with 4 million people.",
+          author: "Cathrine Barth",
+          org: "Natural State / Nordic Circular Hotspot",
+          theme: "Arctic as Nation"
+        },
+        {
+          quote: "Every material comes from somewhere and is going to live possibly forever. Material economics, material independency, material rights—these are newborn topics.",
+          author: "Cathrine Barth",
+          org: "Natural State / Nordic Circular Hotspot",
+          theme: "Material Economics"
+        }
+      ],
+      coreThemes: [
+        {
+          title: "Circularity as Security Strategy",
+          icon: "🔒",
+          points: [
+            "No longer environmental agenda—now competitiveness and security",
+            "Europe's dependency on China for critical materials",
+            "Export of needed materials while recycling targets go unmet",
+            "Strategic blind spot in tracking secondary materials"
+          ]
+        },
+        {
+          title: "Inner Loops Over Recycling",
+          icon: "♻️",
+          points: [
+            "Remanufacturing market: €31B → €100B by 2030",
+            "500,000 potential jobs from inner loops",
+            "Reuse, repair, refurbishment before recycling",
+            "ESPR as key upstream measure"
+          ]
+        },
+        {
+          title: "Structural Shift in Finance",
+          icon: "💰",
+          points: [
+            "Resilience now has quantifiable value",
+            "Supply chains no longer optimized on cost alone",
+            "Broken market trust is permanent, not temporary",
+            "Circular models now financially attractive"
+          ]
+        },
+        {
+          title: "ArcCirc Vision",
+          icon: "🌍",
+          points: [
+            "Arctic Circular Economy Resource Centre proposed",
+            "4 million Arctic residents as active agents",
+            "Prevent Arctic 'linear lock-in'",
+            "Modeled on EU CERC for Global South"
+          ]
+        }
+      ]
+    },
+    'arctic-nordic-lifestyles': {
+      topQuotes: [
+        {
+          quote: "In Greenland, circularity isn't a trend, it's a tradition and it's the foundation.",
+          author: "Frederik Thrane",
+          org: "Lifestyle and Design Cluster, Denmark",
+          theme: "Circularity as Tradition"
+        },
+        {
+          quote: "Growing up in a remote Arctic community has shaped my understanding of what resilience truly means. In our everyday life every resource has value, nothing is wasted, but not because it was a trend but because it was a necessity deeply rooted in Inuit tradition.",
+          author: "Lise Lotte",
+          org: "Independent Consultant, Qaanaaq",
+          theme: "Resilience as Necessity"
+        },
+        {
+          quote: "Every single material that we use is from a hunter that is local. You can't find anything in our store where I can't tell you who made it.",
+          author: "Mia Chemnitz",
+          org: "Grevilliot, Greenland",
+          theme: "Complete Traceability"
+        },
+        {
+          quote: "We are always limited by quotas. We are sold out all the time. It's a luxury problem. But we would never be able to make more than what we're doing now.",
+          author: "Mia Chemnitz",
+          org: "Grevilliot, Greenland",
+          theme: "Quota Limitations"
+        },
+        {
+          quote: "We are basically a company founded on waste product, because we hunt for the meat. And then we wear the rest.",
+          author: "Mia Chemnitz",
+          org: "Grevilliot, Greenland",
+          theme: "Waste as Foundation"
+        },
+        {
+          quote: "The good thing about buying garments from someone you know is that this person who made the garment is probably the best in the world to repair it.",
+          author: "Mia Chemnitz",
+          org: "Grevilliot, Greenland",
+          theme: "Maker as Repairer"
+        },
+        {
+          quote: "I trust the seal skin more than anything that's been tested a lot. So if I'm going on the ice cap or on a dog sled, I know what I'm going to be wearing.",
+          author: "Mia Chemnitz",
+          org: "Grevilliot, Greenland",
+          theme: "Traditional Knowledge"
+        },
+        {
+          quote: "We are taking back our tattoos. We're taking back our earrings. We're taking back our anorak. We're taking back our materials, culture, music, everything.",
+          author: "Mia Chemnitz",
+          org: "Grevilliot, Greenland",
+          theme: "Cultural Decolonization"
+        },
+        {
+          quote: "We don't have to reinvent the wheel. We have to listen and learn from the history and then just reinstate some of the practices.",
+          author: "Kristian Ottesen",
+          org: "Royal Greenland",
+          theme: "Reintroducing Practices"
+        },
+        {
+          quote: "Your scarf is not just a scarf. It's a bit of a history, a culture, and tradition. And a meal.",
+          author: "Lise Lotte",
+          org: "Independent Consultant, Qaanaaq",
+          theme: "Products as Stories"
+        }
+      ],
+      coreThemes: [
+        {
+          title: "Circularity as Tradition",
+          icon: "🏔️",
+          points: [
+            "Nothing wasted in Arctic communities for millennia",
+            "Survival necessity, not environmental trend",
+            "Design, production, and community inseparable",
+            "Waste not, have not, want not cultural belief"
+          ]
+        },
+        {
+          title: "Quota Limitations as Drivers",
+          icon: "📊",
+          points: [
+            "Limited by sustainable musk ox harvest quotas",
+            "Cannot scale beyond ecological limits",
+            "Always sold out—but sustainably",
+            "Scarcity drives value, not volume"
+          ]
+        },
+        {
+          title: "Maker = Repairer",
+          icon: "🧵",
+          points: [
+            "Person who made garment best to repair it",
+            "Relationship-based service model",
+            "No third-party repair shops needed",
+            "What ESPR mandates, local relationships make natural"
+          ]
+        },
+        {
+          title: "Cultural Decolonization",
+          icon: "✊",
+          points: [
+            "Taking back traditional materials and practices",
+            "From Canada Goose to local seal skin",
+            "Indigenous materials now seen as superior",
+            "Not return to past—path to sustainable future"
           ]
         }
       ]
