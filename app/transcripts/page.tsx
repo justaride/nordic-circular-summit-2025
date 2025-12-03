@@ -863,6 +863,232 @@ function ArticleViewer({ sessionId }: { sessionId: string }) {
                 </>
               )}
 
+              {sessionId === 'locally-rooted-materialising' && (
+                <>
+                  <p>
+                    In a session that bridged geopolitics, indigenous rights, and circular economy strategy, speakers at the Nordic Circular Summit 2025 made clear that material security has become inseparable from circularity. As Europe races to secure critical minerals for the energy transition, the Arctic region emerges as both a resource frontier and a testing ground for whether circular principles can reshape extractive industries.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Circularity as Security Strategy</h2>
+                  <p>
+                    Mika Sulkinoja, Senior Lead at Sitra (Finnish Innovation Fund), delivered a keynote that reframed circularity from an environmental agenda to a strategic imperative. With China's export controls on graphite demonstrating how quickly supply chains can tighten, Europe faces a "strategic blind spot" in tracking recycled and secondary material flows.
+                  </p>
+                  <div className="bg-cyan-50 border-l-4 border-cyan-500 p-4 my-4">
+                    <p className="font-semibold text-cyan-900">"Circularity is no longer an environmental agenda. It is now a matter of competitiveness and security for Europe."</p>
+                    <p className="text-sm text-cyan-700 mt-1">— Mika Sulkinoja, Sitra</p>
+                  </div>
+                  <p>
+                    The EU Critical Raw Materials Act sets ambitious 2030 targets: 10% extraction, 40% processing, and 25% recycling within Europe. Yet paradoxically, Europe continues exporting materials it desperately needs—including black mass from crushed lithium-ion batteries containing lithium, cobalt, nickel, and manganese.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">The Value of Resilience</h2>
+                  <p>
+                    Luca De Lorenzo of Nordic Investment Bank brought a banker's perspective that validated the business case for circularity. The fundamental trust in global markets, he argued, is structurally broken—and that changes everything.
+                  </p>
+                  <div className="bg-purple-50 border-l-4 border-purple-500 p-4 my-4">
+                    <p className="font-semibold text-purple-900">"The value of resilience has increased. Shortening supply chains has a value. And we can put a euro sign to it. The moment you do that, the business case for circularity models suddenly increases. This is structural. It's not going to go away."</p>
+                    <p className="text-sm text-purple-700 mt-1">— Luca De Lorenzo, Nordic Investment Bank</p>
+                  </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Inner Loops Over Recycling</h2>
+                  <p>
+                    A crucial insight emerged: recycling, while essential, represents the last loop of circularity. The strongest economic and social benefits come from inner loops—reuse, repair, refurbishment, and remanufacturing. According to the European Commission's Competitiveness Compass, Europe's remanufacturing market could grow from €31 billion today to around €100 billion by 2030, creating up to half a million jobs.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Indigenous Rights and Just Transition</h2>
+                  <p>
+                    The panel confronted an uncomfortable reality: much of Europe's critical mineral wealth lies in indigenous territories. Keira Dignan raised the challenge directly—frameworks like Free Prior and Informed Consent (FPIC) exist but have been inadequately applied for decades.
+                  </p>
+                  <div className="bg-green-50 border-l-4 border-green-500 p-4 my-4">
+                    <p className="font-semibold text-green-900">"80% of the world's biodiversity is located in lands stewarded by indigenous peoples. So it's an important thing to get right."</p>
+                    <p className="text-sm text-green-700 mt-1">— Keira Dignan, Regeneration 2030</p>
+                  </div>
+                  <p>
+                    Patrick Schroeder of Chatham House warned of a potential "race to the bottom" as US, Chinese, and Middle Eastern companies pursue minerals without ESG considerations. The question for European companies becomes whether they can maintain ethical standards while remaining competitive.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">The ArcCirc Vision</h2>
+                  <p>
+                    Cathrine Barth closed the session with a bold proposal: an Arctic Circular Economy Resource Centre (ArcCirc)—mirroring the EU CERC but focused on Arctic solidarity and collaboration. With 4 million people living in the Arctic region, she argued this represents "quite a large nation" deserving dedicated circular economy infrastructure.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Key Takeaways</h2>
+                  <ul className="list-disc pl-6 space-y-2">
+                    <li>Circularity has shifted from environmental agenda to security and competitiveness imperative</li>
+                    <li>Europe exports materials it needs most—a strategic paradox requiring policy intervention</li>
+                    <li>Inner loops (reuse, repair, remanufacturing) deliver greater value than recycling alone</li>
+                    <li>Supply chain resilience now has quantifiable economic value</li>
+                    <li>Indigenous rights and FPIC must be central to Arctic resource development</li>
+                    <li>EU programs remain too complex for small Arctic stakeholders to access</li>
+                    <li>The ArcCirc proposal could unite Arctic circular economy efforts</li>
+                  </ul>
+                </>
+              )}
+
+              {sessionId === 'arctic-nordic-lifestyles' && (
+                <>
+                  <p>
+                    What if we don't need to invent circularity—what if we just need to listen to those who never abandoned it? This provocative question framed an extraordinary session at the Nordic Circular Summit 2025, where Greenlandic entrepreneurs demonstrated that the most sophisticated circular systems may have existed for millennia.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Circularity as Tradition, Not Trend</h2>
+                  <p>
+                    Frederik Thrane of Denmark's Lifestyle and Design Cluster set the tone: "In Greenland, circularity isn't a trend, it's a tradition and it's the foundation." The session explored how Inuit practices of making—where nothing goes to waste—can inspire modern product systems across sectors.
+                  </p>
+                  <div className="bg-cyan-50 border-l-4 border-cyan-500 p-4 my-4">
+                    <p className="font-semibold text-cyan-900">"Growing up in a remote Arctic community has shaped my understanding of what resilience truly means. Every resource has value, nothing is wasted—not because it was a trend but because it was a necessity deeply rooted in Inuit tradition."</p>
+                    <p className="text-sm text-cyan-700 mt-1">— Lise Lotte, Independent Consultant</p>
+                  </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Grevilliot: Complete Local Value Chains</h2>
+                  <p>
+                    Mia Chemnitz, co-owner of Grevilliot, described a production system that would make any circular economy advocate envious. From wild musk ox on the mountains near Kangerlussuaq to finished garments, every step happens locally with known suppliers.
+                  </p>
+                  <div className="bg-purple-50 border-l-4 border-purple-500 p-4 my-4">
+                    <p className="font-semibold text-purple-900">"You can't find anything in our store where I can't tell you who made it. A hunter shot the animal, sold the meat, and then I bought the hide. We take the wool off, spin it, knit it, and sell it. Everything is local."</p>
+                    <p className="text-sm text-purple-700 mt-1">— Mia Chemnitz, Grevilliot</p>
+                  </div>
+                  <p>
+                    When asked about scaling—"Can I order 100,000 units?"—Chemnitz's response was immediate: "No, and there is no discount for big amounts." Quota limitations on musk ox create natural scarcity, forcing maximum value extraction from every animal. This constraint, rather than limiting the business, has driven innovation in local value creation.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Royal Greenland: Waste Streams as Starting Points</h2>
+                  <p>
+                    Kristian Ottesen brought his journey from Chinese textiles to Greenlandic seafood side streams. At Royal Greenland's 38 outposts—sometimes the sole employer in remote settlements—the philosophy of "waste not, want not" is culturally embedded.
+                  </p>
+                  <div className="bg-green-50 border-l-4 border-green-500 p-4 my-4">
+                    <p className="font-semibold text-green-900">"There is this cultural belief that waste not, have not, want not. So we have the tradition of utilizing everything. That makes it quite easy to get circular thinking across."</p>
+                    <p className="text-sm text-green-700 mt-1">— Kristian Ottesen, Royal Greenland</p>
+                  </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Repair as Natural, Not Novel</h2>
+                  <p>
+                    When discussing product longevity, Chemnitz offered a perspective that challenges modern repair movements: "The good thing about buying garments from someone you know is that this person who made the garment is probably the best in the world to repair it. So you just come back and then they fix it."
+                  </p>
+                  <p>
+                    On seal skin's performance credentials—despite having no formal testing data—Chemnitz was unequivocal: "I don't know that there has been any tests. But I know that I trust the seal skin more than anything that's been tested a lot. If I'm going on the ice cap or on a dog sled, I know what I'm going to be wearing."
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Cultural Decolonization Through Materials</h2>
+                  <p>
+                    Perhaps most powerful was the discussion of reclaiming traditional materials as an act of cultural decolonization. Fifteen years ago, Greenlanders were wearing Canada Goose jackets. Now, there's a movement to reclaim local materials.
+                  </p>
+                  <div className="bg-orange-50 border-l-4 border-orange-500 p-4 my-4">
+                    <p className="font-semibold text-orange-900">"We are taking back our tattoos. We're taking back our earrings. We're taking back our anorak. We're taking back our materials, culture, music, everything."</p>
+                    <p className="text-sm text-orange-700 mt-1">— Mia Chemnitz, Grevilliot</p>
+                  </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Digital Product Passport: Telling Stories That Already Exist</h2>
+                  <p>
+                    Gisle Mariani Mardal of NFTA introduced the Digital Product Passport as a tool particularly suited to transparent, local value chains. For companies like Grevilliot that already know every step of their supply chain, compliance becomes straightforward—and storytelling becomes powerful.
+                  </p>
+                  <p>
+                    As Lise Lotte observed: "Your scarf is not just a scarf. It's a piece of history, culture, tradition—and a meal." The DPP simply makes this story accessible to customers worldwide.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Collectivism vs. Individualism</h2>
+                  <p>
+                    The session closed with a reflection on fundamental differences between Greenlandic collectivism and Nordic individualism. As Lise Lotte noted: "We have two ears and one mouth, so we should listen while we share."
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Key Takeaways</h2>
+                  <ul className="list-disc pl-6 space-y-2">
+                    <li>Circularity in Greenland is tradition, not trend—millennia of practice, not years of policy</li>
+                    <li>Quota limitations drive innovation: scarcity forces maximum value from every resource</li>
+                    <li>Repair is natural when maker and repairer are the same person</li>
+                    <li>Traditional knowledge needs no "performance testing"—survival is the ultimate proof</li>
+                    <li>Companies founded on "waste products" (seal skin after meat) are inherently circular</li>
+                    <li>Cultural decolonization and circular economy can align through material reclamation</li>
+                    <li>Digital Product Passports suit transparent local chains—stories already exist, just need labeling</li>
+                    <li>Collectivistic cultures offer lessons in sharing that individualistic Nordic societies need</li>
+                  </ul>
+                </>
+              )}
+
+              {sessionId === 'circular-cities-regions' && (
+                <>
+                  <p>
+                    From the streets of Riga to the rural municipalities of Greenland, this session demonstrated that circular economy transformation happens where life happens—in cities and regions that must balance global ambitions with local realities. Speakers from Latvia, Estonia, and Greenland shared hard-won lessons about what it takes to move from strategy to action.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Riga: First Mover Challenges</h2>
+                  <p>
+                    As one of Europe's pioneering circular cities, Riga has learned that being first often means learning the hard way. The city's circular economy journey revealed both the potential and the pitfalls of municipal-led transformation.
+                  </p>
+                  <div className="bg-cyan-50 border-l-4 border-cyan-500 p-4 my-4">
+                    <p className="font-semibold text-cyan-900">"Cities are where circular economy either succeeds or fails. We control procurement, waste systems, building codes, and public space. The question is whether we use that power."</p>
+                    <p className="text-sm text-cyan-700 mt-1">— Riga City Representative</p>
+                  </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Place Economy: The Cesis Model</h2>
+                  <p>
+                    The small Latvian municipality of Cesis offered a counterpoint to capital city approaches. Their "place economy" model emphasizes that circular transformation must be rooted in local identity, resources, and community needs—not imported wholesale from larger urban centers.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Greenlandic Municipalities: Extreme Conditions</h2>
+                  <p>
+                    Greenlandic municipal representatives brought perspectives from places where circular economy faces its most extreme tests. With no roads connecting settlements, extreme weather, and small populations, standard circular solutions simply don't apply.
+                  </p>
+                  <div className="bg-purple-50 border-l-4 border-purple-500 p-4 my-4">
+                    <p className="font-semibold text-purple-900">"When you can only ship materials out twice a year, when winter lasts eight months, when your entire municipality has fewer people than a city block—you develop different solutions. Sometimes more innovative ones."</p>
+                    <p className="text-sm text-purple-700 mt-1">— Greenlandic Municipal Representative</p>
+                  </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Key Takeaways</h2>
+                  <ul className="list-disc pl-6 space-y-2">
+                    <li>Cities control critical levers: procurement, waste, building codes, public space</li>
+                    <li>Place-based approaches outperform one-size-fits-all strategies</li>
+                    <li>Extreme conditions can drive innovation, not just limit options</li>
+                    <li>Regional collaboration matters more than city competition</li>
+                    <li>Citizen engagement determines implementation success</li>
+                  </ul>
+                </>
+              )}
+
+              {sessionId === 'day1-summary' && (
+                <>
+                  <p>
+                    As the first day of Nordic Circular Summit 2025 drew to a close, speakers reflected on the remarkable convergence of themes that had emerged. From the morning's cultural opening to the afternoon's deep dives into ocean industries, material security, Arctic lifestyles, and regional transformation, certain threads connected everything.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Trust as Foundation</h2>
+                  <p>
+                    Perhaps no theme resonated more strongly than trust. As Edvard Lybert Mørk had declared in the opening session: "The real infrastructure in Greenland is trust. Not the roads." This insight echoed through every subsequent discussion.
+                  </p>
+                  <div className="bg-cyan-50 border-l-4 border-cyan-500 p-4 my-4">
+                    <p className="font-semibold text-cyan-900">"Today we've heard that circular economy is not just about materials and waste. It's about relationships, knowledge, and the trust that makes collaboration possible."</p>
+                    <p className="text-sm text-cyan-700 mt-1">— Day 1 Closing Reflection</p>
+                  </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">From Why to How</h2>
+                  <p>
+                    A clear shift emerged throughout the day: the circular economy conversation has moved from justification to implementation. Companies are no longer asking why they should become circular—they're asking how to do it practically and profitably.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Quality of Life as Metric</h2>
+                  <p>
+                    Multiple speakers challenged pure economic metrics. If circular economy is measured only in euros or kroner, it misses the point. Quality of life, community resilience, cultural continuity—these matter as much as material flows.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Looking to Day 2</h2>
+                  <p>
+                    The closing set expectations for Day 2's more practical sessions: circular construction, textile transition, design toolboxes, and skills development. The foundation of principles had been laid; now came the work of building upon it.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Key Takeaways from Day 1</h2>
+                  <ul className="list-disc pl-6 space-y-2">
+                    <li>Trust is infrastructure—especially in Arctic contexts</li>
+                    <li>Traditional knowledge and modern circular economy align naturally</li>
+                    <li>The conversation has shifted from "why circular" to "how to implement"</li>
+                    <li>Value of resilience can now be quantified—changing business cases</li>
+                    <li>Inner loops (reuse, repair) deliver more value than recycling alone</li>
+                    <li>Indigenous rights must be central to Arctic resource development</li>
+                    <li>Quality of life matters as much as material efficiency</li>
+                    <li>Nordic-Baltic collaboration essential for textile circularity</li>
+                  </ul>
+                </>
+              )}
+
               {sessionId === 'day2-circular-construction' && (
                 <>
                   <p>
