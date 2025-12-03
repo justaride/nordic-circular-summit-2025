@@ -860,6 +860,26 @@ function ArticleViewer({ sessionId }: { sessionId: string }) {
                     <p className="font-semibold text-green-900">"For consumers, it needs to taste good and have good texture. If we want people to eat side streams, they need to resemble familiar seafood."</p>
                     <p className="text-sm text-green-700 mt-1">— Michaela Lindström, Hylia Nordic</p>
                   </div>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">The Cluster Model: Trust Before Transaction</h2>
+                  <p>
+                    Alexandra Leeper emphasized the critical role of clusters in enabling the transformation. The Iceland Ocean Cluster, now replicated globally, operates on a principle that became a summit theme: trust precedes transaction. It takes years to build the relationships that enable competitors to collaborate.
+                  </p>
+                  <p>
+                    The cluster model has spread—Ocean Clusters now exist in Maine, Massachusetts, and beyond. Each adapts the 100% philosophy to local species and conditions while maintaining the core principle: value every gram, waste nothing.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Key Takeaways</h2>
+                  <ul className="list-disc pl-6 space-y-2">
+                    <li>23 million metric tons of edible seafood wasted globally each year—a massive circular opportunity</li>
+                    <li>Iceland transformed fish utilization from 45% to over 90% through tight collaboration</li>
+                    <li>Atlantic cod potential value: $12 → $5,000 through complete utilization (400x increase)</li>
+                    <li>Side streams contain 20x more calcium, 10x more zinc, 5x more collagen than fillets</li>
+                    <li>Clusters enable pre-competitive collaboration—trust precedes transaction</li>
+                    <li>Consumer acceptance requires familiar taste and texture—innovation must meet expectations</li>
+                    <li>100% Fish philosophy is replicable globally—already spreading to Maine, Massachusetts, and beyond</li>
+                    <li>Corporate transformation is possible: Royal Greenland turned loss-making waste streams profitable</li>
+                  </ul>
                 </>
               )}
 
@@ -1008,39 +1028,75 @@ function ArticleViewer({ sessionId }: { sessionId: string }) {
               {sessionId === 'circular-cities-regions' && (
                 <>
                   <p>
-                    From the streets of Riga to the rural municipalities of Greenland, this session demonstrated that circular economy transformation happens where life happens—in cities and regions that must balance global ambitions with local realities. Speakers from Latvia, Estonia, and Greenland shared hard-won lessons about what it takes to move from strategy to action.
+                    In the final main session of Day 1, speakers from Latvia, Greenland, Denmark, and Norway converged on a powerful theme: circular economy transformation happens where life happens—in cities, regions, and micro-societies that must balance global ambitions with local realities. From Riga's EU mission city status to a Greenlandic settlement of 50 people, the session revealed how place-based approaches can drive systemic change.
                   </p>
 
-                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Riga: First Mover Challenges</h2>
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Place Economy: The Foundation</h2>
                   <p>
-                    As one of Europe's pioneering circular cities, Riga has learned that being first often means learning the hard way. The city's circular economy journey revealed both the potential and the pitfalls of municipal-led transformation.
+                    Einar Kleppe Holthe of Natural State opened with a comprehensive framework for understanding place-based value creation. Drawing from his experience in coffee supply chain transparency, he articulated how circular principles must be triangulated: place + approach + topic. "If you take place, concrete, practical place, and you take approach, for instance, circular economy, and you take topic, for instance, construction, you can actually concretize the value proposition to such an extent that it makes meaning."
                   </p>
                   <div className="bg-cyan-50 border-l-4 border-cyan-500 p-4 my-4">
-                    <p className="font-semibold text-cyan-900">"Cities are where circular economy either succeeds or fails. We control procurement, waste systems, building codes, and public space. The question is whether we use that power."</p>
-                    <p className="text-sm text-cyan-700 mt-1">— Riga City Representative</p>
+                    <p className="font-semibold text-cyan-900">"The most important thing you have to build when you build places is trust. If you don't have trust, you don't manage to create any good place."</p>
+                    <p className="text-sm text-cyan-700 mt-1">— Einar Kleppe Holthe, Natural State</p>
                   </div>
 
-                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Place Economy: The Cesis Model</h2>
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Riga: From Vision to Action</h2>
                   <p>
-                    The small Latvian municipality of Cesis offered a counterpoint to capital city approaches. Their "place economy" model emphasizes that circular transformation must be rooted in local identity, resources, and community needs—not imported wholesale from larger urban centers.
-                  </p>
-
-                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Greenlandic Municipalities: Extreme Conditions</h2>
-                  <p>
-                    Greenlandic municipal representatives brought perspectives from places where circular economy faces its most extreme tests. With no roads connecting settlements, extreme weather, and small populations, standard circular solutions simply don't apply.
+                    Tālis Linkaits from the Riga Energy Agency shared how Latvia's capital earned its EU Mission Label as one of 100 climate neutral and smart cities. Riga's approach spans eight thematic areas, working on three directions: citizen engagement, embedding circularity in municipal operations, and supporting circular businesses.
                   </p>
                   <div className="bg-purple-50 border-l-4 border-purple-500 p-4 my-4">
-                    <p className="font-semibold text-purple-900">"When you can only ship materials out twice a year, when winter lasts eight months, when your entire municipality has fewer people than a city block—you develop different solutions. Sometimes more innovative ones."</p>
-                    <p className="text-sm text-purple-700 mt-1">— Greenlandic Municipal Representative</p>
+                    <p className="font-semibold text-purple-900">"We had the first Latvian Circular Economy Forum a few weeks ago—108 speakers, 34 thematic sessions. People were so willing to come and tell their own stories that we had to cut the number of participants."</p>
+                    <p className="text-sm text-purple-700 mt-1">— Tālis Linkaits, Riga Energy Agency</p>
                   </div>
+                  <p>
+                    Practical examples include circular construction guidelines now used in procurement, an urban resource center that serves as both repair facility and community hub, and school competitions engaging youth in circular practices.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">The Cesis Bioregion: A Baltic First</h2>
+                  <p>
+                    Inese Suija-Markova, Deputy Mayor of Cesis Municipality and Regional Mayor of Vidzeme, presented the first bioregion in the Baltic States. Centered around Gauja National Park, four municipalities joined with farmers, NGOs, entrepreneurs, researchers, and residents through a "memorandum of goodwill"—a social contract crafted over one year with every word agreed by 13 signatory institutions.
+                  </p>
+                  <div className="bg-green-50 border-l-4 border-green-500 p-4 my-4">
+                    <p className="font-semibold text-green-900">"Working in such a context teaches you to be resourceful. You learn that you must prioritize and above all that you have to be open to cooperation. We understood long ago that we cannot excel in every area being all alone."</p>
+                    <p className="text-sm text-green-700 mt-1">— Inese Suija-Markova, Cesis Municipality</p>
+                  </div>
+                  <p>
+                    The bioregion focuses on eight priority areas including short food supply chains, organic food in schools (working toward Latvia's first certified organic school kitchen), and transforming the regional landfill into a circular economy center where waste becomes resource.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Arctic Construction: Design for Disassembly</h2>
+                  <p>
+                    Inooraq Brandt of Rambøll Greenland brought a distinctly Arctic perspective. With Greenland representing just 0.00068% of the world population spread across vast distances, innovation must focus on application rather than developing new materials. He shared a powerful personal example: his father's childhood home, designed for disassembly in traditional Greenlandic fashion, was physically moved when the family relocated in 1948.
+                  </p>
+                  <div className="bg-orange-50 border-l-4 border-orange-500 p-4 my-4">
+                    <p className="font-semibold text-orange-900">"The words that come to mind when people describe this 'new time' is actually very much in line with the very, very old time in a Greenlandic or Arctic sense. How do we make use of what we have in a way that's not going to restrict future generations?"</p>
+                    <p className="text-sm text-orange-700 mt-1">— Inooraq Brandt, Rambøll Greenland</p>
+                  </div>
+                  <p>
+                    Brandt highlighted renovation projects in the Disko Bay area where buildings are being refurbished at half the cost of new construction—with significant CO2 savings from preserving concrete structures.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Nordic Sustainable Construction: Cross-Border Collaboration</h2>
+                  <p>
+                    Helle Redder Momsen presented the Nordic Sustainable Construction program, a collaboration spanning all Nordic countries working toward the region's 2030 vision of being "the most sustainable and integrated region in the world." Key achievements include harmonized LCA calculation requirements across Sweden, Norway, Denmark, Iceland, and Finland—with reused products set to zero carbon in calculations, providing a powerful incentive for circular practices.
+                  </p>
+
+                  <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Greenland's National Strategy</h2>
+                  <p>
+                    Embla Kristjánsdóttir from Greenland's Ministry of Housing presented the national sustainability strategy for the building sector—notable for operating on trust rather than mandatory legislation. The small industry and strong community relationships enable a shared framework approach that larger markets cannot replicate.
+                  </p>
 
                   <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Key Takeaways</h2>
                   <ul className="list-disc pl-6 space-y-2">
-                    <li>Cities control critical levers: procurement, waste, building codes, public space</li>
-                    <li>Place-based approaches outperform one-size-fits-all strategies</li>
-                    <li>Extreme conditions can drive innovation, not just limit options</li>
-                    <li>Regional collaboration matters more than city competition</li>
-                    <li>Citizen engagement determines implementation success</li>
+                    <li>Place economy triangulation: Place + Approach + Topic = concrete value propositions</li>
+                    <li>Trust is the foundation—without it, no place development succeeds</li>
+                    <li>Riga's three-direction model: citizen engagement, municipal operations, business support</li>
+                    <li>Bioregions are social contracts—the Cesis memorandum took one year with 13 institutions</li>
+                    <li>Arctic "new time" circular practices mirror traditional "very old time" wisdom</li>
+                    <li>Renovation can cost half of new construction while saving embodied carbon</li>
+                    <li>Nordic LCA harmonization: reused products calculate to zero—incentivizing circularity</li>
+                    <li>Small markets can operate on trust rather than mandatory regulation</li>
+                    <li>London's "retrofit first" policy transformed the city development landscape</li>
                   </ul>
                 </>
               )}
