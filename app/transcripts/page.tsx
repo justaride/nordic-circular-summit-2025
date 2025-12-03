@@ -706,6 +706,20 @@ function ArticleViewer({ sessionId }: { sessionId: string }) {
       headline: 'Circularity as Tradition: How Greenlandic Wisdom Transforms Modern Products',
       subheadline: 'What if we don\'t need to invent circularity—what if we just need to listen to those who never abandoned it?'
     },
+    'circular-cities-regions': {
+      title: 'Article: Circular Cities & Regions',
+      subtitle: '5850+ word article on place-based circular economy transformation',
+      description: 'Circular Cities & Regions: From Place Economy to Planetary Regeneration',
+      headline: 'Circular Cities & Regions: From Place Economy to Planetary Regeneration',
+      subheadline: 'How Riga, Cesis, and Greenland are proving that circularity starts where life happens'
+    },
+    'day1-summary': {
+      title: 'Article: Day 1 Summary',
+      subtitle: '4450+ word closing reflection on trust, quality of life, and implementation',
+      description: 'Day 1 Closing: Trust, Quality of Life, and the Shift to Implementation',
+      headline: 'Day 1 Closing: Trust, Quality of Life, and the Shift to Implementation',
+      subheadline: 'Key takeaways from Nordic Circular Summit 2025 opening day in Nuuk'
+    },
     // Day 2 Sessions
     'day2-circular-construction': {
       title: 'Article: Circular Construction',
@@ -1390,6 +1404,218 @@ function QuotesViewer({ sessionId }: { sessionId: string }) {
             "From Canada Goose to local seal skin",
             "Indigenous materials now seen as superior",
             "Not return to past—path to sustainable future"
+          ]
+        }
+      ]
+    },
+    'circular-cities-regions': {
+      topQuotes: [
+        {
+          quote: "For the most important thing you have to build when you build places is trust. And that is what we've been talking most about today. If you don't have trust, you don't manage to create any good place.",
+          author: "Einar Kleppe Holthe",
+          org: "Natural State, Norway",
+          theme: "Trust as Foundation"
+        },
+        {
+          quote: "The language of this structure is economy, is numbers. That is why you need to learn how to speak economic, and for instance, circular economic. You use numbers to describe values for society, for humans, with nature resource management.",
+          author: "Einar Kleppe Holthe",
+          org: "Natural State, Norway",
+          theme: "Economic Language"
+        },
+        {
+          quote: "The words that come to mind when people describe this new time is actually very much in line with the very, very old time in a Greenlandic or Arctic sense. How do we make use of what we have in a way that's not going to restrict future generations?",
+          author: "Inooraq Brandt",
+          org: "Rambøll Grønland A/S",
+          theme: "Arctic Circular Wisdom"
+        },
+        {
+          quote: "We have examples with housing blocks in the Disko Bay area of Greenland, where we are essentially stripping down to the main constructions, refurbishing it for a new life at about half of the cost of building a new building.",
+          author: "Inooraq Brandt",
+          org: "Rambøll Grønland A/S",
+          theme: "Renovation Economics"
+        },
+        {
+          quote: "We must succeed together. This also includes that we're not gonna, at least for now, put in some legislation concerning sustainability. We should be able to do this together and agree on all of those things.",
+          author: "Embla Kristjánsdóttir",
+          org: "Ministry for Housing, Infrastructure and Outer Districts, Greenland",
+          theme: "Trust-Based Strategy"
+        },
+        {
+          quote: "A bioregion is not an administrative unit. It is a geographic and cultural space where public authorities, farmers, tourism operators, businesses and citizens agree to manage local resources sustainably based on ecological principles and shared responsibility.",
+          author: "Inese Suija-Markova",
+          org: "Cesis Municipality & Vidzeme Region, Latvia",
+          theme: "Bioregion Definition"
+        },
+        {
+          quote: "We would like to be a modern driving force for circular economy innovations, a circular economy lab within the country and to be a source of inspiration for other cities.",
+          author: "Tālis Linkaits",
+          org: "Riga Energy Agency, Latvia",
+          theme: "Riga's Vision"
+        },
+        {
+          quote: "One of the things we found out when we made that limit was, what about reused products? What should they calculate for? And more or less everyone wanted the political push that it should be set to zero.",
+          author: "Helle Redder Momsen",
+          org: "Nordic Sustainable Construction, Denmark",
+          theme: "Reused Products in LCA"
+        },
+        {
+          quote: "It should not be hard to be sustainable, to make sustainable choices. It should be easy for you to do that, easy to do right.",
+          author: "Helle Redder Momsen",
+          org: "Nordic Sustainable Construction, Denmark",
+          theme: "Making Sustainability Easy"
+        },
+        {
+          quote: "Life is lived in municipalities. So that's where you need to have the solutions and the place based economy and value creation.",
+          author: "Marthe Haugland",
+          org: "Nordic Innovation",
+          theme: "Place-Based Solutions"
+        }
+      ],
+      coreThemes: [
+        {
+          title: "Place Economy Principles",
+          icon: "🏙️",
+          points: [
+            "Trust as foundational infrastructure for place building",
+            "Economic language to describe holistic value",
+            "Life of place = life of planet",
+            "Quality of life defined by individuals"
+          ]
+        },
+        {
+          title: "Riga's Circular Transformation",
+          icon: "🇱🇻",
+          points: [
+            "EU Mission city: climate neutral and smart",
+            "Circular economy lab for Latvia",
+            "Three directions: citizens, municipality, businesses",
+            "First Latvian Circular Economy Forum: 108 speakers"
+          ]
+        },
+        {
+          title: "Cesis Bioregion Model",
+          icon: "🌿",
+          points: [
+            "First bioregion in the Baltics",
+            "13 institutions signed Memorandum of Goodwill",
+            "Social contract based on ecological principles",
+            "Eight priority areas for sustainable development"
+          ]
+        },
+        {
+          title: "Nordic Construction Harmonization",
+          icon: "🏗️",
+          points: [
+            "LCA limits for all Nordic countries",
+            "Reused products counted as zero emissions",
+            "Renovation economics: 50% cost of new builds",
+            "Trust-based strategy without legislation"
+          ]
+        }
+      ]
+    },
+    'day1-summary': {
+      topQuotes: [
+        {
+          quote: "Trust is the infrastructure of Greenland. Without it, we don't have any.",
+          author: "Edvard Lybert Mørk",
+          org: "Nalek Ventures, Greenland",
+          theme: "Trust as Foundation"
+        },
+        {
+          quote: "Side stream superfood.",
+          author: "Edvard Lybert Mørk",
+          org: "Nalek Ventures, Greenland",
+          theme: "Value from Byproducts"
+        },
+        {
+          quote: "Inuit mindset are very aligned with circular economy way of thinking.",
+          author: "Edvard Lybert Mørk",
+          org: "Nalek Ventures, Greenland",
+          theme: "Indigenous Alignment"
+        },
+        {
+          quote: "Being poor makes us think different.",
+          author: "Malene Vahl Rasmussen",
+          org: "Mayor, Kommune Kujalleq, Greenland",
+          theme: "Scarcity Drives Innovation"
+        },
+        {
+          quote: "The real thing is on the coast. So I hope you'll visit.",
+          author: "Malene Vahl Rasmussen",
+          org: "Mayor, Kommune Kujalleq, Greenland",
+          theme: "Authentic Experience"
+        },
+        {
+          quote: "Quality of life. That is why we're doing circular economy, isn't it? Because to improve quality of life.",
+          author: "Marthe Haugland",
+          org: "Nordic Innovation",
+          theme: "Ultimate Purpose"
+        },
+        {
+          quote: "Life is lived in municipalities. So that's where you need to have the solutions and the place based economy and value creation.",
+          author: "Marthe Haugland",
+          org: "Nordic Innovation",
+          theme: "Place-Based Priority"
+        },
+        {
+          quote: "Perhaps we've moved a little bit into implementation.",
+          author: "Marthe Haugland",
+          org: "Nordic Innovation",
+          theme: "Implementation Shift"
+        },
+        {
+          quote: "We wanna make sure that the value stay, most of it stays in the region.",
+          author: "Malene Vahl Rasmussen",
+          org: "Mayor, Kommune Kujalleq, Greenland",
+          theme: "Value Retention"
+        },
+        {
+          quote: "When we take action, it actually can be measured very fast.",
+          author: "Malene Vahl Rasmussen",
+          org: "Mayor, Kommune Kujalleq, Greenland",
+          theme: "Rapid Feedback"
+        }
+      ],
+      coreThemes: [
+        {
+          title: "Trust Infrastructure",
+          icon: "🤝",
+          points: [
+            "Trust as invisible infrastructure enabling collaboration",
+            "Social capital enables circular models",
+            "Reputation becomes currency in sparse populations",
+            "Strong relationships matter more than contracts"
+          ]
+        },
+        {
+          title: "Municipal Circular Economy",
+          icon: "🏛️",
+          points: [
+            "Food systems as entry point (kindergartens, elders)",
+            "Local partnerships with hunters, fishermen, farmers",
+            "Youth inclusion in decision-making",
+            "Mining negotiations focused on community benefits"
+          ]
+        },
+        {
+          title: "Quality of Life as North Star",
+          icon: "⭐",
+          points: [
+            "Ultimate purpose of circular economy",
+            "Economy exists to serve life, not vice versa",
+            "Includes health, meaningful work, community, culture",
+            "Start with desired outcomes, work backward"
+          ]
+        },
+        {
+          title: "Implementation Over Planning",
+          icon: "🚀",
+          points: [
+            "Shift from perpetual planning to concrete action",
+            "Conference fatigue in small regions",
+            "Small scale enables rapid feedback",
+            "Day 2 focused on concrete projects"
           ]
         }
       ]
