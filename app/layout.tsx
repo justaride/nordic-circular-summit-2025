@@ -1,11 +1,17 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Patrick_Hand } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({
   variable: "--font-inter",
   subsets: ["latin"],
   display: "swap",
+});
+
+const patrickHand = Patrick_Hand({
+  weight: '400',
+  subsets: ["latin"],
+  variable: '--font-patrick-hand',
 });
 
 export const metadata: Metadata = {
@@ -22,7 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${inter.variable} antialiased`}
+        className={`${inter.className} ${patrickHand.variable} antialiased`}
         style={{ background: 'linear-gradient(135deg, #f0f7f8 0%, #f4f6f2 50%, #f5f7f6 100%)' }}
       >
         {/* Global Nordic Background */}

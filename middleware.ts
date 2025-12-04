@@ -34,6 +34,6 @@ export const config = {
      * - favicon.ico (favicon file)
      * - media (public media files)
      */
-    '/((?!api/auth|_next/static|_next/image|favicon.ico|media).*)',
+    '/((?!api/auth|_next/static|_next/image|favicon.ico|media|v|network|kumu-map).*)',
   ],
 };

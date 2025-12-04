@@ -17,7 +17,9 @@ import {
   ChartIcon,
   SearchIcon,
   HybridIcon,
-  UsersIcon
+  UsersIcon,
+  NotebookIcon,
+  SparklesIcon
 } from '@/components/Icons';
 
 export default function Home() {
@@ -77,7 +79,7 @@ export default function Home() {
                   color: 'var(--glacial-700)'
                 }}>
                   {event.format.inPerson && event.format.online ? <><HybridIcon size={14} /> Hybrid Event</> :
-                   event.format.inPerson ? <><LocationIcon size={14} /> In-person</> : <><LaptopIcon size={14} /> Online</>}
+                    event.format.inPerson ? <><LocationIcon size={14} /> In-person</> : <><LaptopIcon size={14} /> Online</>}
                 </p>
               </div>
               <div>
@@ -164,6 +166,14 @@ export default function Home() {
             </p>
           </Link>
 
+          <Link href="/kumu-map" className="rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group text-white" style={{ background: 'linear-gradient(135deg, #4ECDC4 0%, #2c3e50 100%)' }}>
+            <div className="mb-3 group-hover:scale-110 transition-transform"><GlobeIcon size={36} color="white" /></div>
+            <h3 className="text-xl font-bold mb-2">Kumu Network Map</h3>
+            <p className="opacity-90">
+              Explore the ecosystem map powered by Kumu
+            </p>
+          </Link>
+
           <Link href="/transcripts" className="frost-card rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group" style={{ borderTop: '4px solid var(--glacial-400)' }}>
             <div className="mb-3 group-hover:scale-110 transition-transform"><TranscriptIcon size={36} color="var(--glacial-500)" /></div>
             <h3 className="text-xl font-bold mb-2" style={{ color: 'var(--glacial-800)' }}>Transcripts</h3>
@@ -217,6 +227,17 @@ export default function Home() {
             <h3 className="text-xl font-bold mb-2">Summit Intelligence</h3>
             <p className="opacity-90">
               Strategic opportunities, project pipeline & actionable insights for NCH
+            </p>
+          </Link>
+
+          <Link href="/notebook" className="rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group text-white relative overflow-hidden" style={{ background: 'linear-gradient(135deg, #7c3aed 0%, #4f46e5 100%)' }}>
+            <div className="absolute top-2 right-2">
+              <SparklesIcon size={20} color="rgba(255,255,255,0.5)" />
+            </div>
+            <div className="mb-3 group-hover:scale-110 transition-transform"><NotebookIcon size={36} color="white" /></div>
+            <h3 className="text-xl font-bold mb-2">The Notebook</h3>
+            <p className="opacity-90">
+              AI-generated insights, audio overviews & deep dives powered by NotebookLM
             </p>
           </Link>
         </div>
