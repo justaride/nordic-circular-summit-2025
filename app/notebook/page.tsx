@@ -18,24 +18,72 @@ interface NotebookItem {
   id: string;
   title: string;
   description: string;
-  type: 'audio' | 'summary' | 'faq' | 'briefing' | 'other';
+  type: 'audio' | 'video' | 'summary' | 'faq' | 'briefing' | 'image' | 'pdf' | 'other';
   content?: string;
   audioUrl?: string;
+  videoUrl?: string;
+  imageUrl?: string;
+  pdfUrl?: string;
   externalUrl?: string;
   dateAdded: string;
   duration?: string;
 }
 
-// Placeholder data - will be populated with NotebookLM outputs
+// NotebookLM generated content
 const notebookItems: NotebookItem[] = [
-  // Items will be added here as NotebookLM generates content
+  {
+    id: 'trust-based-circular-economy',
+    title: "Greenland's Trust-Based Circular Economy",
+    description: "AI-generated audio overview exploring how trust serves as the foundational infrastructure for circular economy in Greenland and the Arctic region. Features insights from summit speakers on traditional knowledge, symbiosis, and Nordic collaboration.",
+    type: 'audio',
+    audioUrl: '/notebook/Greenland_s_Trust_Based_Circular_Economy_Action.m4a',
+    dateAdded: 'Dec 4, 2025',
+    duration: '~10 min'
+  },
+  {
+    id: 'circular-economy-ancient-idea',
+    title: 'Circular Economy: An Ancient Idea',
+    description: "Video exploration of how circular economy principles are deeply rooted in traditional Arctic and indigenous practices. The 'new' circular economy mirrors millennia of Greenlandic wisdom where nothing is wasted.",
+    type: 'video',
+    videoUrl: '/notebook/Circular_Economy__Ancient_Idea.mp4',
+    dateAdded: 'Dec 4, 2025',
+    duration: 'Video'
+  },
+  {
+    id: 'nordic-circular-summit-overview',
+    title: 'Nordic Circular Summit 2025 Overview',
+    description: "Comprehensive video summary of the summit highlights, key speakers, and major themes from the historic gathering in Nuuk, Greenland.",
+    type: 'video',
+    videoUrl: '/notebook/Nordic_Circular_Summit.mp4',
+    dateAdded: 'Dec 4, 2025',
+    duration: 'Video'
+  },
+  {
+    id: 'arctic-wisdom-global-action',
+    title: 'Arctic Wisdom, Global Action',
+    description: "In-depth briefing document synthesizing the summit's key insights on how Arctic and Nordic communities are shaping the future of circular economy through traditional knowledge, trust-based collaboration, and innovative business models.",
+    type: 'pdf',
+    pdfUrl: '/notebook/Arctic_Wisdom_Global_Action.pdf',
+    dateAdded: 'Dec 4, 2025'
+  },
+  {
+    id: 'mind-map',
+    title: 'Summit Mind Map',
+    description: "Visual representation of the interconnected themes, speakers, and concepts from the Nordic Circular Summit 2025. Shows relationships between sessions, key quotes, and strategic opportunities.",
+    type: 'image',
+    imageUrl: '/notebook/NotebookLM_Mind_Map.png',
+    dateAdded: 'Dec 4, 2025'
+  }
 ];
 
 const typeLabels: Record<string, { label: string; color: string; bg: string }> = {
   audio: { label: 'Audio Overview', color: 'var(--glacial-700)', bg: 'var(--glacial-100)' },
+  video: { label: 'Video', color: '#dc2626', bg: '#fee2e2' },
   summary: { label: 'AI Summary', color: 'var(--sage-700)', bg: 'var(--sage-100)' },
   faq: { label: 'FAQ', color: '#7c3aed', bg: '#ede9fe' },
   briefing: { label: 'Briefing Doc', color: '#0891b2', bg: '#cffafe' },
+  image: { label: 'Mind Map', color: '#059669', bg: '#d1fae5' },
+  pdf: { label: 'PDF Document', color: '#ea580c', bg: '#ffedd5' },
   other: { label: 'Content', color: '#6b7280', bg: '#f3f4f6' },
 };
 
@@ -48,9 +96,13 @@ function NotebookItemCard({ item }: { item: NotebookItem }) {
       <div className="p-6">
         <div className="flex items-start justify-between mb-4">
           <div className="flex items-center gap-3">
-            {item.type === 'audio' ? (
+            {item.type === 'audio' || item.type === 'video' ? (
               <div className="p-2 rounded-lg" style={{ background: typeStyle.bg }}>
                 <PlayIcon size={24} color={typeStyle.color} />
+              </div>
+            ) : item.type === 'image' ? (
+              <div className="p-2 rounded-lg" style={{ background: typeStyle.bg }}>
+                <SparklesIcon size={24} color={typeStyle.color} />
               </div>
             ) : (
               <div className="p-2 rounded-lg" style={{ background: typeStyle.bg }}>
@@ -86,9 +138,52 @@ function NotebookItemCard({ item }: { item: NotebookItem }) {
         {item.audioUrl && (
           <div className="mb-4">
             <audio controls className="w-full" style={{ height: '40px' }}>
+              <source src={item.audioUrl} type="audio/m4a" />
               <source src={item.audioUrl} type="audio/mpeg" />
               Your browser does not support the audio element.
             </audio>
+          </div>
+        )}
+
+        {item.videoUrl && (
+          <div className="mb-4 rounded-lg overflow-hidden" style={{ background: '#000' }}>
+            <video controls className="w-full" style={{ maxHeight: '300px' }}>
+              <source src={item.videoUrl} type="video/mp4" />
+              Your browser does not support the video element.
+            </video>
+          </div>
+        )}
+
+        {item.imageUrl && (
+          <div className="mb-4">
+            <a href={item.imageUrl} target="_blank" rel="noopener noreferrer">
+              <Image
+                src={item.imageUrl}
+                alt={item.title}
+                width={800}
+                height={600}
+                className="w-full h-auto rounded-lg shadow-md hover:shadow-lg transition-shadow cursor-pointer"
+              />
+            </a>
+            <p className="text-xs mt-2 text-center" style={{ color: 'var(--sage-500)' }}>
+              Click to view full size
+            </p>
+          </div>
+        )}
+
+        {item.pdfUrl && (
+          <div className="mb-4">
+            <a
+              href={item.pdfUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-4 py-3 rounded-lg font-medium transition-all hover:scale-[1.02]"
+              style={{ background: 'var(--glacial-100)', color: 'var(--glacial-700)', border: '1px solid var(--glacial-200)' }}
+            >
+              <DocumentIcon size={20} color="var(--glacial-600)" />
+              View PDF Document
+              <ExternalLinkIcon size={16} color="var(--glacial-500)" />
+            </a>
           </div>
         )}
 
