@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import Image from 'next/image';
 import { event, speakers, sessions, organizations, participants } from '@/lib/data';
 import {
   SnowflakeIcon,
@@ -21,28 +20,19 @@ import {
   NotebookIcon,
   SparklesIcon
 } from '@/components/Icons';
+import Header from '@/components/layout/Header';
+import Footer from '@/components/layout/Footer';
+import NavigationCard from '@/components/ui/NavigationCard';
+import StatCard from '@/components/ui/StatCard';
 
 export default function Home() {
   return (
     <div className="min-h-screen">
-      {/* Header */}
-      <header className="frost-card-strong border-b" style={{ borderColor: 'var(--glacial-200)' }}>
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <div className="flex items-center gap-4 mb-2">
-            <Image
-              src="/media/nch-logo.svg"
-              alt="Nordic Circular Hotspot"
-              width={56}
-              height={56}
-              className="h-14 w-auto"
-            />
-            <div>
-              <h1 className="text-3xl font-bold" style={{ color: 'var(--glacial-800)' }}>{event.name}</h1>
-              <p className="text-lg mt-1" style={{ color: 'var(--sage-600)' }}>{event.theme}</p>
-            </div>
-          </div>
-        </div>
-      </header>
+      <Header 
+        title={event.name} 
+        subtitle={event.theme} 
+        showLogo={true} 
+      />
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {/* Hero Section */}
@@ -97,26 +87,30 @@ export default function Home() {
 
         {/* Quick Stats */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-10">
-          <div className="frost-card rounded-xl p-6 text-center shadow-lg transition-transform hover:scale-105" style={{ borderLeft: '4px solid var(--glacial-400)' }}>
-            <div className="flex justify-center mb-2"><MicrophoneIcon size={36} color="var(--glacial-500)" /></div>
-            <div className="text-3xl font-bold" style={{ color: 'var(--glacial-700)' }}>{speakers.length}</div>
-            <div style={{ color: 'var(--sage-600)' }}>Speakers</div>
-          </div>
-          <div className="frost-card rounded-xl p-6 text-center shadow-lg transition-transform hover:scale-105" style={{ borderLeft: '4px solid var(--sage-400)' }}>
-            <div className="flex justify-center mb-2"><SessionIcon size={36} color="var(--sage-500)" /></div>
-            <div className="text-3xl font-bold" style={{ color: 'var(--sage-700)' }}>{sessions.length}</div>
-            <div style={{ color: 'var(--glacial-600)' }}>Sessions</div>
-          </div>
-          <div className="frost-card rounded-xl p-6 text-center shadow-lg transition-transform hover:scale-105" style={{ borderLeft: '4px solid var(--glacial-500)' }}>
-            <div className="flex justify-center mb-2"><BuildingIcon size={36} color="var(--glacial-500)" /></div>
-            <div className="text-3xl font-bold" style={{ color: 'var(--glacial-700)' }}>{organizations.length}</div>
-            <div style={{ color: 'var(--sage-600)' }}>Organizations</div>
-          </div>
-          <div className="frost-card rounded-xl p-6 text-center shadow-lg transition-transform hover:scale-105" style={{ borderLeft: '4px solid var(--sage-500)' }}>
-            <div className="flex justify-center mb-2"><SessionIcon size={36} color="var(--sage-500)" /></div>
-            <div className="text-3xl font-bold" style={{ color: 'var(--sage-700)' }}>2</div>
-            <div style={{ color: 'var(--glacial-600)' }}>Days</div>
-          </div>
+          <StatCard 
+            value={speakers.length} 
+            label="Speakers" 
+            icon={<MicrophoneIcon size={36} color="var(--glacial-500)" />} 
+            accentColor="glacial" 
+          />
+          <StatCard 
+            value={sessions.length} 
+            label="Sessions" 
+            icon={<SessionIcon size={36} color="var(--sage-500)" />} 
+            accentColor="sage" 
+          />
+          <StatCard 
+            value={organizations.length} 
+            label="Organizations" 
+            icon={<BuildingIcon size={36} color="var(--glacial-500)" />} 
+            accentColor="glacial" 
+          />
+          <StatCard 
+            value="2" 
+            label="Days" 
+            icon={<SessionIcon size={36} color="var(--sage-500)" />} 
+            accentColor="sage" 
+          />
         </div>
 
         {/* Navigation Cards */}
@@ -125,139 +119,139 @@ export default function Home() {
         </h2>
         <div className="grid md:grid-cols-3 gap-6">
           {/* Core Content Cards */}
-          <Link href="/speakers" className="frost-card rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group" style={{ borderTop: '4px solid var(--glacial-400)' }}>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><MicrophoneIcon size={36} color="var(--glacial-500)" /></div>
-            <h3 className="text-xl font-bold mb-2" style={{ color: 'var(--glacial-800)' }}>Speakers</h3>
-            <p style={{ color: 'var(--sage-600)' }}>
-              Browse all speakers from government, industry, academia, and civil society
-            </p>
-          </Link>
-
-          <Link href="/sessions" className="frost-card rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group" style={{ borderTop: '4px solid var(--sage-400)' }}>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><SessionIcon size={36} color="var(--sage-500)" /></div>
-            <h3 className="text-xl font-bold mb-2" style={{ color: 'var(--glacial-800)' }}>Sessions</h3>
-            <p style={{ color: 'var(--sage-600)' }}>
-              Explore keynotes, panels, and workshops across two days
-            </p>
-          </Link>
-
-          <Link href="/organizations" className="frost-card rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group" style={{ borderTop: '4px solid var(--glacial-500)' }}>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><BuildingIcon size={36} color="var(--glacial-500)" /></div>
-            <h3 className="text-xl font-bold mb-2" style={{ color: 'var(--glacial-800)' }}>Organizations</h3>
-            <p style={{ color: 'var(--sage-600)' }}>
-              View all participating organizations and partners
-            </p>
-          </Link>
+          <NavigationCard 
+            href="/speakers"
+            title="Speakers"
+            description="Browse all speakers from government, industry, academia, and civil society"
+            icon={<MicrophoneIcon size={36} color="var(--glacial-500)" />}
+            variant="standard"
+            borderColor="var(--glacial-400)"
+          />
+          
+          <NavigationCard 
+            href="/sessions"
+            title="Sessions"
+            description="Explore keynotes, panels, and workshops across two days"
+            icon={<SessionIcon size={36} color="var(--sage-500)" />}
+            variant="standard"
+            borderColor="var(--sage-400)"
+          />
+          
+          <NavigationCard 
+            href="/organizations"
+            title="Organizations"
+            description="View all participating organizations and partners"
+            icon={<BuildingIcon size={36} color="var(--glacial-500)" />}
+            variant="standard"
+            borderColor="var(--glacial-500)"
+          />
 
           {/* Featured Cards with Gradients */}
-          <Link href="/participants" className="rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group text-white" style={{ background: 'linear-gradient(135deg, var(--glacial-600) 0%, var(--glacial-700) 100%)' }}>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><UsersIcon size={36} color="white" /></div>
-            <h3 className="text-xl font-bold mb-2">Participant Network</h3>
-            <p className="opacity-90">
-              Explore the complete summit network with {participants.length}+ participants from 2020-2025
-            </p>
-          </Link>
+          <NavigationCard 
+            href="/participants"
+            title="Participant Network"
+            description={`Explore the complete summit network with ${participants.length}+ participants from 2020-2025`}
+            icon={<UsersIcon size={36} color="white" />}
+            variant="featured"
+            gradient="linear-gradient(135deg, var(--glacial-600) 0%, var(--glacial-700) 100%)"
+          />
+          
+          <NavigationCard 
+            href="/network"
+            title="Interactive Network Map"
+            description="Visualize connections between speakers and participants"
+            icon={<NetworkIcon size={36} color="white" />}
+            variant="featured"
+            gradient="linear-gradient(135deg, var(--sage-500) 0%, var(--sage-700) 100%)"
+          />
+          
+          <NavigationCard 
+            href="/kumu-map"
+            title="Kumu Network Map"
+            description="Explore the ecosystem map powered by Kumu"
+            icon={<GlobeIcon size={36} color="white" />}
+            variant="featured"
+            gradient="linear-gradient(135deg, #4ECDC4 0%, #2c3e50 100%)"
+          />
 
-          <Link href="/network" className="rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group text-white" style={{ background: 'linear-gradient(135deg, var(--sage-500) 0%, var(--sage-700) 100%)' }}>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><NetworkIcon size={36} color="white" /></div>
-            <h3 className="text-xl font-bold mb-2">Interactive Network Map</h3>
-            <p className="opacity-90">
-              Visualize connections between speakers and participants
-            </p>
-          </Link>
+          <NavigationCard 
+            href="/transcripts"
+            title="Transcripts"
+            description="Access session transcripts with quotes and themes"
+            icon={<TranscriptIcon size={36} color="var(--glacial-500)" />}
+            variant="standard"
+            borderColor="var(--glacial-400)"
+          />
 
-          <Link href="/kumu-map" className="rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group text-white" style={{ background: 'linear-gradient(135deg, #4ECDC4 0%, #2c3e50 100%)' }}>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><GlobeIcon size={36} color="white" /></div>
-            <h3 className="text-xl font-bold mb-2">Kumu Network Map</h3>
-            <p className="opacity-90">
-              Explore the ecosystem map powered by Kumu
-            </p>
-          </Link>
+          <NavigationCard 
+            href="/social-media"
+            title="Social Media"
+            description="Ready-to-use posts and content calendar"
+            icon={<ShareIcon size={36} color="white" />}
+            variant="featured"
+            gradient="linear-gradient(135deg, var(--glacial-500) 0%, var(--sage-600) 100%)"
+          />
+          
+          <NavigationCard 
+            href="/content"
+            title="Content Outputs"
+            description="Download articles, quotes, and media content"
+            icon={<DocumentIcon size={36} color="var(--sage-500)" />}
+            variant="standard"
+            borderColor="var(--sage-400)"
+          />
 
-          <Link href="/transcripts" className="frost-card rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group" style={{ borderTop: '4px solid var(--glacial-400)' }}>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><TranscriptIcon size={36} color="var(--glacial-500)" /></div>
-            <h3 className="text-xl font-bold mb-2" style={{ color: 'var(--glacial-800)' }}>Transcripts</h3>
-            <p style={{ color: 'var(--sage-600)' }}>
-              Access session transcripts with quotes and themes
-            </p>
-          </Link>
+          <NavigationCard 
+            href="/day1-analysis"
+            title="Day 1 Analysis"
+            description="Comprehensive synthesis of plenary sessions with strategic insights"
+            icon={<ChartIcon size={36} color="white" />}
+            variant="featured"
+            gradient="linear-gradient(135deg, var(--glacial-600) 0%, var(--sage-600) 100%)"
+          />
+          
+          <NavigationCard 
+            href="/day2-analysis"
+            title="Day 2 Analysis"
+            description="Digital partner sessions: Construction, Textiles, Design Toolbox"
+            icon={<ChartIcon size={36} color="white" />}
+            variant="featured"
+            gradient="linear-gradient(135deg, var(--sage-600) 0%, var(--glacial-600) 100%)"
+          />
+          
+          <NavigationCard 
+            href="/search"
+            title="Search"
+            description="Search across all summit content and materials"
+            icon={<SearchIcon size={36} color="var(--glacial-500)" />}
+            variant="standard"
+            borderColor="var(--glacial-500)"
+          />
+          
+          <NavigationCard 
+            href="/summit-intelligence"
+            title="Summit Intelligence"
+            description="Strategic opportunities, project pipeline & actionable insights for NCH"
+            icon={<ChartIcon size={36} color="white" />}
+            variant="featured"
+            gradient="linear-gradient(135deg, var(--glacial-500) 0%, var(--sage-600) 100%)"
+          />
 
-          <Link href="/social-media" className="rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group text-white" style={{ background: 'linear-gradient(135deg, var(--glacial-500) 0%, var(--sage-600) 100%)' }}>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><ShareIcon size={36} color="white" /></div>
-            <h3 className="text-xl font-bold mb-2">Social Media</h3>
-            <p className="opacity-90">
-              Ready-to-use posts and content calendar
-            </p>
-          </Link>
-
-          <Link href="/content" className="frost-card rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group" style={{ borderTop: '4px solid var(--sage-400)' }}>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><DocumentIcon size={36} color="var(--sage-500)" /></div>
-            <h3 className="text-xl font-bold mb-2" style={{ color: 'var(--glacial-800)' }}>Content Outputs</h3>
-            <p style={{ color: 'var(--sage-600)' }}>
-              Download articles, quotes, and media content
-            </p>
-          </Link>
-
-          <Link href="/day1-analysis" className="rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group text-white" style={{ background: 'linear-gradient(135deg, var(--glacial-600) 0%, var(--sage-600) 100%)' }}>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><ChartIcon size={36} color="white" /></div>
-            <h3 className="text-xl font-bold mb-2">Day 1 Analysis</h3>
-            <p className="opacity-90">
-              Comprehensive synthesis of plenary sessions with strategic insights
-            </p>
-          </Link>
-
-          <Link href="/day2-analysis" className="rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group text-white" style={{ background: 'linear-gradient(135deg, var(--sage-600) 0%, var(--glacial-600) 100%)' }}>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><ChartIcon size={36} color="white" /></div>
-            <h3 className="text-xl font-bold mb-2">Day 2 Analysis</h3>
-            <p className="opacity-90">
-              Digital partner sessions: Construction, Textiles, Design Toolbox
-            </p>
-          </Link>
-
-          <Link href="/search" className="frost-card rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group" style={{ borderTop: '4px solid var(--glacial-500)' }}>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><SearchIcon size={36} color="var(--glacial-500)" /></div>
-            <h3 className="text-xl font-bold mb-2" style={{ color: 'var(--glacial-800)' }}>Search</h3>
-            <p style={{ color: 'var(--sage-600)' }}>
-              Search across all summit content and materials
-            </p>
-          </Link>
-
-          <Link href="/summit-intelligence" className="rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group text-white" style={{ background: 'linear-gradient(135deg, var(--glacial-500) 0%, var(--sage-600) 100%)' }}>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><ChartIcon size={36} color="white" /></div>
-            <h3 className="text-xl font-bold mb-2">Summit Intelligence</h3>
-            <p className="opacity-90">
-              Strategic opportunities, project pipeline & actionable insights for NCH
-            </p>
-          </Link>
-
-          <Link href="/notebook" className="rounded-xl shadow-lg p-6 hover:shadow-xl transition-all hover:scale-[1.02] group text-white relative overflow-hidden" style={{ background: 'linear-gradient(135deg, #7c3aed 0%, #4f46e5 100%)' }}>
-            <div className="absolute top-2 right-2">
+          <div className="relative">
+             <div className="absolute top-2 right-2 z-10 pointer-events-none">
               <SparklesIcon size={20} color="rgba(255,255,255,0.5)" />
             </div>
-            <div className="mb-3 group-hover:scale-110 transition-transform"><NotebookIcon size={36} color="white" /></div>
-            <h3 className="text-xl font-bold mb-2">The Notebook</h3>
-            <p className="opacity-90">
-              AI-generated insights, audio overviews & deep dives powered by NotebookLM
-            </p>
-          </Link>
+            <NavigationCard 
+              href="/notebook"
+              title="The Notebook"
+              description="AI-generated insights, audio overviews & deep dives powered by NotebookLM"
+              icon={<NotebookIcon size={36} color="white" />}
+              variant="notebook"
+            />
+          </div>
         </div>
 
-        {/* Footer */}
-        <footer className="mt-16 pt-8 border-t text-center" style={{ borderColor: 'var(--glacial-200)' }}>
-          <div className="flex items-center justify-center gap-3 mb-2">
-            <Image
-              src="/media/nch-logo.svg"
-              alt="Nordic Circular Hotspot"
-              width={32}
-              height={32}
-              className="h-8 w-auto opacity-70"
-            />
-            <span className="text-lg font-semibold" style={{ color: 'var(--glacial-700)' }}>Nordic Circular Summit 2025</span>
-          </div>
-          <p className="text-sm" style={{ color: 'var(--sage-500)' }}>
-            Circular Frontiers: Shaping Our Future • Nuuk, Greenland
-          </p>
-        </footer>
+        <Footer />
       </main>
     </div>
   );

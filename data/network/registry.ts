@@ -1,4 +1,5 @@
 import summitNetwork from './summit-network.json';
+import summitNetworkEnriched from './summit-network-enriched.json';
 
 export interface NetworkDataset {
     id: string;
@@ -9,20 +10,17 @@ export interface NetworkDataset {
 
 export const datasets: NetworkDataset[] = [
     {
+        id: 'semantic',
+        name: 'Semantic Network (Themes)',
+        description: 'Rich map of speakers, topics, and organizations',
+        data: summitNetworkEnriched
+    },
+    {
         id: 'day1',
-        name: 'Day 1: Summit Network',
-        description: 'Connections from Day 1 speakers and participants',
+        name: 'Simple Network (Day 1)',
+        description: 'Basic connections from Day 1 speakers',
         data: summitNetwork
     },
-    // Placeholder for future datasets
-    /*
-    {
-      id: 'day2',
-      name: 'Day 2: Future Network',
-      description: 'Projected connections for Day 2',
-      data: day2Network
-    }
-    */
 ];
 
 export const getDataset = (id: string) => datasets.find(d => d.id === id) || datasets[0];

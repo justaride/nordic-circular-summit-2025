@@ -1,6 +1,4 @@
-'use client';
-
-import Link from 'next/link';
+import Header from '@/components/layout/Header';
 
 export default function ContentPage() {
   const sessionsWithContent = [
@@ -50,25 +48,16 @@ export default function ContentPage() {
 
   return (
     <div className="min-h-screen">
-      <header className="frost-card-strong border-b" style={{ borderColor: 'var(--glacial-200)' }}>
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-          <Link href="/" className="mb-2 inline-block transition-colors" style={{ color: 'var(--glacial-600)' }}>
-            ← Back to Home
-          </Link>
-          <div className="flex items-center gap-3">
-            <span className="text-3xl">📦</span>
-            <div>
-              <h1 className="text-3xl font-bold" style={{ color: 'var(--glacial-800)' }}>Content Overview</h1>
-              <p className="mt-1" style={{ color: 'var(--sage-600)' }}>
-                All generated content from Nordic Circular Summit 2025 Day 1 sessions
-              </p>
-            </div>
-          </div>
-        </div>
-      </header>
+      <Header
+        title="Content Overview"
+        subtitle="All generated content from Nordic Circular Summit 2025 Day 1 sessions"
+        icon="📦"
+        showBackLink={true}
+      />
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="space-y-12">
+
           {sessionsWithContent.map((session, index) => (
             <div key={session.id} className="border-b pb-8 last:border-b-0" style={{ borderColor: 'var(--glacial-200)' }}>
               {/* Session Header */}

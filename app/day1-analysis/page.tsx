@@ -2,6 +2,12 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
+import Header from '@/components/layout/Header';
+import OverviewTab from '@/components/analysis/day1/OverviewTab';
+import ExecutiveSummaryTab from '@/components/analysis/day1/ExecutiveSummaryTab';
+import ThemesTab from '@/components/analysis/day1/ThemesTab';
+import NumbersTab from '@/components/analysis/day1/NumbersTab';
+import SocialTab from '@/components/analysis/day1/SocialTab';
 
 export default function Day1AnalysisPage() {
   const [activeTab, setActiveTab] = useState('overview');
@@ -16,23 +22,12 @@ export default function Day1AnalysisPage() {
 
   return (
     <div className="min-h-screen">
-      {/* Header */}
-      <header className="frost-card-strong border-b" style={{ borderColor: 'var(--glacial-200)' }}>
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-          <Link href="/" className="mb-2 inline-block transition-colors" style={{ color: 'var(--glacial-600)' }}>
-            ← Back to Home
-          </Link>
-          <div className="flex items-center gap-3">
-            <span className="text-3xl">📊</span>
-            <div>
-              <h1 className="text-3xl font-bold" style={{ color: 'var(--glacial-800)' }}>Day 1 Complete Analysis</h1>
-              <p className="mt-1" style={{ color: 'var(--sage-600)' }}>
-                Nordic Circular Summit 2025 - November 19, 2025 | Nuuk, Greenland
-              </p>
-            </div>
-          </div>
-        </div>
-      </header>
+      <Header
+        title="Day 1 Complete Analysis"
+        subtitle="Nordic Circular Summit 2025 - November 19, 2025 | Nuuk, Greenland"
+        icon="📊"
+        showBackLink={true}
+      />
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {/* Stats Bar */}
@@ -146,6 +141,7 @@ export default function Day1AnalysisPage() {
     </div>
   );
 }
+
 
 function OverviewTab() {
   return (

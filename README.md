@@ -23,8 +23,8 @@ This repository provides:
 
 1. **Content Production System** - All summit sessions documented with transcripts, articles, social media posts
 2. **Summit Intelligence Hub** - Comprehensive data infrastructure for impact measurement and project development
-3. **Web Interface** - Browse summit content via Next.js app on Vercel
-4. **AI-Assisted Workflow** - Optimized for Claude Code content generation
+3. **Web Interface** - Browse summit content via Next.js app on Vercel, now featuring a fully interactive semantic network map
+4. **AI-Assisted Workflow** - Optimized for Claude Code content generation and data enrichment
 5. **Strategic Analysis** - NCH opportunity mapping and project pipeline
 
 ---
@@ -54,6 +54,8 @@ This repository provides:
 | Funding Sources | 10 |
 | Statistics Captured | 75+ |
 | KPIs Defined | 35 |
+| **Themes Extracted** | 89 |
+| **Semantic Connections** | 395 |
 
 ---
 
@@ -66,6 +68,8 @@ nordic-circular-summit-2025/
 │   ├── sessions/sessions.json      # All session metadata
 │   ├── organizations/              # Organization data
 │   ├── transcripts/                # Raw and cleaned transcripts
+│   ├── network/                    # Network data (nodes, edges, themes)
+│   ├── themes/                     # Extracted themes from NotebookLM
 │   └── event.json                  # Event metadata
 │
 ├── public/                         # Public assets and content
@@ -75,16 +79,15 @@ nordic-circular-summit-2025/
 │   ├── executive/                  # Executive summaries (2)
 │   ├── highlights/                 # Key quotes and themes (8)
 │   └── summit-intelligence/        # Intelligence Hub data
-│       ├── entities/               # Organizations, companies
-│       ├── opportunities/          # Projects, funding
-│       ├── insights/               # Statistics, quotes
-│       ├── metrics/                # KPIs framework
-│       └── analysis/               # NCH opportunities
 │
-├── outputs/                        # Working content (mirrors public/)
-├── app/                            # Next.js application
-├── lib/                            # Utilities and types
-└── SUMMIT_INTELLIGENCE_HUB.md      # Intelligence Hub documentation
+├── app/                            # Next.js application (App Router)
+├── components/                     # React components
+│   ├── layout/                     # Layout components (Header, Footer)
+│   ├── ui/                         # Reusable UI components (Cards, Stats)
+│   ├── transcripts/                # Transcript visualization components
+│   └── analysis/                   # Analysis dashboard components
+├── lib/                            # Utilities, types, and data access
+└── scripts/                        # Data processing scripts (Python/TS)
 ```
 
 ---
@@ -111,14 +114,11 @@ A comprehensive data infrastructure for measuring summit impact and developing f
 - `nch-opportunities.json` - Priority opportunities for Nordic Circular Hotspot
 - Key contacts, next steps, success metrics
 
-### Priority Opportunities Identified
-
-1. **Nordic-Baltic Textile Transition Group** - Coordination role (deadline: Dec 1, 2025)
-2. **ArcCirc Initiative** - Arctic CE Resource Centre development
-3. **Circular Construction Catalog** - Platform integration
-4. **Circular Design Toolbox** - Regional deployment
-
-See `SUMMIT_INTELLIGENCE_HUB.md` for full documentation.
+### **NEW: Semantic Network Map**
+We have implemented a semantic network map that visualizes not just "who knows whom," but "who discussed what."
+- **89 unique themes** extracted from session transcripts using NLP.
+- **395 connections** mapped between speakers, organizations, and topics.
+- **Interactive Visualization**: Explore the map at `/network`.
 
 ---
 
@@ -187,38 +187,12 @@ npm start
 
 ---
 
-## Working with Claude Code
-
-### Content Generation
-```
-"Create social media posts for [session name]"
-"Extract key quotes from the construction session"
-"Write an executive summary of Day 2"
-"Generate a LinkedIn article about textile circularity"
-```
-
-### Intelligence Queries
-```
-"List all high-priority organizations for follow-up"
-"What funding sources are relevant for textile projects?"
-"Summarize NCH opportunities from the summit"
-"What statistics were mentioned about construction?"
-```
-
-### Data Management
-```
-"Add a new contact from the summit"
-"Update project status in the pipeline"
-"Add KPI data for participant count"
-```
-
----
-
 ## Technology Stack
 
 - **Framework**: Next.js 16.0.3 with App Router
 - **Language**: TypeScript
-- **Styling**: Tailwind CSS
+- **Styling**: Tailwind CSS with custom "Nordic Glacier" design system
+- **Visualization**: Cytoscape.js for network mapping
 - **Deployment**: Vercel (auto-deploy on push)
 - **Version Control**: GitHub
 - **AI Integration**: Claude Code optimized
@@ -226,28 +200,16 @@ npm start
 
 ---
 
-## Key Documents
+## Recent Updates (January 2026)
 
-| Document | Purpose |
-|----------|---------|
-| `README.md` | Project overview (this file) |
-| `PROJECT_SUMMARY.md` | Detailed project status and metrics |
-| `SUMMIT_INTELLIGENCE_HUB.md` | Intelligence hub architecture |
-| `public/executive/day1-executive-summary.md` | Day 1 leadership brief |
-| `public/executive/day2-executive-summary.md` | Day 2 leadership brief |
-
----
-
-## Contributing
-
-1. **Branch naming**: `feature/`, `content/`, `data/`, `fix/`
-2. **Commit messages**: Clear, descriptive
-3. **Data changes**: Update relevant JSON files
-4. **Content**: Add to appropriate `public/` subdirectory
+- **Semantic Network Map**: Launched enriched network visualization connecting speakers to 89+ themes.
+- **Visual Redesign**: Implemented "Nordic Glacier" design system with consistent UI components and color palette.
+- **Component Refactoring**: Modularized complex pages into reusable components (`components/ui`, `components/layout`).
+- **Data Pipelines**: Added Python scripts for extracting themes from Markdown and generating network graph data.
 
 ---
 
 **Built with**: Next.js, TypeScript, Tailwind CSS, Vercel
 **AI Integration**: Claude Code optimized
-**Last Updated**: November 28, 2025
-**Status**: Post-summit content production complete, Intelligence Hub active
+**Last Updated**: January 25, 2026
+**Status**: Content production complete, Intelligence Hub active, Network Map live

@@ -1,0 +1,4976 @@
+{
+  "metadata": {
+    "title": "Nordic Circular Summit 2025 - Semantic Network",
+    "generated": "2025-01-25",
+    "description": "Enriched network with semantic theme analysis"
+  },
+  "stats": {
+    "totalNodes": 138,
+    "totalEdges": 395,
+    "themes": 89,
+    "speakers": 24,
+    "organizations": 25
+  },
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "id": "theme-valueredefinition",
+          "label": "VALUE REDEFINITION",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-trustcollaboration",
+          "label": "TRUST & COLLABORATION",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-adaptabilityoverscale",
+          "label": "ADAPTABILITY OVER SCALE",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-politicalgap",
+          "label": "POLITICAL GAP",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-investmentbarriers",
+          "label": "INVESTMENT BARRIERS",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-youthsystemchange",
+          "label": "YOUTH & SYSTEM CHANGE",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-traditionalknowledge",
+          "label": "TRADITIONAL KNOWLEDGE",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-industrialsymbiosis",
+          "label": "INDUSTRIAL SYMBIOSIS",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-balticnordicexpansion",
+          "label": "BALTIC-NORDIC EXPANSION",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-unlearningreskilling",
+          "label": "UNLEARNING & RESKILLING",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-summitstatistics",
+          "label": "Summit Statistics",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-circulareconomygap",
+          "label": "Circular Economy Gap",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-collaborationexamples",
+          "label": "Collaboration Examples",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-thefishdontknowwhatwateris",
+          "label": "The Fish Don't Know What Water Is",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-trustasinfrastructure",
+          "label": "Trust as Infrastructure",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-turningtheicebergupsidedown",
+          "label": "Turning the Iceberg Upside Down",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-symbiosisassuperpower",
+          "label": "Symbiosis as Superpower",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-sandboxtotestbedtoscale",
+          "label": "Sandbox to Testbed to Scale",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-kilosnotkrona",
+          "label": "Kilos Not Krona",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-greenlandhost",
+          "label": "Greenland (Host)",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-denmark",
+          "label": "Denmark",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-sweden",
+          "label": "Sweden",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-finland",
+          "label": "Finland",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-norway",
+          "label": "Norway",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-land",
+          "label": "Åland",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-balticslatviaestonialithuania",
+          "label": "Baltics (Latvia, Estonia, Lithuania)",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-forpolicymakers",
+          "label": "For Policymakers",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-forinvestors",
+          "label": "For Investors",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-forbusinesses",
+          "label": "For Businesses",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-forregionscities",
+          "label": "For Regions & Cities",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-forknowledgeinstitutions",
+          "label": "For Knowledge Institutions",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-linkstolatersessions",
+          "label": "Links to Later Sessions",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-tweetlengthquotes",
+          "label": "Tweet-Length Quotes",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-100utilizationphilosophy",
+          "label": "100% UTILIZATION PHILOSOPHY",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-corporatetransformationjourney",
+          "label": "CORPORATE TRANSFORMATION JOURNEY",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-sidestreamsassuperfood",
+          "label": "SIDE STREAMS AS SUPERFOOD",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-clusterecosystemasenabler",
+          "label": "CLUSTER ECOSYSTEM AS ENABLER",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-logisticsinfrastructurechallenges",
+          "label": "LOGISTICS & INFRASTRUCTURE CHALLENGES",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-crosssectoralcollaboration",
+          "label": "CROSS-SECTORAL COLLABORATION",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-culturalfoundationforcircularity",
+          "label": "CULTURAL FOUNDATION FOR CIRCULARITY",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-businesscaseforcollaboration",
+          "label": "BUSINESS CASE FOR COLLABORATION",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-arcticasadvantage",
+          "label": "ARCTIC AS ADVANTAGE",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-nordiccollaborationmodel",
+          "label": "NORDIC COLLABORATION MODEL",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-circularityassecuritystrategy",
+          "label": "Circularity as Security Strategy",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-innerloopsoverrecycling",
+          "label": "Inner Loops Over Recycling",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-structuralshiftvalueofresilience",
+          "label": "Structural Shift: Value of Resilience",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-miningcircularitybothand",
+          "label": "Mining + Circularity (Both/And)",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-investmentgapandpolicymechanisms",
+          "label": "Investment Gap and Policy Mechanisms",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-indigenousrightsandfpic",
+          "label": "Indigenous Rights and FPIC",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-euframeworksvsarcticrealities",
+          "label": "EU Frameworks vs. Arctic Realities",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-materialeconomicsemergence",
+          "label": "Material Economics Emergence",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-arccircvision",
+          "label": "ArcCirc Vision",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-longtermpartnershipsovertradedeals",
+          "label": "Long-term Partnerships Over Trade Deals",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-thearccircproposal",
+          "label": "The ArcCirc Proposal",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-realisticbankingboredom",
+          "label": "\"Realistic Banking Boredom\"",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-thesighfromthearctic",
+          "label": "The Sigh from the Arctic",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-therhetoricalquestion",
+          "label": "The Rhetorical Question",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-snowyhelsinki",
+          "label": "Snowy Helsinki",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-the4millionnation",
+          "label": "The 4 Million Nation",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-weareabitshy",
+          "label": "\"We Are a Bit Shy\"",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-thelinearlockin",
+          "label": "The Linear Lock-In",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-thestructuralshift",
+          "label": "The Structural Shift",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-blackmassparadox",
+          "label": "Black Mass Paradox",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-cluster1securitygeopolitics",
+          "label": "Cluster 1: Security & Geopolitics",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-cluster2economicsfinance",
+          "label": "Cluster 2: Economics & Finance",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-cluster3policyregulation",
+          "label": "Cluster 3: Policy & Regulation",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-cluster4rightsjustice",
+          "label": "Cluster 4: Rights & Justice",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-cluster5arcticperspectives",
+          "label": "Cluster 5: Arctic Perspectives",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-cluster6materialeconomics",
+          "label": "Cluster 6: Material Economics",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-circularityastraditionnottrend",
+          "label": "CIRCULARITY AS TRADITION, NOT TREND",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-quotalimitationsassustainabilitydrivers",
+          "label": "QUOTA LIMITATIONS AS SUSTAINABILITY DRIVERS",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-completetraceabilityandlocalproduction",
+          "label": "COMPLETE TRACEABILITY AND LOCAL PRODUCTION",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-repairasnaturalextensionofmaking",
+          "label": "REPAIR AS NATURAL EXTENSION OF MAKING",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-wasteasstartingpoint",
+          "label": "WASTE AS STARTING POINT",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-traditionalknowledgevsacademicproof",
+          "label": "TRADITIONAL KNOWLEDGE VS. ACADEMIC PROOF",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-culturaldecolonizationthroughmaterials",
+          "label": "CULTURAL DECOLONIZATION THROUGH MATERIALS",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-digitalproductpassportascompetitiveadvantage",
+          "label": "DIGITAL PRODUCT PASSPORT AS COMPETITIVE ADVANTAGE",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-collectivismvsindividualism",
+          "label": "COLLECTIVISM VS. INDIVIDUALISM",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-knowledgematerialscommunityzerowaste",
+          "label": "KNOWLEDGE + MATERIALS + COMMUNITY = ZERO WASTE",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-placeeconomyprinciples",
+          "label": "PLACE ECONOMY PRINCIPLES",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-rigascirculartransformation",
+          "label": "RIGA'S CIRCULAR TRANSFORMATION",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-cesisbioregionfirstinthebaltics",
+          "label": "CESIS BIOREGION: FIRST IN THE BALTICS",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-arcticconstructionprinciples",
+          "label": "ARCTIC CONSTRUCTION PRINCIPLES",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-nordicsustainableconstructioncollaboration",
+          "label": "NORDIC SUSTAINABLE CONSTRUCTION COLLABORATION",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-greenlandnationalsustainabilitystrategy",
+          "label": "GREENLAND NATIONAL SUSTAINABILITY STRATEGY",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-retrofitfirsteconomics",
+          "label": "RETROFIT FIRST ECONOMICS",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-circularprocurementleverage",
+          "label": "CIRCULAR PROCUREMENT LEVERAGE",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-urbanruralvaluesymbiosis",
+          "label": "URBAN-RURAL VALUE SYMBIOSIS",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "theme-trustandcommunityasfoundation",
+          "label": "TRUST AND COMMUNITY AS FOUNDATION",
+          "type": "theme",
+          "category": "topic",
+          "size": 50,
+          "frequency": 1
+        }
+      },
+      {
+        "data": {
+          "id": "person-alisamick",
+          "label": "Alisa Mick",
+          "name": "Alisa Mick",
+          "organization": "Miksi",
+          "role": "Moderator",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-miksi",
+          "label": "Miksi",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-mikasulkinoja",
+          "label": "Mika Sulkinoja",
+          "name": "Mika Sulkinoja",
+          "organization": "Sitra (Finnish Innovation Fund)",
+          "role": "Keynote Speaker",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-sitrafinnishinnovationfund",
+          "label": "Sitra (Finnish Innovation Fund)",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-andersladefoged",
+          "label": "Anders Ladefoged",
+          "name": "Anders Ladefoged",
+          "organization": "European Economic and Social Committee",
+          "role": "Panelist",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-europeaneconomicandsocialcommittee",
+          "label": "European Economic and Social Committee",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-lucadelorenzo",
+          "label": "Luca De Lorenzo",
+          "name": "Luca De Lorenzo",
+          "organization": "Nordic Investment Bank",
+          "role": "Panelist",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-nordicinvestmentbank",
+          "label": "Nordic Investment Bank",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-patrickschroeder",
+          "label": "Patrick Schroeder",
+          "name": "Patrick Schroeder",
+          "organization": "Chatham House",
+          "role": "Panelist",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-chathamhouse",
+          "label": "Chatham House",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-keiradignan",
+          "label": "Keira Dignan",
+          "name": "Keira Dignan",
+          "organization": "Regeneration 2030 / Regeneration Åland",
+          "role": "Co-moderator",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-regeneration2030regenerationland",
+          "label": "Regeneration 2030 / Regeneration Åland",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-cathrinebarth",
+          "label": "Cathrine Barth",
+          "name": "Cathrine Barth",
+          "organization": "Natural State / Nordic Circular Hotspot",
+          "role": "Closing Reflections",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-naturalstatenordiccircularhotspot",
+          "label": "Natural State / Nordic Circular Hotspot",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-frederikthrane",
+          "label": "Frederik Thrane",
+          "name": "Frederik Thrane",
+          "organization": "Lifestyle and Design Cluster (Denmark)",
+          "role": "Moderator",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-lifestyleanddesignclusterdenmark",
+          "label": "Lifestyle and Design Cluster (Denmark)",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-liselotte",
+          "label": "Lise Lotte",
+          "name": "Lise Lotte",
+          "organization": "Independent Consultant (formerly Government of Greenland)",
+          "role": "Co-moderator",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-independentconsultantformerlygovernmentofgreenland",
+          "label": "Independent Consultant (formerly Government of Greenland)",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-miachemnitz",
+          "label": "Mia Chemnitz",
+          "name": "Mia Chemnitz",
+          "organization": "Grevilliot / Qiviut (Greenland)",
+          "role": "Panelist",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-grevilliotqiviutgreenland",
+          "label": "Grevilliot / Qiviut (Greenland)",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-kristianottesen",
+          "label": "Kristian Ottesen",
+          "name": "Kristian Ottesen",
+          "organization": "Royal Greenland",
+          "role": "Panelist",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-royalgreenland",
+          "label": "Royal Greenland",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-gislemarianimardal",
+          "label": "Gisle Mariani Mardal",
+          "name": "Gisle Mariani Mardal",
+          "organization": "NFTA (Norway)",
+          "role": "Panelist - Digital Product Passport Expert",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-nftanorway",
+          "label": "NFTA (Norway)",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-tildalarsson",
+          "label": "Tilda Larsson",
+          "name": "Tilda Larsson",
+          "organization": "AB Ludwig Svensson (Sweden)",
+          "role": "Video Interview Participant",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-abludwigsvenssonsweden",
+          "label": "AB Ludwig Svensson (Sweden)",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-kallikent",
+          "label": "Kalli Kent",
+          "name": "Kalli Kent",
+          "organization": "Nordic Baltic Textile Transition Group (Estonia/Denmark)",
+          "role": "Closing Remarks",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-nordicbaltictextiletransitiongroupestoniadenmark",
+          "label": "Nordic Baltic Textile Transition Group (Estonia/Denmark)",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-einarkleppeholthe",
+          "label": "Einar Kleppe Holthe",
+          "name": "Einar Kleppe Holthe",
+          "organization": "Natural State (Norway)",
+          "role": "Moderator & Main Presenter",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-naturalstatenorway",
+          "label": "Natural State (Norway)",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-tlislinkaits",
+          "label": "Tālis Linkaits",
+          "name": "Tālis Linkaits",
+          "organization": "Riga Energy Agency (Latvia)",
+          "role": "Presenter - Riga City Circular Economy",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-rigaenergyagencylatvia",
+          "label": "Riga Energy Agency (Latvia)",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-inesesuijamarkova",
+          "label": "Inese Suija-Markova",
+          "name": "Inese Suija-Markova",
+          "organization": "Cesis Municipality (Latvia)",
+          "role": "Presenter - Bioregion Development",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-cesismunicipalitylatvia",
+          "label": "Cesis Municipality (Latvia)",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-inooraqbrandt",
+          "label": "Inooraq Brandt",
+          "name": "Inooraq Brandt",
+          "organization": "Rambøll Grønland A/S (Greenland)",
+          "role": "Panelist - Construction Perspective",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-rambllgrnlandasgreenland",
+          "label": "Rambøll Grønland A/S (Greenland)",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-hellereddermomsen",
+          "label": "Helle Redder Momsen",
+          "name": "Helle Redder Momsen",
+          "organization": "Nordic Sustainable Construction / Danish Authority of Social Services and Housing",
+          "role": "Presenter - Nordic Construction Collaboration",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-nordicsustainableconstructiondanishauthorityofsocialservicesandhousing",
+          "label": "Nordic Sustainable Construction / Danish Authority of Social Services and Housing",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-emblakristjnsdttir",
+          "label": "Embla Kristjánsdóttir",
+          "name": "Embla Kristjánsdóttir",
+          "organization": "Ministry for Housing, Infrastructure and Outer Districts (Greenland)",
+          "role": "Presenter - Greenland National Strategy",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-ministryforhousinginfrastructureandouterdistrictsgreenland",
+          "label": "Ministry for Housing, Infrastructure and Outer Districts (Greenland)",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-annemettechristiansen",
+          "label": "Anne Mette Christiansen",
+          "name": "Anne Mette Christiansen",
+          "organization": "CSR Greenland / Rambøll",
+          "role": "Closing Reflections",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-csrgreenlandrambll",
+          "label": "CSR Greenland / Rambøll",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "org-nordiccircularhotspot",
+          "label": "Nordic Circular Hotspot",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-malenevahlrasmussen",
+          "label": "Malene Vahl Rasmussen",
+          "name": "Malene Vahl Rasmussen",
+          "organization": "Kommune Kujalleq, Greenland",
+          "role": "Mayor",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-kommunekujalleqgreenland",
+          "label": "Kommune Kujalleq, Greenland",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-edvardlybertmrk",
+          "label": "Edvard Lybert Mørk",
+          "name": "Edvard Lybert Mørk",
+          "organization": "Nalek Ventures, Greenland",
+          "role": "Business Representative",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-nalekventuresgreenland",
+          "label": "Nalek Ventures, Greenland",
+          "type": "organization",
+          "size": 50
+        }
+      },
+      {
+        "data": {
+          "id": "person-marthehaugland",
+          "label": "Marthe Haugland",
+          "name": "Marthe Haugland",
+          "organization": "Nordic Innovation",
+          "role": "Representative",
+          "type": "speaker",
+          "size": 60
+        }
+      },
+      {
+        "data": {
+          "id": "org-nordicinnovation",
+          "label": "Nordic Innovation",
+          "type": "organization",
+          "size": 50
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "id": "affil-person-alisamick-org-miksi",
+          "source": "person-alisamick",
+          "target": "org-miksi",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-mikasulkinoja-org-sitrafinnishinnovationfund",
+          "source": "person-mikasulkinoja",
+          "target": "org-sitrafinnishinnovationfund",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-andersladefoged-org-europeaneconomicandsocialcommittee",
+          "source": "person-andersladefoged",
+          "target": "org-europeaneconomicandsocialcommittee",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-lucadelorenzo-org-nordicinvestmentbank",
+          "source": "person-lucadelorenzo",
+          "target": "org-nordicinvestmentbank",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-patrickschroeder-org-chathamhouse",
+          "source": "person-patrickschroeder",
+          "target": "org-chathamhouse",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-keiradignan-org-regeneration2030regenerationland",
+          "source": "person-keiradignan",
+          "target": "org-regeneration2030regenerationland",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-cathrinebarth-org-naturalstatenordiccircularhotspot",
+          "source": "person-cathrinebarth",
+          "target": "org-naturalstatenordiccircularhotspot",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-frederikthrane-org-lifestyleanddesignclusterdenmark",
+          "source": "person-frederikthrane",
+          "target": "org-lifestyleanddesignclusterdenmark",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-liselotte-org-independentconsultantformerlygovernmentofgreenland",
+          "source": "person-liselotte",
+          "target": "org-independentconsultantformerlygovernmentofgreenland",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-miachemnitz-org-grevilliotqiviutgreenland",
+          "source": "person-miachemnitz",
+          "target": "org-grevilliotqiviutgreenland",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-kristianottesen-org-royalgreenland",
+          "source": "person-kristianottesen",
+          "target": "org-royalgreenland",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-gislemarianimardal-org-nftanorway",
+          "source": "person-gislemarianimardal",
+          "target": "org-nftanorway",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-tildalarsson-org-abludwigsvenssonsweden",
+          "source": "person-tildalarsson",
+          "target": "org-abludwigsvenssonsweden",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-kallikent-org-nordicbaltictextiletransitiongroupestoniadenmark",
+          "source": "person-kallikent",
+          "target": "org-nordicbaltictextiletransitiongroupestoniadenmark",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-einarkleppeholthe-org-naturalstatenorway",
+          "source": "person-einarkleppeholthe",
+          "target": "org-naturalstatenorway",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-tlislinkaits-org-rigaenergyagencylatvia",
+          "source": "person-tlislinkaits",
+          "target": "org-rigaenergyagencylatvia",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-inesesuijamarkova-org-cesismunicipalitylatvia",
+          "source": "person-inesesuijamarkova",
+          "target": "org-cesismunicipalitylatvia",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-inooraqbrandt-org-rambllgrnlandasgreenland",
+          "source": "person-inooraqbrandt",
+          "target": "org-rambllgrnlandasgreenland",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-hellereddermomsen-org-nordicsustainableconstructiondanishauthorityofsocialservicesandhousing",
+          "source": "person-hellereddermomsen",
+          "target": "org-nordicsustainableconstructiondanishauthorityofsocialservicesandhousing",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-emblakristjnsdttir-org-ministryforhousinginfrastructureandouterdistrictsgreenland",
+          "source": "person-emblakristjnsdttir",
+          "target": "org-ministryforhousinginfrastructureandouterdistrictsgreenland",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-annemettechristiansen-org-csrgreenlandrambll",
+          "source": "person-annemettechristiansen",
+          "target": "org-csrgreenlandrambll",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-cathrinebarth-org-nordiccircularhotspot",
+          "source": "person-cathrinebarth",
+          "target": "org-nordiccircularhotspot",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-malenevahlrasmussen-org-kommunekujalleqgreenland",
+          "source": "person-malenevahlrasmussen",
+          "target": "org-kommunekujalleqgreenland",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-einarkleppeholthe-org-nordiccircularhotspot",
+          "source": "person-einarkleppeholthe",
+          "target": "org-nordiccircularhotspot",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-edvardlybertmrk-org-nalekventuresgreenland",
+          "source": "person-edvardlybertmrk",
+          "target": "org-nalekventuresgreenland",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "affil-person-marthehaugland-org-nordicinnovation",
+          "source": "person-marthehaugland",
+          "target": "org-nordicinnovation",
+          "type": "organization",
+          "weight": 2
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-alisamick-person-mikasulkinoja",
+          "source": "person-alisamick",
+          "target": "person-mikasulkinoja",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-alisamick-person-andersladefoged",
+          "source": "person-alisamick",
+          "target": "person-andersladefoged",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-alisamick-person-lucadelorenzo",
+          "source": "person-alisamick",
+          "target": "person-lucadelorenzo",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-alisamick-person-patrickschroeder",
+          "source": "person-alisamick",
+          "target": "person-patrickschroeder",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-alisamick-person-keiradignan",
+          "source": "person-alisamick",
+          "target": "person-keiradignan",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-alisamick-person-cathrinebarth",
+          "source": "person-alisamick",
+          "target": "person-cathrinebarth",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-andersladefoged-person-mikasulkinoja",
+          "source": "person-andersladefoged",
+          "target": "person-mikasulkinoja",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-andersladefoged-person-lucadelorenzo",
+          "source": "person-andersladefoged",
+          "target": "person-lucadelorenzo",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-andersladefoged-person-patrickschroeder",
+          "source": "person-andersladefoged",
+          "target": "person-patrickschroeder",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-andersladefoged-person-keiradignan",
+          "source": "person-andersladefoged",
+          "target": "person-keiradignan",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-andersladefoged-person-cathrinebarth",
+          "source": "person-andersladefoged",
+          "target": "person-cathrinebarth",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-lucadelorenzo-person-patrickschroeder",
+          "source": "person-lucadelorenzo",
+          "target": "person-patrickschroeder",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-keiradignan-person-lucadelorenzo",
+          "source": "person-keiradignan",
+          "target": "person-lucadelorenzo",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-cathrinebarth-person-keiradignan",
+          "source": "person-cathrinebarth",
+          "target": "person-keiradignan",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-3-person-keiradignan-person-patrickschroeder",
+          "source": "person-keiradignan",
+          "target": "person-patrickschroeder",
+          "type": "session",
+          "label": "session-3",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-4-person-frederikthrane-person-liselotte",
+          "source": "person-frederikthrane",
+          "target": "person-liselotte",
+          "type": "session",
+          "label": "session-4",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-4-person-frederikthrane-person-miachemnitz",
+          "source": "person-frederikthrane",
+          "target": "person-miachemnitz",
+          "type": "session",
+          "label": "session-4",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-4-person-frederikthrane-person-kristianottesen",
+          "source": "person-frederikthrane",
+          "target": "person-kristianottesen",
+          "type": "session",
+          "label": "session-4",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-4-person-frederikthrane-person-gislemarianimardal",
+          "source": "person-frederikthrane",
+          "target": "person-gislemarianimardal",
+          "type": "session",
+          "label": "session-4",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-4-person-frederikthrane-person-tildalarsson",
+          "source": "person-frederikthrane",
+          "target": "person-tildalarsson",
+          "type": "session",
+          "label": "session-4",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-4-person-frederikthrane-person-kallikent",
+          "source": "person-frederikthrane",
+          "target": "person-kallikent",
+          "type": "session",
+          "label": "session-4",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-4-person-liselotte-person-miachemnitz",
+          "source": "person-liselotte",
+          "target": "person-miachemnitz",
+          "type": "session",
+          "label": "session-4",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-4-person-kristianottesen-person-liselotte",
+          "source": "person-kristianottesen",
+          "target": "person-liselotte",
+          "type": "session",
+          "label": "session-4",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-4-person-gislemarianimardal-person-kristianottesen",
+          "source": "person-gislemarianimardal",
+          "target": "person-kristianottesen",
+          "type": "session",
+          "label": "session-4",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-4-person-gislemarianimardal-person-tildalarsson",
+          "source": "person-gislemarianimardal",
+          "target": "person-tildalarsson",
+          "type": "session",
+          "label": "session-4",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-4-person-gislemarianimardal-person-kallikent",
+          "source": "person-gislemarianimardal",
+          "target": "person-kallikent",
+          "type": "session",
+          "label": "session-4",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-4-person-kristianottesen-person-miachemnitz",
+          "source": "person-kristianottesen",
+          "target": "person-miachemnitz",
+          "type": "session",
+          "label": "session-4",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-4-person-kallikent-person-tildalarsson",
+          "source": "person-kallikent",
+          "target": "person-tildalarsson",
+          "type": "session",
+          "label": "session-4",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-5-person-einarkleppeholthe-person-tlislinkaits",
+          "source": "person-einarkleppeholthe",
+          "target": "person-tlislinkaits",
+          "type": "session",
+          "label": "session-5",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-5-person-einarkleppeholthe-person-inesesuijamarkova",
+          "source": "person-einarkleppeholthe",
+          "target": "person-inesesuijamarkova",
+          "type": "session",
+          "label": "session-5",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-5-person-einarkleppeholthe-person-inooraqbrandt",
+          "source": "person-einarkleppeholthe",
+          "target": "person-inooraqbrandt",
+          "type": "session",
+          "label": "session-5",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-5-person-einarkleppeholthe-person-hellereddermomsen",
+          "source": "person-einarkleppeholthe",
+          "target": "person-hellereddermomsen",
+          "type": "session",
+          "label": "session-5",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-5-person-einarkleppeholthe-person-emblakristjnsdttir",
+          "source": "person-einarkleppeholthe",
+          "target": "person-emblakristjnsdttir",
+          "type": "session",
+          "label": "session-5",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-5-person-annemettechristiansen-person-einarkleppeholthe",
+          "source": "person-annemettechristiansen",
+          "target": "person-einarkleppeholthe",
+          "type": "session",
+          "label": "session-5",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-5-person-inesesuijamarkova-person-tlislinkaits",
+          "source": "person-inesesuijamarkova",
+          "target": "person-tlislinkaits",
+          "type": "session",
+          "label": "session-5",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-5-person-inesesuijamarkova-person-inooraqbrandt",
+          "source": "person-inesesuijamarkova",
+          "target": "person-inooraqbrandt",
+          "type": "session",
+          "label": "session-5",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-5-person-hellereddermomsen-person-inesesuijamarkova",
+          "source": "person-hellereddermomsen",
+          "target": "person-inesesuijamarkova",
+          "type": "session",
+          "label": "session-5",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-5-person-emblakristjnsdttir-person-hellereddermomsen",
+          "source": "person-emblakristjnsdttir",
+          "target": "person-hellereddermomsen",
+          "type": "session",
+          "label": "session-5",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-5-person-annemettechristiansen-person-emblakristjnsdttir",
+          "source": "person-annemettechristiansen",
+          "target": "person-emblakristjnsdttir",
+          "type": "session",
+          "label": "session-5",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-5-person-hellereddermomsen-person-inooraqbrandt",
+          "source": "person-hellereddermomsen",
+          "target": "person-inooraqbrandt",
+          "type": "session",
+          "label": "session-5",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-6-person-cathrinebarth-person-malenevahlrasmussen",
+          "source": "person-cathrinebarth",
+          "target": "person-malenevahlrasmussen",
+          "type": "session",
+          "label": "session-6",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-6-person-cathrinebarth-person-einarkleppeholthe",
+          "source": "person-cathrinebarth",
+          "target": "person-einarkleppeholthe",
+          "type": "session",
+          "label": "session-6",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-6-person-cathrinebarth-person-edvardlybertmrk",
+          "source": "person-cathrinebarth",
+          "target": "person-edvardlybertmrk",
+          "type": "session",
+          "label": "session-6",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-6-person-cathrinebarth-person-marthehaugland",
+          "source": "person-cathrinebarth",
+          "target": "person-marthehaugland",
+          "type": "session",
+          "label": "session-6",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-6-person-einarkleppeholthe-person-malenevahlrasmussen",
+          "source": "person-einarkleppeholthe",
+          "target": "person-malenevahlrasmussen",
+          "type": "session",
+          "label": "session-6",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-6-person-edvardlybertmrk-person-einarkleppeholthe",
+          "source": "person-edvardlybertmrk",
+          "target": "person-einarkleppeholthe",
+          "type": "session",
+          "label": "session-6",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "sess-session-6-person-edvardlybertmrk-person-marthehaugland",
+          "source": "person-edvardlybertmrk",
+          "target": "person-marthehaugland",
+          "type": "session",
+          "label": "session-6",
+          "weight": 1
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-circularityassecuritystrategy",
+          "source": "person-alisamick",
+          "target": "theme-circularityassecuritystrategy",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-circularityassecuritystrategy",
+          "source": "person-mikasulkinoja",
+          "target": "theme-circularityassecuritystrategy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-circularityassecuritystrategy",
+          "source": "person-andersladefoged",
+          "target": "theme-circularityassecuritystrategy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-circularityassecuritystrategy",
+          "source": "person-lucadelorenzo",
+          "target": "theme-circularityassecuritystrategy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-circularityassecuritystrategy",
+          "source": "person-patrickschroeder",
+          "target": "theme-circularityassecuritystrategy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-circularityassecuritystrategy",
+          "source": "person-keiradignan",
+          "target": "theme-circularityassecuritystrategy",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-circularityassecuritystrategy",
+          "source": "person-cathrinebarth",
+          "target": "theme-circularityassecuritystrategy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-innerloopsoverrecycling",
+          "source": "person-alisamick",
+          "target": "theme-innerloopsoverrecycling",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-innerloopsoverrecycling",
+          "source": "person-mikasulkinoja",
+          "target": "theme-innerloopsoverrecycling",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-innerloopsoverrecycling",
+          "source": "person-andersladefoged",
+          "target": "theme-innerloopsoverrecycling",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-innerloopsoverrecycling",
+          "source": "person-lucadelorenzo",
+          "target": "theme-innerloopsoverrecycling",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-innerloopsoverrecycling",
+          "source": "person-patrickschroeder",
+          "target": "theme-innerloopsoverrecycling",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-innerloopsoverrecycling",
+          "source": "person-keiradignan",
+          "target": "theme-innerloopsoverrecycling",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-innerloopsoverrecycling",
+          "source": "person-cathrinebarth",
+          "target": "theme-innerloopsoverrecycling",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-structuralshiftvalueofresilience",
+          "source": "person-alisamick",
+          "target": "theme-structuralshiftvalueofresilience",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-structuralshiftvalueofresilience",
+          "source": "person-mikasulkinoja",
+          "target": "theme-structuralshiftvalueofresilience",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-structuralshiftvalueofresilience",
+          "source": "person-andersladefoged",
+          "target": "theme-structuralshiftvalueofresilience",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-structuralshiftvalueofresilience",
+          "source": "person-lucadelorenzo",
+          "target": "theme-structuralshiftvalueofresilience",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-structuralshiftvalueofresilience",
+          "source": "person-patrickschroeder",
+          "target": "theme-structuralshiftvalueofresilience",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-structuralshiftvalueofresilience",
+          "source": "person-keiradignan",
+          "target": "theme-structuralshiftvalueofresilience",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-structuralshiftvalueofresilience",
+          "source": "person-cathrinebarth",
+          "target": "theme-structuralshiftvalueofresilience",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-miningcircularitybothand",
+          "source": "person-alisamick",
+          "target": "theme-miningcircularitybothand",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-miningcircularitybothand",
+          "source": "person-mikasulkinoja",
+          "target": "theme-miningcircularitybothand",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-miningcircularitybothand",
+          "source": "person-andersladefoged",
+          "target": "theme-miningcircularitybothand",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-miningcircularitybothand",
+          "source": "person-lucadelorenzo",
+          "target": "theme-miningcircularitybothand",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-miningcircularitybothand",
+          "source": "person-patrickschroeder",
+          "target": "theme-miningcircularitybothand",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-miningcircularitybothand",
+          "source": "person-keiradignan",
+          "target": "theme-miningcircularitybothand",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-miningcircularitybothand",
+          "source": "person-cathrinebarth",
+          "target": "theme-miningcircularitybothand",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-investmentgapandpolicymechanisms",
+          "source": "person-alisamick",
+          "target": "theme-investmentgapandpolicymechanisms",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-investmentgapandpolicymechanisms",
+          "source": "person-mikasulkinoja",
+          "target": "theme-investmentgapandpolicymechanisms",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-investmentgapandpolicymechanisms",
+          "source": "person-andersladefoged",
+          "target": "theme-investmentgapandpolicymechanisms",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-investmentgapandpolicymechanisms",
+          "source": "person-lucadelorenzo",
+          "target": "theme-investmentgapandpolicymechanisms",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-investmentgapandpolicymechanisms",
+          "source": "person-patrickschroeder",
+          "target": "theme-investmentgapandpolicymechanisms",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-investmentgapandpolicymechanisms",
+          "source": "person-keiradignan",
+          "target": "theme-investmentgapandpolicymechanisms",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-investmentgapandpolicymechanisms",
+          "source": "person-cathrinebarth",
+          "target": "theme-investmentgapandpolicymechanisms",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-indigenousrightsandfpic",
+          "source": "person-alisamick",
+          "target": "theme-indigenousrightsandfpic",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-indigenousrightsandfpic",
+          "source": "person-mikasulkinoja",
+          "target": "theme-indigenousrightsandfpic",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-indigenousrightsandfpic",
+          "source": "person-andersladefoged",
+          "target": "theme-indigenousrightsandfpic",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-indigenousrightsandfpic",
+          "source": "person-lucadelorenzo",
+          "target": "theme-indigenousrightsandfpic",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-indigenousrightsandfpic",
+          "source": "person-patrickschroeder",
+          "target": "theme-indigenousrightsandfpic",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-indigenousrightsandfpic",
+          "source": "person-keiradignan",
+          "target": "theme-indigenousrightsandfpic",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-indigenousrightsandfpic",
+          "source": "person-cathrinebarth",
+          "target": "theme-indigenousrightsandfpic",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-euframeworksvsarcticrealities",
+          "source": "person-alisamick",
+          "target": "theme-euframeworksvsarcticrealities",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-euframeworksvsarcticrealities",
+          "source": "person-mikasulkinoja",
+          "target": "theme-euframeworksvsarcticrealities",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-euframeworksvsarcticrealities",
+          "source": "person-andersladefoged",
+          "target": "theme-euframeworksvsarcticrealities",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-euframeworksvsarcticrealities",
+          "source": "person-lucadelorenzo",
+          "target": "theme-euframeworksvsarcticrealities",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-euframeworksvsarcticrealities",
+          "source": "person-patrickschroeder",
+          "target": "theme-euframeworksvsarcticrealities",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-euframeworksvsarcticrealities",
+          "source": "person-keiradignan",
+          "target": "theme-euframeworksvsarcticrealities",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-euframeworksvsarcticrealities",
+          "source": "person-cathrinebarth",
+          "target": "theme-euframeworksvsarcticrealities",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-materialeconomicsemergence",
+          "source": "person-alisamick",
+          "target": "theme-materialeconomicsemergence",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-materialeconomicsemergence",
+          "source": "person-mikasulkinoja",
+          "target": "theme-materialeconomicsemergence",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-materialeconomicsemergence",
+          "source": "person-andersladefoged",
+          "target": "theme-materialeconomicsemergence",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-materialeconomicsemergence",
+          "source": "person-lucadelorenzo",
+          "target": "theme-materialeconomicsemergence",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-materialeconomicsemergence",
+          "source": "person-patrickschroeder",
+          "target": "theme-materialeconomicsemergence",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-materialeconomicsemergence",
+          "source": "person-keiradignan",
+          "target": "theme-materialeconomicsemergence",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-materialeconomicsemergence",
+          "source": "person-cathrinebarth",
+          "target": "theme-materialeconomicsemergence",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-arccircvision",
+          "source": "person-alisamick",
+          "target": "theme-arccircvision",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-arccircvision",
+          "source": "person-mikasulkinoja",
+          "target": "theme-arccircvision",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-arccircvision",
+          "source": "person-andersladefoged",
+          "target": "theme-arccircvision",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-arccircvision",
+          "source": "person-lucadelorenzo",
+          "target": "theme-arccircvision",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-arccircvision",
+          "source": "person-patrickschroeder",
+          "target": "theme-arccircvision",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-arccircvision",
+          "source": "person-keiradignan",
+          "target": "theme-arccircvision",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-arccircvision",
+          "source": "person-cathrinebarth",
+          "target": "theme-arccircvision",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-longtermpartnershipsovertradedeals",
+          "source": "person-alisamick",
+          "target": "theme-longtermpartnershipsovertradedeals",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-longtermpartnershipsovertradedeals",
+          "source": "person-mikasulkinoja",
+          "target": "theme-longtermpartnershipsovertradedeals",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-longtermpartnershipsovertradedeals",
+          "source": "person-andersladefoged",
+          "target": "theme-longtermpartnershipsovertradedeals",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-longtermpartnershipsovertradedeals",
+          "source": "person-lucadelorenzo",
+          "target": "theme-longtermpartnershipsovertradedeals",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-longtermpartnershipsovertradedeals",
+          "source": "person-patrickschroeder",
+          "target": "theme-longtermpartnershipsovertradedeals",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-longtermpartnershipsovertradedeals",
+          "source": "person-keiradignan",
+          "target": "theme-longtermpartnershipsovertradedeals",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-longtermpartnershipsovertradedeals",
+          "source": "person-cathrinebarth",
+          "target": "theme-longtermpartnershipsovertradedeals",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-thearccircproposal",
+          "source": "person-alisamick",
+          "target": "theme-thearccircproposal",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-thearccircproposal",
+          "source": "person-mikasulkinoja",
+          "target": "theme-thearccircproposal",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-thearccircproposal",
+          "source": "person-andersladefoged",
+          "target": "theme-thearccircproposal",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-thearccircproposal",
+          "source": "person-lucadelorenzo",
+          "target": "theme-thearccircproposal",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-thearccircproposal",
+          "source": "person-patrickschroeder",
+          "target": "theme-thearccircproposal",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-thearccircproposal",
+          "source": "person-keiradignan",
+          "target": "theme-thearccircproposal",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-thearccircproposal",
+          "source": "person-cathrinebarth",
+          "target": "theme-thearccircproposal",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-realisticbankingboredom",
+          "source": "person-alisamick",
+          "target": "theme-realisticbankingboredom",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-realisticbankingboredom",
+          "source": "person-mikasulkinoja",
+          "target": "theme-realisticbankingboredom",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-realisticbankingboredom",
+          "source": "person-andersladefoged",
+          "target": "theme-realisticbankingboredom",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-realisticbankingboredom",
+          "source": "person-lucadelorenzo",
+          "target": "theme-realisticbankingboredom",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-realisticbankingboredom",
+          "source": "person-patrickschroeder",
+          "target": "theme-realisticbankingboredom",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-realisticbankingboredom",
+          "source": "person-keiradignan",
+          "target": "theme-realisticbankingboredom",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-realisticbankingboredom",
+          "source": "person-cathrinebarth",
+          "target": "theme-realisticbankingboredom",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-thesighfromthearctic",
+          "source": "person-alisamick",
+          "target": "theme-thesighfromthearctic",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-thesighfromthearctic",
+          "source": "person-mikasulkinoja",
+          "target": "theme-thesighfromthearctic",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-thesighfromthearctic",
+          "source": "person-andersladefoged",
+          "target": "theme-thesighfromthearctic",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-thesighfromthearctic",
+          "source": "person-lucadelorenzo",
+          "target": "theme-thesighfromthearctic",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-thesighfromthearctic",
+          "source": "person-patrickschroeder",
+          "target": "theme-thesighfromthearctic",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-thesighfromthearctic",
+          "source": "person-keiradignan",
+          "target": "theme-thesighfromthearctic",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-thesighfromthearctic",
+          "source": "person-cathrinebarth",
+          "target": "theme-thesighfromthearctic",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-therhetoricalquestion",
+          "source": "person-alisamick",
+          "target": "theme-therhetoricalquestion",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-therhetoricalquestion",
+          "source": "person-mikasulkinoja",
+          "target": "theme-therhetoricalquestion",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-therhetoricalquestion",
+          "source": "person-andersladefoged",
+          "target": "theme-therhetoricalquestion",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-therhetoricalquestion",
+          "source": "person-lucadelorenzo",
+          "target": "theme-therhetoricalquestion",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-therhetoricalquestion",
+          "source": "person-patrickschroeder",
+          "target": "theme-therhetoricalquestion",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-therhetoricalquestion",
+          "source": "person-keiradignan",
+          "target": "theme-therhetoricalquestion",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-therhetoricalquestion",
+          "source": "person-cathrinebarth",
+          "target": "theme-therhetoricalquestion",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-snowyhelsinki",
+          "source": "person-alisamick",
+          "target": "theme-snowyhelsinki",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-snowyhelsinki",
+          "source": "person-mikasulkinoja",
+          "target": "theme-snowyhelsinki",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-snowyhelsinki",
+          "source": "person-andersladefoged",
+          "target": "theme-snowyhelsinki",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-snowyhelsinki",
+          "source": "person-lucadelorenzo",
+          "target": "theme-snowyhelsinki",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-snowyhelsinki",
+          "source": "person-patrickschroeder",
+          "target": "theme-snowyhelsinki",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-snowyhelsinki",
+          "source": "person-keiradignan",
+          "target": "theme-snowyhelsinki",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-snowyhelsinki",
+          "source": "person-cathrinebarth",
+          "target": "theme-snowyhelsinki",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-the4millionnation",
+          "source": "person-alisamick",
+          "target": "theme-the4millionnation",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-the4millionnation",
+          "source": "person-mikasulkinoja",
+          "target": "theme-the4millionnation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-the4millionnation",
+          "source": "person-andersladefoged",
+          "target": "theme-the4millionnation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-the4millionnation",
+          "source": "person-lucadelorenzo",
+          "target": "theme-the4millionnation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-the4millionnation",
+          "source": "person-patrickschroeder",
+          "target": "theme-the4millionnation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-the4millionnation",
+          "source": "person-keiradignan",
+          "target": "theme-the4millionnation",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-the4millionnation",
+          "source": "person-cathrinebarth",
+          "target": "theme-the4millionnation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-weareabitshy",
+          "source": "person-alisamick",
+          "target": "theme-weareabitshy",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-weareabitshy",
+          "source": "person-mikasulkinoja",
+          "target": "theme-weareabitshy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-weareabitshy",
+          "source": "person-andersladefoged",
+          "target": "theme-weareabitshy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-weareabitshy",
+          "source": "person-lucadelorenzo",
+          "target": "theme-weareabitshy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-weareabitshy",
+          "source": "person-patrickschroeder",
+          "target": "theme-weareabitshy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-weareabitshy",
+          "source": "person-keiradignan",
+          "target": "theme-weareabitshy",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-weareabitshy",
+          "source": "person-cathrinebarth",
+          "target": "theme-weareabitshy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-thelinearlockin",
+          "source": "person-alisamick",
+          "target": "theme-thelinearlockin",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-thelinearlockin",
+          "source": "person-mikasulkinoja",
+          "target": "theme-thelinearlockin",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-thelinearlockin",
+          "source": "person-andersladefoged",
+          "target": "theme-thelinearlockin",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-thelinearlockin",
+          "source": "person-lucadelorenzo",
+          "target": "theme-thelinearlockin",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-thelinearlockin",
+          "source": "person-patrickschroeder",
+          "target": "theme-thelinearlockin",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-thelinearlockin",
+          "source": "person-keiradignan",
+          "target": "theme-thelinearlockin",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-thelinearlockin",
+          "source": "person-cathrinebarth",
+          "target": "theme-thelinearlockin",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-thestructuralshift",
+          "source": "person-alisamick",
+          "target": "theme-thestructuralshift",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-thestructuralshift",
+          "source": "person-mikasulkinoja",
+          "target": "theme-thestructuralshift",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-thestructuralshift",
+          "source": "person-andersladefoged",
+          "target": "theme-thestructuralshift",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-thestructuralshift",
+          "source": "person-lucadelorenzo",
+          "target": "theme-thestructuralshift",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-thestructuralshift",
+          "source": "person-patrickschroeder",
+          "target": "theme-thestructuralshift",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-thestructuralshift",
+          "source": "person-keiradignan",
+          "target": "theme-thestructuralshift",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-thestructuralshift",
+          "source": "person-cathrinebarth",
+          "target": "theme-thestructuralshift",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-blackmassparadox",
+          "source": "person-alisamick",
+          "target": "theme-blackmassparadox",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-blackmassparadox",
+          "source": "person-mikasulkinoja",
+          "target": "theme-blackmassparadox",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-blackmassparadox",
+          "source": "person-andersladefoged",
+          "target": "theme-blackmassparadox",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-blackmassparadox",
+          "source": "person-lucadelorenzo",
+          "target": "theme-blackmassparadox",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-blackmassparadox",
+          "source": "person-patrickschroeder",
+          "target": "theme-blackmassparadox",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-blackmassparadox",
+          "source": "person-keiradignan",
+          "target": "theme-blackmassparadox",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-blackmassparadox",
+          "source": "person-cathrinebarth",
+          "target": "theme-blackmassparadox",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-cluster1securitygeopolitics",
+          "source": "person-alisamick",
+          "target": "theme-cluster1securitygeopolitics",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-cluster1securitygeopolitics",
+          "source": "person-mikasulkinoja",
+          "target": "theme-cluster1securitygeopolitics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-cluster1securitygeopolitics",
+          "source": "person-andersladefoged",
+          "target": "theme-cluster1securitygeopolitics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-cluster1securitygeopolitics",
+          "source": "person-lucadelorenzo",
+          "target": "theme-cluster1securitygeopolitics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-cluster1securitygeopolitics",
+          "source": "person-patrickschroeder",
+          "target": "theme-cluster1securitygeopolitics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-cluster1securitygeopolitics",
+          "source": "person-keiradignan",
+          "target": "theme-cluster1securitygeopolitics",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-cluster1securitygeopolitics",
+          "source": "person-cathrinebarth",
+          "target": "theme-cluster1securitygeopolitics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-cluster2economicsfinance",
+          "source": "person-alisamick",
+          "target": "theme-cluster2economicsfinance",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-cluster2economicsfinance",
+          "source": "person-mikasulkinoja",
+          "target": "theme-cluster2economicsfinance",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-cluster2economicsfinance",
+          "source": "person-andersladefoged",
+          "target": "theme-cluster2economicsfinance",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-cluster2economicsfinance",
+          "source": "person-lucadelorenzo",
+          "target": "theme-cluster2economicsfinance",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-cluster2economicsfinance",
+          "source": "person-patrickschroeder",
+          "target": "theme-cluster2economicsfinance",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-cluster2economicsfinance",
+          "source": "person-keiradignan",
+          "target": "theme-cluster2economicsfinance",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-cluster2economicsfinance",
+          "source": "person-cathrinebarth",
+          "target": "theme-cluster2economicsfinance",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-cluster3policyregulation",
+          "source": "person-alisamick",
+          "target": "theme-cluster3policyregulation",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-cluster3policyregulation",
+          "source": "person-mikasulkinoja",
+          "target": "theme-cluster3policyregulation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-cluster3policyregulation",
+          "source": "person-andersladefoged",
+          "target": "theme-cluster3policyregulation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-cluster3policyregulation",
+          "source": "person-lucadelorenzo",
+          "target": "theme-cluster3policyregulation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-cluster3policyregulation",
+          "source": "person-patrickschroeder",
+          "target": "theme-cluster3policyregulation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-cluster3policyregulation",
+          "source": "person-keiradignan",
+          "target": "theme-cluster3policyregulation",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-cluster3policyregulation",
+          "source": "person-cathrinebarth",
+          "target": "theme-cluster3policyregulation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-cluster4rightsjustice",
+          "source": "person-alisamick",
+          "target": "theme-cluster4rightsjustice",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-cluster4rightsjustice",
+          "source": "person-mikasulkinoja",
+          "target": "theme-cluster4rightsjustice",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-cluster4rightsjustice",
+          "source": "person-andersladefoged",
+          "target": "theme-cluster4rightsjustice",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-cluster4rightsjustice",
+          "source": "person-lucadelorenzo",
+          "target": "theme-cluster4rightsjustice",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-cluster4rightsjustice",
+          "source": "person-patrickschroeder",
+          "target": "theme-cluster4rightsjustice",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-cluster4rightsjustice",
+          "source": "person-keiradignan",
+          "target": "theme-cluster4rightsjustice",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-cluster4rightsjustice",
+          "source": "person-cathrinebarth",
+          "target": "theme-cluster4rightsjustice",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-cluster5arcticperspectives",
+          "source": "person-alisamick",
+          "target": "theme-cluster5arcticperspectives",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-cluster5arcticperspectives",
+          "source": "person-mikasulkinoja",
+          "target": "theme-cluster5arcticperspectives",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-cluster5arcticperspectives",
+          "source": "person-andersladefoged",
+          "target": "theme-cluster5arcticperspectives",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-cluster5arcticperspectives",
+          "source": "person-lucadelorenzo",
+          "target": "theme-cluster5arcticperspectives",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-cluster5arcticperspectives",
+          "source": "person-patrickschroeder",
+          "target": "theme-cluster5arcticperspectives",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-cluster5arcticperspectives",
+          "source": "person-keiradignan",
+          "target": "theme-cluster5arcticperspectives",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-cluster5arcticperspectives",
+          "source": "person-cathrinebarth",
+          "target": "theme-cluster5arcticperspectives",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-alisamick-theme-cluster6materialeconomics",
+          "source": "person-alisamick",
+          "target": "theme-cluster6materialeconomics",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-mikasulkinoja-theme-cluster6materialeconomics",
+          "source": "person-mikasulkinoja",
+          "target": "theme-cluster6materialeconomics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-andersladefoged-theme-cluster6materialeconomics",
+          "source": "person-andersladefoged",
+          "target": "theme-cluster6materialeconomics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-lucadelorenzo-theme-cluster6materialeconomics",
+          "source": "person-lucadelorenzo",
+          "target": "theme-cluster6materialeconomics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-patrickschroeder-theme-cluster6materialeconomics",
+          "source": "person-patrickschroeder",
+          "target": "theme-cluster6materialeconomics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-keiradignan-theme-cluster6materialeconomics",
+          "source": "person-keiradignan",
+          "target": "theme-cluster6materialeconomics",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-cathrinebarth-theme-cluster6materialeconomics",
+          "source": "person-cathrinebarth",
+          "target": "theme-cluster6materialeconomics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-frederikthrane-theme-circularityastraditionnottrend",
+          "source": "person-frederikthrane",
+          "target": "theme-circularityastraditionnottrend",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-liselotte-theme-circularityastraditionnottrend",
+          "source": "person-liselotte",
+          "target": "theme-circularityastraditionnottrend",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-miachemnitz-theme-circularityastraditionnottrend",
+          "source": "person-miachemnitz",
+          "target": "theme-circularityastraditionnottrend",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kristianottesen-theme-circularityastraditionnottrend",
+          "source": "person-kristianottesen",
+          "target": "theme-circularityastraditionnottrend",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-gislemarianimardal-theme-circularityastraditionnottrend",
+          "source": "person-gislemarianimardal",
+          "target": "theme-circularityastraditionnottrend",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tildalarsson-theme-circularityastraditionnottrend",
+          "source": "person-tildalarsson",
+          "target": "theme-circularityastraditionnottrend",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kallikent-theme-circularityastraditionnottrend",
+          "source": "person-kallikent",
+          "target": "theme-circularityastraditionnottrend",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-frederikthrane-theme-quotalimitationsassustainabilitydrivers",
+          "source": "person-frederikthrane",
+          "target": "theme-quotalimitationsassustainabilitydrivers",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-liselotte-theme-quotalimitationsassustainabilitydrivers",
+          "source": "person-liselotte",
+          "target": "theme-quotalimitationsassustainabilitydrivers",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-miachemnitz-theme-quotalimitationsassustainabilitydrivers",
+          "source": "person-miachemnitz",
+          "target": "theme-quotalimitationsassustainabilitydrivers",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kristianottesen-theme-quotalimitationsassustainabilitydrivers",
+          "source": "person-kristianottesen",
+          "target": "theme-quotalimitationsassustainabilitydrivers",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-gislemarianimardal-theme-quotalimitationsassustainabilitydrivers",
+          "source": "person-gislemarianimardal",
+          "target": "theme-quotalimitationsassustainabilitydrivers",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tildalarsson-theme-quotalimitationsassustainabilitydrivers",
+          "source": "person-tildalarsson",
+          "target": "theme-quotalimitationsassustainabilitydrivers",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kallikent-theme-quotalimitationsassustainabilitydrivers",
+          "source": "person-kallikent",
+          "target": "theme-quotalimitationsassustainabilitydrivers",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-frederikthrane-theme-completetraceabilityandlocalproduction",
+          "source": "person-frederikthrane",
+          "target": "theme-completetraceabilityandlocalproduction",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-liselotte-theme-completetraceabilityandlocalproduction",
+          "source": "person-liselotte",
+          "target": "theme-completetraceabilityandlocalproduction",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-miachemnitz-theme-completetraceabilityandlocalproduction",
+          "source": "person-miachemnitz",
+          "target": "theme-completetraceabilityandlocalproduction",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kristianottesen-theme-completetraceabilityandlocalproduction",
+          "source": "person-kristianottesen",
+          "target": "theme-completetraceabilityandlocalproduction",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-gislemarianimardal-theme-completetraceabilityandlocalproduction",
+          "source": "person-gislemarianimardal",
+          "target": "theme-completetraceabilityandlocalproduction",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tildalarsson-theme-completetraceabilityandlocalproduction",
+          "source": "person-tildalarsson",
+          "target": "theme-completetraceabilityandlocalproduction",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kallikent-theme-completetraceabilityandlocalproduction",
+          "source": "person-kallikent",
+          "target": "theme-completetraceabilityandlocalproduction",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-frederikthrane-theme-repairasnaturalextensionofmaking",
+          "source": "person-frederikthrane",
+          "target": "theme-repairasnaturalextensionofmaking",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-liselotte-theme-repairasnaturalextensionofmaking",
+          "source": "person-liselotte",
+          "target": "theme-repairasnaturalextensionofmaking",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-miachemnitz-theme-repairasnaturalextensionofmaking",
+          "source": "person-miachemnitz",
+          "target": "theme-repairasnaturalextensionofmaking",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kristianottesen-theme-repairasnaturalextensionofmaking",
+          "source": "person-kristianottesen",
+          "target": "theme-repairasnaturalextensionofmaking",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-gislemarianimardal-theme-repairasnaturalextensionofmaking",
+          "source": "person-gislemarianimardal",
+          "target": "theme-repairasnaturalextensionofmaking",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tildalarsson-theme-repairasnaturalextensionofmaking",
+          "source": "person-tildalarsson",
+          "target": "theme-repairasnaturalextensionofmaking",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kallikent-theme-repairasnaturalextensionofmaking",
+          "source": "person-kallikent",
+          "target": "theme-repairasnaturalextensionofmaking",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-frederikthrane-theme-wasteasstartingpoint",
+          "source": "person-frederikthrane",
+          "target": "theme-wasteasstartingpoint",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-liselotte-theme-wasteasstartingpoint",
+          "source": "person-liselotte",
+          "target": "theme-wasteasstartingpoint",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-miachemnitz-theme-wasteasstartingpoint",
+          "source": "person-miachemnitz",
+          "target": "theme-wasteasstartingpoint",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kristianottesen-theme-wasteasstartingpoint",
+          "source": "person-kristianottesen",
+          "target": "theme-wasteasstartingpoint",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-gislemarianimardal-theme-wasteasstartingpoint",
+          "source": "person-gislemarianimardal",
+          "target": "theme-wasteasstartingpoint",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tildalarsson-theme-wasteasstartingpoint",
+          "source": "person-tildalarsson",
+          "target": "theme-wasteasstartingpoint",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kallikent-theme-wasteasstartingpoint",
+          "source": "person-kallikent",
+          "target": "theme-wasteasstartingpoint",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-frederikthrane-theme-traditionalknowledgevsacademicproof",
+          "source": "person-frederikthrane",
+          "target": "theme-traditionalknowledgevsacademicproof",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-liselotte-theme-traditionalknowledgevsacademicproof",
+          "source": "person-liselotte",
+          "target": "theme-traditionalknowledgevsacademicproof",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-miachemnitz-theme-traditionalknowledgevsacademicproof",
+          "source": "person-miachemnitz",
+          "target": "theme-traditionalknowledgevsacademicproof",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kristianottesen-theme-traditionalknowledgevsacademicproof",
+          "source": "person-kristianottesen",
+          "target": "theme-traditionalknowledgevsacademicproof",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-gislemarianimardal-theme-traditionalknowledgevsacademicproof",
+          "source": "person-gislemarianimardal",
+          "target": "theme-traditionalknowledgevsacademicproof",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tildalarsson-theme-traditionalknowledgevsacademicproof",
+          "source": "person-tildalarsson",
+          "target": "theme-traditionalknowledgevsacademicproof",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kallikent-theme-traditionalknowledgevsacademicproof",
+          "source": "person-kallikent",
+          "target": "theme-traditionalknowledgevsacademicproof",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-frederikthrane-theme-culturaldecolonizationthroughmaterials",
+          "source": "person-frederikthrane",
+          "target": "theme-culturaldecolonizationthroughmaterials",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-liselotte-theme-culturaldecolonizationthroughmaterials",
+          "source": "person-liselotte",
+          "target": "theme-culturaldecolonizationthroughmaterials",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-miachemnitz-theme-culturaldecolonizationthroughmaterials",
+          "source": "person-miachemnitz",
+          "target": "theme-culturaldecolonizationthroughmaterials",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kristianottesen-theme-culturaldecolonizationthroughmaterials",
+          "source": "person-kristianottesen",
+          "target": "theme-culturaldecolonizationthroughmaterials",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-gislemarianimardal-theme-culturaldecolonizationthroughmaterials",
+          "source": "person-gislemarianimardal",
+          "target": "theme-culturaldecolonizationthroughmaterials",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tildalarsson-theme-culturaldecolonizationthroughmaterials",
+          "source": "person-tildalarsson",
+          "target": "theme-culturaldecolonizationthroughmaterials",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kallikent-theme-culturaldecolonizationthroughmaterials",
+          "source": "person-kallikent",
+          "target": "theme-culturaldecolonizationthroughmaterials",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-frederikthrane-theme-digitalproductpassportascompetitiveadvantage",
+          "source": "person-frederikthrane",
+          "target": "theme-digitalproductpassportascompetitiveadvantage",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-liselotte-theme-digitalproductpassportascompetitiveadvantage",
+          "source": "person-liselotte",
+          "target": "theme-digitalproductpassportascompetitiveadvantage",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-miachemnitz-theme-digitalproductpassportascompetitiveadvantage",
+          "source": "person-miachemnitz",
+          "target": "theme-digitalproductpassportascompetitiveadvantage",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kristianottesen-theme-digitalproductpassportascompetitiveadvantage",
+          "source": "person-kristianottesen",
+          "target": "theme-digitalproductpassportascompetitiveadvantage",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-gislemarianimardal-theme-digitalproductpassportascompetitiveadvantage",
+          "source": "person-gislemarianimardal",
+          "target": "theme-digitalproductpassportascompetitiveadvantage",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tildalarsson-theme-digitalproductpassportascompetitiveadvantage",
+          "source": "person-tildalarsson",
+          "target": "theme-digitalproductpassportascompetitiveadvantage",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kallikent-theme-digitalproductpassportascompetitiveadvantage",
+          "source": "person-kallikent",
+          "target": "theme-digitalproductpassportascompetitiveadvantage",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-frederikthrane-theme-collectivismvsindividualism",
+          "source": "person-frederikthrane",
+          "target": "theme-collectivismvsindividualism",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-liselotte-theme-collectivismvsindividualism",
+          "source": "person-liselotte",
+          "target": "theme-collectivismvsindividualism",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-miachemnitz-theme-collectivismvsindividualism",
+          "source": "person-miachemnitz",
+          "target": "theme-collectivismvsindividualism",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kristianottesen-theme-collectivismvsindividualism",
+          "source": "person-kristianottesen",
+          "target": "theme-collectivismvsindividualism",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-gislemarianimardal-theme-collectivismvsindividualism",
+          "source": "person-gislemarianimardal",
+          "target": "theme-collectivismvsindividualism",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tildalarsson-theme-collectivismvsindividualism",
+          "source": "person-tildalarsson",
+          "target": "theme-collectivismvsindividualism",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kallikent-theme-collectivismvsindividualism",
+          "source": "person-kallikent",
+          "target": "theme-collectivismvsindividualism",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-frederikthrane-theme-knowledgematerialscommunityzerowaste",
+          "source": "person-frederikthrane",
+          "target": "theme-knowledgematerialscommunityzerowaste",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-liselotte-theme-knowledgematerialscommunityzerowaste",
+          "source": "person-liselotte",
+          "target": "theme-knowledgematerialscommunityzerowaste",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-miachemnitz-theme-knowledgematerialscommunityzerowaste",
+          "source": "person-miachemnitz",
+          "target": "theme-knowledgematerialscommunityzerowaste",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kristianottesen-theme-knowledgematerialscommunityzerowaste",
+          "source": "person-kristianottesen",
+          "target": "theme-knowledgematerialscommunityzerowaste",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-gislemarianimardal-theme-knowledgematerialscommunityzerowaste",
+          "source": "person-gislemarianimardal",
+          "target": "theme-knowledgematerialscommunityzerowaste",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tildalarsson-theme-knowledgematerialscommunityzerowaste",
+          "source": "person-tildalarsson",
+          "target": "theme-knowledgematerialscommunityzerowaste",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-kallikent-theme-knowledgematerialscommunityzerowaste",
+          "source": "person-kallikent",
+          "target": "theme-knowledgematerialscommunityzerowaste",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-einarkleppeholthe-theme-placeeconomyprinciples",
+          "source": "person-einarkleppeholthe",
+          "target": "theme-placeeconomyprinciples",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tlislinkaits-theme-placeeconomyprinciples",
+          "source": "person-tlislinkaits",
+          "target": "theme-placeeconomyprinciples",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inesesuijamarkova-theme-placeeconomyprinciples",
+          "source": "person-inesesuijamarkova",
+          "target": "theme-placeeconomyprinciples",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inooraqbrandt-theme-placeeconomyprinciples",
+          "source": "person-inooraqbrandt",
+          "target": "theme-placeeconomyprinciples",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-hellereddermomsen-theme-placeeconomyprinciples",
+          "source": "person-hellereddermomsen",
+          "target": "theme-placeeconomyprinciples",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-emblakristjnsdttir-theme-placeeconomyprinciples",
+          "source": "person-emblakristjnsdttir",
+          "target": "theme-placeeconomyprinciples",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-annemettechristiansen-theme-placeeconomyprinciples",
+          "source": "person-annemettechristiansen",
+          "target": "theme-placeeconomyprinciples",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-einarkleppeholthe-theme-rigascirculartransformation",
+          "source": "person-einarkleppeholthe",
+          "target": "theme-rigascirculartransformation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tlislinkaits-theme-rigascirculartransformation",
+          "source": "person-tlislinkaits",
+          "target": "theme-rigascirculartransformation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inesesuijamarkova-theme-rigascirculartransformation",
+          "source": "person-inesesuijamarkova",
+          "target": "theme-rigascirculartransformation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inooraqbrandt-theme-rigascirculartransformation",
+          "source": "person-inooraqbrandt",
+          "target": "theme-rigascirculartransformation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-hellereddermomsen-theme-rigascirculartransformation",
+          "source": "person-hellereddermomsen",
+          "target": "theme-rigascirculartransformation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-emblakristjnsdttir-theme-rigascirculartransformation",
+          "source": "person-emblakristjnsdttir",
+          "target": "theme-rigascirculartransformation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-annemettechristiansen-theme-rigascirculartransformation",
+          "source": "person-annemettechristiansen",
+          "target": "theme-rigascirculartransformation",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-einarkleppeholthe-theme-cesisbioregionfirstinthebaltics",
+          "source": "person-einarkleppeholthe",
+          "target": "theme-cesisbioregionfirstinthebaltics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tlislinkaits-theme-cesisbioregionfirstinthebaltics",
+          "source": "person-tlislinkaits",
+          "target": "theme-cesisbioregionfirstinthebaltics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inesesuijamarkova-theme-cesisbioregionfirstinthebaltics",
+          "source": "person-inesesuijamarkova",
+          "target": "theme-cesisbioregionfirstinthebaltics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inooraqbrandt-theme-cesisbioregionfirstinthebaltics",
+          "source": "person-inooraqbrandt",
+          "target": "theme-cesisbioregionfirstinthebaltics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-hellereddermomsen-theme-cesisbioregionfirstinthebaltics",
+          "source": "person-hellereddermomsen",
+          "target": "theme-cesisbioregionfirstinthebaltics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-emblakristjnsdttir-theme-cesisbioregionfirstinthebaltics",
+          "source": "person-emblakristjnsdttir",
+          "target": "theme-cesisbioregionfirstinthebaltics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-annemettechristiansen-theme-cesisbioregionfirstinthebaltics",
+          "source": "person-annemettechristiansen",
+          "target": "theme-cesisbioregionfirstinthebaltics",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-einarkleppeholthe-theme-arcticconstructionprinciples",
+          "source": "person-einarkleppeholthe",
+          "target": "theme-arcticconstructionprinciples",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tlislinkaits-theme-arcticconstructionprinciples",
+          "source": "person-tlislinkaits",
+          "target": "theme-arcticconstructionprinciples",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inesesuijamarkova-theme-arcticconstructionprinciples",
+          "source": "person-inesesuijamarkova",
+          "target": "theme-arcticconstructionprinciples",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inooraqbrandt-theme-arcticconstructionprinciples",
+          "source": "person-inooraqbrandt",
+          "target": "theme-arcticconstructionprinciples",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-hellereddermomsen-theme-arcticconstructionprinciples",
+          "source": "person-hellereddermomsen",
+          "target": "theme-arcticconstructionprinciples",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-emblakristjnsdttir-theme-arcticconstructionprinciples",
+          "source": "person-emblakristjnsdttir",
+          "target": "theme-arcticconstructionprinciples",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-annemettechristiansen-theme-arcticconstructionprinciples",
+          "source": "person-annemettechristiansen",
+          "target": "theme-arcticconstructionprinciples",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-einarkleppeholthe-theme-nordicsustainableconstructioncollaboration",
+          "source": "person-einarkleppeholthe",
+          "target": "theme-nordicsustainableconstructioncollaboration",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tlislinkaits-theme-nordicsustainableconstructioncollaboration",
+          "source": "person-tlislinkaits",
+          "target": "theme-nordicsustainableconstructioncollaboration",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inesesuijamarkova-theme-nordicsustainableconstructioncollaboration",
+          "source": "person-inesesuijamarkova",
+          "target": "theme-nordicsustainableconstructioncollaboration",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inooraqbrandt-theme-nordicsustainableconstructioncollaboration",
+          "source": "person-inooraqbrandt",
+          "target": "theme-nordicsustainableconstructioncollaboration",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-hellereddermomsen-theme-nordicsustainableconstructioncollaboration",
+          "source": "person-hellereddermomsen",
+          "target": "theme-nordicsustainableconstructioncollaboration",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-emblakristjnsdttir-theme-nordicsustainableconstructioncollaboration",
+          "source": "person-emblakristjnsdttir",
+          "target": "theme-nordicsustainableconstructioncollaboration",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-annemettechristiansen-theme-nordicsustainableconstructioncollaboration",
+          "source": "person-annemettechristiansen",
+          "target": "theme-nordicsustainableconstructioncollaboration",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-einarkleppeholthe-theme-greenlandnationalsustainabilitystrategy",
+          "source": "person-einarkleppeholthe",
+          "target": "theme-greenlandnationalsustainabilitystrategy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tlislinkaits-theme-greenlandnationalsustainabilitystrategy",
+          "source": "person-tlislinkaits",
+          "target": "theme-greenlandnationalsustainabilitystrategy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inesesuijamarkova-theme-greenlandnationalsustainabilitystrategy",
+          "source": "person-inesesuijamarkova",
+          "target": "theme-greenlandnationalsustainabilitystrategy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inooraqbrandt-theme-greenlandnationalsustainabilitystrategy",
+          "source": "person-inooraqbrandt",
+          "target": "theme-greenlandnationalsustainabilitystrategy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-hellereddermomsen-theme-greenlandnationalsustainabilitystrategy",
+          "source": "person-hellereddermomsen",
+          "target": "theme-greenlandnationalsustainabilitystrategy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-emblakristjnsdttir-theme-greenlandnationalsustainabilitystrategy",
+          "source": "person-emblakristjnsdttir",
+          "target": "theme-greenlandnationalsustainabilitystrategy",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-annemettechristiansen-theme-greenlandnationalsustainabilitystrategy",
+          "source": "person-annemettechristiansen",
+          "target": "theme-greenlandnationalsustainabilitystrategy",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-einarkleppeholthe-theme-retrofitfirsteconomics",
+          "source": "person-einarkleppeholthe",
+          "target": "theme-retrofitfirsteconomics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tlislinkaits-theme-retrofitfirsteconomics",
+          "source": "person-tlislinkaits",
+          "target": "theme-retrofitfirsteconomics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inesesuijamarkova-theme-retrofitfirsteconomics",
+          "source": "person-inesesuijamarkova",
+          "target": "theme-retrofitfirsteconomics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inooraqbrandt-theme-retrofitfirsteconomics",
+          "source": "person-inooraqbrandt",
+          "target": "theme-retrofitfirsteconomics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-hellereddermomsen-theme-retrofitfirsteconomics",
+          "source": "person-hellereddermomsen",
+          "target": "theme-retrofitfirsteconomics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-emblakristjnsdttir-theme-retrofitfirsteconomics",
+          "source": "person-emblakristjnsdttir",
+          "target": "theme-retrofitfirsteconomics",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-annemettechristiansen-theme-retrofitfirsteconomics",
+          "source": "person-annemettechristiansen",
+          "target": "theme-retrofitfirsteconomics",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-einarkleppeholthe-theme-circularprocurementleverage",
+          "source": "person-einarkleppeholthe",
+          "target": "theme-circularprocurementleverage",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tlislinkaits-theme-circularprocurementleverage",
+          "source": "person-tlislinkaits",
+          "target": "theme-circularprocurementleverage",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inesesuijamarkova-theme-circularprocurementleverage",
+          "source": "person-inesesuijamarkova",
+          "target": "theme-circularprocurementleverage",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inooraqbrandt-theme-circularprocurementleverage",
+          "source": "person-inooraqbrandt",
+          "target": "theme-circularprocurementleverage",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-hellereddermomsen-theme-circularprocurementleverage",
+          "source": "person-hellereddermomsen",
+          "target": "theme-circularprocurementleverage",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-emblakristjnsdttir-theme-circularprocurementleverage",
+          "source": "person-emblakristjnsdttir",
+          "target": "theme-circularprocurementleverage",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-annemettechristiansen-theme-circularprocurementleverage",
+          "source": "person-annemettechristiansen",
+          "target": "theme-circularprocurementleverage",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-einarkleppeholthe-theme-urbanruralvaluesymbiosis",
+          "source": "person-einarkleppeholthe",
+          "target": "theme-urbanruralvaluesymbiosis",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tlislinkaits-theme-urbanruralvaluesymbiosis",
+          "source": "person-tlislinkaits",
+          "target": "theme-urbanruralvaluesymbiosis",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inesesuijamarkova-theme-urbanruralvaluesymbiosis",
+          "source": "person-inesesuijamarkova",
+          "target": "theme-urbanruralvaluesymbiosis",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inooraqbrandt-theme-urbanruralvaluesymbiosis",
+          "source": "person-inooraqbrandt",
+          "target": "theme-urbanruralvaluesymbiosis",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-hellereddermomsen-theme-urbanruralvaluesymbiosis",
+          "source": "person-hellereddermomsen",
+          "target": "theme-urbanruralvaluesymbiosis",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-emblakristjnsdttir-theme-urbanruralvaluesymbiosis",
+          "source": "person-emblakristjnsdttir",
+          "target": "theme-urbanruralvaluesymbiosis",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-annemettechristiansen-theme-urbanruralvaluesymbiosis",
+          "source": "person-annemettechristiansen",
+          "target": "theme-urbanruralvaluesymbiosis",
+          "type": "topic",
+          "weight": 0.5
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-einarkleppeholthe-theme-trustandcommunityasfoundation",
+          "source": "person-einarkleppeholthe",
+          "target": "theme-trustandcommunityasfoundation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-tlislinkaits-theme-trustandcommunityasfoundation",
+          "source": "person-tlislinkaits",
+          "target": "theme-trustandcommunityasfoundation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inesesuijamarkova-theme-trustandcommunityasfoundation",
+          "source": "person-inesesuijamarkova",
+          "target": "theme-trustandcommunityasfoundation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-inooraqbrandt-theme-trustandcommunityasfoundation",
+          "source": "person-inooraqbrandt",
+          "target": "theme-trustandcommunityasfoundation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-hellereddermomsen-theme-trustandcommunityasfoundation",
+          "source": "person-hellereddermomsen",
+          "target": "theme-trustandcommunityasfoundation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-emblakristjnsdttir-theme-trustandcommunityasfoundation",
+          "source": "person-emblakristjnsdttir",
+          "target": "theme-trustandcommunityasfoundation",
+          "type": "key_voice",
+          "weight": 2.0
+        }
+      },
+      {
+        "data": {
+          "id": "topic-person-annemettechristiansen-theme-trustandcommunityasfoundation",
+          "source": "person-annemettechristiansen",
+          "target": "theme-trustandcommunityasfoundation",
+          "type": "topic",
+          "weight": 0.5
+        }
+      }
+    ]
+  }
+}

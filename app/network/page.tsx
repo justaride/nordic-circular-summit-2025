@@ -151,6 +151,20 @@ export default function NetworkPage() {
           }
         },
         {
+          selector: 'node[type = "theme"]',
+          style: {
+            'shape': 'hexagon',
+            'background-color': '#9b59b6', // Purple
+            'border-color': '#8e44ad',
+            'border-width': 2,
+            'border-style': 'solid',
+            'width': 'mapData(size, 30, 100, 40, 90)',
+            'height': 'mapData(size, 30, 100, 40, 90)',
+            'color': '#ffffff',
+            'font-size': '12px'
+          }
+        },
+        {
           selector: 'node:selected',
           style: {
             'border-width': 4,
@@ -192,6 +206,26 @@ export default function NetworkPage() {
             'line-color': '#2c3e50',
             'target-arrow-color': '#2c3e50',
             'width': 3
+          }
+        },
+        {
+          selector: 'edge[type = "topic"]',
+          style: {
+            'line-color': '#d7bde2', // Light Purple
+            'target-arrow-color': '#d7bde2',
+            'width': 1,
+            'line-style': 'dotted',
+            'opacity': 0.6
+          }
+        },
+        {
+          selector: 'edge[type = "key_voice"]',
+          style: {
+            'line-color': '#8e44ad', // Strong Purple
+            'target-arrow-color': '#8e44ad',
+            'width': 4,
+            'line-style': 'solid',
+            'opacity': 1
           }
         },
         {
@@ -829,9 +863,10 @@ export default function NetworkPage() {
                       value={filters.nodeType}
                       onChange={(e) => setFilters({ ...filters, nodeType: e.target.value })}
                     >
-                      <option value="all">Everyone</option>
+                      <option value="all">Everyone & Everything</option>
                       <option value="speaker">Speakers Only</option>
                       <option value="participant">Participants Only</option>
+                      <option value="theme">Themes Only</option>
                     </select>
                   </div>
 
@@ -1051,6 +1086,10 @@ export default function NetworkPage() {
                     <div className="flex items-center">
                       <div className="w-6 h-6 rounded border-2 border-dashed border-gray-800 mr-2" style={{ background: '#4ECDC4' }}></div>
                       <span style={{ fontFamily: 'var(--font-patrick-hand), cursive', fontSize: '1.1rem' }}>Organization</span>
+                    </div>
+                    <div className="flex items-center">
+                      <div className="w-6 h-6 rounded-lg border-2 border-solid border-purple-700 mr-2" style={{ background: '#9b59b6' }}></div>
+                      <span style={{ fontFamily: 'var(--font-patrick-hand), cursive', fontSize: '1.1rem' }}>Theme</span>
                     </div>
                     <div className="flex items-center">
                       <div className="w-8 h-1 border-b-2 border-dashed border-gray-800 mr-2"></div>
