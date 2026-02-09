@@ -10,6 +10,7 @@ const getGitCommitHash = () => {
 };
 
 const nextConfig: NextConfig = {
+  output: "standalone",
   env: {
     GIT_COMMIT_SHA: getGitCommitHash(),
   },

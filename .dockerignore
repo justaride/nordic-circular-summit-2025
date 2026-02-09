@@ -1,0 +1,11 @@
+.git
+.next
+node_modules
+.vercel
+*.md
+*.zip
+*.py
+outputs/
+notebooklm-export/
+notebooklm-import/
+scripts/
